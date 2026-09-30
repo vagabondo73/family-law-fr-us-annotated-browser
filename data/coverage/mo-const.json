@@ -1,0 +1,11 @@
+{
+  "corpus": "mo-const",
+  "norms_expected": 4,
+  "norms_done": 4,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Selected Missouri Constitution sections per SCOPE §4.3 fetched from revisor.mo.gov (constit=y).",
+  "gaps": [],
+  "updated": "2026-09-30"
+}

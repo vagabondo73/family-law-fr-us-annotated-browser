@@ -1,0 +1,61 @@
+{
+  "section": "565.074",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29292",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=29292"
+  },
+  "versions": [
+    {
+      "effective": "2012-08-28",
+      "end": "2017-01-01",
+      "bid": "29293",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=29293",
+      "heading": "Until December 31, 2016 — Domestic assault, third degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the third degree if the act involves a family or household member, including any child who is a member of the family or household, as defined in section 455.010 and:\n\n(1) The person attempts to cause or recklessly causes physical injury to such family or household member; or\n\n(2) With criminal negligence the person causes physical injury to such family or household member by means of a deadly weapon or dangerous instrument; or\n\n(3) The person purposely places such family or household member in apprehension of immediate physical injury by any means; or\n\n(4) The person recklessly engages in conduct which creates a grave risk of death or serious physical injury to such family or household member; or\n\n(5) The person knowingly causes physical contact with such family or household member knowing the other person will regard the contact as offensive; or\n\n(6) The person knowingly attempts to cause or causes the isolation of such family or household member by unreasonably and substantially restricting or limiting such family or household member's access to other persons, telecommunication devices or transportation for the purpose of isolation.\n\n2. Except as provided in subsection 3 of this section, domestic assault in the third degree is a class A misdemeanor.\n\n3. A person who has pleaded guilty to or been found guilty of the crime of domestic assault in the third degree more than two times against any family or household member as defined in section 455.010, or of any offense committed in violation of any county or municipal ordinance in any state, any state law, any federal law, or any military law which, if committed in this state, would be a violation of this section, is guilty of a class D felony for the third or any subsequent commission of the crime of domestic assault. The offenses described in this subsection may be against the same family or household member or against different family or household members.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2011 S.B. 320, A.L. 2012 S.B. 628)",
+      "effdt_raw": "Effective - 28 Aug 2012, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "effective": "2011-08-28",
+      "end": "2012-08-28",
+      "bid": "49014",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=49014",
+      "heading": "Domestic assault, third degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the third degree if the act involves a family or household member or an adult who is or has been in a continuing social relationship of a romantic or intimate nature with the actor, as defined in section 455.010 and:\n\n(1) The person attempts to cause or recklessly causes physical injury to such family or household member; or\n\n(2) With criminal negligence the person causes physical injury to such family or household member by means of a deadly weapon or dangerous instrument; or\n\n(3) The person purposely places such family or household member in apprehension of immediate physical injury by any means; or\n\n(4) The person recklessly engages in conduct which creates a grave risk of death or serious physical injury to such family or household member; or\n\n(5) The person knowingly causes physical contact with such family or household member knowing the other person will regard the contact as offensive; or\n\n(6) The person knowingly attempts to cause or causes the isolation of such family or household member by unreasonably and substantially restricting or limiting such family or household member's access to other persons, telecommunication devices or transportation for the purpose of isolation.\n\n2. Except as provided in subsection 3 of this section, domestic assault in the third degree is a class A misdemeanor.\n\n3. A person who has pleaded guilty to or been found guilty of the crime of domestic assault in the third degree more than two times against any family or household member as defined in section 455.010, or of any offense committed in violation of any county or municipal ordinance in any state, any state law, any federal law, or any military law which, if committed in this state, would be a violation of this section, is guilty of a class D felony for the third or any subsequent commission of the crime of domestic assault. The offenses described in this subsection may be against the same family or household member or against different family or household members.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-07-01",
+      "end": null,
+      "bid": "60739",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.074&bid=60739",
+      "heading": "Domestic assault, third degree — penalty.",
+      "text": "1. A person commits the offense of domestic assault in the third degree if he or she attempts to cause substantial bodily harm or knowingly causes bodily harm to a domestic victim, as the term \"domestic victim\" is defined under section 565.002.\n\n2. The offense of domestic assault in the third degree is a class E felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2011 S.B. 320, A.L. 2012 S.B. 628, A.L. 2014 S.B. 491, A.L. 2026 H.B. 2637 & 3155 merged with S.B. 999)",
+      "effdt_raw": "Effective - 01 Jul 2027, 4 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

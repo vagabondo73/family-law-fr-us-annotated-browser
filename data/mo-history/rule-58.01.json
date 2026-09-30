@@ -1,0 +1,46 @@
+{
+  "rule": "58.01",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=199681",
+  "current": {
+    "effective": "2021-09-02",
+    "text_sha256": "60aebdf5aa25c876dc4789e3bc46e553c39632c207271d6ded6fa3ef954ad9bf"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1974-03-29",
+      "effective": "1975-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "2005-06-21",
+      "effective": "2006-01-01"
+    },
+    {
+      "adopted_or_amended": "2013-06-20",
+      "effective": "2013-07-01"
+    },
+    {
+      "adopted_or_amended": "2018-10-15",
+      "effective": "2019-07-01"
+    },
+    {
+      "adopted_or_amended": "2021-03-02",
+      "effective": "2021-09-02"
+    }
+  ],
+  "history_note": "(Adopted March 29, 1974, effective January 1, 1975. Amended June 1, 1993, effective January 1, 1994; amended June 21, 2005, effective January 1, 2006; amended June 20, 2013, effective July 1, 2013; amended October 15, 2018, effective July 1, 2019; amended March 2, 2021, effective September 2, 2021.)",
+  "versions": [],
+  "pending": [
+    {
+      "order_dated": "2026-06-02",
+      "effective": "2027-01-01",
+      "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3170.pdf",
+      "note": "adopted, not yet in force"
+    }
+  ],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

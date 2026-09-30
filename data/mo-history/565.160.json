@@ -1,0 +1,27 @@
+{
+  "section": "565.160",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.160",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29333",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.160&bid=29333"
+  },
+  "versions": [
+    {
+      "effective": "1988-08-13",
+      "end": "2017-01-01",
+      "bid": "29334",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.160&bid=29334",
+      "heading": "Until December 31, 2016 — Defenses to parental kidnapping and child abduction.",
+      "text": "It shall be an absolute defense to the crimes of parental kidnapping and child abduction that:\n\n(1) The person had custody of the child pursuant to a valid court order granting legal custody or visitation rights which existed at the time of the alleged violation, except that this defense is not available to persons charged with child abduction under subdivision (5) of subsection 1 of section 565.156;\n\n(2) The person had physical custody of the child pursuant to a court order granting legal custody or visitation rights and failed to return the child as a result of circumstances beyond his or her control, and the person notified or made a reasonable attempt to notify the other parent or legal custodian of the child of such circumstances within twenty-four hours after the visitation period had expired and returned the child as soon as possible; or\n\n(3) The person was fleeing an incident or pattern of domestic violence.",
+      "history_note": "(L. 1988 H.B. 1272, et al. § 4)",
+      "effdt_raw": "Effective - 13 Aug 1988, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

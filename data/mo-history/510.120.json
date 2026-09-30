@@ -1,0 +1,32 @@
+{
+  "section": "510.120",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.120",
+  "current": {
+    "effective": "2005-08-28",
+    "bid": "27496",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.120&bid=27496"
+  },
+  "versions": [
+    {
+      "effective": "2003-08-28",
+      "end": "2005-08-28",
+      "bid": "52807",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.120&bid=52807",
+      "heading": "Continuance when counsel or party is a member of general assembly.",
+      "text": "In all civil cases or administrative proceedings or in criminal cases pending in this state at any time when the general assembly is in regular session, veto session, special session, or holding out-of- session committee hearings, it shall be a sufficient cause for a continuance if it shall appear to the court, by affidavit, that any party applying for such continuance, or any attorney, solicitor or counsel of such party is a member of either house of the general assembly, and in actual attendance on the out-of-session committee hearings, regular session, special session, or veto session of the same, and that the attendance of such party, attorney, solicitor or counsel is necessary to a fair and proper trial or other proceeding in such suit; and on the filing of such affidavit the court shall continue such suit and any and all motions or other proceedings therein, of every kind and nature, including the taking of depositions and discovery responses, and thereupon no trial or other proceedings of any kind or nature shall be had therein until the adjournment or recess for twenty days or more of the regular session, special session, or veto session of the general assembly, nor for ten days before or after or the day of any out-of-session committee hearings. Such affidavit shall be sufficient, if made at any time during the out-of- session committee hearings, regular session, special session, or veto session of the general assembly, showing that at the time of making the same such party, attorney, solicitor or counsel is in actual attendance upon such out-of-session committee hearings, regular session, special session, or veto session of the general assembly.",
+      "history_note": "(RSMo 1939 § 1089, A.L. 1943 p. 353 § 96, A.L. 2003 H.B. 613)",
+      "effdt_raw": "Effective - 28 Aug 2003, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

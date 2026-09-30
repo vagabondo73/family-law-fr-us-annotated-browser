@@ -1,0 +1,45 @@
+{
+  "section": "516.105",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.105",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "35258",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.105&bid=35258"
+  },
+  "versions": [
+    {
+      "effective": "2016-08-28",
+      "end": "2018-08-28",
+      "bid": "33702",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.105&bid=33702",
+      "heading": "Actions against health care and mental health providers (medical malpractice).",
+      "text": "All actions against physicians, hospitals, dentists, registered or licensed practical nurses, optometrists, podiatrists, pharmacists, chiropractors, professional physical therapists, mental health professionals licensed under chapter 337, and any other entity providing health care services and all employees of any of the foregoing acting in the course and scope of their employment, for damages for malpractice, negligence, error or mistake related to health care shall be brought within two years from the date of occurrence of the act of neglect complained of, except that:\n\n(1) In cases in which the act of neglect complained of is introducing and negligently permitting any foreign object to remain within the body of a living person, the action shall be brought within two years from the date of the discovery of such alleged negligence, or from the date on which the patient in the exercise of ordinary care should have discovered such alleged negligence, whichever date first occurs; and\n\n(2) In cases in which the act of neglect complained of is the negligent failure to inform the patient of the results of medical tests, the action for failure to inform shall be brought within two years from the date of the discovery of such alleged negligent failure to inform, or from the date on which the patient in the exercise of ordinary care should have discovered such alleged negligent failure to inform, whichever date first occurs; except that, no such action shall be brought for any negligent failure to inform about the results of medical tests performed more than two years before August 28, 1999. For purposes of this subdivision, the act of neglect based on the negligent failure to inform the patient of the results of medical tests shall not include the act of informing the patient of the results of negligently performed medical tests or the act of informing the patient of erroneous test results; and\n\n(3) In cases in which the person bringing the action is a minor less than eighteen years of age, such minor shall have until his or her twentieth birthday to bring such action.\n\nIn no event shall any action for damages for malpractice, error, or mistake be commenced after the expiration of ten years from the date of the act of neglect complained of or for two years from a minor's eighteenth birthday, whichever is later.",
+      "history_note": "(L. 1976 S.B. 470 § 2, A.L. 1999 H.B. 274, A.L. 2005 H.B. 393, A.L. 2016 H.B. 1765)",
+      "effdt_raw": "Effective - 28 Aug 2016, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2005-08-28",
+      "end": "2016-08-28",
+      "bid": "27832",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.105&bid=27832",
+      "heading": "Actions against health care providers (medical malpractice).",
+      "text": "All actions against physicians, hospitals, dentists, registered or licensed practical nurses, optometrists, podiatrists, pharmacists, chiropractors, professional physical therapists, and any other entity providing health care services and all employees of any of the foregoing acting in the course and scope of their employment, for damages for malpractice, negligence, error or mistake related to health care shall be brought within two years from the date of occurrence of the act of neglect complained of, except that:\n\n(1) In cases in which the act of neglect complained of is introducing and negligently permitting any foreign object to remain within the body of a living person, the action shall be brought within two years from the date of the discovery of such alleged negligence, or from the date on which the patient in the exercise of ordinary care should have discovered such alleged negligence, whichever date first occurs; and\n\n(2) In cases in which the act of neglect complained of is the negligent failure to inform the patient of the results of medical tests, the action for failure to inform shall be brought within two years from the date of the discovery of such alleged negligent failure to inform, or from the date on which the patient in the exercise of ordinary care should have discovered such alleged negligent failure to inform, whichever date first occurs; except that, no such action shall be brought for any negligent failure to inform about the results of medical tests performed more than two years before August 28, 1999. For purposes of this subdivision, the act of neglect based on the negligent failure to inform the patient of the results of medical tests shall not include the act of informing the patient of the results of negligently performed medical tests or the act of informing the patient of erroneous test results; and\n\n(3) In cases in which the person bringing the action is a minor less than eighteen years of age, such minor shall have until his or her twentieth birthday to bring such action. In no event shall any action for damages for malpractice, error, or mistake be commenced after the expiration of ten years from the date of the act of neglect complained of or for two years from a minor's eighteenth birthday, whichever is later.",
+      "history_note": "(L. 1976 S.B. 470 § 2, A.L. 1999 H.B. 274, A.L. 2005 H.B. 393)",
+      "effdt_raw": "Effective - 28 Aug 2005, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

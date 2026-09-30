@@ -1,0 +1,16 @@
+{
+  "corpus": "eu-reg",
+  "norms_expected": 680,
+  "norms_done": 680,
+  "instrument_records": 0,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Cellar (publications.europa.eu) — latest consolidated version ≤ today of each act (FR XHTML via /resource/celex/<CELEX>), one record per article; in_force_since = entry into force of the base act or of the last amending act (▼M markers); applicable_since recorded separately. Acts: 2019/1111, 4/2009, 1259/2010, 2016/1103, 2016/1104, 650/2012, 2016/1191, 2020/1784, 2020/1783, 1215/2012 (family-relevant arts), 2004/38 (family-member arts), 2003/86, Charter arts 7, 9, 24, 33, TFEU art 81.",
+  "gaps": [
+    "Directive 2003/86 has no consolidated version on Cellar; original OJ text used (plain-text fallback parse).",
+    "Council Decision 2009/941/EC (EU approval of the 2007 Hague Protocol) and Decision 2011/432/EU not ingested as norms (acts of accession; see int-hcch status_detail).",
+    "Regulation 2016/1191 and 2016/1103/1104 consolidated versions predate any later corrigenda — checked by scripts/int_status_check.py."
+  ],
+  "updated": "2026-09-30"
+}

@@ -1,0 +1,41 @@
+{
+  "corpus": "fr-cons",
+  "updated": "2026-09-30",
+  "source": "Tricoteuses/DILA CONSTIT https://git.tricoteuses.fr/dila/constit",
+  "source_head": "b846d6b6975319a7235588255fe81a9c972a85c5 2026-08-04T22:02:19+02:00",
+  "norms_expected": 6029,
+  "norms_with_interps": 300,
+  "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
+  "interps_candidates": 1569,
+  "interps_screened": 2027,
+  "interps_linked": 1567,
+  "interps_included": 232,
+  "links": {
+    "included": 1007,
+    "excluded": 3186,
+    "basis_a": 838,
+    "basis_b": 144,
+    "b_text_identical": 54,
+    "b_functional_review": 90,
+    "exclusion_reasons": {
+      "hors-perimetre-matiere": 2759,
+      "texte-modifie": 319,
+      "aucune-version-a-la-date": 37,
+      "alinea-vise-modifie": 33,
+      "mention-faible": 31,
+      "mention-procedurale": 7
+    }
+  },
+  "screened_breakdown": {
+    "cc": 2027
+  },
+  "decisions_out_of_screen": 5361,
+  "excerpts_missing": 26,
+  "method": "Toutes les décisions DC et QPC (2 027) criblées ; liaison par toute mention d'un article du périmètre dans les paragraphes du Conseil (objet de la QPC, motifs, dispositif), à l'exclusion des griefs des requérants/saisissants et des mentions procédurales (« dans les conditions prévues à l'article 61-1 »). Normes constitutionnelles (fr-const : DDHC 1, 2, 4, 6, 16, 17 ; Préambule 1946 ; Constitution art. 1, 34, 53, 55, 61-1, 62, 66, 88-1) liées seulement si la décision porte aussi sur une norme familiale du périmètre ou si son objet (titre) relève du droit de la famille. DC : la version interprétée est celle issue de la loi déférée (première version entrée en vigueur dans les 400 jours suivant la décision). Règle temporelle identique (souvent rédaction expressément visée pour les QPC).",
+  "gaps": [
+    "Pas de sommaire officiel (tables analytiques) dans CONSTIT : résumé = titre officiel + dispositif verbatim (summary_is_official false).",
+    "Décisions DC : liaison aux articles codifiés approximative (lois déférées) ; seuil de 3 mentions.",
+    "Filtre thématique des normes fr-const par mots-clés du titre : quelques décisions périphériques peuvent subsister (bruit résiduel) ; exclusions comptées sous « hors-perimetre-matiere ».",
+    "Articles abrogés ou codes anciens (ex. code de la nationalité, art. 222-31-1 C. pén. abrogé) : non liables à une norme actuelle."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "section": "509.520",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=509.520",
+  "current": {
+    "effective": "2023-08-28",
+    "bid": "54051",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=509.520&bid=54051"
+  },
+  "versions": [
+    {
+      "effective": "2009-08-28",
+      "end": "2023-08-28",
+      "bid": "27484",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=509.520&bid=27484",
+      "heading": "Court pleadings, attachments, and exhibits, redaction of Social Security and credit card numbers — confidential case file sheet, contents.",
+      "text": "1. Notwithstanding any provision of law to the contrary, beginning August 28, 2009, pleadings, attachments, or exhibits filed with the court in any case, as well as any judgments issued by the court, shall not include:\n\n(1) The full Social Security number of any party or any child who is the subject to an order of custody or support;\n\n(2) The full credit card number or other financial account number of any party.\n\n2. Contemporaneously with the filing of every petition for dissolution of marriage, legal separation, motion for modification, action to establish paternity, and petition or motion for support or custody of a minor child, the filing party shall file a confidential case filing sheet with the court which shall not be subject to public inspection and which provides:\n\n(1) The name and address of the current employer and the Social Security number of the petitioner or movant, if a person;\n\n(2) If known to the petitioner or movant, the name and address of the current employer and the Social Security number of the respondent; and\n\n(3) The names, dates of birth, and Social Security numbers of any children subject to the action.\n\n3. Contemporaneously with the filing of every responsive pleading petition for dissolution of marriage, legal separation, motion for modification, action to establish paternity, and petition or motion for support or custody of a minor child, the responding party shall file a confidential case filing sheet with the court which shall not be subject to public inspection and which provides:\n\n(1) The name and address of the current employer and the Social Security number of the responding party, if a person;\n\n(2) If known to the responding party, the name and address of the current employer and the Social Security number of the petitioner or movant; and\n\n(3) The names, dates of birth, and Social Security numbers of any children subject to the action.\n\n4. The full Social Security number of any party or child subject to an order of custody or support shall be retained by the court on the confidential case filing sheet or other confidential record maintained in conjunction with the administration of the case. The full credit card number or other financial account number of any party may be retained by the court on a confidential record if it is necessary to maintain the number in conjunction with the administration of the case.\n\n5. Any document described in subsection 1 of this section shall, in lieu of the full number, include only the last four digits of any such number.\n\n6. Except as provided in section 452.430, the clerk shall not be required to redact any document described in subsection 1 of this section issued or filed before August 28, 2009, prior to releasing the document to the public.\n\n7. For good cause shown, the court may release information contained on the confidential case filing sheet; except that, any state agency acting under authority of chapter 454 shall have access to information contained herein without court order in carrying out their official duty.",
+      "history_note": "(L. 2009 H.B. 481)",
+      "effdt_raw": "Effective - 28 Aug 2009, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

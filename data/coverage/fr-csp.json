@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-csp",
+  "norms_expected": 304,
+  "norms_done": 304,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_la_sante_publique (HEAD 75eabdee9911), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 13665 en vigueur sur 13666 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 304 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Sélection AMP/gamètes/bioéthique-filiation ; les dispositions sur le consentement aux soins des mineurs (autorité parentale) ne sont pas systématiquement retenues."
+  ],
+  "updated": "2026-09-30"
+}

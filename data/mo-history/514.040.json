@@ -1,0 +1,29 @@
+{
+  "section": "514.040",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.040",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "35218",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.040&bid=35218"
+  },
+  "versions": [
+    {
+      "effective": "2013-08-28",
+      "end": "2018-08-28",
+      "bid": "27760",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.040&bid=27760",
+      "heading": "Plaintiff may sue as pauper, when — counsel assigned him by court — correctional center offenders, costs — waiver of costs and expenses, when.",
+      "text": "1. Except as provided in subsection 3 of this section, if any court shall, before or after the commencement of any suit pending before it, be satisfied that the plaintiff is a poor person, and unable to prosecute his or her suit, and pay all or any portion of the costs and expenses thereof, such court may, in its discretion, permit him or her to commence and prosecute his or her action as a poor person, and thereupon such poor person shall have all necessary process and proceedings as in other cases, without fees, tax or charge as the court determines the person cannot pay; and the court may assign to such person counsel, who, as well as all other officers of the court, shall perform their duties in such suit without fee or reward as the court may excuse; but if judgment is entered for the plaintiff, costs shall be recovered, which shall be collected for the use of the officers of the court.\n\n2. In any civil action brought in a court of this state by any offender convicted of a crime who is confined in any state prison or correctional center, the court shall not reduce the amount required as security for costs upon filing such suit to an amount of less than ten dollars pursuant to this section. This subsection shall not apply to any action for which no sum as security for costs is required to be paid upon filing such suit.\n\n3. Where a party is represented in a civil action by a legal aid society or a legal services or other nonprofit organization funded in whole or substantial part by moneys appropriated by the general assembly of the state of Missouri, which has as its primary purpose the furnishing of legal services to indigent persons, by a law school clinic which has as its primary purpose educating law students through furnishing legal services to indigent persons, or by private counsel working on behalf of or under the auspices of such society, all costs and expenses related to the prosecution of the suit may be waived without the necessity of a motion and court approval, provided that a determination has been made by such society or organization that such party is unable to pay the costs, fees and expenses necessary to prosecute or defend the action, and that a certification that such determination has been made is filed with the clerk of the court.",
+      "history_note": "(RSMo 1939 § 1404, A.L. 1995 H.B. 424, A.L. 1999 S.B. 1, et al., A.L. 2013 H.B. 374 & 434 merged with S.B. 100)",
+      "effdt_raw": "Effective - 28 Aug 2013, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

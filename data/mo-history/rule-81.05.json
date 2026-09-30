@@ -1,0 +1,48 @@
+{
+  "rule": "81.05",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=200308",
+  "current": {
+    "effective": "2026-07-01",
+    "text_sha256": "d285c987a002ba0cc2a8a6573bb306449fe44285ccf0a148a2fd41cca9af10b3"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1972-02-01",
+      "effective": "1972-09-01"
+    },
+    {
+      "adopted_or_amended": "1979-06-13",
+      "effective": "1980-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1995-09-26",
+      "effective": "1996-07-01"
+    },
+    {
+      "adopted_or_amended": "1999-05-27",
+      "effective": "2000-01-01"
+    },
+    {
+      "adopted_or_amended": "2024-10-01",
+      "effective": "2025-07-01"
+    }
+  ],
+  "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended June 13, 1979, corrected July 27, 1979, effective January 1, 1980; amended June 1, 1993, effective January 1, 1994; amended September 26, 1995, effective July 1, 1996; amended May 27, 1999, effective January 1, 2000; amended October 1, 2024, effective July 1, 2025.)",
+  "versions": [
+    {
+      "effective": "2025-07-01",
+      "end": "2026-07-01",
+      "heading": "Judgments, When Final – Premature Filing of Notice of Appeal – Computation of Time",
+      "text": "(a) Finality as Affected by After-trial Motions. Except as otherwise provide in Rule 81.045, for the purpose of ascertaining the time within which an appeal may be taken:\n\n(1) A judgment becomes final in a civil matter at the expiration of 30 days after its entry if no timely authorized after-trial motion is filed.\n(2) If a party timely files an authorized after-trial motion, the judgment becomes final at the earlier of the following:\n\n(A) 90 days from the date the last timely motion was filed, on which date all motions not ruled shall be deemed overruled; or\n\n(B) If all motions have been ruled, then the date of ruling of the last motion to be ruled or 30 days after entry of judgment, whichever is later.\n(3) The filing and disposition of such motions has the same effect on time for appeal in all cases whether or not the motion has any function other than to seek relief in the trial court.\n\n(b) Premature Filing of Appeal. In any case in which a notice of appeal has been filed prematurely, such notice shall be considered as filed immediately after the time the judgment becomes final for the purpose of appeal.\n(c) Computation of Time. The 90-day period shall be computed as in Rule 78.06.",
+      "source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)",
+      "identical_to_current": false
+    }
+  ],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

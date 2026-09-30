@@ -1,0 +1,29 @@
+{
+  "side": "mo",
+  "lang": "en",
+  "fixture": true,
+  "nodes": [
+    {
+      "id": "mo.custody",
+      "label": "Child custody",
+      "children": [
+        {
+          "id": "mo.custody.best-interests",
+          "label": "Best interests of the child",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.marital-agreements",
+      "label": "Marital agreements",
+      "children": [
+        {
+          "id": "mo.marital-agreements.antenuptial",
+          "label": "Antenuptial agreements",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

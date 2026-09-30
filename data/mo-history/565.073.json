@@ -1,0 +1,59 @@
+{
+  "section": "565.073",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29290",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=29290"
+  },
+  "versions": [
+    {
+      "effective": "2012-08-28",
+      "end": "2017-01-01",
+      "bid": "29291",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=29291",
+      "heading": "Until December 31, 2016 — Domestic assault, second degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the second degree if the act involves a family or household member, including any child who is a member of the family or household, as defined in section 455.010, and he or she:\n\n(1) Attempts to cause or knowingly causes physical injury to such family or household member by any means, including but not limited to, by use of a deadly weapon or dangerous instrument, or by choking or strangulation; or\n\n(2) Recklessly causes serious physical injury to such family or household member; or\n\n(3) Recklessly causes physical injury to such family or household member by means of any deadly weapon.\n\n2. Domestic assault in the second degree is a class C felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2012 S.B. 628)",
+      "effdt_raw": "Effective - 28 Aug 2012, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2000-08-28",
+      "end": "2012-08-28",
+      "bid": "56390",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=56390",
+      "heading": "Domestic assault, second degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the second degree if the act involves a family or household member or an adult who is or has been in a continuing social relationship of a romantic or intimate nature with the actor, as defined in section 455.010, and he or she:\n\n(1) Attempts to cause or knowingly causes physical injury to such family or household member by any means, including but not limited to, by use of a deadly weapon or dangerous instrument, or by choking or strangulation; or\n\n(2) Recklessly causes serious physical injury to such family or household member; or\n\n(3) Recklessly causes physical injury to such family or household member by means of any deadly weapon.\n\n2. Domestic assault in the second degree is a class C felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2000, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-07-01",
+      "end": null,
+      "bid": "60738",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.073&bid=60738",
+      "heading": "Domestic assault, second degree — penalty.",
+      "text": "1. A person commits the offense of domestic assault in the second degree if the act involves a domestic victim, as the term \"domestic victim\" is defined under section 565.002, and he or she:\n\n(1) Knowingly causes bodily harm to such domestic victim by any means, including but not limited to, use of a deadly weapon or dangerous instrument, or by choking or strangulation; or\n\n(2) Recklessly causes great bodily harm to such domestic victim; or\n\n(3) Recklessly causes bodily harm to such domestic victim by means of any deadly weapon.\n\n2. The offense of domestic assault in the second degree is a class D felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2012 S.B. 628, A.L. 2014 S.B. 491, A.L. 2014 H.B. 1371, A.L. 2026 H.B. 2637 & 3155 merged with S.B. 999)",
+      "effdt_raw": "Effective - 01 Jul 2027, 4 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

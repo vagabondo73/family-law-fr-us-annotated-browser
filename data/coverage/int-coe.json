@@ -1,0 +1,18 @@
+{
+  "corpus": "int-coe",
+  "norms_expected": 141,
+  "norms_done": 141,
+  "instrument_records": 11,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "CoE Treaty Office charts of signatures and ratifications (coe.int full-list, read via browser; saved raw/int/coe/status_browser.json); texts from rm.coe.int / echr.coe.int official PDFs: ECHR arts 8, 12, 14; Protocol 7 art 5; ETS 105, ETS 160, CETS 210 in full. Status-only: ETS 058, 085, 166 (signed by France only), ETS 043 (Chapter II only for France), ETS 062/097 (procedure, information on foreign law).",
+  "gaps": [
+    "Protocol No. 12 to the Convention (ETS No. 177) — excluded: neither signed nor ratified by FR/US/EU (CoE Treaty Office chart)",
+    "European Convention on the Adoption of Children (Revised) (CETS No. 202) — excluded: neither signed nor ratified by FR/US/EU (CoE Treaty Office chart)",
+    "Convention on Contact concerning Children (ETS No. 192) — excluded: neither signed nor ratified by FR/US/EU (CoE Treaty Office chart)",
+    "General entry-into-force dates of ETS 043/062/097/058/085/166 not recorded (not on the saved chart pages); FR dates recorded.",
+    "ETS 105/160/210 texts: English authentic text; French text not ingested."
+  ],
+  "updated": "2026-09-30"
+}

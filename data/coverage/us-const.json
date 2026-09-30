@@ -1,0 +1,11 @@
+{
+  "corpus": "us-const",
+  "norms_expected": 6,
+  "norms_done": 6,
+  "method": "Provisions listed in SCOPE \u00a74.2 (Art. I \u00a78 cl.1, Art. II \u00a72 cl.2, Art. IV \u00a71, Art. VI cl.2, Amend. V, Amend. XIV \u00a71); verbatim text from National Archives transcription.",
+  "gaps": [],
+  "interps_candidates": null,
+  "interps_screened": null,
+  "interps_included": 186,
+  "updated": "2026-09-30"
+}

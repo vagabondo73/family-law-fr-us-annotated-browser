@@ -1,0 +1,27 @@
+{
+  "section": "210.828",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.828",
+  "current": {
+    "effective": "2009-08-28",
+    "bid": "11417",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.828&bid=11417"
+  },
+  "versions": [
+    {
+      "effective": "1993-08-28",
+      "end": "2009-08-28",
+      "bid": "58668",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.828&bid=58668",
+      "heading": "Statute of limitations, exception.",
+      "text": "1. An action to determine the existence of the father and child relationship as to a child who has no presumed father under section 210.822 may not be brought later than eighteen years after the birth of the child, except that an action to determine the existence of the father and child relationship as to a child who has no presumed father under the provisions of section 210.822 may be brought by the child within three years after such child attains the age of eighteen.\n\n2. A parent's retroactive liability to another party for reimbursement of necessary support provided by that party to the child for whom a parent and child relationship is established under sections 210.817 to 210.852 is limited to a period of five years next preceding the commencement of the action.\n\n3. Sections 210.826 and 210.828 do not extend the time within which a right of inheritance or a right to a succession may be asserted beyond the time provided by law relating to distribution and closing of decedents' estates or to the determination of heirship, or otherwise.",
+      "history_note": "(L. 1987 S.B. 328 § 7, A.L. 1993 S.B. 253)",
+      "effdt_raw": "Effective - 28 Aug 1993, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "4"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

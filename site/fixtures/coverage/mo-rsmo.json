@@ -1,0 +1,14 @@
+{
+  "corpus": "mo-rsmo",
+  "norms_expected": 1,
+  "norms_done": 1,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "FIXTURE — hand-picked sample",
+  "gaps": [
+    "Fixture set: not exhaustive by design."
+  ],
+  "updated": "2026-09-30",
+  "fixture": true
+}

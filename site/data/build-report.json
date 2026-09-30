@@ -1,0 +1,1202 @@
+{
+  "generated": "2026-09-30T17:34:00+00:00",
+  "source": "/home/user/workspace/flb/data",
+  "counts": {
+    "warn": 109,
+    "info": 71
+  },
+  "items": [
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "fr-textes-circulaire-2017-01-26-divorce-consentement-mutuel has no text",
+      "norm": "fr-textes-circulaire-2017-01-26-divorce-consentement-mutuel"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "fr-textes-circulaire-2020-09-23-violences-conjugales has no text",
+      "norm": "fr-textes-circulaire-2020-09-23-violences-conjugales"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec34 has no text",
+      "norm": "int-ciec-ciec34"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec33 has no text",
+      "norm": "int-ciec-ciec33"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec30 has no text",
+      "norm": "int-ciec-ciec30"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec27 has no text",
+      "norm": "int-ciec-ciec27"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec26 has no text",
+      "norm": "int-ciec-ciec26"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec24 has no text",
+      "norm": "int-ciec-ciec24"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec-protocole-additionnel-a-la-convention-co has no text",
+      "norm": "int-ciec-ciec-protocole-additionnel-a-la-convention-co"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec22 has no text",
+      "norm": "int-ciec-ciec22"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec21 has no text",
+      "norm": "int-ciec-ciec21"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec18 has no text",
+      "norm": "int-ciec-ciec18"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec17 has no text",
+      "norm": "int-ciec-ciec17"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec16 has no text",
+      "norm": "int-ciec-ciec16"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec15 has no text",
+      "norm": "int-ciec-ciec15"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec12 has no text",
+      "norm": "int-ciec-ciec12"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec11 has no text",
+      "norm": "int-ciec-ciec11"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec10 has no text",
+      "norm": "int-ciec-ciec10"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec9 has no text",
+      "norm": "int-ciec-ciec9"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec7 has no text",
+      "norm": "int-ciec-ciec7"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec6 has no text",
+      "norm": "int-ciec-ciec6"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec5 has no text",
+      "norm": "int-ciec-ciec5"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec4 has no text",
+      "norm": "int-ciec-ciec4"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec3 has no text",
+      "norm": "int-ciec-ciec3"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec2 has no text",
+      "norm": "int-ciec-ciec2"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-ciec-ciec1 has no text",
+      "norm": "int-ciec-ciec1"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-echr has no text",
+      "norm": "int-coe-echr"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-echr-p7 has no text",
+      "norm": "int-coe-echr-p7"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets105 has no text",
+      "norm": "int-coe-ets105"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets160 has no text",
+      "norm": "int-coe-ets160"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-cets210 has no text",
+      "norm": "int-coe-cets210"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets058 has no text",
+      "norm": "int-coe-ets058"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets085 has no text",
+      "norm": "int-coe-ets085"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets166 has no text",
+      "norm": "int-coe-ets166"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets062 has no text",
+      "norm": "int-coe-ets062"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-coe-ets097 has no text",
+      "norm": "int-coe-ets097"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1961a has no text",
+      "norm": "int-hcch-1961a"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1965 has no text",
+      "norm": "int-hcch-1965"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1970e has no text",
+      "norm": "int-hcch-1970e"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1980 has no text",
+      "norm": "int-hcch-1980"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1993 has no text",
+      "norm": "int-hcch-1993"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1958 has no text",
+      "norm": "int-hcch-1958"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1956 has no text",
+      "norm": "int-hcch-1956"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1954 has no text",
+      "norm": "int-hcch-1954"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-hcch-1980j has no text",
+      "norm": "int-hcch-1980j"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-crc has no text",
+      "norm": "int-un-crc"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-crc-opac has no text",
+      "norm": "int-un-crc-opac"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-crc-opsc has no text",
+      "norm": "int-un-crc-opsc"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-crc-opic has no text",
+      "norm": "int-un-crc-opic"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-iccpr has no text",
+      "norm": "int-un-iccpr"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-icescr has no text",
+      "norm": "int-un-icescr"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-cedaw has no text",
+      "norm": "int-un-cedaw"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-crpd has no text",
+      "norm": "int-un-crpd"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-marriage1962 has no text",
+      "norm": "int-un-marriage1962"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "int-un-maint1956 has no text",
+      "norm": "int-un-maint1956"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "mo-rules-41.00 has no text",
+      "norm": "mo-rules-41.00"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "mo-rules-46.01 has no text",
+      "norm": "mo-rules-46.01"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "mo-rules-51.15 has no text",
+      "norm": "mo-rules-51.15"
+    },
+    {
+      "level": "warn",
+      "code": "no-text",
+      "msg": "mo-rules-76.03 has no text",
+      "norm": "mo-rules-76.03"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62014cj0004 → eu-reg-1215-2012-art-1: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62014cj0004",
+      "norm": "eu-reg-1215-2012-art-1"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62018co0759 → eu-reg-2019-1111-art-18: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62018co0759",
+      "norm": "eu-reg-2019-1111-art-18"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62018co0759 → eu-reg-2019-1111-art-3: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62018co0759",
+      "norm": "eu-reg-2019-1111-art-3"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0603 → eu-reg-2019-1111-art-9: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0603",
+      "norm": "eu-reg-2019-1111-art-9"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0603 → eu-reg-2019-1111-art-14: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0603",
+      "norm": "eu-reg-2019-1111-art-14"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62021cj0262 → eu-reg-2019-1111-art-2: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62021cj0262",
+      "norm": "eu-reg-2019-1111-art-2"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0208 → eu-reg-2020-1783-art-1: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0208",
+      "norm": "eu-reg-2020-1783-art-1"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0289 → eu-reg-2019-1111-art-3: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0289",
+      "norm": "eu-reg-2019-1111-art-3"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0522 → eu-reg-2019-1111-art-3: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0522",
+      "norm": "eu-reg-2019-1111-art-3"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62021cj0196 → eu-reg-2020-1784-art-9: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62021cj0196",
+      "norm": "eu-reg-2020-1784-art-9"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62021cj0572 → eu-reg-2019-1111-art-97: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62021cj0572",
+      "norm": "eu-reg-2019-1111-art-97"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62021cj0572 → eu-reg-2019-1111-art-7: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62021cj0572",
+      "norm": "eu-reg-2019-1111-art-7"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-9: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-9"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-11: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-11"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-14: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-14"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-3: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-3"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-4: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-4"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-5: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-5"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-6: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-6"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-7: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-7"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62020cj0501 → eu-reg-2019-1111-art-8: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62020cj0501",
+      "norm": "eu-reg-2019-1111-art-8"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022co0188 → eu-reg-2020-1783-art-1: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022co0188",
+      "norm": "eu-reg-2020-1783-art-1"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022co0188 → eu-reg-2020-1783-art-19: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022co0188",
+      "norm": "eu-reg-2020-1783-art-19"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022co0188 → eu-reg-2020-1783-art-4: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022co0188",
+      "norm": "eu-reg-2020-1783-art-4"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0638 → eu-reg-2019-1111-art-24: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0638",
+      "norm": "eu-reg-2019-1111-art-24"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0372 → eu-reg-2019-1111-art-12: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0372",
+      "norm": "eu-reg-2019-1111-art-12"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0372 → eu-reg-2019-1111-art-7: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0372",
+      "norm": "eu-reg-2019-1111-art-7"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0372 → eu-reg-2019-1111-art-8: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0372",
+      "norm": "eu-reg-2019-1111-art-8"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0462 → eu-reg-2019-1111-art-3: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0462",
+      "norm": "eu-reg-2019-1111-art-3"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0087 → eu-reg-2019-1111-art-9: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0087",
+      "norm": "eu-reg-2019-1111-art-9"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62022cj0087 → eu-reg-2019-1111-art-12: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62022cj0087",
+      "norm": "eu-reg-2019-1111-art-12"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62023cj0035 → eu-reg-2019-1111-art-9: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62023cj0035",
+      "norm": "eu-reg-2019-1111-art-9"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62025cj0190 → eu-reg-2019-1111-art-20: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62025cj0190",
+      "norm": "eu-reg-2019-1111-art-20"
+    },
+    {
+      "level": "info",
+      "code": "b-could-be-a",
+      "msg": "cjeu-62025cj0190 → eu-reg-2019-1111-art-99: basis b although decision date ≥ D(norm)",
+      "interp": "cjeu-62025cj0190",
+      "norm": "eu-reg-2019-1111-art-99"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cl10630687 → mo-common-maintenance-two-step: rule source decided 2025-02-25 before D(rule) 2025-06-27 — kept as rule source",
+      "interp": "mo-app-cl10630687",
+      "norm": "mo-common-maintenance-two-step"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cl10631380 → mo-common-civil-contempt-support: rule source decided 2025-02-19 before D(rule) 2025-08-05 — kept as rule source",
+      "interp": "mo-app-cl10631380",
+      "norm": "mo-common-civil-contempt-support"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cl4883968 → mo-common-antenuptial-validity: rule source decided 2021-05-18 before D(rule) 2024-03-05 — kept as rule source",
+      "interp": "mo-app-cl4883968",
+      "norm": "mo-common-antenuptial-validity"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cl4790291 → mo-common-transmutation: rule source decided 2020-09-29 before D(rule) 2025-03-04 — kept as rule source",
+      "interp": "mo-app-cl4790291",
+      "norm": "mo-common-transmutation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap12655751 → mo-common-retroactive-child-support: rule source decided 2018-03-08 before D(rule) 2019-05-07 — kept as rule source",
+      "interp": "mo-app-cap12655751",
+      "norm": "mo-common-retroactive-child-support"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap12386322 → mo-common-ability-to-pay-support: rule source decided 2017-09-19 before D(rule) 2025-03-04 — kept as rule source",
+      "interp": "mo-app-cap12386322",
+      "norm": "mo-common-ability-to-pay-support"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap6800869 → mo-common-ability-to-pay-support: rule source decided 2015-05-05 before D(rule) 2025-03-04 — kept as rule source",
+      "interp": "mo-app-cap6800869",
+      "norm": "mo-common-ability-to-pay-support"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7095184 → mo-common-antenuptial-validity: rule source decided 2012-11-20 before D(rule) 2024-03-05 — kept as rule source",
+      "interp": "mo-app-cap7095184",
+      "norm": "mo-common-antenuptial-validity"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7124887 → mo-common-personal-jurisdiction-nonresident: rule source decided 2012-10-02 before D(rule) 2023-04-18 — kept as rule source",
+      "interp": "mo-app-cap7124887",
+      "norm": "mo-common-personal-jurisdiction-nonresident"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7316285 → mo-common-antenuptial-validity: rule source decided 2011-10-25 before D(rule) 2024-03-05 — kept as rule source",
+      "interp": "mo-app-cap7316285",
+      "norm": "mo-common-antenuptial-validity"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7317975 → mo-common-settlement-agreement-interpretation: rule source decided 2011-05-13 before D(rule) 2014-06-03 — kept as rule source",
+      "interp": "mo-app-cap7317975",
+      "norm": "mo-common-settlement-agreement-interpretation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7322605 → mo-common-valuation: rule source decided 2010-08-17 before D(rule) 2017-05-09 — kept as rule source",
+      "interp": "mo-app-cap7322605",
+      "norm": "mo-common-valuation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7327497 → mo-common-valuation: rule source decided 2010-03-23 before D(rule) 2017-05-09 — kept as rule source",
+      "interp": "mo-app-cap7327497",
+      "norm": "mo-common-valuation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7297107 → mo-common-antenuptial-validity: rule source decided 2010-02-23 before D(rule) 2024-03-05 — kept as rule source",
+      "interp": "mo-app-cap7297107",
+      "norm": "mo-common-antenuptial-validity"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7303126 → mo-common-valuation: rule source decided 2009-07-28 before D(rule) 2017-05-09 — kept as rule source",
+      "interp": "mo-app-cap7303126",
+      "norm": "mo-common-valuation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap7302645 → mo-common-commingling-tracing: rule source decided 2009-05-12 before D(rule) 2016-02-05 — kept as rule source",
+      "interp": "mo-app-cap7302645",
+      "norm": "mo-common-commingling-tracing"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap8310182 → mo-common-separation-agreement-unconscionability: rule source decided 2007-06-01 before D(rule) 2025-03-11 — kept as rule source",
+      "interp": "mo-app-cap8310182",
+      "norm": "mo-common-separation-agreement-unconscionability"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap8397927 → mo-common-settlement-agreement-interpretation: rule source decided 2007-05-15 before D(rule) 2014-06-03 — kept as rule source",
+      "interp": "mo-app-cap8397927",
+      "norm": "mo-common-settlement-agreement-interpretation"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap9364215 → mo-common-choice-of-law-marital-agreements: rule source decided 2002-12-24 before D(rule) 2004-07-01 — kept as rule source",
+      "interp": "mo-app-cap9364215",
+      "norm": "mo-common-choice-of-law-marital-agreements"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap9379930 → mo-common-relocation-burden: rule source decided 2002-12-10 before D(rule) 2003-12-09 — kept as rule source",
+      "interp": "mo-app-cap9379930",
+      "norm": "mo-common-relocation-burden"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap11190778 → mo-common-separation-agreement-unconscionability: rule source decided 2000-10-04 before D(rule) 2025-03-11 — kept as rule source",
+      "interp": "mo-app-cap11190778",
+      "norm": "mo-common-separation-agreement-unconscionability"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap11517732 → mo-common-choice-of-law-marital-agreements: rule source decided 2000-06-27 before D(rule) 2004-07-01 — kept as rule source",
+      "interp": "mo-app-cap11517732",
+      "norm": "mo-common-choice-of-law-marital-agreements"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap10023661 → mo-common-comity-foreign-judgments: rule source decided 1997-01-07 before D(rule) 2005-10-25 — kept as rule source",
+      "interp": "mo-app-cap10023661",
+      "norm": "mo-common-comity-foreign-judgments"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-app-cap9979746 → mo-common-comity-foreign-judgments: rule source decided 1991-07-09 before D(rule) 2005-10-25 — kept as rule source",
+      "interp": "mo-app-cap9979746",
+      "norm": "mo-common-comity-foreign-judgments"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap12658260 → mo-common-maintenance-two-step: rule source decided 2018-12-18 before D(rule) 2025-06-27 — kept as rule source",
+      "interp": "mo-sc-cap12658260",
+      "norm": "mo-common-maintenance-two-step"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap11430476 → mo-common-grandparent-visitation-constitutional: rule source decided 2002-06-25 before D(rule) 2016-12-06 — kept as rule source",
+      "interp": "mo-sc-cap11430476",
+      "norm": "mo-common-grandparent-visitation-constitutional"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap11161013 → mo-common-retroactive-child-support: rule source decided 2001-01-09 before D(rule) 2019-05-07 — kept as rule source",
+      "interp": "mo-sc-cap11161013",
+      "norm": "mo-common-retroactive-child-support"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap11582635 → mo-common-attorney-fees-452-355: rule source decided 1999-08-24 before D(rule) 2013-07-16 — kept as rule source",
+      "interp": "mo-sc-cap11582635",
+      "norm": "mo-common-attorney-fees-452-355"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap12025836 → mo-common-commingling-tracing: rule source decided 1995-12-19 before D(rule) 2016-02-05 — kept as rule source",
+      "interp": "mo-sc-cap12025836",
+      "norm": "mo-common-commingling-tracing"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap10007551 → mo-common-gal-role: rule source decided 1993-12-21 before D(rule) 1999-11-09 — kept as rule source",
+      "interp": "mo-sc-cap10007551",
+      "norm": "mo-common-gal-role"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap9983824 → mo-common-maintenance-contractual-vs-decretal: rule source decided 1991-11-19 before D(rule) 2001-01-09 — kept as rule source",
+      "interp": "mo-sc-cap9983824",
+      "norm": "mo-common-maintenance-contractual-vs-decretal"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap9952921 → mo-common-source-of-funds: rule source decided 1984-09-11 before D(rule) 2020-04-14 — kept as rule source",
+      "interp": "mo-sc-cap9952921",
+      "norm": "mo-common-source-of-funds"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap9928300 → mo-common-personal-jurisdiction-nonresident: rule source decided 1982-11-09 before D(rule) 2023-04-18 — kept as rule source",
+      "interp": "mo-sc-cap9928300",
+      "norm": "mo-common-personal-jurisdiction-nonresident"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "mo-sc-cap9947872 → mo-common-emancipation-burden: rule source decided 1979-06-19 before D(rule) 2015-06-02 — kept as rule source",
+      "interp": "mo-sc-cap9947872",
+      "norm": "mo-common-emancipation-burden"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-782-f2d-120 → int-hcch-1970-art1: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-782-f2d-120",
+      "norm": "int-hcch-1970-art1"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-782-f2d-120 → int-hcch-1970-art2: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-782-f2d-120",
+      "norm": "int-hcch-1970-art2"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-782-f2d-120 → int-hcch-1970-art27: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-782-f2d-120",
+      "norm": "int-hcch-1970-art27"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-ca8-782-f2d-120: no qualifying norm link — excluded from site",
+      "interp": "us-ca8-782-f2d-120"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-49-f3d-369 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-49-f3d-369",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-49-f3d-369 → int-hcch-1980-art12: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-49-f3d-369",
+      "norm": "int-hcch-1980-art12"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-49-f3d-369 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-49-f3d-369",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-49-f3d-369 → int-hcch-1980-art19: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-49-f3d-369",
+      "norm": "int-hcch-1980-art19"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-49-f3d-369 → int-hcch-1980-art20: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-49-f3d-369",
+      "norm": "int-hcch-1980-art20"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-51-f3d-1383 → int-hcch-1965-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-51-f3d-1383",
+      "norm": "int-hcch-1965-art3"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-ca8-51-f3d-1383: no qualifying norm link — excluded from site",
+      "interp": "us-ca8-51-f3d-1383"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-58-f3d-374 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-58-f3d-374",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-267-f3d-788 → int-hcch-1980-art12: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-267-f3d-788",
+      "norm": "int-hcch-1980-art12"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-312-f3d-914 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-312-f3d-914",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-338-f3d-886 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-338-f3d-886",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-338-f3d-886 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-338-f3d-886",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-384-f3d-492 → int-hcch-1965-art5: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-384-f3d-492",
+      "norm": "int-hcch-1965-art5"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-ca8-384-f3d-492: no qualifying norm link — excluded from site",
+      "interp": "us-ca8-384-f3d-492"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-536-f3d-844 → int-hcch-1980-art1: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-536-f3d-844",
+      "norm": "int-hcch-1980-art1"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-536-f3d-844 → int-hcch-1980-art16: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-536-f3d-844",
+      "norm": "int-hcch-1980-art16"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-559-f3d-871 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-559-f3d-871",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-559-f3d-871 → int-hcch-1980-art15: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-559-f3d-871",
+      "norm": "int-hcch-1980-art15"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-600-f3d-912 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-600-f3d-912",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-609-f3d-955 → int-hcch-1965-art2: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-609-f3d-955",
+      "norm": "int-hcch-1965-art2"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-609-f3d-955 → int-hcch-1965-art5: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-609-f3d-955",
+      "norm": "int-hcch-1965-art5"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-ca8-609-f3d-955: no qualifying norm link — excluded from site",
+      "interp": "us-ca8-609-f3d-955"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-648-f3d-648 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-648-f3d-648",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-725-f3d-868 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-725-f3d-868",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-842-f3d-1084 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-842-f3d-1084",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-842-f3d-1084 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-842-f3d-1084",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-858-f3d-1150 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-858-f3d-1150",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-54-f4th-1042 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-54-f4th-1042",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-76-f4th-1107 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-76-f4th-1107",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-96-f4th-1079 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-96-f4th-1079",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-129-f4th-1084 → int-hcch-1993-art14: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-129-f4th-1084",
+      "norm": "int-hcch-1993-art14"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-ca8-24-2517-2026-01-23 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-ca8-24-2517-2026-01-23",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "us-scotus-345-528 → us-common-personal-jurisdiction-family: rule source decided 1953-05-18 before D(rule) 1978-05-15 — kept as rule source",
+      "interp": "us-scotus-345-528",
+      "norm": "us-common-personal-jurisdiction-family"
+    },
+    {
+      "level": "info",
+      "code": "rule-source-before-D",
+      "msg": "us-scotus-421-7 → us-common-sex-classifications-family: rule source decided 1975-04-15 before D(rule) 1979-03-05 — kept as rule source",
+      "interp": "us-scotus-421-7",
+      "norm": "us-common-sex-classifications-family"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-482-522 → int-hcch-1970-art1: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-482-522",
+      "norm": "int-hcch-1970-art1"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-482-522 → int-hcch-1970-art23: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-482-522",
+      "norm": "int-hcch-1970-art23"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-482-522 → int-hcch-1970-art27: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-482-522",
+      "norm": "int-hcch-1970-art27"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-scotus-482-522: no qualifying norm link — excluded from site",
+      "interp": "us-scotus-482-522"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-486-694 → int-hcch-1965-art1: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-486-694",
+      "norm": "int-hcch-1965-art1"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-scotus-486-694: no qualifying norm link — excluded from site",
+      "interp": "us-scotus-486-694"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-560-1 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-560-1",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-560-1 → int-hcch-1980-art5: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-560-1",
+      "norm": "int-hcch-1980-art5"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-572-1 → int-hcch-1980-art12: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-572-1",
+      "norm": "int-hcch-1980-art12"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-581-271 → int-hcch-1965-art10: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-581-271",
+      "norm": "int-hcch-1965-art10"
+    },
+    {
+      "level": "warn",
+      "code": "interp-no-qualifying-link",
+      "msg": "us-scotus-581-271: no qualifying norm link — excluded from site",
+      "interp": "us-scotus-581-271"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-589-68 → int-hcch-1980-art3: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-589-68",
+      "norm": "int-hcch-1980-art3"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-596-666 → int-hcch-1980-art13: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-596-666",
+      "norm": "int-hcch-1980-art13"
+    },
+    {
+      "level": "warn",
+      "code": "dangling-link",
+      "msg": "us-scotus-596-666 → int-hcch-1980-art12: norm not in corpus (link hidden until the norm exists)",
+      "interp": "us-scotus-596-666",
+      "norm": "int-hcch-1980-art12"
+    },
+    {
+      "level": "info",
+      "code": "search-index",
+      "msg": "prebuilt search index: {'docs': 26690, 'shards': 885, 'max_shard': 1020605, 'total': 19490754, 'big': [(1020605, 'co'), (761579, 're'), (560892, 'pr'), (493886, 'de'), (485832, 'ap')]}"
+    }
+  ]
+}

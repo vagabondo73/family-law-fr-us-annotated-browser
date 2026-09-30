@@ -1,0 +1,7 @@
+{
+  "side": "fr",
+  "lang": "fr",
+  "generated": "2026-09-30",
+  "note": "Arbre unifié : les interprétations (fr-cass, fr-ce, fr-cons) sont rattachées aux nœuds thématiques fr.* de data/issues/fr-norms.json portés par les normes qu'elles interprètent. Ce fichier ne contient que les nœuds résiduels éventuels ; le titrage officiel (SCT) reste disponible dans le champ titrage de chaque décision.",
+  "nodes": []
+}

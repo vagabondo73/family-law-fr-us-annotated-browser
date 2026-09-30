@@ -1,0 +1,16 @@
+{
+  "corpus": "int-hcch",
+  "norms_expected": 638,
+  "norms_done": 638,
+  "instrument_records": 21,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "HCCH status tables (hcch.net status-table/?cid=N) parsed for France, United States and EU rows; full text of every convention/protocol in force for France and/or the US from hcch.net full-text pages (EN; FR for France-only instruments, other language as text_<lang>), one record per article, stop at the testimonium. Instruments only signed (1985 Trusts; 2005 and 2019 for the US) or excluding family matters (2005, 2019) get a status record only.",
+  "gaps": [
+    "HCCH 1970 Recognition of Divorces — excluded: binding on neither FR nor US (no signature/ratification in HCCH status table)",
+    "HCCH 1978 Celebration and Recognition of the Validity of Marriages — excluded: binding on neither FR nor US (no signature/ratification in HCCH status table)",
+    "HCCH 1989 Succession — excluded: binding on neither FR nor US (no signature/ratification in HCCH status table)"
+  ],
+  "updated": "2026-09-30"
+}

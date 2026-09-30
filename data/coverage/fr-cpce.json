@@ -1,0 +1,16 @@
+{
+  "corpus": "fr-cpce",
+  "norms_expected": 35,
+  "norms_done": 35,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_des_procedures_civiles_d_execution (HEAD bb94cf88f9f9), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 755 en vigueur sur 755 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 35 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Sélection : paiement direct des pensions alimentaires et articles mentionnant les créances alimentaires/époux."
+  ],
+  "updated": "2026-09-30"
+}

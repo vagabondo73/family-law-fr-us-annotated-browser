@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-css",
+  "norms_expected": 355,
+  "norms_done": 355,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_la_securite_sociale (HEAD b18fd5980d76), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 7416 en vigueur sur 7425 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 355 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Sélection par intitulés (réversion, veuvage, recouvrement des créances alimentaires, ASF) et mots-clés ; régimes spéciaux hors CSS non couverts."
+  ],
+  "updated": "2026-09-30"
+}

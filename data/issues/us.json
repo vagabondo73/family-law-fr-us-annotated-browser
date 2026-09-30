@@ -1,0 +1,424 @@
+{
+  "side": "us",
+  "lang": "en",
+  "nodes": [
+    {
+      "id": "us.constitution",
+      "label": "U.S. Constitution \u2014 structural provisions",
+      "children": [
+        {
+          "id": "us.constitution.due-process",
+          "label": "Due process (Fifth / Fourteenth Amendments)",
+          "children": []
+        },
+        {
+          "id": "us.constitution.equal-protection",
+          "label": "Equal protection (incl. Fifth Amendment equal-protection component)",
+          "children": []
+        },
+        {
+          "id": "us.constitution.federalism",
+          "label": "Federalism; Spending Clause conditions (Title IV-D)",
+          "children": []
+        },
+        {
+          "id": "us.constitution.treaties",
+          "label": "Treaties: Treaty Clause, self-execution, Supremacy",
+          "children": []
+        },
+        {
+          "id": "us.constitution.preemption",
+          "label": "Federal preemption of state family law",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.family-rights",
+      "label": "Constitutional family rights (judge-made doctrine)",
+      "children": [
+        {
+          "id": "us.family-rights.parental-rights",
+          "label": "Parental rights \u2014 substantive due process (care, custody and control)",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.unwed-fathers",
+          "label": "Unwed fathers \u2014 biological link and developed relationship",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.tpr-procedure",
+          "label": "Termination of parental rights & child-welfare proceedings \u2014 procedural due process",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.third-party-visitation",
+          "label": "Grandparent / third-party visitation",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.family-integrity",
+          "label": "Family integrity, extended family & familial association",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.marriage-right",
+          "label": "Marriage as a fundamental right",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.same-sex-marriage",
+          "label": "Same-sex marriage and equal recognition",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.nonmarital-children",
+          "label": "Classifications based on nonmarital birth (illegitimacy)",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.sex-classifications",
+          "label": "Sex-based classifications in family, support and benefits law",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.race-custody",
+          "label": "Race and custody determinations",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.access-to-courts",
+          "label": "Access to divorce and family courts (fees, transcripts, residency)",
+          "children": []
+        },
+        {
+          "id": "us.family-rights.immigration-family",
+          "label": "Family rights in immigration and nationality law",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.marriage",
+      "label": "Marriage \u2014 federal law",
+      "children": [
+        {
+          "id": "us.marriage.recognition",
+          "label": "Federal definition and interstate recognition of marriage (1 U.S.C. 7; 28 U.S.C. 1738C)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.jurisdiction",
+      "label": "Jurisdiction, recognition and federal courts in family matters",
+      "children": [
+        {
+          "id": "us.jurisdiction.full-faith-credit",
+          "label": "Full faith and credit \u2014 divorce, custody, adoption, support judgments",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.divisible-divorce",
+          "label": "Divisible divorce; ex parte divorce and domicile",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.personal-jurisdiction",
+          "label": "Personal jurisdiction over nonresident parents/spouses (Kulko)",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.domestic-relations-exception",
+          "label": "Domestic-relations exception to federal jurisdiction",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.probate-exception",
+          "label": "Probate exception (related)",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.rooker-feldman",
+          "label": "Rooker-Feldman doctrine in family litigation",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.younger-abstention",
+          "label": "Younger abstention and other abstention in family cases",
+          "children": []
+        },
+        {
+          "id": "us.jurisdiction.interstate-custody",
+          "label": "Interstate custody jurisdiction",
+          "children": [
+            {
+              "id": "us.jurisdiction.interstate-custody.pkpa",
+              "label": "Parental Kidnaping Prevention Act (28 U.S.C. 1738A)",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us.abduction",
+      "label": "International child abduction",
+      "children": [
+        {
+          "id": "us.abduction.icara",
+          "label": "Hague 1980 Convention / ICARA (22 U.S.C. 9001 ff.)",
+          "children": [
+            {
+              "id": "us.abduction.icara.habitual-residence",
+              "label": "Habitual residence",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.rights-of-custody",
+              "label": "Rights of custody, ne exeat rights, exercise of custody",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.wrongful-removal",
+              "label": "Wrongful removal or retention; date of retention",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.grave-risk",
+              "label": "Grave risk of harm / intolerable situation (art. 13(1)(b)); ameliorative measures",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.well-settled",
+              "label": "One-year period and 'well settled' exception (art. 12)",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.consent-acquiescence",
+              "label": "Consent and acquiescence (art. 13(1)(a))",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.child-objection",
+              "label": "Child's objection / age and maturity (art. 13)",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.human-rights",
+              "label": "Fundamental principles / human rights (art. 20)",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.procedure",
+              "label": "Procedure: jurisdiction, burdens of proof, evidence, provisional remedies, abstention",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.fees",
+              "label": "Costs and fees (22 U.S.C. 9007)",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.appeal-mootness",
+              "label": "Appeals, stays and mootness after return",
+              "children": []
+            },
+            {
+              "id": "us.abduction.icara.access",
+              "label": "Access (visitation) rights under art. 21",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "us.abduction.criminal",
+          "label": "Criminal law of international parental kidnapping",
+          "children": [
+            {
+              "id": "us.abduction.criminal.ipkca",
+              "label": "International Parental Kidnapping Crime Act (18 U.S.C. 1204)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "us.abduction.goldman-act",
+          "label": "Goldman Act \u2014 diplomatic measures (22 U.S.C. 9101 ff.)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.adoption",
+      "label": "Adoption \u2014 federal",
+      "children": [
+        {
+          "id": "us.adoption.intercountry",
+          "label": "Intercountry adoption",
+          "children": [
+            {
+              "id": "us.adoption.intercountry.iaa",
+              "label": "Intercountry Adoption Act & Hague 1993 (42 U.S.C. 14901 ff.; 22 CFR 96\u201399)",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us.support",
+      "label": "Child and spousal support \u2014 federal",
+      "children": [
+        {
+          "id": "us.support.title-iv-d",
+          "label": "Title IV-D child support program (42 U.S.C. 651\u2013669b; 45 CFR 301\u2013310)",
+          "children": []
+        },
+        {
+          "id": "us.support.interstate",
+          "label": "Interstate and international support",
+          "children": [
+            {
+              "id": "us.support.interstate.ffccsoa",
+              "label": "Full Faith and Credit for Child Support Orders Act (28 U.S.C. 1738B)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "us.support.contempt",
+          "label": "Enforcement by contempt \u2014 due process",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.tax",
+      "label": "Federal tax aspects of family law",
+      "children": [
+        {
+          "id": "us.tax.alimony",
+          "label": "Alimony and separate maintenance (26 U.S.C. 71, 215 \u2014 pre-2019 instruments)",
+          "children": []
+        },
+        {
+          "id": "us.tax.property-transfers",
+          "label": "Transfers between spouses / incident to divorce (26 U.S.C. 1041)",
+          "children": []
+        },
+        {
+          "id": "us.tax.dependency",
+          "label": "Dependency and child tax credit for divorced parents (26 U.S.C. 152(e), 24)",
+          "children": []
+        },
+        {
+          "id": "us.tax.marital-deduction",
+          "label": "Estate and gift tax marital deduction; QDOT",
+          "children": []
+        },
+        {
+          "id": "us.tax.innocent-spouse",
+          "label": "Innocent-spouse relief (26 U.S.C. 6015)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.pensions",
+      "label": "Pensions and federal benefits on divorce",
+      "children": [
+        {
+          "id": "us.pensions.qdro",
+          "label": "ERISA anti-alienation & qualified domestic relations orders",
+          "children": []
+        },
+        {
+          "id": "us.pensions.military",
+          "label": "Uniformed Services Former Spouses' Protection Act (10 U.S.C. 1408)",
+          "children": []
+        },
+        {
+          "id": "us.pensions.social-security",
+          "label": "Social Security spousal, divorced-spouse and child benefits",
+          "children": []
+        },
+        {
+          "id": "us.pensions.federal-benefits-preemption",
+          "label": "Preemption of state family law by federal benefit statutes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.bankruptcy",
+      "label": "Bankruptcy and family obligations",
+      "children": [
+        {
+          "id": "us.bankruptcy.dso",
+          "label": "Domestic support obligations \u2014 definition and priority",
+          "children": []
+        },
+        {
+          "id": "us.bankruptcy.discharge",
+          "label": "Nondischargeability (11 U.S.C. 523(a)(5), (a)(15))",
+          "children": []
+        },
+        {
+          "id": "us.bankruptcy.automatic-stay",
+          "label": "Automatic stay exceptions for family proceedings (362(b)(2))",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.immigration",
+      "label": "Immigration \u2014 family-based",
+      "children": [
+        {
+          "id": "us.immigration.family",
+          "label": "Family-based immigration: spouses, children, adoption, conditional residence, marriage fraud",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.nationality",
+      "label": "Nationality \u2014 acquisition by birth abroad and derivation",
+      "children": []
+    },
+    {
+      "id": "us.domestic-violence",
+      "label": "Domestic violence \u2014 federal",
+      "children": [
+        {
+          "id": "us.domestic-violence.federal-crimes",
+          "label": "Interstate domestic violence, stalking, protection-order violations",
+          "children": []
+        },
+        {
+          "id": "us.domestic-violence.protection-orders",
+          "label": "Full faith and credit to protection orders (18 U.S.C. 2265)",
+          "children": []
+        },
+        {
+          "id": "us.domestic-violence.firearms",
+          "label": "Firearms prohibitions (18 U.S.C. 922(g)(8), (g)(9); 921(a)(33))",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.international-procedure",
+      "label": "International civil procedure",
+      "children": [
+        {
+          "id": "us.international-procedure.evidence-service",
+          "label": "Hague Service & Evidence Conventions; 28 U.S.C. 1781\u20131782",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

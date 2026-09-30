@@ -1,0 +1,18 @@
+{
+  "corpus": "fr-cpc",
+  "norms_expected": 582,
+  "norms_done": 582,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_procedure_civile (HEAD 64a5dcbbf517), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 2085 en vigueur sur 2085 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 582 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Livre III Titre Ier : sous-sections propres aux majeurs protégés, mandat de protection future et mesure d'accompagnement judiciaire exclues (hors périmètre).",
+    "Dispositions générales (Livre Ier, Livre II) non retenues sauf audition de l'enfant, reconnaissance transfrontalière, notifications et commissions rogatoires internationales."
+  ],
+  "updated": "2026-09-30"
+}

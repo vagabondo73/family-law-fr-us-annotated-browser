@@ -1,0 +1,42 @@
+{
+  "section": "455.020",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.020",
+  "current": {
+    "effective": "2015-08-28",
+    "bid": "25528",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.020&bid=25528"
+  },
+  "versions": [
+    {
+      "effective": "2013-08-28",
+      "end": "2015-08-28",
+      "bid": "48190",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.020&bid=48190",
+      "heading": "Relief may be sought — order of protection effective, where.",
+      "text": "1. Any person who has been subject to domestic violence by a present or former family or household member, or who has been the victim of stalking, may seek relief under sections 455.010 to 455.085 by filing a verified petition alleging such domestic violence or stalking by the respondent.\n\n2. A person's right to relief under sections 455.010 to 455.085 shall not be affected by the person leaving the residence or household to avoid domestic violence.\n\n3. Any protection order issued pursuant to sections 455.010 to 455.085 shall be effective throughout the state in all cities and counties.",
+      "history_note": "(L. 1980 S.B. 524 § 3, A.L. 1986 S.B. 450, A.L. 1989 S.B. 420, A.L. 1993 H.B. 476 & 194, A.L. 2011 S.B. 320, A.L. 2013 H.B. 215)",
+      "effdt_raw": "Effective - 28 Aug 2013, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    },
+    {
+      "effective": "2011-08-28",
+      "end": "2013-08-28",
+      "bid": "48995",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.020&bid=48995",
+      "heading": "Relief may be sought —\norder of protection effective, where.",
+      "text": "1. Any adult who has been subject to domestic violence by a present or former family or household member, or who has been the victim of stalking, may seek relief under sections 455.010 to 455.085 by filing a verified petition alleging such domestic violence or stalking by the respondent.\n\n2. An adult's right to relief under sections 455.010 to 455.085 shall not be affected by his leaving the residence or household to avoid domestic violence.\n\n3. Any protection order issued pursuant to sections 455.010 to 455.085 shall be effective throughout the state in all cities and counties.",
+      "history_note": "(L. 1980 S.B. 524 § 3, A.L. 1986 S.B. 450, A.L. 1989 S.B. 420,\nA.L. 1993 H.B. 476 & 194, A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

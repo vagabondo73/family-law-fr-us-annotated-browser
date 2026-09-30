@@ -1,0 +1,28 @@
+{
+  "section": "452.305",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.305",
+  "current": {
+    "effective": "2026-08-28",
+    "bid": "59918",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.305&bid=59918"
+  },
+  "versions": [
+    {
+      "effective": "2009-08-28",
+      "end": "2026-08-28",
+      "bid": "25003",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.305&bid=25003",
+      "heading": "Judgment of dissolution, grounds for — legal separation, when — judgments to contain Social Security numbers.",
+      "text": "1. The court shall enter a judgment of dissolution of marriage if:\n\n(1) The court finds that one of the parties has been a resident of this state, or is a member of the armed services who has been stationed in this state, for ninety days immediately preceding the commencement of the proceeding and that thirty days have elapsed since the filing of the petition; and\n\n(2) The court finds that there remains no reasonable likelihood that the marriage can be preserved and that therefore the marriage is irretrievably broken; and\n\n(3) To the extent it has jurisdiction, the court has considered and made provision for child custody, the support of each child, the maintenance of either spouse and the disposition of property.\n\n2. The court shall enter a judgment of legal separation if:\n\n(1) The court finds that one of the parties has been a resident of this state, or is a member of the armed services who has been stationed in this state, for ninety days immediately preceding the commencement of the proceeding and that thirty days have elapsed since the filing of the petition; and\n\n(2) The court finds that there remains a reasonable likelihood that the marriage can be preserved and that therefore the marriage is not irretrievably broken; and\n\n(3) To the extent it has jurisdiction, the court has considered and made provision for the custody and the support of each child, the maintenance of either spouse and the disposition of property.\n\n3. Any judgment of dissolution of marriage or legal separation shall include the last four digits of the Social Security numbers of the parties. The full Social Security number of each party and each child shall be retained in the manner required under section 509.520.",
+      "history_note": "(L. 1973 H.B. 315 § 2, A.L. 1997 S.B. 361, A.L. 1998 S.B. 910, A.L. 2009 H.B. 481)",
+      "effdt_raw": "Effective - 28 Aug 2009, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3",
+        "4"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

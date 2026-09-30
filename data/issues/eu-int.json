@@ -1,0 +1,389 @@
+{
+  "side": "eu-int",
+  "lang": "fr",
+  "lang_note": "Libellés en français pour les nœuds eu.* ; English labels for int.* nodes",
+  "nodes": [
+    {
+      "id": "eu",
+      "label": "Droit de l'Union européenne — droit international privé de la famille",
+      "children": [
+        {
+          "id": "eu.scope",
+          "label": "Champ d'application et définitions",
+          "children": []
+        },
+        {
+          "id": "eu.matrimonial",
+          "label": "Matière matrimoniale (divorce, séparation de corps, annulation)",
+          "children": [
+            {
+              "id": "eu.matrimonial.jurisdiction",
+              "label": "Compétence en matière matrimoniale",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.parental-responsibility",
+          "label": "Responsabilité parentale",
+          "children": [
+            {
+              "id": "eu.parental-responsibility.jurisdiction",
+              "label": "Compétence — résidence habituelle de l'enfant, prorogation, transfert",
+              "children": []
+            },
+            {
+              "id": "eu.parental-responsibility.provisional",
+              "label": "Mesures provisoires et conservatoires",
+              "children": []
+            },
+            {
+              "id": "eu.parental-responsibility.hearing-child",
+              "label": "Audition de l'enfant",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.abduction",
+          "label": "Enlèvement international d'enfants (complément à la Convention de La Haye de 1980)",
+          "children": []
+        },
+        {
+          "id": "eu.lis-pendens",
+          "label": "Litispendance, connexité et vérification de la compétence",
+          "children": []
+        },
+        {
+          "id": "eu.recognition",
+          "label": "Reconnaissance et exécution des décisions, actes authentiques et accords",
+          "children": []
+        },
+        {
+          "id": "eu.cooperation",
+          "label": "Coopération entre autorités centrales",
+          "children": []
+        },
+        {
+          "id": "eu.maintenance",
+          "label": "Obligations alimentaires (règlement 4/2009)",
+          "children": [
+            {
+              "id": "eu.maintenance.jurisdiction",
+              "label": "Compétence en matière d'obligations alimentaires",
+              "children": []
+            },
+            {
+              "id": "eu.maintenance.applicable-law",
+              "label": "Loi applicable (Protocole de La Haye de 2007)",
+              "children": []
+            },
+            {
+              "id": "eu.maintenance.recognition",
+              "label": "Reconnaissance, force exécutoire et exécution",
+              "children": []
+            },
+            {
+              "id": "eu.maintenance.cooperation",
+              "label": "Assistance juridique et autorités centrales",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.divorce-law",
+          "label": "Loi applicable au divorce et à la séparation de corps (Rome III)",
+          "children": []
+        },
+        {
+          "id": "eu.property-regimes",
+          "label": "Régimes matrimoniaux (règlement 2016/1103)",
+          "children": [
+            {
+              "id": "eu.property-regimes.jurisdiction",
+              "label": "Compétence",
+              "children": []
+            },
+            {
+              "id": "eu.property-regimes.applicable-law",
+              "label": "Loi applicable et choix de loi",
+              "children": []
+            },
+            {
+              "id": "eu.property-regimes.recognition",
+              "label": "Reconnaissance et exécution",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.partnerships",
+          "label": "Effets patrimoniaux des partenariats enregistrés (règlement 2016/1104)",
+          "children": []
+        },
+        {
+          "id": "eu.successions",
+          "label": "Successions (règlement 650/2012)",
+          "children": [
+            {
+              "id": "eu.successions.jurisdiction",
+              "label": "Compétence",
+              "children": []
+            },
+            {
+              "id": "eu.successions.applicable-law",
+              "label": "Loi applicable",
+              "children": []
+            },
+            {
+              "id": "eu.successions.recognition",
+              "label": "Reconnaissance, actes authentiques et transactions",
+              "children": []
+            },
+            {
+              "id": "eu.successions.certificate",
+              "label": "Certificat successoral européen",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.public-documents",
+          "label": "Documents publics — dispense de légalisation (règlement 2016/1191)",
+          "children": []
+        },
+        {
+          "id": "eu.procedure",
+          "label": "Procédure civile transfrontière",
+          "children": [
+            {
+              "id": "eu.procedure.service",
+              "label": "Signification et notification des actes",
+              "children": []
+            },
+            {
+              "id": "eu.procedure.evidence",
+              "label": "Obtention des preuves",
+              "children": []
+            },
+            {
+              "id": "eu.procedure.brussels-i-bis",
+              "label": "Bruxelles I bis — exclusions familiales et accords matrimoniaux",
+              "children": []
+            },
+            {
+              "id": "eu.procedure.judicial-cooperation",
+              "label": "Base juridique — art. 81, § 3, TFUE (droit de la famille)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "eu.family-migration",
+          "label": "Libre circulation et regroupement familial (directives 2004/38 et 2003/86)",
+          "children": []
+        },
+        {
+          "id": "eu.fundamental-rights",
+          "label": "Charte des droits fondamentaux (art. 7, 9, 24, 33)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "int",
+      "label": "International instruments (HCCH, UN, Council of Europe, CIEC, bilateral France–United States)",
+      "children": [
+        {
+          "id": "int.status",
+          "label": "Status tables — France / United States / EU",
+          "children": []
+        },
+        {
+          "id": "int.procedure",
+          "label": "International civil procedure",
+          "children": [
+            {
+              "id": "int.procedure.apostille",
+              "label": "Legalisation — Apostille Convention 1961",
+              "children": []
+            },
+            {
+              "id": "int.procedure.service",
+              "label": "Service of documents abroad — Hague 1965",
+              "children": []
+            },
+            {
+              "id": "int.procedure.evidence",
+              "label": "Taking of evidence abroad — Hague 1970",
+              "children": []
+            },
+            {
+              "id": "int.procedure.judgments",
+              "label": "Recognition of foreign judgments — Hague 2019",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "int.abduction",
+          "label": "International child abduction",
+          "children": [
+            {
+              "id": "int.abduction.hague-1980",
+              "label": "Hague 1980 Child Abduction Convention",
+              "children": []
+            },
+            {
+              "id": "int.abduction.luxembourg-1980",
+              "label": "European Custody Convention (Luxembourg 1980)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "int.child-protection",
+          "label": "Parental responsibility and child protection (Hague 1961/1996; CoE contact & children's rights)",
+          "children": []
+        },
+        {
+          "id": "int.adoption",
+          "label": "Intercountry adoption (Hague 1993; CoE 1967/2008)",
+          "children": []
+        },
+        {
+          "id": "int.maintenance",
+          "label": "Maintenance / child support (Hague 1956, 1958, 1973, 2007; UN 1956 New York)",
+          "children": []
+        },
+        {
+          "id": "int.adults",
+          "label": "Protection of adults (Hague 2000)",
+          "children": []
+        },
+        {
+          "id": "int.marriage",
+          "label": "Marriage, divorce and matrimonial property (Hague 1970/1978; UN 1962)",
+          "children": []
+        },
+        {
+          "id": "int.successions",
+          "label": "Wills and successions (Hague 1961 form of testamentary dispositions)",
+          "children": []
+        },
+        {
+          "id": "int.civil-status",
+          "label": "Civil status (CIEC conventions)",
+          "children": []
+        },
+        {
+          "id": "int.human-rights",
+          "label": "Human-rights treaties — family provisions (ICCPR, CRC, CEDAW)",
+          "children": []
+        },
+        {
+          "id": "int.domestic-violence",
+          "label": "Violence against women and domestic violence (Istanbul Convention)",
+          "children": []
+        },
+        {
+          "id": "int.echr",
+          "label": "European Convention on Human Rights — family matters",
+          "children": [
+            {
+              "id": "int.echr.family-life",
+              "label": "Respect for family life (Art. 8) — general",
+              "children": []
+            },
+            {
+              "id": "int.echr.filiation",
+              "label": "Filiation, origins, paternity/maternity",
+              "children": []
+            },
+            {
+              "id": "int.echr.filiation.surrogacy",
+              "label": "Surrogacy (GPA) and recognition of parent–child ties",
+              "children": []
+            },
+            {
+              "id": "int.echr.assisted-reproduction",
+              "label": "Assisted reproduction",
+              "children": []
+            },
+            {
+              "id": "int.echr.adoption",
+              "label": "Adoption",
+              "children": []
+            },
+            {
+              "id": "int.echr.parental-responsibility",
+              "label": "Custody, residence, contact",
+              "children": []
+            },
+            {
+              "id": "int.echr.child-protection",
+              "label": "Placement of children in public care",
+              "children": []
+            },
+            {
+              "id": "int.echr.migration",
+              "label": "Expulsion, family reunification and family life",
+              "children": []
+            },
+            {
+              "id": "int.echr.marriage",
+              "label": "Right to marry (Art. 12)",
+              "children": []
+            },
+            {
+              "id": "int.echr.divorce",
+              "label": "Divorce and separation",
+              "children": []
+            },
+            {
+              "id": "int.echr.succession",
+              "label": "Inheritance and discrimination (Art. 14)",
+              "children": []
+            },
+            {
+              "id": "int.echr.civil-status",
+              "label": "Name and civil status",
+              "children": []
+            },
+            {
+              "id": "int.echr.domestic-violence",
+              "label": "Domestic violence — positive obligations",
+              "children": []
+            },
+            {
+              "id": "int.echr.spousal-equality",
+              "label": "Equality between spouses (P7-5)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "int.bilateral",
+          "label": "Bilateral France–United States agreements (consular, social security, tax, child support)",
+          "children": [
+            {
+              "id": "int.bilateral.consular",
+              "label": "Consular Convention 1966 — civil status, successions, guardianship of nationals",
+              "children": []
+            },
+            {
+              "id": "int.bilateral.social-security",
+              "label": "Social Security Agreement 1987 — survivors' and family benefits",
+              "children": []
+            },
+            {
+              "id": "int.bilateral.tax",
+              "label": "Tax conventions — estates, inheritances, gifts; income",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

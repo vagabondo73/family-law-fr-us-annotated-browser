@@ -1,0 +1,51 @@
+{
+  "side": "fr",
+  "lang": "fr",
+  "fixture": true,
+  "nodes": [
+    {
+      "id": "fr.conflits",
+      "label": "Conflits de lois",
+      "children": [
+        {
+          "id": "fr.conflits.statut-personnel",
+          "label": "Statut personnel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "fr.divorce",
+      "label": "Divorce",
+      "children": [
+        {
+          "id": "fr.divorce.prestation-compensatoire",
+          "label": "Prestation compensatoire",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "fr.autorite-parentale",
+      "label": "Autorité parentale",
+      "children": [
+        {
+          "id": "fr.autorite-parentale.definition",
+          "label": "Définition et finalité",
+          "children": []
+        },
+        {
+          "id": "fr.autorite-parentale.jaf",
+          "label": "Intervention du JAF",
+          "children": [
+            {
+              "id": "fr.autorite-parentale.jaf.enquete-sociale",
+              "label": "Enquête sociale",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

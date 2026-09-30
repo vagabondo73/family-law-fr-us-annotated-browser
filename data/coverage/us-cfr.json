@@ -1,0 +1,11 @@
+{
+  "corpus": "us-cfr",
+  "norms_expected": 287,
+  "norms_done": 287,
+  "method": "eCFR versioner API: all non-reserved sections of 22 CFR part 94, 22 CFR part 96, 22 CFR part 97, 22 CFR part 98, 22 CFR part 99, 45 CFR part 301, 45 CFR part 302, 45 CFR part 303, 45 CFR part 304, 45 CFR part 305, 45 CFR part 306, 45 CFR part 307, 45 CFR part 308, 45 CFR part 309, 45 CFR part 310 + 8 CFR 204.2, 8 CFR 204.3, 8 CFR 204.300, 8 CFR 204.301, 8 CFR 204.302, 8 CFR 204.303, 8 CFR 204.304, 8 CFR 204.305, 8 CFR 204.306, 8 CFR 204.307, 8 CFR 204.308, 8 CFR 204.309, 8 CFR 204.310, 8 CFR 204.311, 8 CFR 204.312, 8 CFR 204.313, 8 CFR 204.314, 8 CFR 216.1, 8 CFR 216.2, 8 CFR 216.3, 8 CFR 216.4, 8 CFR 216.5, 8 CFR 216.6. D(norm) = eCFR 'last amended' (versioner amendment_date) when an amendment falls within eCFR history (2017+), else latest Federal Register citation in the section (or part) source note.",
+  "gaps": [],
+  "interps_candidates": null,
+  "interps_screened": null,
+  "interps_included": 2,
+  "updated": "2026-09-30"
+}

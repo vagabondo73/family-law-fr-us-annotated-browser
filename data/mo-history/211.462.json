@@ -1,0 +1,28 @@
+{
+  "section": "211.462",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.462",
+  "current": {
+    "effective": "2025-08-28",
+    "bid": "57669",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.462&bid=57669"
+  },
+  "versions": [
+    {
+      "effective": "1985-08-28",
+      "end": "2025-08-28",
+      "bid": "11558",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.462&bid=11558",
+      "heading": "Appointment of guardian ad litem, when — rights of parent or guardian — county to pay court costs, exceptions.",
+      "text": "1. In all actions to terminate parental rights, if not previously appointed pursuant to section 210.160, a guardian ad litem shall be appointed for the child as soon as practicable after the filing of the petition.\n\n2. The parent or guardian of the person of the child shall be notified of the right to have counsel, and if they request counsel and are financially unable to employ counsel, counsel shall be appointed by the court. Notice of this provision shall be contained in the summons. When the parent is a minor or incompetent the court shall appoint a guardian ad litem to represent such parent.\n\n3. The guardian ad litem shall, during all stages of the proceedings:\n\n(1) Be the legal representative of the child, and may examine, cross-examine, subpoena witnesses and offer testimony. The guardian ad litem may also initiate an appeal of any disposition that he determines to be adverse to the best interests of the child;\n\n(2) Be an advocate for the child during the dispositional hearing and aid in securing a permanent placement plan for the child. To ascertain the child's wishes, feelings, attachments, and attitudes, he shall conduct all necessary interviews with persons, other than the parent, having contact with or knowledge of the child and, if appropriate, with the child;\n\n(3) Protect the rights, interest and welfare of a minor or incompetent parent by exercising the powers and duties enumerated in subdivisions (1) and (2) of this subsection.\n\n4. Court costs shall be paid by the county in which the proceeding is instituted, except that the court may require the agency or person having or receiving legal or actual custody to pay the costs.",
+      "history_note": "(L. 1978 H.B. 972 § 5, A.L. 1985 H.B. 366, et al.)",
+      "effdt_raw": "Effective - 28 Aug 1985, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

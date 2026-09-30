@@ -1,0 +1,36 @@
+{
+  "rule": "52.08",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=199600",
+  "current": {
+    "effective": "2026-01-01",
+    "text_sha256": "76f6dfb3ace9f4d9e89aae87ad5ed9bbbda1f9f27e1679a03ba1c3fc7d0ddf23"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1972-04-21",
+      "effective": "1972-12-01"
+    },
+    {
+      "adopted_or_amended": "1993-09-28",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "2005-06-21",
+      "effective": "2006-01-01"
+    }
+  ],
+  "history_note": "(Adopted April 21, 1972, effective December 1, 1972. Amended September 28, 1993, effective January 1, 1994; amended June 21, 2005, effective January 1, 2006.)",
+  "versions": [
+    {
+      "effective": "2006-01-01",
+      "end": "2026-01-01",
+      "heading": "Class Actions",
+      "text": "(a) Prerequisites to a Class Action. One or more members of a class may sue or be sued as representative parties on behalf of all only if\n\n(1) the class is so numerous that joinder of all members is impracticable,\n\n(2) there are questions of law or fact common to the class,\n(3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and\n\n(4) the representative parties will fairly and adequately protect the interests of the class.\n\n(b) Class Actions Maintainable. An action may be maintained as a class action if the prerequisites of subdivision (a) are satisfied, and in addition:\n(1) the prosecution of separate actions by or against individual members of the class would create a risk of\n\n(A) inconsistent or varying adjudications with respect to individual members of the class which would establish incompatible standards of conduct for the party opposing the class, or\n\n(B) adjudications with respect to individual members of the class which would as a practical matter be dispositive of the interests of the other members not parties to the adjudications or substantially impair or impede their ability to protect their interests; or\n(2) the party opposing the class has acted or refused to act on grounds generally applicable to the class, thereby making appropriate final injunctive relief or corresponding declaratory relief with respect to the class as a whole; or\n\n(3) the court finds that the questions of law or fact common to the members of the class predominate over any questions affecting only individual members, and that a class action is superior to other available methods for the fair and efficient adjudication of the controversy. The matters pertinent to the findings include:\n(A) the interest of members of the class in individually controlling the prosecution or defense of separate actions;\n\n(B) the extent and nature of any litigation concerning the controversy already commenced by or against members of the class;\n\n(C) the desirability or undesirability of concentrating the litigation of the claims in the particular forum;\n\n(D) the difficulties likely to be encountered in the management of a class action.\n(c) Determination by Order Whether Class Action to Be Maintained – Notice – Judgment – Actions Conducted Partially as Class Actions.\n\n(1) As soon as practicable after the commencement of an action brought as a class action, the court shall determine by order whether it is to be so maintained. An order under this Rule 52.08(c)(1) may be conditional and may be altered or amended before the decision on the merits.\n(2) In any class action maintained under Rule 52.08(b)(3), the court shall direct to the members of the class the best notice practicable under the circumstances, including individual notice to all members who can be identified through reasonable effort. The notice shall advise each member that:\n\n(A) the court will exclude the member from the class if requested by a specified date;\n(B) the judgment, whether favorable or not, will include all members who do not request exclusion; and\n\n(C) any member who does not request exclusion may, if desired, enter an appearance through counsel.\n(3) The judgment in an action maintained as a class action under Rule 52.08(b)(1) or Rule 52.08(b)(2), whether or not favorable to the class, shall include and describe those whom the court finds to be members of the class.\nThe judgment in an action maintained as a class action under Rule 52.08(b)(3), whether or not favorable to the class, shall include and specify or describe those to whom the notice provided in Rule 52.08(c)(2) was directed, and who have not requested exclusion, and whom the court finds to be members of the class.\n(4) When appropriate an action may be brought or maintained as a class action with respect to particular issues or a class may be divided into subclasses and each subclass treated as a class, and the provisions of this Rule 52.08 shall then be construed and applied accordingly.\n\n(d) Orders in Conduct of Actions. In the conduct of actions to which this Rule applies, the court may make appropriate orders:\n(1) determining the course of proceedings or prescribing measures to prevent undue repetition or complication in the presentation of evidence or argument;\n\n(2) requiring, for the protection of the members of the class or otherwise for the fair conduct of the action, that notice be given in such manner as the court may direct to some or all of the members of any step in the action, or of the proposed extent of the judgment, or of the opportunity of members to signify whether they consider the representation fair and adequate, to intervene and present claims or defenses, or otherwise to come into the action;\n(3) imposing conditions on the representative parties or on intervenors;\n\n(4) requiring that the pleadings be amended to eliminate therefrom allegations as to representation of absent persons, and that the action proceed accordingly;\n\n(5) dealing with similar procedural matters. The orders may be combined with an order under Rule 62, and may be altered or amended as may be desirable from time to time.\n(e) Dismissal or Compromise. A class action shall not be dismissed or compromised without the approval of the court, and notice of the proposed dismissal or compromise shall be given to all members of the class in such manner as the court directs.\n\n(f) Appeals. An appellate court may permit an appeal from an order of a circuit court granting or denying class action certification under this Rule 52.08 if a petition is timely filed as provided in Rule 84.035. The filing of a petition shall not stay the proceedings in the trial court unless the trial judge or the appellate court so orders.",
+      "source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)",
+      "identical_to_current": false
+    }
+  ],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

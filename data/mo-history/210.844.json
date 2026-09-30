@@ -1,0 +1,27 @@
+{
+  "section": "210.844",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.844",
+  "current": {
+    "effective": "2011-08-28",
+    "bid": "11428",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.844&bid=11428"
+  },
+  "versions": [
+    {
+      "effective": "1998-08-28",
+      "end": "2011-08-28",
+      "bid": "58673",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.844&bid=58673",
+      "heading": "Applicability of certain statutes.",
+      "text": "In a proceeding to determine the existence of the parent and child relationship brought pursuant to the provisions of sections 454.010 to 454.360 or pursuant to the provisions of sections 454.850 to 454.997, the provisions of sections 210.817, 210.822 and 210.834 shall apply, but no other provisions of sections 210.818 through 210.852 shall apply.",
+      "history_note": "(L. 1998 S.B. 910)",
+      "effdt_raw": "Effective - 28 Aug 1998, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

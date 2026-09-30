@@ -1,0 +1,27 @@
+{
+  "section": "210.114",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.114",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "36035",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.114&bid=36035"
+  },
+  "versions": [
+    {
+      "effective": "2005-08-28",
+      "end": "2018-08-28",
+      "bid": "11299",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.114&bid=11299",
+      "heading": "Qualified immunity for private contractor, when — exceptions.",
+      "text": "1. Except as otherwise provided in section 207.085, a private contractor, as defined in subdivision (4) of section 210.110*, with the children's division that receives state moneys from the division or the department for providing services to children and their families shall have qualified immunity from civil liability for providing such services when the child is not in the physical care of such private contractor to the same extent that the children's division has qualified immunity from civil liability when the division or department directly provides such services.\n\n2. This section shall not apply if a private contractor described above knowingly violates a stated or written policy of the division, any rule promulgated by the division, or any state law directly related to child abuse and neglect, or any state law directly related to the child abuse and neglect activities of the division or any local ordinance relating to the safety condition of the property.",
+      "history_note": "(L. 2005 H.B. 568 merged with S.B. 420 & 344 § 210.116)",
+      "effdt_raw": "Effective - 28 Aug 2005, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

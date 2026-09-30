@@ -1,0 +1,30 @@
+{
+  "section": "210.630",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.630",
+  "current": {
+    "effective": "1975-08-28",
+    "bid": "33093",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.630&bid=33093"
+  },
+  "versions": [
+    {
+      "effective": "2007-08-28",
+      "end": "2007-08-28",
+      "bid": "11397",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.630&bid=11397",
+      "heading": "",
+      "text": "210.630. (Repealed L. 2007 S.B. 84)",
+      "history_note": "Contingent expiration/effective date, see § 210.650",
+      "effdt_raw": "Effective - 28 Aug 2007, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

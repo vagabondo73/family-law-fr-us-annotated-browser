@@ -1,0 +1,409 @@
+{
+  "side": "mo",
+  "axis": "procedure",
+  "lang": "en",
+  "nodes": [
+    {
+      "id": "proc.mo.general",
+      "label": "General provisions (Rules 41–50): scope, definitions, form of action, time, clerks, terms, forms of writs",
+      "children": [
+        {
+          "id": "proc.mo.general.scope-definitions",
+          "label": "Scope, authority, definitions and application of the Rules (Rule 41)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.general.form-of-action",
+          "label": "One form of action (Rule 42)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.general.service-filing-papers",
+          "label": "Service and filing of pleadings and other papers (Rule 43)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.general.time",
+          "label": "Computation and enlargement of time (Rule 44)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.general.courts-clerks",
+          "label": "Courts always open, clerk's duties, terms of court, vacation, forms of writs, local rules (Rules 45–50)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.venue-judge",
+      "label": "Venue, change of venue and change of judge (Rule 51; RSMo ch. 508)",
+      "children": [
+        {
+          "id": "proc.mo.venue-judge.venue",
+          "label": "Venue and transfer for improper venue",
+          "children": []
+        },
+        {
+          "id": "proc.mo.venue-judge.change-of-venue",
+          "label": "Change of venue",
+          "children": []
+        },
+        {
+          "id": "proc.mo.venue-judge.change-of-judge",
+          "label": "Change of judge, disqualification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.parties",
+      "label": "Parties (Rule 52; RSMo ch. 507)",
+      "children": [
+        {
+          "id": "proc.mo.parties.capacity-real-party",
+          "label": "Real party in interest, capacity, minors and incompetents, next friend",
+          "children": []
+        },
+        {
+          "id": "proc.mo.parties.joinder",
+          "label": "Joinder of claims and parties, interpleader, third-party practice",
+          "children": []
+        },
+        {
+          "id": "proc.mo.parties.class-derivative",
+          "label": "Class actions and derivative actions",
+          "children": []
+        },
+        {
+          "id": "proc.mo.parties.intervention",
+          "label": "Intervention",
+          "children": []
+        },
+        {
+          "id": "proc.mo.parties.substitution",
+          "label": "Substitution of parties, death, transfer of interest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.commencement-process",
+      "label": "Commencement of action; summons and service of process (Rules 53–54; RSMo ch. 506)",
+      "children": [
+        {
+          "id": "proc.mo.commencement-process.commencement",
+          "label": "Commencement of a civil action",
+          "children": []
+        },
+        {
+          "id": "proc.mo.commencement-process.summons-service",
+          "label": "Summons, service of process in and outside Missouri, service by mail and publication",
+          "children": []
+        },
+        {
+          "id": "proc.mo.commencement-process.long-arm",
+          "label": "Personal jurisdiction over non-residents; long-arm statute (RSMo 506.500 ff.)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.pleadings-motions",
+      "label": "Pleadings, motions and hearings (Rule 55; RSMo ch. 509)",
+      "children": [
+        {
+          "id": "proc.mo.pleadings-motions.pleading-form",
+          "label": "Pleadings allowed, captions, signatures, sanctions, form of pleadings",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pleadings-motions.claims-defenses",
+          "label": "Claims for relief, defenses, affirmative defenses, counterclaims, cross-claims",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pleadings-motions.motions",
+          "label": "Motions, motions to dismiss, judgment on the pleadings, more definite statement, strike",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pleadings-motions.amendment",
+          "label": "Amended and supplemental pleadings, relation back",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pleadings-motions.appearance-counsel",
+          "label": "Appearance and withdrawal of counsel, redaction, filing requirements",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.discovery",
+      "label": "Discovery (Rules 56–61)",
+      "children": [
+        {
+          "id": "proc.mo.discovery.general-scope",
+          "label": "General provisions governing discovery, scope, protective orders",
+          "children": []
+        },
+        {
+          "id": "proc.mo.discovery.interrogatories-depositions",
+          "label": "Interrogatories and depositions",
+          "children": []
+        },
+        {
+          "id": "proc.mo.discovery.production-inspection",
+          "label": "Production of documents and things, entry upon land",
+          "children": []
+        },
+        {
+          "id": "proc.mo.discovery.admissions",
+          "label": "Requests for admission",
+          "children": []
+        },
+        {
+          "id": "proc.mo.discovery.examinations",
+          "label": "Physical and mental examinations",
+          "children": []
+        },
+        {
+          "id": "proc.mo.discovery.sanctions",
+          "label": "Enforcement of discovery; sanctions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.pretrial-trial",
+      "label": "Pre-trial and trial (Rules 62–73; RSMo ch. 510)",
+      "children": [
+        {
+          "id": "proc.mo.pretrial-trial.pretrial",
+          "label": "Pre-trial conferences, trial settings, place of trial, continuances",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.consolidation-separate-trials",
+          "label": "Consolidation and separate trials",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.dismissal",
+          "label": "Voluntary and involuntary dismissal",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.masters-receivers",
+          "label": "Masters and receivers (Rule 68)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.jury",
+          "label": "Trial by jury, jury selection, instructions, verdicts",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.directed-verdict",
+          "label": "Directed verdict and judgment notwithstanding the verdict",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.court-trial",
+          "label": "Trial by court; findings of fact and conclusions of law",
+          "children": []
+        },
+        {
+          "id": "proc.mo.pretrial-trial.evidence-witnesses",
+          "label": "Evidence, witnesses and conduct of trial (statutory)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.judgments",
+      "label": "Judgments and their control (Rules 74–75, 79–80; RSMo ch. 511)",
+      "children": [
+        {
+          "id": "proc.mo.judgments.entry-finality",
+          "label": "Entry of judgment, partial judgments, finality",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.summary-judgment",
+          "label": "Summary judgment",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.default",
+          "label": "Default judgment and setting aside default",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.relief-from-judgment",
+          "label": "Relief from judgment or order; clerical mistakes",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.foreign-judgments",
+          "label": "Registration and enforcement of foreign judgments",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.liens-satisfaction",
+          "label": "Judgment liens, revival, satisfaction",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.control",
+          "label": "Trial court control of judgments (30-day rule)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.judgments.judge-disability",
+          "label": "Disability or absence of judge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.post-trial",
+      "label": "New trials and after-trial motions; preservation of error (Rule 78)",
+      "children": []
+    },
+    {
+      "id": "proc.mo.costs",
+      "label": "Costs and fees (Rule 77; RSMo ch. 514)",
+      "children": []
+    },
+    {
+      "id": "proc.mo.enforcement",
+      "label": "Enforcement of judgments (Rules 76, 90; RSMo ch. 513, 525)",
+      "children": [
+        {
+          "id": "proc.mo.enforcement.execution",
+          "label": "Executions, levy, judicial sales",
+          "children": []
+        },
+        {
+          "id": "proc.mo.enforcement.exemptions",
+          "label": "Exemptions from execution",
+          "children": []
+        },
+        {
+          "id": "proc.mo.enforcement.garnishment",
+          "label": "Garnishment and sequestration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.provisional-remedies",
+      "label": "Provisional and interim remedies (Rules 85, 92, 99; RSMo ch. 515)",
+      "children": [
+        {
+          "id": "proc.mo.provisional-remedies.attachment",
+          "label": "Attachment",
+          "children": []
+        },
+        {
+          "id": "proc.mo.provisional-remedies.injunction",
+          "label": "Injunctions and temporary restraining orders",
+          "children": []
+        },
+        {
+          "id": "proc.mo.provisional-remedies.replevin",
+          "label": "Replevin",
+          "children": []
+        },
+        {
+          "id": "proc.mo.provisional-remedies.receivers",
+          "label": "Receivers (statutory)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.appeals",
+      "label": "Appeals and appellate procedure (Rules 81, 83, 84; RSMo ch. 512)",
+      "children": [
+        {
+          "id": "proc.mo.appeals.right-time",
+          "label": "Right to appeal, notice of appeal, time, bonds and stays",
+          "children": []
+        },
+        {
+          "id": "proc.mo.appeals.record-briefs",
+          "label": "Record on appeal, briefs, oral argument, appellate filings",
+          "children": []
+        },
+        {
+          "id": "proc.mo.appeals.transfer",
+          "label": "Transfer to the Supreme Court",
+          "children": []
+        },
+        {
+          "id": "proc.mo.appeals.decision-rehearing",
+          "label": "Opinions, rehearing, mandate, damages for frivolous appeals",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.special-actions",
+      "label": "Special actions (Rules 86–100)",
+      "children": [
+        {
+          "id": "proc.mo.special-actions.condemnation",
+          "label": "Condemnation proceedings",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.declaratory-judgment",
+          "label": "Declaratory judgments",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.domestic-relations",
+          "label": "Domestic relations and paternity cases (Rule 88)",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.ejectment-land-titles",
+          "label": "Ejectment and land titles; partition",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.habeas-corpus",
+          "label": "Habeas corpus",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.extraordinary-writs",
+          "label": "Mandamus, prohibition, quo warranto",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.change-of-name",
+          "label": "Change of name",
+          "children": []
+        },
+        {
+          "id": "proc.mo.special-actions.administrative-review",
+          "label": "Judicial review of administrative decisions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proc.mo.limitations",
+      "label": "Limitation of actions (RSMo ch. 516)",
+      "children": []
+    },
+    {
+      "id": "proc.mo.associate-circuit",
+      "label": "Associate circuit judge proceedings and small claims (RSMo ch. 517)",
+      "children": []
+    }
+  ]
+}

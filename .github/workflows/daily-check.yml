@@ -1,0 +1,144 @@
+# Daily upstream-source check (detection only) + manual "rebuild" (pipelines → site build → PR or direct deploy).
+# Legal content is NEVER rewritten by the scheduled job: it only writes data/update-report.json and opens an issue.
+name: daily-check
+
+on:
+  schedule:
+    - cron: "17 5 * * *"          # every day 05:17 UTC
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "check = source check only; rebuild = run pipelines (docs/PIPELINES.md) + site build"
+        type: choice
+        options: [check, rebuild]
+        default: check
+      pipelines:
+        description: "rebuild: comma-separated pipeline ids from docs/PIPELINES.md, or 'all'"
+        type: string
+        default: all
+      publish_mode:
+        description: "rebuild: 'pr' = open a pull request for review (Pages deploys on merge); 'direct' = commit to the default branch and deploy now"
+        type: choice
+        options: [pr, direct]
+        default: pr
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  actions: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: flb-data
+  cancel-in-progress: false
+
+jobs:
+  check:
+    if: github.event_name == 'schedule' || inputs.task == 'check'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ensure issue labels exist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create source-change --color B60205 --description "Upstream legal source changed" 2>/dev/null || true
+          gh label create needs-review --color FBCA04 --description "Needs human review before re-ingestion" 2>/dev/null || true
+      - name: Check sources (git HEAD, HTTP hash, PISTE API when configured)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PISTE_CLIENT_ID: ${{ secrets.PISTE_CLIENT_ID }}
+          PISTE_CLIENT_SECRET: ${{ secrets.PISTE_CLIENT_SECRET }}
+        run: python3 scripts/daily_check.py --data data --open-issue --summary update-report.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: update-report
+          path: |
+            data/update-report.json
+            update-report.md
+      - name: Commit the report only (no legal content)
+        id: commit
+        run: |
+          git config user.name "flb-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/update-report.json
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git commit -m "chore(check): update-report $(date -u +%F)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Redeploy Pages so the Sources page shows the new check status
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run pages.yml --ref "${{ github.ref_name }}"
+
+  rebuild:
+    if: github.event_name == 'workflow_dispatch' && inputs.task == 'rebuild'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    outputs:
+      direct: ${{ steps.pub.outputs.direct }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install pipeline requirements (if any)
+        run: if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
+      - name: Run per-agent pipelines (docs/PIPELINES.md)
+        env:
+          PISTE_CLIENT_ID: ${{ secrets.PISTE_CLIENT_ID }}
+          PISTE_CLIENT_SECRET: ${{ secrets.PISTE_CLIENT_SECRET }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+        run: python3 scripts/run_pipelines.py --only "${{ inputs.pipelines }}"
+      - name: Build site (validation report in site/data/build-report.json)
+        run: python3 scripts/site_build.py --source data
+      - name: Open a pull request for review
+        if: inputs.publish_mode == 'pr'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: rebuild/${{ github.run_id }}
+          commit-message: "data: rebuild (${{ inputs.pipelines }})"
+          title: "Data rebuild — ${{ inputs.pipelines }} (run ${{ github.run_id }})"
+          body: |
+            Automated rebuild of pipelines `${{ inputs.pipelines }}` followed by `scripts/site_build.py`.
+            Review the legal-content diff under `data/` and `site/data/build-report.json` (dropped links / temporal-rule errors) before merging.
+            GitHub Pages deploys automatically when this PR is merged (pages.yml).
+          labels: needs-review
+          add-paths: |
+            data/**
+            site/data/**
+            site/content/**
+            site/sitemap.xml
+      - name: Commit directly
+        id: pub
+        if: inputs.publish_mode == 'direct'
+        run: |
+          git config user.name "flb-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site/data site/content site/sitemap.xml
+          git diff --cached --quiet || git commit -m "data: rebuild (${{ inputs.pipelines }}) [run ${{ github.run_id }}]"
+          git push
+          echo "direct=true" >> "$GITHUB_OUTPUT"
+      - name: Upload Pages artifact
+        if: inputs.publish_mode == 'direct'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: rebuild
+    if: needs.rebuild.outputs.direct == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

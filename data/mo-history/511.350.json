@@ -1,0 +1,47 @@
+{
+  "section": "511.350",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.350",
+  "current": {
+    "effective": "2007-08-28",
+    "bid": "27561",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.350&bid=27561"
+  },
+  "versions": [
+    {
+      "effective": "2003-08-28",
+      "end": "2007-08-28",
+      "bid": "52808",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.350&bid=52808",
+      "heading": "Liens on real estate established by judgment or decrees in courts of record, exception — associate circuit court, procedure required — no administrative amendments.",
+      "text": "1. Judgments and decrees entered by the supreme court, by any United States district or circuit court held within this state, by any district of the court of appeals, by any circuit court and any probate division of the circuit court, except judgments and decrees rendered by associate, small claims and municipal divisions of the circuit courts, shall be liens on the real estate of the person against whom they are entered, situate in the county for which or in which the court is held.\n\n2. Judgments and decrees rendered by the associate divisions of the circuit courts shall not be liens on the real estate of the person against whom they are rendered until such judgments or decrees are filed with the clerk of the circuit court pursuant to sections 517.141 and 517.151, RSMo.\n\n3. Judgments and decrees entered by the small claims and municipal divisions of the circuit court shall not constitute liens against the real estate of the person against whom they are rendered.\n\n4. Notwithstanding any other provision of law, no judgments or decrees entered by any court of competent jurisdiction may be amended or modified by any administrative agency.",
+      "history_note": "(RSMo 1939 § 1269, A. 1949 H.B. 2119, A.L. 1973 S.B. 263, A.L. 1982 S.B. 484, A.L. 2001 S.B. 10, A.L. 2003 H.B. 613)",
+      "effdt_raw": "Effective - 28 Aug 2003, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "effective": "2001-08-28",
+      "end": "2003-08-28",
+      "bid": "53703",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.350&bid=53703",
+      "heading": "Liens on real estate established by judgment or decrees in courts of record, exception — associate circuit court, procedure required.",
+      "text": "1. Judgments and decrees rendered by the supreme court, by any United States district or circuit court held within this state, by any district of the court of appeals, by any circuit court and any probate division of the circuit court, except judgments and decrees rendered by associate, small claims and municipal divisions of the circuit courts, shall be liens on the real estate of the person against whom they are rendered, situate in the county for which or in which the court is held.\n\n2. Judgments and decrees rendered by the associate divisions of the circuit courts shall not be liens on the real estate of the person against whom they are rendered until such judgments or decrees are filed with the clerk of the circuit court pursuant to sections 517.141 and 517.151, RSMo.\n\n3. Judgments and decrees rendered by the small claims and municipal divisions of the circuit court shall not constitute liens against the real estate of the person against whom they are rendered.",
+      "history_note": "(RSMo 1939 § 1269, A. 1949 H.B. 2119, A.L. 1973 S.B. 263, A.L. 1982 S.B. 484, A.L. 2001 S.B. 10)",
+      "effdt_raw": "Effective - 28 Aug 2001, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

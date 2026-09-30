@@ -1,0 +1,14 @@
+{
+  "rule": "87.01",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=199845",
+  "current": {
+    "effective": null,
+    "text_sha256": "562de36123ed3089b9ff8228955e356ec33456a2a336cee8d1b62b998ca3bb7c"
+  },
+  "chronology": [],
+  "history_note": null,
+  "versions": [],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

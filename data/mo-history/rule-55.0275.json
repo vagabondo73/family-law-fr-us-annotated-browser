@@ -1,0 +1,23 @@
+{
+  "rule": "55.0275",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=128693",
+  "current": {
+    "effective": "2026-07-01",
+    "text_sha256": "707765302366b2b9707268bd86797e1f694738f08a29d3b86baec4cb2b49ee17"
+  },
+  "chronology": [],
+  "history_note": "(Adopted 2025-12-16, effective 2026-07-01.)",
+  "versions": [
+    {
+      "effective": "2023-07-01",
+      "end": "2026-07-01",
+      "heading": "Redaction Requirements",
+      "text": "(a) Redaction of Confidential Information. Unless otherwise ordered by the court, any counsel, party, or other person offering a document for filing in any court shall redact information that is confidential pursuant to statute, court rule or order, or other law. Such confidential information can include, but is not limited to:\n\n(1) Social security numbers, driver's license numbers, state identification numbers, taxpayer identification numbers, and passport numbers;\n(2) Financial institution account numbers, credit or debit card numbers, personal identification numbers, or passwords used to secure any such accounts or cards;\n\n(3) Names, addresses, and contact information of informants, victims, witnesses, and persons protected under orders of protection or restraining orders;\n\n(4) Dates of birth;\n(5) Names of individuals known to be minors; and\n\n(6) Case numbers of confidential, expunged, or sealed records.\n\nFilers should also exercise caution when filing documents that include medical records, employment history, financial records, proprietary information, or trade secrets.\n\n(b) Responsibility for Redacting. For all documents offered for filing in any court, the responsibility for redacting confidential information rests solely with the counsel, party, or other person filing the document.\n(c) Manner of Redacting. All redactions shall be done in a manner that makes it clear that the information has been redacted. If necessary to reference the redacted information in a redacted document, filers shall use generic descriptors.\n\n(d) Redacted Information – How Provided. When a filer redacts information from a document offered for filing in any court, the filer also must contemporaneously file a confidential redacted information filing sheet that either:\n(1) has the unredacted version of the document attached thereto; or\n\n(2) sets out the information redacted from the document and explains either where the information was redacted from in the document or the generic descriptors used in the document to reference the redacted information.\n(e) Certification. All filers shall affirmatively certify compliance with the redaction requirements in this Rule when a document is filed. This certification shall be accomplished through an automated process implemented in the electronic filing system for its authorized users or, for filers who are not authorized users of the electronic filing system, by a paper form attached to the document or on the document itself.",
+      "source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)",
+      "identical_to_current": false
+    }
+  ],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

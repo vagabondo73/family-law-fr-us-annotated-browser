@@ -1,0 +1,252 @@
+{
+  "corpus": "mapping-cpc-mo",
+  "norms_expected": 1240,
+  "norms_done": 1240,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "cpc_mirror": {
+    "branch_main_head": "64a5dcbbf517c334b068f5820510519288f778b8 2026-05-07T00:00:00Z",
+    "note": "Tricoteuses commit dates are entry-into-force dates: main HEAD 64a5dcb (dated 2026-05-07, décret n° 2026-337) is the latest state in force on the build date; the repository's 2026-09-22 update concerns branch 'futur' (future states), which is read for successor versions.",
+    "future_states": [
+      {
+        "date": "2026-10-01",
+        "commit": "ace3e06a521e03c1b9046deed8479dd8f2175498",
+        "subject": "Décret n° 2026-683 du 27 juillet 2026 portant diverses mesures de simplification procédurale",
+        "modified": 20,
+        "added": [
+          "456-1"
+        ],
+        "removed": [
+          "1549"
+        ]
+      },
+      {
+        "date": "2026-12-31",
+        "commit": "4f18bff29b1fbb4e5cc65a6cb0ec1dce43cd027d",
+        "subject": "!!! Texte non trouvé 2026-12-31 !!!",
+        "modified": 20,
+        "added": [
+          "456-1"
+        ],
+        "removed": [
+          "963",
+          "1549"
+        ]
+      },
+      {
+        "date": "2027-01-01",
+        "commit": "7865032f7e4940ebd445633ca49bf577955f9182",
+        "subject": "Décret n° 2026-741 du 6 août 2026 portant diverses mesures de clarification et modernisation de la procédure arbitrale",
+        "modified": 56,
+        "added": [
+          "456-1",
+          "1527-4",
+          "1527-3",
+          "1527-2",
+          "1527-5",
+          "1527-1",
+          "1516-1",
+          "1487-1",
+          "1480-1",
+          "1480-2",
+          "1468-1",
+          "1462-1",
+          "1495-1"
+        ],
+        "removed": [
+          "963",
+          "1549"
+        ]
+      },
+      {
+        "date": "2029-06-30",
+        "commit": "b3a58f76b7ed291ddb637da4cac08b3b13bc1234",
+        "subject": "Décret n° 2025-619 du 8 juillet 2025 portant diverses mesures de simplification de la procédure civile",
+        "modified": 56,
+        "added": [
+          "456-1",
+          "1527-4",
+          "1527-3",
+          "1527-2",
+          "1527-5",
+          "1527-1",
+          "1516-1",
+          "1487-1",
+          "1480-1",
+          "1480-2",
+          "1468-1",
+          "1462-1",
+          "1495-1"
+        ],
+        "removed": [
+          "748-8",
+          "963",
+          "1549"
+        ]
+      }
+    ]
+  },
+  "cpc_articles_in_force": 2019,
+  "livres_i_ii_articles": 1240,
+  "livres_iii_vi_articles_screened": 779,
+  "livres_iii_vi_entries_with_counterpart": 459,
+  "entries": 1699,
+  "by_livre_equivalence": {
+    "livre_ier:equivalent": 8,
+    "livre_ier:functional": 23,
+    "livre_ier:none": 275,
+    "livre_ier:partial": 561,
+    "livre_ii:equivalent": 1,
+    "livre_ii:functional": 4,
+    "livre_ii:none": 102,
+    "livre_ii:partial": 266,
+    "livre_iii:functional": 8,
+    "livre_iii:partial": 371,
+    "livre_iii:screened-none": 247,
+    "livre_iv:functional": 2,
+    "livre_iv:partial": 35,
+    "livre_iv:screened-none": 49,
+    "livre_v:partial": 41,
+    "livre_v:screened-none": 17,
+    "livre_vi:partial": 2,
+    "livre_vi:screened-none": 7
+  },
+  "equivalence_totals": {
+    "partial": 1276,
+    "none": 377,
+    "functional": 37,
+    "equivalent": 9
+  },
+  "confidence_totals": {
+    "high": 1174,
+    "medium": 524,
+    "low": 1
+  },
+  "verified_true": 1672,
+  "verified_false": 27,
+  "downgraded_by_verifier": 133,
+  "quotes_near_verbatim": 61,
+  "notes_revised_by_verifier": 250,
+  "pruned": {
+    "weak functional match (verification confidence medium)": 155,
+    "weak functional match (verification confidence low)": 2,
+    "Livre VI overseas-application article: no genuine counterpart established": 1
+  },
+  "frcp_links": 854,
+  "frcp_links_committee_note": 99,
+  "frcp_links_rule_text": 0,
+  "frcp_links_editorial": 755,
+  "missouri_procedure_norms": 1072,
+  "missouri_procedure_norms_mapped": 372,
+  "cpc_versions_changing": {
+    "count": 59,
+    "by_end_date": {
+      "2026-10-01": 21,
+      "2029-06-30": 1,
+      "2026-12-31": 1,
+      "2027-01-01": 36
+    },
+    "articles": [
+      "56",
+      "131",
+      "455",
+      "456",
+      "472",
+      "495",
+      "496",
+      "524",
+      "665-1",
+      "729-1",
+      "748-8",
+      "905",
+      "955",
+      "963",
+      "1009-2",
+      "1040",
+      "1055-3",
+      "1055-4",
+      "1448",
+      "1450",
+      "1452",
+      "1453",
+      "1454",
+      "1456",
+      "1457",
+      "1464",
+      "1468",
+      "1469",
+      "1478",
+      "1479",
+      "1480",
+      "1483",
+      "1484",
+      "1487",
+      "1488",
+      "1493",
+      "1495",
+      "1496",
+      "1497",
+      "1498",
+      "1499",
+      "1500",
+      "1504",
+      "1505",
+      "1506",
+      "1515",
+      "1516",
+      "1517",
+      "1521",
+      "1523",
+      "1524",
+      "1525",
+      "1526",
+      "1527",
+      "1533",
+      "1534-1",
+      "1534-3",
+      "1549",
+      "1575"
+    ],
+    "refresh": "scripts/mos_check.py re-runs mop_cpc_articles.py + mop_map2.py + mop_build.py for these articles once their end date is reached (first: 2026-10-01, décret n° 2026-683: 20 modified, 456-1 added, 1549 removed)."
+  },
+  "method": "CPC texts from the Tricoteuses LEGI mirror (state in force on the build date); successors from branch futur. Q: English gist/keywords per article (LLM). R: BM25 keyword retrieval over the FULL texts of all Missouri Rules and RSMo sections (top 8) plus the v1 candidates. M: mapping decision on FULL CPC and Missouri texts (≤3 articles, ≤18 candidates per call; texts capped at 9,000/7,000 chars). V: independent verification pass (only the article and proposed provisions): confirm/downgrade, confidence, verbatim quotes, grounded notes; quotes checked mechanically (exact after normalisation, or 'near' = ≥90% of the quote's words in order within one passage). Pruning and verified flag per scripts/mop_build.py docstring. FRCP: committee-note basis vs editorial.",
+  "gaps": [
+    "art. 499-1: no page on the CPC annotated browser index (cpc_url null)",
+    "art. 499-2: no page on the CPC annotated browser index (cpc_url null)",
+    "art. 499-3: no page on the CPC annotated browser index (cpc_url null)",
+    "27 entries verified=false (verifier confidence low, quote not found verbatim, or verifier output missing) — listed in 'unverified'",
+    "Notes are LLM-generated from the texts and checked by a second LLM pass and a mechanical quote check, not individually human-reviewed.",
+    "fr-cpc (another agent's file) not edited: JAF cross-links to cpc-annotated-browser pages are available here via cpc_url."
+  ],
+  "unverified": [
+    "86",
+    "131-2",
+    "144",
+    "226",
+    "458",
+    "758",
+    "794",
+    "849-3",
+    "902",
+    "915-2",
+    "989",
+    "1031-2",
+    "1037-1",
+    "1054-1",
+    "1074-4",
+    "1083",
+    "1090",
+    "1126-1",
+    "1136-13",
+    "1136-15-1",
+    "1151",
+    "1286",
+    "1417",
+    "1424-10",
+    "1468",
+    "1486",
+    "1497"
+  ],
+  "updated": "2026-09-30"
+}

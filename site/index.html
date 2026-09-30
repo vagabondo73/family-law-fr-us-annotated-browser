@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Family Law Annotated Browser — Droit de la famille annoté (FR ↔ US / Missouri)</title>
+<meta name="description" content="Annotated browser of binding family-law norms and binding interpretations: France, EU & international instruments, United States (federal) and Missouri. Agent-readable pages at content/index.html.">
+<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+<link rel="alternate" type="text/html" href="content/index.html" title="Static agent-readable index (no JavaScript)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/app.css">
+<script>
+  // theme before paint (in-memory only; follows the system preference by default)
+  document.documentElement.dataset.theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+</script>
+<script type="module" src="assets/js/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Aller au contenu / Skip to content</a>
+<header class="hdr">
+  <a class="brand" href="#/" aria-label="Family Law Annotated Browser — accueil / home">
+    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+      <rect x="1.5" y="1.5" width="29" height="29" rx="3" stroke="currentColor" stroke-width="1.6"/>
+      <circle cx="12.5" cy="16" r="7" stroke="currentColor" stroke-width="1.6"/>
+      <circle cx="19.5" cy="16" r="7" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M16 10.3v11.4" stroke="currentColor" stroke-width="1.6"/>
+    </svg>
+    <span class="brand-t"><b>Droit de la famille annoté</b><span>Family Law Annotated · FR ↔ US / Missouri</span></span>
+  </a>
+  <div class="axis" id="axis" role="group" aria-label="Axe / Axis" hidden></div>
+  <div class="search" role="search">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <label class="sr-only" for="q">Rechercher / Search</label>
+    <input id="q" type="search" autocomplete="off" placeholder="Rechercher / Search — 371-1, prestation compensatoire, habitual residence…" aria-controls="qs" aria-autocomplete="list">
+    <kbd>/</kbd>
+    <div id="qs" class="qs" role="listbox"></div>
+  </div>
+  <nav class="hnav" aria-label="Global">
+    <a href="#/sources" data-nav="sources"><span class="lbl">Sources</span><span class="only-narrow sr-only">Sources</span></a>
+    <a href="#/coverage" data-nav="coverage"><span class="lbl">Couverture <span class="bil">/ Coverage</span></span></a>
+    <button class="iconbtn only-narrow" id="btn-issues" type="button" aria-label="Questions / Issues" title="Questions / Issues">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h10M4 12h16M4 18h7"/><circle cx="18" cy="6" r="2"/><circle cx="15" cy="18" r="2"/></svg>
+    </button>
+    <button class="iconbtn" id="btn-theme" type="button" aria-label="Thème clair / sombre — light / dark theme" title="Thème / Theme">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>
+    </button>
+  </nav>
+</header>
+<div id="banner"></div>
+<div class="layout">
+  <aside class="pane pane-l" id="pane-l" aria-label="Index des sources / Source index">
+    <div class="pane-h"><h2>Sources · Index</h2><button class="btn sm" id="collapse-all" type="button" title="Replier / Collapse">−</button></div>
+    <div id="filterchip-l"></div>
+    <div class="pane-b"><ul class="tree" id="tree"></ul></div>
+  </aside>
+  <main class="main" id="main" tabindex="-1" aria-live="polite"></main>
+  <aside class="pane pane-r" id="pane-r" aria-label="Arbre des questions / Issue tree">
+    <div class="pane-h"><h2>Questions · Issues</h2></div>
+    <input class="ifilter" id="ifilter" type="search" placeholder="Filtrer / Filter issues" aria-label="Filtrer les questions / Filter issues">
+    <div class="pane-b" id="itree"></div>
+  </aside>
+</div>
+<nav class="tabs-m" aria-label="Panneaux / Panes">
+  <button type="button" data-tab="l"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5h16M4 12h10M4 19h13"/></svg>Index</button>
+  <button type="button" data-tab="m" aria-pressed="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 3h9l3 3v15H6z"/><path d="M9 10h6M9 14h6"/></svg>Texte / Text</button>
+  <button type="button" data-tab="r"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h10M4 12h16M4 18h7"/><circle cx="18" cy="6" r="2"/></svg>Questions</button>
+</nav>
+<noscript><p style="padding:20px">JavaScript is required for the interactive browser. The full corpus is available without JavaScript at <a href="content/index.html">content/index.html</a>.</p></noscript>
+</body>
+</html>

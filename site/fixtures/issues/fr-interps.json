@@ -1,0 +1,13 @@
+{
+  "side": "fr",
+  "lang": "fr",
+  "fixture": true,
+  "_note": "FIXTURE — raw analysis-code node (hidden from the tree, kept as 'Classement CE')",
+  "nodes": [
+    {
+      "id": "fr.jur.fixture-code",
+      "label": "00-00-00,rj0 FIXTURE — code d'analyse brut (masqué)",
+      "children": []
+    }
+  ]
+}

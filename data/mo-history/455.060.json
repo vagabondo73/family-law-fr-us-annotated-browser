@@ -1,0 +1,45 @@
+{
+  "section": "455.060",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.060",
+  "current": {
+    "effective": "2013-08-28",
+    "bid": "25539",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.060&bid=25539"
+  },
+  "versions": [
+    {
+      "effective": "2011-08-28",
+      "end": "2013-08-28",
+      "bid": "48999",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.060&bid=48999",
+      "heading": "Modification of orders,\nwhen — termination, when — appeal —\ncustody of children, may not be changed,\nwhen.",
+      "text": "1. After notice and hearing, the court may modify an order of protection at any time, upon subsequent motion filed by the guardian ad litem, the court-appointed special advocate or by either party together with an affidavit showing a change in circumstances sufficient to warrant the modification. All full orders of protection shall be final orders and appealable and shall be for a fixed period of time as provided in section 455.040.\n\n2. Any order for child support, custody, temporary custody, visitation or maintenance entered under sections 455.010 to 455.085 shall terminate prior to the time fixed in the order upon the issuance of a subsequent order pursuant to chapter 452 or any other Missouri statute.\n\n3. No order entered pursuant to sections 455.010 to 455.085 shall be res judicata to any subsequent proceeding, including, but not limited to, any action brought under chapter 452, RSMo 1978, as amended.\n\n4. All provisions of an order of protection shall terminate upon entry of a decree of dissolution of marriage or legal separation except as to those provisions which require the respondent to participate in a court-approved counseling program or enjoin the respondent from abusing, molesting, stalking or disturbing the peace of the petitioner and which enjoin the respondent from entering the premises of the dwelling unit of the petitioner as described in the order of protection when the petitioner continues to reside in that dwelling unit unless the respondent is awarded possession of the dwelling unit pursuant to a decree of dissolution of marriage or legal separation.\n\n5. Any order of protection or order for child support, custody, temporary custody, visitation or maintenance entered under sections 455.010 to 455.085 shall terminate upon the order of the court granting a motion to terminate the order of protection by the petitioner. The court shall set the motion to dismiss for hearing and both parties shall have an opportunity to be heard. Prior to terminating any order of protection, the court may examine the circumstances of the motion to dismiss and may inquire of the petitioner or others in order to assist the court in determining if dismissal is voluntary.\n\n6. The order of protection may not change the custody of children when an action for dissolution of marriage has been filed or the custody has previously been awarded by a court of competent jurisdiction.",
+      "history_note": "(L. 1980 S.B. 524 § 11, A.L. 1989 S.B. 420, A.L. 1995 S.B. 174,\nA.L. 2002 H.B. 1814, A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "effective": "2002-08-28",
+      "end": "2011-08-28",
+      "bid": "53199",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.060&bid=53199",
+      "heading": "Modification of orders, when — termination — appeal — custody of children, may not be changed, when.",
+      "text": "1. After notice and hearing, the court may modify an order of protection at any time, upon subsequent motion filed by the guardian ad litem, the court-appointed special advocate or by either party together with an affidavit showing a change in circumstances sufficient to warrant the modification. All full orders of protection shall be final orders and appealable and shall be for a fixed period of time as provided in section 455.040.\n\n2. Any order for child support, custody, temporary custody, visitation or maintenance entered under sections 455.010 to 455.085 shall terminate prior to the time fixed in the order upon the issuance of a subsequent order pursuant to chapter 452 or any other Missouri statute.\n\n3. No order entered pursuant to sections 455.010 to 455.085 shall be res judicata to any subsequent proceeding, including, but not limited to, any action brought under chapter 452, RSMo, 1978 as amended.\n\n4. All provisions of an order of protection shall terminate upon entry of a decree of dissolution of marriage or legal separation except as to those provisions which require the respondent to participate in a court-approved counseling program or enjoin the respondent from abusing, molesting, stalking or disturbing the peace of the petitioner and which enjoin the respondent from entering the premises of the dwelling unit of the petitioner as described in the order of protection when the petitioner continues to reside in that dwelling unit unless the respondent is awarded possession of the dwelling unit pursuant to a decree of dissolution of marriage or legal separation.\n\n5. Any order of protection or order for child support, custody, temporary custody, visitation or maintenance entered under sections 455.010 to 455.085 shall terminate upon the filing of a motion to terminate the order of protection by the petitioner; except that, in cases where the order grants custody of a minor child to the respondent, the order shall terminate only upon consent of both parties or upon the respondent's failure to object within ten days of receiving the petitioner's notice of the filing of the motion to dismiss. If the respondent timely objects to the dismissal, the court shall set the motion to dismiss for hearing and both parties shall have an opportunity to be heard.\n\n6. The order of protection may not change the custody of children when an action for dissolution of marriage has been filed or the custody has previously been awarded by a court of competent jurisdiction.",
+      "history_note": "(L. 1980 S.B. 524 § 11, A.L. 1989 S.B. 420, A.L. 1995 S.B. 174, A.L. 2002 H.B. 1814)",
+      "effdt_raw": "Effective - 28 Aug 2002, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

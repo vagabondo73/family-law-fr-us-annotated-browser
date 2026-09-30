@@ -1,0 +1,27 @@
+{
+  "section": "516.090",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.090",
+  "current": {
+    "effective": "2007-08-28",
+    "bid": "27826",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.090&bid=27826"
+  },
+  "versions": [
+    {
+      "effective": "2006-08-28",
+      "end": "2007-08-28",
+      "bid": "50949",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.090&bid=50949",
+      "heading": "Statute not to extend to certain lands.",
+      "text": "Nothing contained in any statute of limitation shall extend to any lands given, granted, sequestered or appropriated to any public, pious or charitable use, or to any lands belonging to this state. This section shall be construed to prohibit any judgment granting adverse possession to a claimant where the defendant possesses an interest in land described in a recorded deed and is a public utility as defined in section 386.020, RSMo.",
+      "history_note": "(RSMo 1939 § 1011, A.L. 2006 S.B. 1045)",
+      "effdt_raw": "Effective - 28 Aug 2006, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

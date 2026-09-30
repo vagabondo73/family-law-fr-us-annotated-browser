@@ -1,0 +1,43 @@
+{
+  "section": "455.543",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.543",
+  "current": {
+    "effective": "2016-08-28",
+    "bid": "33616",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.543&bid=33616"
+  },
+  "versions": [
+    {
+      "effective": "2011-08-28",
+      "end": "2016-08-28",
+      "bid": "25579",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.543&bid=25579",
+      "heading": "Homicides or suicides, determination of domestic violence, factors to be considered — reports made to highway patrol, forms, due when.",
+      "text": "1. In any incident investigated by a law enforcement agency involving a homicide or suicide, the law enforcement agency shall make a determination as to whether the homicide or suicide is related to domestic violence.\n\n2. In making such determination, the local law enforcement agency may consider a number of factors including, but not limited to, the following:\n\n(1) If the relationship between the perpetrator and the victim is or was that of a family or household member;\n\n(2) Whether the victim or perpetrator had previously filed for an order of protection;\n\n(3) Whether any of the subjects involved in the incident had previously been investigated for incidents of domestic violence; and\n\n(4) Any other evidence regarding the homicide or suicide that assists the agency in making its determination.\n\n3. After making a determination as to whether the homicide or suicide is related to domestic violence, the law enforcement agency shall forward the information required within fifteen days to the Missouri state highway patrol on a form or format approved by the patrol. The required information shall include the gender and age of the victim, the type of incident investigated, the disposition of the incident and the relationship of the victim to the perpetrator. The state highway patrol shall develop a form for this purpose which shall be distributed by the department of public safety to all law enforcement agencies by October 1, 2000. Completed forms shall be forwarded to the highway patrol without undue delay as required by section 43.500; except that all such reports shall be forwarded no later than seven days after an incident is determined or identified as a homicide or suicide involving domestic violence.",
+      "history_note": "(L. 1998 H.B. 1918, A.L. 2000 H.B. 1677, et al., A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3"
+      ]
+    },
+    {
+      "effective": "2000-08-28",
+      "end": "2011-08-28",
+      "bid": "56250",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.543&bid=56250",
+      "heading": "Homicides or suicides, determination of domestic violence, factors to be considered — reports made to highway patrol, forms, due when.",
+      "text": "1. In any incident investigated by a law enforcement agency involving a homicide or suicide, the law enforcement agency shall make a determination as to whether the homicide or suicide is related to domestic violence, as defined in section 455.200.\n\n2. In making such determination, the local law enforcement agency may consider a number of factors including, but not limited to, the following:\n\n(1) If the relationship between the perpetrator and the victim is or was that of a family or household member, as defined in section 455.010;\n\n(2) Whether the victim or perpetrator had previously filed for an order of protection ;\n\n(3) Whether any of the subjects involved in the incident had previously been investigated for incidents of domestic violence; and\n\n(4) Any other evidence regarding the homicide or suicide that assists the agency in making its determination.\n\n3. After making a determination as to whether the homicide or suicide is related to domestic violence, the law enforcement agency shall forward the information required within fifteen days to the Missouri state highway patrol on a form or format approved by the patrol. The required information shall include the gender and age of the victim, the type of incident investigated, the disposition of the incident and the relationship of the victim to the perpetrator. The state highway patrol shall develop a form for this purpose which shall be distributed by the department of public safety to all law enforcement agencies by October 1, 2000. Completed forms shall be forwarded to the highway patrol without undue delay as required by section 43.500; except that all such reports shall be forwarded no later than seven days after an incident is determined or identified as a homicide or suicide involving domestic violence.",
+      "history_note": "(L. 1998 H.B. 1918, A.L. 2000 H.B. 1677, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2000, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

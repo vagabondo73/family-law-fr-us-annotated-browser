@@ -1,0 +1,27 @@
+{
+  "section": "508.012",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.012",
+  "current": {
+    "effective": "2019-08-28",
+    "bid": "47709",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.012&bid=47709"
+  },
+  "versions": [
+    {
+      "effective": "2005-08-28",
+      "end": "2019-08-28",
+      "bid": "27405",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.012&bid=27405",
+      "heading": "Transfer of case based on addition or removal of a plaintiff or defendant prior to commencement of trial.",
+      "text": "At any time prior to the commencement of a trial, if a plaintiff or defendant, including a third-party plaintiff or defendant, is either added or removed from a petition filed in any court in the state of Missouri which would have, if originally added or removed to the initial petition, altered the determination of venue under section 508.010, then the judge shall upon application of any party transfer the case to a proper forum under section 476.410.",
+      "history_note": "(L. 2005 H.B. 393 § 3)",
+      "effdt_raw": "Effective - 28 Aug 2005, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

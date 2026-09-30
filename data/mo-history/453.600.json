@@ -1,0 +1,30 @@
+{
+  "section": "453.600",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.600",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "35347",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.600&bid=35347"
+  },
+  "versions": [
+    {
+      "effective": "2011-08-28",
+      "end": "2018-08-28",
+      "bid": "25177",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.600&bid=25177",
+      "heading": "Fund created, use of moneys — board created, purpose, members, duties — sunset provision.",
+      "text": "1. There is hereby created in the state treasury the \"Foster Care and Adoptive Parents Recruitment and Retention Fund\" which shall consist of all gifts, donations, transfers, and moneys appropriated by the general assembly, and bequests to the fund. The fund shall maintain no more than the total of the last two years of funding or a minimum of three hundred thousand dollars, whichever is greater. The fund shall be administered by the foster care and adoptive parents recruitment and retention fund board created in subsection 3 of this section.\n\n2. The state treasurer shall be custodian of the fund and may approve disbursements from the fund in accordance with sections 30.170 and 30.180. Notwithstanding the provisions of section 33.080 to the contrary, any moneys remaining in the fund at the end of the biennium shall not revert to the credit of the general revenue fund. The state treasurer shall invest moneys in the fund in the same manner as other funds are invested. Any interest and moneys earned on such investments shall be credited to the fund.\n\n3. There is hereby created the \"Foster Care and Adoptive Parents Recruitment and Retention Fund Board\" within the department of social services. The board shall consist of the following members or their designees:\n\n(1) The director of the department of social services;\n\n(2) The director of the department of mental health;\n\n(3) The director of the department of health and senior services;\n\n(4) The following six members to be appointed by the director of the department of social services:\n\n(a) Two representatives of a recognized foster parent association;\n\n(b) Two representatives of a licensed child-placing agency; and\n\n(c) Two representatives of a licensed residential treatment center.\n\nMembers appointed under subdivision (4) of this subsection shall serve three-year terms, subject to reappointment. Of the members initially appointed, three shall be appointed for a two-year term and three shall be appointed three-year terms. All members of the board shall serve without compensation but shall, subject to appropriation, be reimbursed for reasonable and necessary expenses actually incurred in the performance of their official duties as members of the board. The department of social services shall, with existing resources, provide administrative support and current staff as necessary for the effective operation of the board.\n\n4. Upon appropriation, moneys in the fund shall be used to grant awards to licensed community-based foster care and adoption recruitment programs. The board shall establish guidelines for disbursement of the fund to certain programs. Such programs shall include, but not be limited to, recruitment and retention of foster and adoptive families for children who:\n\n(1) Have been in out-of-home placement for fifteen months or more;\n\n(2) Are more than twelve years of age; or\n\n(3) Are in sibling groups.\n\nMoneys in the fund shall not be subject to appropriation for purposes other than those of evidence-based foster care and adoption programs as designated by the board established under this section.\n\n5. Under section 23.253 of the Missouri sunset act:\n\n(1) The provisions of the new fund authorized under this section shall automatically sunset six years after August 28, 2011, unless reauthorized by an act of the general assembly; and\n\n(2) If such fund is reauthorized, the fund authorized under this section shall automatically sunset twelve years after the effective date of the reauthorization of this section; and\n\n(3) This section shall terminate on December thirty-first of the calendar year immediately following the calendar year in which the fund authorized under this section is sunset.",
+      "history_note": "(L. 2011 H.B. 431 merged with H.B. 604)",
+      "effdt_raw": "Effective - 28 Aug 2011, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

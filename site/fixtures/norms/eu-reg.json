@@ -1,0 +1,55 @@
+{
+  "corpus": "eu-reg",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "eu-reg-2019-1111-7",
+      "corpus": "eu-reg",
+      "side": "eu",
+      "lang": "fr",
+      "kind": "article",
+      "num": "7",
+      "heading": "Règlement (UE) 2019/1111 (Bruxelles II ter) — art. 7 : Compétence générale en matière de responsabilité parentale",
+      "path": [
+        {
+          "label": "Règlement (UE) 2019/1111 du Conseil du 25 juin 2019",
+          "id": "2019-1111"
+        },
+        {
+          "label": "Chapitre II : Compétence"
+        },
+        {
+          "label": "Section 2 : Responsabilité parentale"
+        }
+      ],
+      "text": "1. Les juridictions d'un État membre sont compétentes en matière de responsabilité parentale à l'égard d'un enfant qui réside habituellement dans cet État membre au moment où la juridiction est saisie.\n\n2. Le paragraphe 1 est soumis aux articles 8 à 10.",
+      "in_force_since": "2022-08-01",
+      "status": "en vigueur",
+      "applies_to": [
+        "EU",
+        "FR"
+      ],
+      "official_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R1111",
+      "alt_urls": [
+        {
+          "label": "EUR-Lex (EN)",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111"
+        }
+      ],
+      "source_ids": {
+        "celex": "32019R1111"
+      },
+      "issues": [
+        "eu-int.competence.responsabilite-parentale"
+      ],
+      "xrefs": [
+        "int-hcch-1980-3"
+      ],
+      "interps": [],
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}

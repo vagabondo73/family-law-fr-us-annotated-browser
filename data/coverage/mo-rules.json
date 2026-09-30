@@ -1,0 +1,394 @@
+{
+  "corpus": "mo-rules",
+  "norms_expected": 475,
+  "norms_done": 475,
+  "norms_with_text": 471,
+  "axes_counts": {
+    "family": 95,
+    "procedure": 452
+  },
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Procedure axis (SCOPE §4.5): every courts.mo.gov page id in the Rules block 199300–200720 plus re-issued ids 221733, 221753, 209293, 196457 read through two Perplexity index channels (pplx_sdk.content.snippets and the cached page copy of pplx_sdk.content.fetch) because courts.mo.gov answers HTTP 403 to automated clients and its banner prohibits automated repetitive querying. Each rule's combined page (page.jsp?id=200636&up=<index id>, cached copy) lists every subdivision with heading, First Adopted, Most Recently Effective and adoption history; it is the enumeration check. 'Most Recently Effective' = in_force_since. text_source records the channel. Family axis (pre-existing): Rules 55, 74, 75, 78, 84.16, 88 and Civil Procedure Form No. 14 (order of March 4, 2025, eff. Jan. 1, 2026; text from The Missouri Bar's copy of the order attachments).",
+  "rules_present": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "rules_wholly_repealed": [
+    47,
+    64,
+    80,
+    101
+  ],
+  "rules_absent_in_41_101": [],
+  "sitemap_subdivisions_41_101": 481,
+  "scope_decisions": [
+    "All Rules 41–101 in force are ingested for the procedure axis (axes ['procedure']); Rules 55, 74, 75, 78, 84.16 and 88 carry axes ['family','procedure']; Form No. 14 ['family'].",
+    "Rules outside 41–101 (e.g. criminal Rules 19–38, juvenile Rules 110–130) found in the swept id block are ignored.",
+    "Rule 128: no Supreme Court Rule 128 relevant to family matters was identified — not ingested; flagged for review."
+  ],
+  "orders_applied": [
+    "41.08",
+    "52.08",
+    "55.08",
+    "78.04",
+    "81.05",
+    "51.12",
+    "51.13",
+    "55.025",
+    "55.0275",
+    "84.015"
+  ],
+  "orders_pending": {
+    "56.01": [
+      {
+        "order_dated": "2026-02-24",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3156.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "43.01": [
+      {
+        "order_dated": "2026-03-31",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3163.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "74.14": [
+      {
+        "order_dated": "2026-03-31",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3163.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "57.01": [
+      {
+        "order_dated": "2026-06-02",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3170.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "58.01": [
+      {
+        "order_dated": "2026-06-02",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3170.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "59.01": [
+      {
+        "order_dated": "2026-06-02",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3170.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ],
+    "74.04": [
+      {
+        "order_dated": "2026-06-02",
+        "effective": "2027-01-01",
+        "order_pdf_missouri_bar_copy": "https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3170.pdf",
+        "note": "adopted, not yet in force"
+      }
+    ]
+  },
+  "excluded_repealed": [
+    {
+      "num": "101.01 to 101.21",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=942",
+      "source": "courts.mo.gov site map"
+    },
+    {
+      "num": "64.01",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=942",
+      "source": "courts.mo.gov site map"
+    },
+    {
+      "num": "74.17 to 74.79",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=942",
+      "source": "courts.mo.gov site map"
+    },
+    {
+      "num": "80.01",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=942",
+      "source": "courts.mo.gov site map"
+    },
+    {
+      "num": "90.22",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=942",
+      "source": "courts.mo.gov site map"
+    },
+    {
+      "num": "41.07",
+      "status": "repealed",
+      "history_note": "(Adopted August 16, 1983, effective July 1, 1984. Amended June 1, 1993, effective January 1, 1994; amended March 7, 2023, effective January 1, 2024. Repealed August 15, 2023, effective July 1, 2024.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199555"
+    },
+    {
+      "num": "47.01",
+      "status": "repealed",
+      "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended November 9, 1982, effective January 1, 1984. Repealed May 1, 2024, effective January 1, 2025.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199568"
+    },
+    {
+      "num": "54.03",
+      "status": "repealed",
+      "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Repealed by order dated June 1, 1993, effective January 1, 1994.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199611"
+    },
+    {
+      "num": "54.11",
+      "status": "repealed",
+      "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Amended June 1, 1993, effective January 1, 1994. Repealed December 20, 2005, effective July 1, 2006.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199619"
+    },
+    {
+      "num": "54.17",
+      "status": "repealed",
+      "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Repealed June 1, 1993, effective January 1, 1994.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199625"
+    },
+    {
+      "num": "55.23",
+      "status": "repealed",
+      "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Repealed June 28, 2017, effective January 1, 2018.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199654"
+    },
+    {
+      "num": "65.06",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=199702"
+    },
+    {
+      "num": "67.07",
+      "status": "repealed",
+      "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Repealed June 1, 1993, effective January 1, 1994.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199713"
+    },
+    {
+      "num": "70.021",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=199727"
+    },
+    {
+      "num": "74.15",
+      "status": "repealed",
+      "history_note": null,
+      "url": "https://www.courts.mo.gov/page.jsp?id=199755"
+    },
+    {
+      "num": "76.02",
+      "status": "repealed",
+      "history_note": "(Adopted June 10, 1980, effective January 1, 1981. Repealed December 20, 2005, effective July 1, 2006.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=199763"
+    },
+    {
+      "num": "81.005",
+      "status": "repealed",
+      "history_note": "(Adopted May 30, 2012, effective January 1, 2013. Amended May 19, 2016, effective January 1, 2017. Repealed August 15, 2023, effective July 1, 2024.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=200302"
+    },
+    {
+      "num": "81.006",
+      "status": "repealed",
+      "history_note": "(Adopted May 19, 2016, effective January 1, 2017. Repealed August 15, 2023, effective July 1, 2024.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=200303"
+    },
+    {
+      "num": "81.06",
+      "status": "repealed",
+      "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended June 13, 1979, corrected July 27, 1979, effective January 1, 1980. Repealed May 22, 1987, effective January 1, 1988.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=200309"
+    },
+    {
+      "num": "81.14",
+      "status": "repealed",
+      "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended June 13, 1979, corrected July 27, 1979, effective January 1, 1980. Repealed May 19, 2016, effective January 1, 2017.)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=200317"
+    },
+    {
+      "num": "81.18",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "83.07",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "84.07",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "84.10",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "84.11",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "84.25",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "84.27",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "90.17",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "90.20",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    },
+    {
+      "num": "90.21",
+      "status": "repealed",
+      "history_note": null,
+      "url": null
+    }
+  ],
+  "superseded_pages": [],
+  "stale_copies": [
+    {
+      "num": "74.15",
+      "page": 199755,
+      "page_mre": null,
+      "combined_mre": "1988-01-01"
+    }
+  ],
+  "gaps": [
+    "Rule 76.03: listed on combined rule page (https://www.courts.mo.gov/page.jsp?id=200636&up=199761) but subdivision page not retrievable via the index copy — heading/history only, text null",
+    "Rule 46.01: listed on the courts.mo.gov site map (page.jsp?id=942) but neither the subdivision page nor its text is available in the index copy — heading only, text null, effective date not verified",
+    "Rule 51.15: listed on the courts.mo.gov site map (page.jsp?id=942) but neither the subdivision page nor its text is available in the index copy — heading only, text null, effective date not verified",
+    "Rule 46.01: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 48.01: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 51.02: 'Most Recently Effective' 1974-01-01 differs from last effective date in history note 1994-01-01; used the former",
+    "Rule 51.15: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 56.01: 'Most Recently Effective' 1974-09-02 differs from last effective date in history note 2021-09-02; used the former",
+    "Rule 57.03: 'Most Recently Effective' 2022-07-01 differs from last effective date in history note 2021-09-02; used the former",
+    "Rule 68.01: 'Most Recently Effective' 2008-01-01 differs from last effective date in history note 2008-07-01; used the former",
+    "Rule 69.01: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 71.02: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 71.03: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 71.04: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 71.05: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 74.15: subdivision page copy shows Most Recently Effective None but the combined rule page shows 1988-01-01 — text may predate the latest amendment (flagged text_status)",
+    "Rule 76.15: 'Most Recently Effective' 1994-01-01 differs from last effective date in history note 1981-01-01; used the former",
+    "Rule 84.04: 'Most Recently Effective' 2018-01-01 differs from last effective date in history note 2017-01-01; used the former",
+    "Rule 86.01: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.02: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.04: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.05: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.07: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.09: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.10: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 86.051: 'Most Recently Effective' 1960-06-10 differs from last effective date in history note 1960-06-01; used the former",
+    "Rule 87.01: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.03: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.04: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.05: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.06: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.07: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.08: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.09: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.10: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 87.11: effective date not stated on the page copy or combined page — in_force_since null (not verified)",
+    "Rule 92.02: 'Most Recently Effective' 2010-01-01 differs from last effective date in history note 2010-07-01; used the former",
+    "Rule 96.16: 'Most Recently Effective' 1981-01-01 differs from last effective date in history note 1994-01-01; used the former"
+  ],
+  "updated": "2026-09-30",
+  "id_convention": "mo-rules-<num> e.g. mo-rules-55.27; mo-rules-form-14[-line-<n>|-assumptions|-schedule|-directions-general]"
+}

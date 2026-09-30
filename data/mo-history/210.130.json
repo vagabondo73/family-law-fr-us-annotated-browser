@@ -1,0 +1,30 @@
+{
+  "section": "210.130",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.130",
+  "current": {
+    "effective": "1982-08-28",
+    "bid": "11307",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.130&bid=11307"
+  },
+  "versions": [
+    {
+      "effective": "1965-10-13",
+      "end": "1965-10-13",
+      "bid": "41230",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.130&bid=41230",
+      "heading": "",
+      "text": "210.130. (Repealed L. 1965 p. 360 § 1)",
+      "history_note": "",
+      "effdt_raw": "Effective - 13 Oct 1965, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

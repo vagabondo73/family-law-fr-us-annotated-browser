@@ -1,0 +1,29 @@
+{
+  "section": "455.080",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.080",
+  "current": {
+    "effective": "2015-08-28",
+    "bid": "25545",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.080&bid=25545"
+  },
+  "versions": [
+    {
+      "effective": "2013-08-28",
+      "end": "2015-08-28",
+      "bid": "48195",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.080&bid=48195",
+      "heading": "Law enforcement agencies response to alleged incidents of domestic violence or stalking — factors indicating need for immediate response — establishment of crisis team — transportation of abused party to medical treatment or shelter.",
+      "text": "1. Law enforcement agencies may establish procedures to ensure that dispatchers and officers at the scene of an alleged incident of domestic violence or stalking or violation of an order of protection can be informed of any recorded prior incident of domestic violence or stalking involving the abused party and can verify the effective dates and terms of any recorded order of protection.\n\n2. The law enforcement agency shall apply the same standard for response to an alleged incident of domestic violence or stalking or a violation of any order of protection as applied to any like offense involving strangers, except as otherwise provided by law. Law enforcement agencies shall not assign lower priority to calls involving alleged incidents of domestic violence or stalking or violation of protection orders than is assigned in responding to offenses involving strangers. Existence of any of the following factors shall be interpreted as indicating a need for immediate response:\n\n(1) The caller indicates that violence is imminent or in progress; or\n\n(2) A protection order is in effect; or\n\n(3) The caller indicates that incidents of domestic violence have occurred previously between the parties.\n\n3. Law enforcement agencies may establish domestic crisis teams or, if the agency has fewer than five officers whose responsibility it is to respond to calls of this nature, individual officers trained in methods of dealing with domestic violence. Such teams or individuals may be supplemented by social workers, ministers or other persons trained in counseling or crisis intervention. When an alleged incident of domestic violence is reported, the agency may dispatch a crisis team or specially trained officer, if available, to the scene of the incident.\n\n4. The officer at the scene of an alleged incident of domestic violence or stalking shall inform the abused party of available judicial remedies for relief from domestic violence and of available shelters for victims of domestic violence.\n\n5. Law enforcement officials at the scene shall provide or arrange transportation for the abused party to a medical facility for treatment of injuries or to a place of shelter or safety.",
+      "history_note": "(L. 1980 S.B. 524 § 15, A.L. 1986 S.B. 450, A.L. 1989 S.B. 420, A.L. 2013 H.B. 215)",
+      "effdt_raw": "Effective - 28 Aug 2013, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,29 @@
+{
+  "section": "507.040",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=507.040",
+  "current": {
+    "effective": "2019-08-28",
+    "bid": "47707",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=507.040&bid=47707"
+  },
+  "versions": [
+    {
+      "effective": "1943-08-28",
+      "end": "2019-08-28",
+      "bid": "27378",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=507.040&bid=27378",
+      "heading": "Permissive joinder of parties — separate trials.",
+      "text": "1. All persons may join in one action as plaintiffs if they assert any right to relief jointly, severally, or in the alternative in respect of or arising out of the same transaction, occurrence, or series of transactions or occurrences and if any question of law or fact common to all of them will arise in the action. All persons may be joined in one action as defendants if there is asserted against them jointly, severally, or in the alternative, any right to relief in respect of or arising out of the same transaction, occurrence, or series of transactions or occurrences and if any question of law or fact common to all of them will arise in the action. A plaintiff or defendant need not be interested in obtaining or defending against all the relief demanded. Judgment may be given for one or more of the plaintiffs according to their respective rights to relief, and against one or more defendants according to their respective liabilities.\n\n2. The court may make such orders as will prevent a party from being embarrassed, delayed, or put to expense by the inclusion of a party against whom he asserts no claim and who asserts no claim against him, and may order separate trials or make other orders to prevent delay or prejudice.",
+      "history_note": "(L. 1943 p. 353 § 16)",
+      "effdt_raw": "Effective - 28 Aug 1943, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

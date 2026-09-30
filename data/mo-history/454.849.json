@@ -1,0 +1,27 @@
+{
+  "section": "454.849",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.849",
+  "current": {
+    "effective": "2016-06-15",
+    "bid": "33658",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.849&bid=33658"
+  },
+  "versions": [
+    {
+      "effective": "2011-08-28",
+      "end": "2016-06-15",
+      "bid": "25307",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.849&bid=25307",
+      "heading": "Effective date of repeal of act.",
+      "text": "The repeal of sections 454.850 to 454.999 shall become effective upon the United States filing its instrument of ratification of The Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, adopted at The Hague Conference on Private International Law on November 23, 2007.",
+      "history_note": "(L. 2011 H.B. 260 § B)",
+      "effdt_raw": "Effective - 28 Aug 2011, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

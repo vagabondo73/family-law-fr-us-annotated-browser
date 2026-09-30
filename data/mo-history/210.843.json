@@ -1,0 +1,28 @@
+{
+  "section": "210.843",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.843",
+  "current": {
+    "effective": "2014-08-28",
+    "bid": "11427",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.843&bid=11427"
+  },
+  "versions": [
+    {
+      "effective": "1999-07-01",
+      "end": "2014-08-28",
+      "bid": "58672",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.843&bid=58672",
+      "heading": "Enforcement of judgment or order — payments to be made to circuit clerk or family support payment center — failure to comply, civil contempt.",
+      "text": "1. If the existence of a parent and child relationship is declared, and a duty of support has been established pursuant to sections 210.817 to 210.852, the support obligation may be enforced in the same or in other appropriate proceedings by the mother, the child, the division of child support enforcement, or any other public agency that has furnished or may furnish the reasonable expenses of pregnancy, confinement, education, support, or funeral, or by any other person, including a private agency, to the extent he or she has furnished or is furnishing these expenses.\n\n2. The court shall order that support payments be made to the clerk of the circuit court as trustee for remittance to the person entitled to receive the payments, or where that person has assigned his or her support rights to the division of family services pursuant to section 208.040 as trustee for remittance to the division, as long as the trusteeship remains in effect. Effective October 1, 1999, the court shall order support payments to be made to the family support payment center as required in section 454.530 as trustee for remittance to the person entitled to receive the payments.\n\n3. Willful failure to obey any judgment or order of the court entered pursuant to this section is a civil contempt of court. Section 452.350 applies to support orders entered pursuant to this section, and all administrative and judicial remedies for the enforcements of judgments shall apply.",
+      "history_note": "(L. 1987 S.B. 328 § 17, A.L. 1999 S.B. 291)",
+      "effdt_raw": "Effective - 01 Jul 1999, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

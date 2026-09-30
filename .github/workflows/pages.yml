@@ -1,0 +1,43 @@
+# Build site/data + site/content from data/ and deploy site/ to GitHub Pages.
+name: pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "site/**", "scripts/site_build.py", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build (falls back to site/fixtures if data/ has no norms yet)
+        env:
+          FLB_BASE_URL: https://vagabondo73.github.io/family-law-fr-us-annotated-browser/
+        run: python3 scripts/site_build.py --source auto
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

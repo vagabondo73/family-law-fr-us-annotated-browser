@@ -1,0 +1,27 @@
+{
+  "section": "452.430",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.430",
+  "current": {
+    "effective": "2010-08-28",
+    "bid": "25054",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.430&bid=25054"
+  },
+  "versions": [
+    {
+      "effective": "2009-08-28",
+      "end": "2010-08-28",
+      "bid": "49476",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.430&bid=49476",
+      "heading": "Limitation on inspection of certain documents — redaction of Social Security numbers.",
+      "text": "Any pleadings, other than the interlocutory or final judgment, in a dissolution of marriage or legal separation filed prior to August 28, 2009, shall be subject to inspection only by the parties or an attorney of record or upon order of the court for good cause shown, or by the family support division within the department of social services when services are being provided under section 454.400, RSMo. The clerk shall redact the Social Security number from any judgment or pleading before releasing the interlocutory or final judgment to the public.",
+      "history_note": "(L. 2009 H.B. 481)",
+      "effdt_raw": "Effective - 28 Aug 2009, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

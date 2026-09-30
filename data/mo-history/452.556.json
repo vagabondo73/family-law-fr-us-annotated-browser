@@ -1,0 +1,43 @@
+{
+  "section": "452.556",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.556",
+  "current": {
+    "effective": "2016-08-28",
+    "bid": "33226",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.556&bid=33226"
+  },
+  "versions": [
+    {
+      "effective": "2014-08-28",
+      "end": "2016-08-28",
+      "bid": "25080",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.556&bid=25080",
+      "heading": "Handbook, contents, availability.",
+      "text": "1. The state courts administrator shall create a handbook or be responsible for the approval of a handbook outlining the following:\n\n(1) What is included in a parenting plan;\n\n(2) The benefits of the parties agreeing to a parenting plan which outlines education, custody and cooperation between parents;\n\n(3) The benefits of alternative dispute resolution;\n\n(4) The pro se family access motion for enforcement of custody or temporary physical custody;\n\n(5) The underlying assumptions for supreme court rules relating to child support; and\n\n(6) A party's duties and responsibilities pursuant to section 452.377, including the possible consequences of not complying with section 452.377.\n\nThe handbooks shall be distributed to each court and shall be available in an alternative format, including Braille, large print, or electronic or audio format upon request by a person with a disability, as defined by the federal Americans with Disabilities Act.\n\n2. Each court shall provide a copy of the handbook developed pursuant to subsection 1 of this section to each party in a dissolution or legal separation action filed pursuant to section 452.310, or any proceeding in modification thereof, where minor children are involved, or may provide the petitioner with a copy of the handbook at the time the petition is filed and direct that a copy of the handbook be served along with the petition and summons upon the respondent.\n\n3. The court shall make the handbook available to interested state agencies and members of the public.",
+      "history_note": "(L. 1998 S.B. 910, A.L. 2001 S.B. 267, A.L. 2014 H.B. 1231 merged with S.B. 621)",
+      "effdt_raw": "Effective - 28 Aug 2014, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2001-08-28",
+      "end": "2014-08-28",
+      "bid": "53673",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.556&bid=53673",
+      "heading": "Handbook, contents, availability.",
+      "text": "1. The state courts administrator shall create a handbook or be responsible for the approval of a handbook outlining the following:\n\n(1) What is included in a parenting plan;\n\n(2) The benefits of the parties agreeing to a parenting plan which outlines education, custody and cooperation between parents;\n\n(3) The benefits of alternative dispute resolution;\n\n(4) The pro se family access motion for enforcement of custody or temporary physical custody;\n\n(5) The underlying assumptions for supreme court rules relating to child support; and\n\n(6) A party's duties and responsibilities pursuant to section 452.377, including the possible consequences of not complying with section 452.377.\n\nThe handbooks shall be distributed to each court and shall be available in an alternative format, including Braille, large print, or electronic or audio format upon request by a person with a disability, as defined by the federal Americans with Disabilities Act.\n\n2. Each court shall mail a copy of the handbook developed pursuant to subsection 1 of this section to each party in a dissolution or legal separation action filed pursuant to section 452.310, or any proceeding in modification thereof, where minor children are involved, or may provide the petitioner with a copy of the handbook at the time the petition is filed and direct that a copy of the handbook be served along with the petition and summons upon the respondent.\n\n3. The court shall make the handbook available to interested state agencies and members of the public.",
+      "history_note": "(L. 1998 S.B. 910, A.L. 2001 S.B. 267)",
+      "effdt_raw": "Effective - 28 Aug 2001, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,30 @@
+{
+  "section": "193.087",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.087",
+  "current": {
+    "effective": "2005-08-28",
+    "bid": "9909",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.087&bid=9909"
+  },
+  "versions": [
+    {
+      "effective": "1997-07-01",
+      "end": "2005-08-28",
+      "bid": "58387",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.087&bid=58387",
+      "heading": "Voluntary acknowledgment of paternity — forms, contents — immunity for staff presenting form — training of hospital staff — intentional misidentification of parent, penalty — public assistance recipients, duty to cooperate.",
+      "text": "1. In addition to the requirements of subsection 2 of section 193.085, when a birth occurs to an unmarried mother, whether in an institution or en route to an institution, the person in charge of the institution or a designated representative shall:\n\n(1) Provide a form or affidavit prescribed by the state registrar that may be completed by the child's mother and father to voluntarily acknowledge paternity of the child pursuant to section 193.215;\n\n(2) File the form, when completed, along with the certificate required by this section; and\n\n(3) Provide oral and written notice to the affiant required by section 193.215.\n\n2. Any institution, the person in charge or a designated representative shall be immune from civil or criminal liability for providing the form or affidavit required by subsection 1 of this section, the information developed pursuant to that subsection, or otherwise fulfilling the duties required by subsection 1 of this section.\n\n3. The division of child support enforcement may contract with the department of health and senior services to provide assistance and training to the hospital staff assigned responsibility for providing the information, as appropriate, to carry out duties pursuant to this section. The division of child support enforcement shall develop and distribute free of charge the information on the rights and responsibilities of parents that is required to be distributed pursuant to this section. The department of health and senior services shall provide free of charge to hospitals the acknowledgment of paternity affidavit, and instructions on the completion of the affidavit.\n\n4. If no contract is developed with the department of health and senior services, then the division of child support enforcement shall provide the assistance and training activities to hospitals pursuant to subsection 3 of this section.\n\n5. Any affiant who intentionally misidentifies another person as a parent may be prosecuted for perjury, pursuant to section 575.040, RSMo.\n\n6. Due to lack of cooperation by public assistance recipients, the division shall either suspend the entire public assistance cash grant, or remove the needs of the adult recipient of public assistance from the cash grant, subject to good cause exceptions pursuant to federal law or regulations.",
+      "history_note": "(L. 1994 H.B. 1491 & 1134 § 1 merged with H.B. 1547 & 961 § 8 merged with S.B. 508 § 1, A.L. 1997 S.B. 361)",
+      "effdt_raw": "Effective - 01 Jul 1997, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

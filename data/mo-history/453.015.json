@@ -1,0 +1,27 @@
+{
+  "section": "453.015",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.015",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "35623",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.015&bid=35623"
+  },
+  "versions": [
+    {
+      "effective": "2014-08-28",
+      "end": "2018-08-28",
+      "bid": "25140",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.015&bid=25140",
+      "heading": "Definitions.",
+      "text": "As used in sections 453.010 to 453.400, the following terms mean:\n\n(1) \"Minor\" or \"child\", any person who has not attained the age of eighteen years or any person in the custody of the children's division who has not attained the age of twenty-one;\n\n(2) \"Parent\", a birth parent or parents of a child, including the putative father of the child, as well as the husband of a birth mother at the time the child was conceived, or a parent or parents of a child by adoption. The putative father shall have no legal relationship unless he has acknowledged the child as his own by affirmatively asserting his paternity;\n\n(3) \"Putative father\", the alleged or presumed father of a child including a person who has filed a notice of intent to claim paternity with the putative father registry established in section 192.016 and a person who has filed a voluntary acknowledgment of paternity pursuant to section 193.087; *\n\n(4) \"Stepparent\", the spouse of a biological or adoptive parent. The term does not include the state if the child is a ward of the state. The term does not include a person whose parental rights have been terminated.",
+      "history_note": "(L. 1982 H.B. 1171, et al., A.L. 1985 H.B. 366, et al., A.L. 1997 H.B. 343, A.L. 1998 H.B. 1918, A.L. 2014 H.B. 1299 Revision)",
+      "effdt_raw": "Effective - 28 Aug 2014, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

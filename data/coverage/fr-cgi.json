@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-cgi",
+  "norms_expected": 243,
+  "norms_done": 243,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_general_des_impots (HEAD 4b9e66d88df8), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 2405 en vigueur sur 2407 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 243 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Annexes du CGI (II, III, IV) non intégrées ; IFI et plus-values entre époux non retenus sauf mots-clés."
+  ],
+  "updated": "2026-09-30"
+}

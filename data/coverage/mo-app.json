@@ -1,0 +1,167 @@
+{
+  "corpus": "mo-app",
+  "norms_expected": 1694,
+  "norms_done": 448,
+  "interps_candidates": 15482,
+  "interps_screened": 15033,
+  "interps_included": 3083,
+  "links_included_by_basis": {
+    "a": 3854,
+    "b": 1750
+  },
+  "screening_by_chapter_links_both_courts": {
+    "452": {
+      "candidate-links": 7294,
+      "a": 1772,
+      "excluded-prior-text-not-shown-identical": 2759,
+      "funcreview:excluded-unclear-subsection": 12,
+      "b": 646,
+      "excluded-mention-only": 1998,
+      "funcreview:include-fr": 256,
+      "funcreview:excluded-changed-in-substance": 231,
+      "funcreview:include-ti": 29,
+      "funcreview:excluded-subsection-not-found": 6,
+      "excluded-no-usable-excerpt": 119
+    },
+    "rules": {
+      "candidate-links": 9926,
+      "a": 1005,
+      "excluded-not-family-case": 4332,
+      "excluded-prior-text-not-shown-identical": 1935,
+      "excluded-mention-only": 2363,
+      "b": 208,
+      "excluded-no-usable-excerpt": 83
+    },
+    "451": {
+      "candidate-links": 118,
+      "a": 26,
+      "b": 5,
+      "excluded-mention-only": 49,
+      "excluded-prior-text-not-shown-identical": 38,
+      "funcreview:excluded-subsection-not-found": 2
+    },
+    "210": {
+      "candidate-links": 900,
+      "a": 244,
+      "excluded-mention-only": 268,
+      "excluded-prior-text-not-shown-identical": 275,
+      "funcreview:excluded-unclear-subsection": 27,
+      "b": 89,
+      "funcreview:excluded-changed-in-substance": 25,
+      "funcreview:include-fr": 42,
+      "funcreview:include-ti": 7,
+      "funcreview:excluded-subsection-not-found": 15,
+      "excluded-no-usable-excerpt": 24
+    },
+    "474": {
+      "candidate-links": 517,
+      "a": 185,
+      "excluded-mention-only": 209,
+      "excluded-prior-text-not-shown-identical": 115,
+      "funcreview:excluded-changed-in-substance": 9,
+      "funcreview:include-fr": 8,
+      "b": 4,
+      "excluded-no-usable-excerpt": 4
+    },
+    "455": {
+      "candidate-links": 827,
+      "excluded-mention-only": 327,
+      "excluded-prior-text-not-shown-identical": 319,
+      "funcreview:excluded-unclear-subsection": 69,
+      "a": 109,
+      "b": 46,
+      "funcreview:excluded-subsection-not-found": 64,
+      "funcreview:include-fr": 16,
+      "funcreview:include-ti": 4,
+      "excluded-no-usable-excerpt": 26,
+      "funcreview:excluded-changed-in-substance": 53
+    },
+    "454": {
+      "candidate-links": 561,
+      "a": 146,
+      "excluded-mention-only": 164,
+      "excluded-no-usable-excerpt": 12,
+      "excluded-prior-text-not-shown-identical": 191,
+      "b": 48,
+      "funcreview:excluded-changed-in-substance": 9,
+      "funcreview:excluded-unclear-subsection": 3,
+      "funcreview:include-fr": 3
+    },
+    "432": {
+      "candidate-links": 235,
+      "a": 180,
+      "excluded-mention-only": 52,
+      "excluded-no-usable-excerpt": 3
+    },
+    "453": {
+      "candidate-links": 587,
+      "a": 80,
+      "excluded-mention-only": 126,
+      "excluded-prior-text-not-shown-identical": 334,
+      "funcreview:excluded-subsection-not-found": 30,
+      "funcreview:excluded-unclear-subsection": 15,
+      "b": 41,
+      "funcreview:include-fr": 11,
+      "funcreview:include-ti": 7,
+      "excluded-no-usable-excerpt": 6,
+      "funcreview:excluded-changed-in-substance": 7
+    },
+    "211": {
+      "candidate-links": 1578,
+      "excluded-prior-text-not-shown-identical": 774,
+      "funcreview:excluded-changed-in-substance": 222,
+      "funcreview:include-fr": 156,
+      "a": 183,
+      "b": 195,
+      "excluded-mention-only": 413,
+      "excluded-no-usable-excerpt": 13,
+      "funcreview:excluded-unclear-subsection": 11,
+      "funcreview:include-ti": 13,
+      "funcreview:excluded-subsection-not-found": 15
+    },
+    "193": {
+      "candidate-links": 19,
+      "a": 11,
+      "excluded-mention-only": 5,
+      "excluded-no-usable-excerpt": 1,
+      "excluded-prior-text-not-shown-identical": 2,
+      "funcreview:include-fr": 2
+    },
+    "516": {
+      "candidate-links": 321,
+      "excluded-mention-only": 11,
+      "a": 31,
+      "excluded-not-family-case": 251,
+      "excluded-prior-text-not-shown-identical": 18,
+      "b": 10
+    },
+    "565": {
+      "candidate-links": 649,
+      "a": 88,
+      "excluded-mention-only": 376,
+      "excluded-no-usable-excerpt": 38,
+      "excluded-prior-text-not-shown-identical": 114,
+      "funcreview:excluded-subsection-not-found": 37,
+      "funcreview:excluded-unclear-subsection": 22,
+      "funcreview:excluded-changed-in-substance": 28,
+      "b": 33,
+      "funcreview:include-fr": 9
+    }
+  },
+  "excluded_whole_opinions": {
+    "no-text": 36,
+    "excluded-84.16b": 413
+  },
+  "method": "Candidates = (1) every Missouri Supreme Court / Court of Appeals case in the Caselaw Access Project full-text volumes (S.W.2d 1-999, S.W.3d 1-579, Mo. 340-365, Mo. App. 231-241; i.e. published opinions to ~Aug 2019) whose text cites a perimeter RSMo section (regex on 'NNN.NNN[.n][(n)]', which covers 'section', '\u00a7' and 'RSMo' forms) or family keywords; plus (2) CourtListener REST v4 search (court=mo moctapp) for every perimeter section citation string incl. subsection forms 'NNN.NNN.n', filed 2018-01-01 onward (older 452 groups unfiltered), texts from CourtListener storage PDFs. Screening: CourtListener status=Published, Rule 84.16(b) orders excluded; link kept only when the opinion has an interpretive sentence citing the norm (keyword/quotation) or >=2 citations; temporal rule SCOPE \u00a72 using data/norms/mo-rsmo.json in_force_since and data/mo-history: basis a if date >= D; basis b (text-identical) if the version in force at the opinion date is identical, or all cited subsections are unchanged (subsections_changed_vs_current), or the opinion quotes >=8 words of the interpreted language that appear verbatim in the current text (and in the then-current version where available); otherwise excluded. Excerpts are verbatim sentences citing the norm. Version at opinion date is assumed to be the version interpreted (opinions applying an earlier version to earlier facts may be mis-dated).",
+  "gaps": [
+    "Opinions after the CAP cut-off (~Aug 2019) come only from CourtListener search (anonymous limit 5 req/min; part of the run was done through a browser session). Query groups completed: 55; incomplete: 516:516.103-516.140, 516:516.145-516.180, 516:516.190-516.240 (rerun scripts/moj_enum.py). CourtListener returned no Missouri opinions filed in 2026 for the perimeter citations (possible indexing lag); CourtListener full-text coverage of Missouri opinions may itself be incomplete.",
+    "official_url: courts.mo.gov file links used only where CourtListener recorded them (download_url); courts.mo.gov blocks automated access and its opinion pages are not in the search index, so CAP-sourced opinions link to the deterministic CourtListener citation URL (https://www.courtlistener.com/c/<reporter>/<vol>/<page>/) with CAP JSON as alt_url.",
+    "Summaries are neutral index summaries (no official syllabus available); summary_is_official=false.",
+    "Pre-D links not shown text-identical were functionally reviewed (LLM-assisted, scripts/moj_funcreview.py) only where the version in force at the opinion date exists in data/mo-history (1,468 links): included as b functional-review when the interpreted subsection is unchanged in wording/function (justification quotes both texts); excluded when changed in substance or the interpreted subsection could not be identified (counts under 'funcreview:*'). Links whose opinion predates the earliest available version text (~5,400) remain excluded: no prior text to compare.",
+    "2019-2026 supplement: Missouri opinions located through the Perplexity search index on the ott.law mirror (docket verified against the page URL), official_url = the courts.mo.gov file.jsp link given on that page; recall of this channel is partial (2026: few opinions indexed). courts.mo.gov itself was not accessed (its terms prohibit automated access).",
+    "Rule and ch. 516 (limitations) citations are kept only for opinions that also cite a family-law chapter (451-455, 210, 211); rules without history files: pre-D opinions qualify only by verbatim quotation.",
+    "Chapters 193 and 516 were added to the perimeter by the norms agent after the CAP scan; CAP candidates for them were found only when the opinion also met the family keyword filter.",
+    "Opinions without text in either channel: 36 (not screened)."
+  ],
+  "updated": "2026-09-30T16:45:58+00:00"
+}

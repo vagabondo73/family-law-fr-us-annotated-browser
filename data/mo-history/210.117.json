@@ -1,0 +1,45 @@
+{
+  "section": "210.117",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.117",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "11301",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.117&bid=11301"
+  },
+  "versions": [
+    {
+      "effective": "2005-09-15",
+      "end": "2017-01-01",
+      "bid": "11302",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.117&bid=11302",
+      "heading": "Until December 31, 2016 — Child not reunited with parents or placed in a home, when.",
+      "text": "1. A child taken into the custody of the state shall not be reunited with a parent or placed in a home in which the parent or any person residing in the home has been found guilty of, or pled guilty to, any of the following offenses when a child was the victim:\n\n(1) A felony violation of section 566.030, 566.032, 566.040, 566.060, 566.062, 566.064, 566.067, 566.068, 566.070, 566.083, 566.090, 566.100, 566.111, 566.151, 566.203, 566.206, 566.209, 566.212, or 566.215;\n\n(2) A violation of section 568.020;\n\n(3) A violation of subdivision (2) of subsection 1 of section 568.060;\n\n(4) A violation of section 568.065;\n\n(5) A violation of section 568.080;\n\n(6) A violation of section 568.090; or\n\n(7) A violation of section 568.175.\n\n2. For all other violations of offenses in chapters 566 and 568 not specifically listed in subsection 1 of this section or for a violation of an offense committed in another state when a child is the victim that would be a violation of chapter 566 or 568, if committed in Missouri, the division may exercise its discretion regarding the placement of a child taken into the custody of the state in which a parent or any person residing in the home has been found guilty of, or pled guilty to, any such offense.\n\n3. In any case where the children's division determines based on a substantiated report of child abuse that a child has abused another child, the abusing child shall be prohibited from returning to or residing in any residence, facility, or school within one thousand feet of the residence of the abused child or any child care facility or school that the abused child attends, unless and until a court of competent jurisdiction determines that the alleged abuse did not occur or the abused child reaches the age of eighteen, whichever earlier occurs. The provisions of this subsection shall not apply when the abusing child and the abused child are siblings or children living in the same home.",
+      "history_note": "(L. 2004 H.B. 1453, A.L. 2005 H.B. 568 and S.B. 155 and S.B. 420 & 344, A.L. 2005 1st Ex. Sess. H.B. 2)",
+      "effdt_raw": "Effective - 15 Sep 2005, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2004-08-28",
+      "end": "2005-08-28",
+      "bid": "52137",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.117&bid=52137",
+      "heading": "Child not reunited with parents or placed in a home, when.",
+      "text": "No child taken into the custody of the state shall be reunited with a parent or placed in a home in which the parent or any person residing in the home has been found guilty of, or pled guilty to, a felony violation of chapter 566, RSMo, except for section 566.034, RSMo, when a child was the victim, or a violation of section 568.020, 568.045, 568.060, 568.065, 568.070, 568.080, 568.090, or 568.175, RSMo, except for subdivision (1) of subsection 1 of section 568.060, RSMo, when a child was the victim, or an offense committed in another state when a child is the victim, that would be a felony violation of chapter 566, RSMo, except for section 566.034, RSMo, or a violation of section 568.020, 568.045, 568.060, 568.065, 568.070, 568.080, 568.090, or 568.175, RSMo, except for subdivision (1) of subsection 1 of section 568.060, RSMo, if committed in Missouri; provided however, nothing in this section shall preclude the division from exercising its discretion regarding the placement of a* child in a home in which the parent or any person residing in the home has been found guilty of or pled guilty or nolo contendere to any offense excepted or excluded in this section.",
+      "history_note": "(L. 2004 H.B. 1453)",
+      "effdt_raw": "Effective - 28 Aug 2004, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,109 @@
+{
+  "generated": "2026-09-30T14:10:58+00:00",
+  "changed_count": 1,
+  "new_count": 0,
+  "error_count": 0,
+  "note": "FIXTURE run (baseline of legi-code-civil set to an older commit to demonstrate change detection). Detection only — no legal content was modified. Changes must be reviewed and re-ingested via the pipelines (docs/PIPELINES.md).",
+  "results": [
+    {
+      "id": "legi-code-civil",
+      "label": "Code civil (LEGI)",
+      "check": "git-head",
+      "corpora": [
+        "fr-cc"
+      ],
+      "checked": "2026-09-30T14:10:58+00:00",
+      "baseline": "e0b51c236dd2a5ba9845c6043603c3f74dc7771a",
+      "status": "changed",
+      "changed": true,
+      "observed": "df37fb220cea125bdecae7a161fb4c22dff421d6",
+      "files_changed": 8,
+      "affected_norms": [],
+      "new_decisions": [],
+      "new_decisions_count": 0,
+      "other_files": 2,
+      "unmapped_articles": [
+        "livre_ier/titre_ii/chapitre_ii/section_2/article_60-1.md",
+        "livre_ier/titre_ii/chapitre_ii/section_2/article_60.md",
+        "livre_ier/titre_ii/chapitre_ii/section_2/article_61-3-1.md",
+        "livre_ier/titre_ii/chapitre_ii/section_2/article_61-3-2.md",
+        "livre_ier/titre_ii/chapitre_ii/section_2/article_61-3-3.md",
+        "livre_iii/titre_ix/chapitre_ii/section_6/article_1865-1.md"
+      ],
+      "unmapped_articles_count": 6,
+      "new_since_last_check": false
+    },
+    {
+      "id": "dila-cass",
+      "label": "Cour de cassation (DILA CASS)",
+      "check": "git-head",
+      "corpora": [
+        "fr-cass"
+      ],
+      "checked": "2026-09-30T14:10:58+00:00",
+      "baseline": null,
+      "status": "no-baseline",
+      "changed": false,
+      "observed": "1c9dc65f6454cf4350ed878733d036eae52699ad",
+      "new_since_last_check": false
+    },
+    {
+      "id": "revisor-452-375",
+      "label": "RSMo 452.375 (Revisor of Missouri)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "checked": "2026-09-30T14:10:58+00:00",
+      "baseline": null,
+      "status": "no-baseline",
+      "changed": false,
+      "observed": "sha256:60a8dc75212dfc2760ec6e8d81155c4a41ec4506171ea835648e493bb0016e19",
+      "http": {
+        "status": 200,
+        "etag": null,
+        "last_modified": null,
+        "hash": "sha256:60a8dc75212dfc2760ec6e8d81155c4a41ec4506171ea835648e493bb0016e19",
+        "length": 147
+      },
+      "new_since_last_check": false
+    },
+    {
+      "id": "hcch-1980-status",
+      "label": "HCCH 1980 status table",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "checked": "2026-09-30T14:10:58+00:00",
+      "baseline": null,
+      "status": "no-baseline",
+      "changed": false,
+      "observed": "sha256:a784e69cb0b4ad3bf2f7fbfac3460e4e5c61aeed33aeb934a86e5901ce407c20",
+      "http": {
+        "status": 200,
+        "etag": null,
+        "last_modified": null,
+        "hash": "sha256:a784e69cb0b4ad3bf2f7fbfac3460e4e5c61aeed33aeb934a86e5901ce407c20",
+        "length": 7708
+      },
+      "new_since_last_check": false
+    },
+    {
+      "id": "legifrance-api",
+      "label": "Légifrance API (PISTE) — article versions",
+      "check": "api",
+      "corpora": [
+        "fr-cc"
+      ],
+      "checked": "2026-09-30T14:10:58+00:00",
+      "baseline": null,
+      "status": "skipped",
+      "changed": false,
+      "affected_norms": [],
+      "note": "PISTE_CLIENT_ID / PISTE_CLIENT_SECRET not set",
+      "new_since_last_check": false
+    }
+  ],
+  "fixture": true
+}

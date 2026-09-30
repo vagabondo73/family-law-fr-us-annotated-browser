@@ -1,0 +1,6 @@
+raw/
+work/
+qa/screens/
+__pycache__/
+*.pyc
+.pplx/

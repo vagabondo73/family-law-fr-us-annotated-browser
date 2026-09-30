@@ -1,0 +1,583 @@
+{
+  "title": "Family Law Annotated Browser (FR ↔ US / Missouri)",
+  "generated": "2026-09-30T17:34:00+00:00",
+  "source": "data",
+  "fixture": false,
+  "base_url": "https://vagabondo73.github.io/family-law-fr-us-annotated-browser/",
+  "sides": [
+    {
+      "id": "fr",
+      "label_fr": "France",
+      "label_en": "France",
+      "lang": "fr",
+      "issue_side": "fr"
+    },
+    {
+      "id": "eu-int",
+      "label_fr": "UE & international",
+      "label_en": "EU & International",
+      "lang": "fr",
+      "issue_side": "eu-int"
+    },
+    {
+      "id": "us",
+      "label_fr": "États-Unis (fédéral)",
+      "label_en": "United States (federal)",
+      "lang": "en",
+      "issue_side": "us"
+    },
+    {
+      "id": "mo",
+      "label_fr": "Missouri",
+      "label_en": "Missouri",
+      "lang": "en",
+      "issue_side": "mo"
+    }
+  ],
+  "corpora": [
+    {
+      "id": "fr-const",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Constitution de 1958 et bloc de constitutionnalité",
+      "label_en": "French Constitution",
+      "order": 0,
+      "norms": 18,
+      "interps": 219,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 18
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cc",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code civil",
+      "label_en": "Civil Code",
+      "order": 1,
+      "norms": 1742,
+      "interps": 3873,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 1742
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cpc",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de procédure civile",
+      "label_en": "Code of Civil Procedure",
+      "order": 2,
+      "norms": 582,
+      "interps": 196,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 582
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-coj",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de l'organisation judiciaire",
+      "label_en": "Code of Judicial Organisation",
+      "order": 3,
+      "norms": 92,
+      "interps": 11,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 92
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-casf",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de l'action sociale et des familles",
+      "label_en": "Social Action and Families Code",
+      "order": 4,
+      "norms": 580,
+      "interps": 73,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 580
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-csp",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de la santé publique",
+      "label_en": "Public Health Code",
+      "order": 5,
+      "norms": 304,
+      "interps": 18,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 304
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cp",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code pénal",
+      "label_en": "Criminal Code",
+      "order": 6,
+      "norms": 153,
+      "interps": 113,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 153
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cpp",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de procédure pénale",
+      "label_en": "Code of Criminal Procedure",
+      "order": 7,
+      "norms": 186,
+      "interps": 122,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 186
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cgi",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code général des impôts",
+      "label_en": "General Tax Code",
+      "order": 8,
+      "norms": 243,
+      "interps": 178,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 243
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-css",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de la sécurité sociale",
+      "label_en": "Social Security Code",
+      "order": 9,
+      "norms": 355,
+      "interps": 132,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 355
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-ceseda",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code de l'entrée et du séjour des étrangers et du droit d'asile",
+      "label_en": "CESEDA (immigration)",
+      "order": 10,
+      "norms": 260,
+      "interps": 28,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 260
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-cpce",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Code des procédures civiles d'exécution",
+      "label_en": "Code of Civil Enforcement Procedures",
+      "order": 11,
+      "norms": 35,
+      "interps": 16,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 35
+      },
+      "fixture": false
+    },
+    {
+      "id": "fr-textes",
+      "group": "fr",
+      "lang": "fr",
+      "label_fr": "Textes non codifiés",
+      "label_en": "Non-codified texts",
+      "order": 12,
+      "norms": 806,
+      "interps": 114,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 806
+      },
+      "fixture": false
+    },
+    {
+      "id": "eu-reg",
+      "group": "eu-int",
+      "lang": "fr",
+      "label_fr": "Droit de l'Union européenne",
+      "label_en": "European Union law",
+      "order": 20,
+      "norms": 680,
+      "interps": 140,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 680
+      },
+      "fixture": false
+    },
+    {
+      "id": "int-hcch",
+      "group": "eu-int",
+      "lang": "en",
+      "label_fr": "Conventions de La Haye (HCCH)",
+      "label_en": "Hague Conventions (HCCH)",
+      "order": 21,
+      "norms": 659,
+      "interps": 113,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 659
+      },
+      "fixture": false
+    },
+    {
+      "id": "int-un",
+      "group": "eu-int",
+      "lang": "en",
+      "label_fr": "Nations unies",
+      "label_en": "United Nations",
+      "order": 22,
+      "norms": 120,
+      "interps": 0,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 120
+      },
+      "fixture": false
+    },
+    {
+      "id": "int-coe",
+      "group": "eu-int",
+      "lang": "en",
+      "label_fr": "Conseil de l'Europe",
+      "label_en": "Council of Europe",
+      "order": 23,
+      "norms": 152,
+      "interps": 318,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 152
+      },
+      "fixture": false
+    },
+    {
+      "id": "int-ciec",
+      "group": "eu-int",
+      "lang": "fr",
+      "label_fr": "Conventions CIEC",
+      "label_en": "CIEC conventions",
+      "order": 24,
+      "norms": 243,
+      "interps": 0,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 243
+      },
+      "fixture": false
+    },
+    {
+      "id": "int-bilateral",
+      "group": "eu-int",
+      "lang": "en",
+      "label_fr": "Accords bilatéraux France–États-Unis",
+      "label_en": "France–U.S. bilateral agreements",
+      "order": 25,
+      "norms": 77,
+      "interps": 0,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 77
+      },
+      "fixture": false
+    },
+    {
+      "id": "us-const",
+      "group": "us",
+      "lang": "en",
+      "label_fr": "Constitution des États-Unis",
+      "label_en": "U.S. Constitution",
+      "order": 30,
+      "norms": 6,
+      "interps": 181,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 6
+      },
+      "fixture": false
+    },
+    {
+      "id": "us-usc",
+      "group": "us",
+      "lang": "en",
+      "label_fr": "United States Code",
+      "label_en": "United States Code",
+      "order": 31,
+      "norms": 111,
+      "interps": 182,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 111
+      },
+      "fixture": false
+    },
+    {
+      "id": "us-cfr",
+      "group": "us",
+      "lang": "en",
+      "label_fr": "Code of Federal Regulations",
+      "label_en": "Code of Federal Regulations",
+      "order": 32,
+      "norms": 287,
+      "interps": 2,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 287
+      },
+      "fixture": false
+    },
+    {
+      "id": "us-common",
+      "group": "us",
+      "lang": "en",
+      "label_fr": "Règles jurisprudentielles fédérales",
+      "label_en": "Federal judge-made rules",
+      "order": 33,
+      "norms": 21,
+      "interps": 213,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 21
+      },
+      "fixture": false
+    },
+    {
+      "id": "mo-const",
+      "group": "mo",
+      "lang": "en",
+      "label_fr": "Constitution du Missouri",
+      "label_en": "Missouri Constitution",
+      "order": 40,
+      "norms": 4,
+      "interps": 0,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 4,
+        "procedure": 1
+      },
+      "fixture": false
+    },
+    {
+      "id": "mo-rsmo",
+      "group": "mo",
+      "lang": "en",
+      "label_fr": "Revised Statutes of Missouri",
+      "label_en": "Revised Statutes of Missouri (RSMo)",
+      "order": 41,
+      "norms": 1219,
+      "interps": 6060,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 603,
+        "procedure": 620
+      },
+      "fixture": false
+    },
+    {
+      "id": "mo-rules",
+      "group": "mo",
+      "lang": "en",
+      "label_fr": "Règles de la Cour suprême du Missouri",
+      "label_en": "Missouri Supreme Court Rules & Forms",
+      "order": 42,
+      "norms": 475,
+      "interps": 6890,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 95,
+        "procedure": 452
+      },
+      "fixture": false
+    },
+    {
+      "id": "mo-common",
+      "group": "mo",
+      "lang": "en",
+      "label_fr": "Règles jurisprudentielles du Missouri",
+      "label_en": "Missouri judge-made rules",
+      "order": 43,
+      "norms": 22,
+      "interps": 54,
+      "generated": "2026-09-30",
+      "axes": {
+        "family": 22
+      },
+      "fixture": false
+    }
+  ],
+  "authorities": [
+    {
+      "id": "coe-ecthr",
+      "lang": "fr",
+      "label": "Cour européenne des droits de l'homme",
+      "count": 321
+    },
+    {
+      "id": "eu-cjeu",
+      "lang": "fr",
+      "label": "Cour de justice de l'Union européenne",
+      "count": 142
+    },
+    {
+      "id": "fr-cass",
+      "lang": "fr",
+      "label": "Cour de cassation",
+      "count": 3977
+    },
+    {
+      "id": "fr-ce",
+      "lang": "fr",
+      "label": "Conseil d'État",
+      "count": 596
+    },
+    {
+      "id": "fr-cons",
+      "lang": "fr",
+      "label": "Conseil constitutionnel",
+      "count": 232
+    },
+    {
+      "id": "mo-app",
+      "lang": "en",
+      "label": "Missouri Court of Appeals",
+      "count": 10177
+    },
+    {
+      "id": "mo-sc",
+      "lang": "en",
+      "label": "Supreme Court of Missouri",
+      "count": 1397
+    },
+    {
+      "id": "us-ca8",
+      "lang": "en",
+      "label": "U.S. Court of Appeals for the Eighth Circuit",
+      "count": 237
+    },
+    {
+      "id": "us-scotus",
+      "lang": "en",
+      "label": "Supreme Court of the United States",
+      "count": 179
+    }
+  ],
+  "issue_sides": [
+    "fr",
+    "eu-int",
+    "us",
+    "mo",
+    "mo"
+  ],
+  "frame_policy": {
+    "legifrance.gouv.fr": "deny",
+    "www.legifrance.gouv.fr": "deny",
+    "eur-lex.europa.eu": "allow",
+    "curia.europa.eu": "deny",
+    "hudoc.echr.coe.int": "deny",
+    "www.courdecassation.fr": "deny",
+    "www.conseil-constitutionnel.fr": "deny",
+    "www.conseil-etat.fr": "deny",
+    "www.supremecourt.gov": "deny",
+    "www.govinfo.gov": "deny",
+    "www.ecfr.gov": "deny",
+    "www.courtlistener.com": "deny",
+    "www.hcch.net": "deny",
+    "revisor.mo.gov": "deny",
+    "uscode.house.gov": "deny",
+    "www.courts.mo.gov": "unknown"
+  },
+  "axes": [
+    {
+      "id": "family",
+      "label_fr": "Droit de la famille",
+      "label_en": "Family law",
+      "norms": 8436,
+      "issue_sides": [
+        "fr",
+        "eu-int",
+        "us",
+        "mo"
+      ]
+    },
+    {
+      "id": "procedure",
+      "label_fr": "Procédure civile comparée",
+      "label_en": "Comparative civil procedure",
+      "norms": 1073,
+      "issue_sides": [
+        "mo"
+      ]
+    }
+  ],
+  "search": {
+    "docs": 26690,
+    "shards": 885,
+    "max_shard": 1020605,
+    "total": 19490754
+  },
+  "classement_ce": 0,
+  "mappings": [
+    {
+      "id": "cpc-mo",
+      "label_fr": "Correspondances CPC ↔ Missouri",
+      "label_en": "CPC ↔ Missouri correspondence",
+      "axis": "procedure",
+      "fixture": false,
+      "count": 1699
+    }
+  ],
+  "sibling_browsers": {
+    "cpc": "https://vagabondo73.github.io/cpc-annotated-browser/",
+    "frcp": "https://vagabondo73.github.io/frcp-annotated-browser/"
+  },
+  "totals": {
+    "norms": 9432,
+    "interps": 17258,
+    "issues": 1287,
+    "sources": 199,
+    "coverage": 38
+  },
+  "build_report": {
+    "warn": 109,
+    "info": 71
+  }
+}

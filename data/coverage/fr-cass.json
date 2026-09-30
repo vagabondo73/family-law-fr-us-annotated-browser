@@ -1,0 +1,48 @@
+{
+  "corpus": "fr-cass",
+  "updated": "2026-09-30",
+  "source": "Tricoteuses/DILA CASS (arrêts publiés de la Cour de cassation) https://git.tricoteuses.fr/dila/cass",
+  "source_head": "1c9dc65f6454cf4350ed878733d036eae52699ad 2026-09-21T22:01:49+02:00",
+  "norms_expected": 6029,
+  "norms_with_interps": 1039,
+  "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
+  "interps_candidates": 42638,
+  "interps_screened": 144244,
+  "interps_linked": 16580,
+  "interps_included": 3977,
+  "links": {
+    "included": 5568,
+    "excluded": 62661,
+    "basis_a": 4406,
+    "basis_b": 1002,
+    "b_text_identical": 648,
+    "b_functional_review": 354,
+    "exclusion_reasons": {
+      "mention-faible": 15775,
+      "texte-modifie": 12221,
+      "alinea-vise-modifie": 2707,
+      "aucune-version-a-la-date": 1870,
+      "ancienne-numerotation": 666,
+      "chambre-hors-perimetre-matiere": 29359,
+      "devenu-texte-different": 58,
+      "devenu-version-inconnue": 5
+    }
+  },
+  "screened_breakdown": {
+    "civ": 48520,
+    "other": 74049,
+    "crim": 21675
+  },
+  "decisions_out_of_screen": 1131,
+  "excerpts_missing": 23,
+  "method": "Toutes les décisions CASS (publiées) indexées ; filtrage : 1re et 2e ch. civ., Ass. plén., ch. mixte, avis, anciennes ch. civ./ch. réunies (tout le périmètre) ; ch. criminelle (fr-cp, fr-cpp seulement) ; 3e civ., com., soc. (seulement droit de la famille « cœur » : C. civ. Livre Ier, 720-1099-1, 1387-1581, 1873, CPC Livre III titres I-III, autres codes). Liens : LIENS DILA, « Vu », sommaire (ANA), titrage (SCT), motifs de principe (« Selon l'article… », « Il résulte de… »). Mentions isolées dans le reste du texte (moyens) écartées (« mention-faible »). Règle temporelle SCOPE §2 : a si date ≥ date de début de la version actuelle ; sinon version en vigueur à la date (ou rédaction expressément visée) comparée au texte actuel (LEGI via dila/donnees_juridiques) ; identique → b text-identical ; sinon alinéa visé ou repris textuellement inchangé → b functional-review ; sinon exclusion.",
+  "gaps": [
+    "Liens LEGIARTI absents des LIENS CASS (0 décision) : liaison exclusivement par analyse textuelle des citations.",
+    "alt_url courdecassation.fr non dérivable de l'identifiant JURITEXT (identifiant Judilibre requis) : non renseigné.",
+    "Arrêts inédits exclus par construction (SCOPE §3) ; Lettre/Rapport non distingués (publication = B).",
+    "Citations sans le mot « article » (ex. « et 1075-1 du code de procédure civile ») non détectées.",
+    "Anciennes numérotations (« ancien article », « devenu ») : seules les correspondances à texte identique sont retenues.",
+    "fr-textes : liaison par « article N de la loi/du décret/de l'ordonnance/de l'arrêté n° … du … » et LIENS DILA (« Loi 85-1372 1985-12-23 art. 55 ») ; aucun identifiant LEGIARTI/JORFTEXT n'est présent dans les LIENS CASS/JADE, la résolution se fait par nature + numéro (ou date) + article ; textes cités sans numéro d'article non liés."
+  ],
+  "avis_note": "Les avis de la Cour de cassation figurent dans CASS (FORMATION = AVIS : 303 avis) ; ils sont tous criblés (kind = avis). Les avis rendus par la chambre criminelle apparaissent sous FORMATION = CHAMBRE_CRIMINELLE (SOLUTION « Avis sur saisine »)."
+}

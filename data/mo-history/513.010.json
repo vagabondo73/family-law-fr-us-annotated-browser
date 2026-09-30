@@ -1,0 +1,27 @@
+{
+  "section": "513.010",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.010",
+  "current": {
+    "effective": "2011-03-01",
+    "bid": "27640",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.010&bid=27640"
+  },
+  "versions": [
+    {
+      "effective": "1939-09-22",
+      "end": "2011-03-01",
+      "bid": "49252",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.010&bid=49252",
+      "heading": "Levy and real estate defined.",
+      "text": "1. The word \"levy\", as used in this chapter, shall be construed to mean the actual seizure of property by the officer charged with the execution of the writ.\n\n2. The term \"real estate\", as used in this chapter shall be construed to include all estate and interest in lands, tenements and hereditaments.",
+      "history_note": "(RSMo 1939 §§ 1338, 1339)",
+      "effdt_raw": "Effective - 22 Sep 1939, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

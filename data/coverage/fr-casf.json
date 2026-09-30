@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-casf",
+  "norms_expected": 580,
+  "norms_done": 580,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_l_action_sociale_et_des_familles (HEAD 9f64b6311400), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 3689 en vigueur sur 3689 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 580 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Livre V (outre-mer) exclu ; Livre IV (assistants familiaux) non retenu."
+  ],
+  "updated": "2026-09-30"
+}

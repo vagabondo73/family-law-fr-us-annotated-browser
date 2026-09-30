@@ -1,0 +1,18 @@
+{
+  "curia.europa.eu": "deny",
+  "eur-lex.europa.eu": "allow",
+  "hudoc.echr.coe.int": "deny",
+  "legifrance.gouv.fr": "deny",
+  "revisor.mo.gov": "deny",
+  "uscode.house.gov": "deny",
+  "www.conseil-constitutionnel.fr": "deny",
+  "www.conseil-etat.fr": "deny",
+  "www.courdecassation.fr": "deny",
+  "www.courtlistener.com": "deny",
+  "www.courts.mo.gov": "unknown",
+  "www.ecfr.gov": "deny",
+  "www.govinfo.gov": "deny",
+  "www.hcch.net": "deny",
+  "www.legifrance.gouv.fr": "deny",
+  "www.supremecourt.gov": "deny"
+}

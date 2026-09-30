@@ -1,0 +1,29 @@
+{
+  "section": "565.150",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.150",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29327",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.150&bid=29327"
+  },
+  "versions": [
+    {
+      "effective": "1988-08-13",
+      "end": "2017-01-01",
+      "bid": "29328",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.150&bid=29328",
+      "heading": "Until December 31, 2016 — Interference with custody — penalty.",
+      "text": "1. A person commits the crime of interference with custody if, knowing that he has no legal right to do so, he takes or entices from legal custody any person entrusted by order of a court to the custody of another person or institution.\n\n2. Interference with custody is a class A misdemeanor unless the person taken or enticed away from legal custody is removed from this state, detained in another state or concealed, in which case it is a class D felony.",
+      "history_note": "(L. 1977 S.B. 60, A.L. 1988 H.B. 1272, et al.)",
+      "effdt_raw": "Effective - 13 Aug 1988, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

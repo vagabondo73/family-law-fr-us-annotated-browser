@@ -1,0 +1,28 @@
+{
+  "section": "210.640",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.640",
+  "current": {
+    "effective": "1975-08-28",
+    "bid": "33102",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.640&bid=33102"
+  },
+  "versions": [],
+  "pending_or_concurrent": [
+    {
+      "effective": "2007-08-28",
+      "end": null,
+      "bid": "11399",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.640&bid=11399",
+      "heading": "Placements from nonparty states, procedure for.",
+      "text": "No placement made into this state from a jurisdiction not party to the Interstate Compact on the Placement of Children shall be lawful unless the person or agency making the placement complies with and follows the procedures and requirements of that compact as though the state or jurisdiction from which the child is sent or brought were party thereto. This section shall not apply to any placement which would not be subject to the terms of the Interstate Compact on the Placement of Children if both this state and the other state or jurisdiction from which the child is sent or brought were parties thereto.",
+      "history_note": "(L. 1975 S.B. 162 § 7, A.L. 2007 S.B. 84)",
+      "effdt_raw": "Effective - 28 Aug 2007, 2 histories",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ],
+      "note": "concurrent version without end date (contingent / multiple enactment) — see revisor footnote"
+    }
+  ],
+  "generated": "2026-09-30"
+}

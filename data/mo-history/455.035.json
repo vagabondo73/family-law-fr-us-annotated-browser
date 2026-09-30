@@ -1,0 +1,29 @@
+{
+  "section": "455.035",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.035",
+  "current": {
+    "effective": "2013-08-28",
+    "bid": "25533",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.035&bid=25533"
+  },
+  "versions": [
+    {
+      "effective": "2011-08-28",
+      "end": "2013-08-28",
+      "bid": "48996",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.035&bid=48996",
+      "heading": "Protection orders — ex\nparte.",
+      "text": "1. Upon the filing of a verified petition pursuant to sections 455.010 to 455.085 and for good cause shown in the petition, the court may immediately issue an ex parte order of protection. An immediate and present danger of abuse to the petitioner shall constitute good cause for purposes of this section. An ex parte order of protection entered by the court shall take effect when entered and shall remain in effect until there is valid service of process and a hearing is held on the motion.\n\n2. Failure to serve an ex parte order of protection on the respondent shall not affect the validity or enforceability of such order. If the respondent is less than seventeen years of age, unless otherwise emancipated, service of process shall be made upon a parent or guardian of the respondent, or upon a guardian ad litem appointed by the court.\n\n3. If an ex parte order is entered and the allegations in the petition would give rise to jurisdiction under section 211.031 because the respondent is less than seventeen years of age, the court shall transfer the case to juvenile court for a hearing on a full order of protection. The court shall appoint a guardian ad litem for any such respondent not represented by a parent or guardian.",
+      "history_note": "(L. 1980 S.B. 524 § 6, A.L. 1996 H.B. 1619, A.L. 1999 S.B. 1, et\nal., A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

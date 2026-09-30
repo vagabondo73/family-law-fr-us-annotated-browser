@@ -1,0 +1,27 @@
+{
+  "section": "525.070",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.070",
+  "current": {
+    "effective": "2015-01-15",
+    "bid": "28066",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.070&bid=28066"
+  },
+  "versions": [
+    {
+      "effective": "2002-08-28",
+      "end": "2015-01-15",
+      "bid": "53202",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.070&bid=53202",
+      "heading": "Garnishee may discharge himself, how.",
+      "text": "Whenever any property, effects, money or debts, belonging or owing to the defendant, shall be confessed, or found by the court or jury, to be in the hands of the garnishee, the garnishee may, at any time before final judgment, discharge himself, by paying or delivering the same, or so much thereof as the court shall order, to the sheriff or to the court, from all further liability on account of the property, money or debts so paid or delivered.",
+      "history_note": "(RSMo 1939 § 1566, A.L. 2002 S.B. 895)",
+      "effdt_raw": "Effective - 28 Aug 2002, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

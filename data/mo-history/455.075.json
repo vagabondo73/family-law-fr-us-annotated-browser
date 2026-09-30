@@ -1,0 +1,27 @@
+{
+  "section": "455.075",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.075",
+  "current": {
+    "effective": "2022-08-28",
+    "bid": "51050",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.075&bid=51050"
+  },
+  "versions": [
+    {
+      "effective": "2002-08-28",
+      "end": "2022-08-28",
+      "bid": "25544",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.075&bid=25544",
+      "heading": "Attorney's fees, cost.",
+      "text": "The court may order a party to pay a reasonable amount to the other party for attorney's fees incurred prior to the commencement of the proceeding or after entry of judgment. The court shall consider all relevant factors, including the financial resources of both parties, and may order that the amount be paid directly to the attorney, who may enforce the order in his name.",
+      "history_note": "(L. 1980 S.B. 524 § 14, A.L. 2002 H.B. 1814)",
+      "effdt_raw": "Effective - 28 Aug 2002, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

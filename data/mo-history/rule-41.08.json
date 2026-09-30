@@ -1,0 +1,28 @@
+{
+  "rule": "41.08",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=199556",
+  "current": {
+    "effective": "2026-01-01",
+    "text_sha256": "3a75c131a23cef2b888c35cbfac5b7b8a1a41a01abe3ab56bfcdc186d7b57eae"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "2011-09-01",
+      "effective": "2011-09-01"
+    }
+  ],
+  "history_note": "(Adopted September 1, 2011, effective September 1, 2011.)",
+  "versions": [
+    {
+      "effective": "2011-09-01",
+      "end": "2026-01-01",
+      "heading": "Signatures of Judicial Officers and Court Officials",
+      "text": "(a) Signature of judicial officer. Documents requiring a judge's or commissioner's signature may be signed by an original signature, stamped signature, or an electronic graphic representation of a signature.\n\n(b) Signature of clerk. Documents requiring a clerk's signature may be signed by an original signature, stamped signature, an electronic graphic representation of a signature, or /s/ John or Jane Clerk.\n(c) Signature of court reporter and transcriber. Documents requiring a court reporter's or transcriber's signature may be signed by an original signature, stamped signature, an electronic graphic representation of a signature, or /s/ John or Jane Person.",
+      "source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)",
+      "identical_to_current": false
+    }
+  ],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

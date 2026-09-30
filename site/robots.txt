@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vagabondo73.github.io/family-law-fr-us-annotated-browser/sitemap.xml

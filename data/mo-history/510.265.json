@@ -1,0 +1,27 @@
+{
+  "section": "510.265",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.265",
+  "current": {
+    "effective": "2020-08-28",
+    "bid": "48375",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.265&bid=48375"
+  },
+  "versions": [
+    {
+      "effective": "2005-08-28",
+      "end": "2020-08-28",
+      "bid": "27513",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.265&bid=27513",
+      "heading": "Limitations on punitive damages in certain cases.",
+      "text": "1. No award of punitive damages against any defendant shall exceed the greater of:\n\n(1) Five hundred thousand dollars; or\n\n(2) Five times the net amount of the judgment awarded to the plaintiff against the defendant.\n\nSuch limitations shall not apply if the state of Missouri is the plaintiff requesting the award of punitive damages, or the defendant pleads guilty to or is convicted of a felony arising out of the acts or omissions pled by the plaintiff.\n\n2. The provisions of this section shall not apply to civil actions brought under section 213.111 that allege a violation of section 213.040, 213.045, 213.050, or 213.070, to the extent that the alleged violation of section 213.070 relates to or involves a violation of section 213.040, 213.045, or 213.050, or subdivision (3) of subsection 1* of section 213.070 as it relates to housing.",
+      "history_note": "(L. 2005 H.B. 393)",
+      "effdt_raw": "Effective - 28 Aug 2005, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

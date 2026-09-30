@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-coj",
+  "norms_expected": 92,
+  "norms_done": 92,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_l_organisation_judiciaire (HEAD 523b0a4b3546), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 1019 en vigueur sur 1019 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 92 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Sélection par intitulés (JAF, juridictions des mineurs, pôles VIF) et mots-clés : des articles généraux de compétence du tribunal judiciaire non libellés « famille » peuvent manquer."
+  ],
+  "updated": "2026-09-30"
+}

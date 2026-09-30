@@ -1,0 +1,34 @@
+{
+  "corpus": "mo-app",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "interps": [
+    {
+      "id": "mo-app-fixture-antenuptial",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals",
+      "date": "1979-01-01",
+      "number": "FIXTURE",
+      "citation": "FIXTURE — placeholder Missouri Court of Appeals opinion (antenuptial agreements)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/page.jsp?id=12086",
+      "alt_urls": [],
+      "summary": "Placeholder record used to render the judge-made-rule view. Replace with the verified leading case.",
+      "summary_is_official": false,
+      "excerpts": [],
+      "norms": [
+        {
+          "norm": "mo-common-antenuptial-validity",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.marital-agreements.antenuptial"
+      ],
+      "lang": "en",
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}

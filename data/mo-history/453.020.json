@@ -1,0 +1,28 @@
+{
+  "section": "453.020",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.020",
+  "current": {
+    "effective": "2005-08-28",
+    "bid": "25141",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.020&bid=25141"
+  },
+  "versions": [
+    {
+      "effective": "2004-08-28",
+      "end": "2005-08-28",
+      "bid": "52386",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.020&bid=52386",
+      "heading": "Petition — guardian ad litem appointed — fee.",
+      "text": "1. The petition for adoption shall state:\n\n(1) The name, sex and place of birth of the person sought to be adopted;\n\n(2) The name of his parents, if known to the petitioner;\n\n(3) If the person sought to be adopted is a minor, the fact that petitioner has the ability to properly care for, maintain and educate such person; and\n\n(4) If it is desired to change the name of such person, the new name.\n\n2. The petition for adoption shall include payment of a fifty dollar filing fee which shall be used to fund the putative father registry established pursuant to section 192.016, RSMo.",
+      "history_note": "(RSMo 1939 § 9612, A.L. 1947 V. II p. 213, A.L. 1959 H.B. 384, A.L. 1982 H.B. 1171, et al., A.L. 1985, H.B. 366, et al., A.L. 2004 H.B. 1453)",
+      "effdt_raw": "Effective - 28 Aug 2004, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

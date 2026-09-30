@@ -1,0 +1,44 @@
+{
+  "corpus": "mo-common",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "mo-common-antenuptial-validity",
+      "corpus": "mo-common",
+      "side": "mo",
+      "lang": "en",
+      "kind": "judge-made-rule",
+      "num": "MO-JMR-1",
+      "heading": "Validity and enforceability of antenuptial agreements",
+      "path": [
+        {
+          "label": "Marital agreements",
+          "id": "marital-agreements"
+        }
+      ],
+      "summary_rule": "Missouri courts enforce an antenuptial agreement when it was entered into “freely, fairly, knowingly, understandingly and in good faith and with full disclosure”, and when it is not unconscionable. [FIXTURE — quotation not yet verified against the opinion.]",
+      "rule_sources": [
+        "mo-app-fixture-antenuptial"
+      ],
+      "in_force_since": null,
+      "status": "in force",
+      "applies_to": [
+        "MO"
+      ],
+      "official_url": "https://www.courts.mo.gov/page.jsp?id=12086",
+      "alt_urls": [],
+      "source_ids": {},
+      "issues": [
+        "mo.marital-agreements.antenuptial"
+      ],
+      "xrefs": [
+        "mo-rsmo-452.375"
+      ],
+      "interps": [],
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}

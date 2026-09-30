@@ -1,0 +1,27 @@
+{
+  "section": "455.503",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.503",
+  "current": {
+    "effective": "2015-08-28",
+    "bid": "25561",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.503&bid=25561"
+  },
+  "versions": [
+    {
+      "effective": "2013-08-28",
+      "end": "2015-08-28",
+      "bid": "48196",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.503&bid=48196",
+      "heading": "Venue — petition, who may file.",
+      "text": "1. A petition for an order of protection for a child shall be filed in the county where the child resides, where the alleged incident of domestic violence or stalking occurred, or where the respondent may be served.\n\n2. Such petition may be filed by any of the following:\n\n(1) A parent or guardian of the victim;\n\n(2) A guardian ad litem or court-appointed special advocate appointed for the victim; or\n\n(3) The juvenile officer.",
+      "history_note": "(L. 1987 H.B. 598 § 3, A.L. 2013 H.B. 215)",
+      "effdt_raw": "Effective - 28 Aug 2013, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "int-ciec",
+  "norms_expected": 219,
+  "norms_done": 219,
+  "instrument_records": 24,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "ciec1.org convention pages (list pages 1-2, 35 instruments): France row of each status table parsed; French text parsed per article for every instrument ratified by France; signed-only → status record; others → excluded (ledger). The United States is not a CIEC member.",
+  "gaps": [
+    "Convention n°18: France ratified 14/05/1986; the CIEC table shows no entry-into-force date for France — in_force_since null.",
+    "CIEC pages append an explanatory report: article text cut at the first repeated article number / 'Seul l'original français fait foi' marker (see raw/int/treaties_ledger.json ciec_truncated).",
+    "CIEC statuses are as published by the CIEC secretariat (not an official treaty depositary in every case; the depositary is the Swiss Federal Council) — to be cross-checked on the Swiss FDFA depositary lists.",
+    "Convention (n°35) relative à la délivrance de certificats de capacité matrimoniale et de capacité à conclure un partenariat enregistré — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°32) sur la reconnaissance des partenariats enregistrés — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°31) sur la reconnaissance des noms — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°29) relative à la reconnaissance des décisions constatant un changement de sexe — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°28) relative à la délivrance d’un certificat de nationalité — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°25) relative au codage des énonciations figurant dans les documents d’état civil — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°20) relative à la délivrance d’un certificat de capacité matrimoniale — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°19) sur la loi applicable aux noms et prénoms — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°14) relative à l’indication des noms et prénoms dans les registres de l’état civil — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°13) tendant à réduire le nombre des cas d’apatridie — excluded: not signed/ratified by France (CIEC status table)",
+    "Convention (n°8) concernant l’échange d’informations en matière d’acquisition de nationalité — excluded: not signed/ratified by France (CIEC status table)"
+  ],
+  "updated": "2026-09-30"
+}

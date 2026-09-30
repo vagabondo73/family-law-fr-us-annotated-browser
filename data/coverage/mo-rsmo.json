@@ -1,0 +1,2736 @@
+{
+  "corpus": "mo-rsmo",
+  "norms_expected": 1220,
+  "norms_done": 1219,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Chapter index pages of revisor.mo.gov (OneChapter.aspx) enumerated programmatically for chapters 451, 452, 453, 454, 455 (every section; family axis), procedure-axis chapters (SCOPE §4.5) 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 525 (every section) and the selected sections/ranges of chapters 210: {'ranges': [('210.817', '210.854'), ('210.109', '210.118'), ('210.125', '210.165'), ('210.183', '210.183'), ('210.620', '210.650'), ('210.950', '210.950')]}; 211: {'ranges': [('211.031', '211.031'), ('211.442', '211.487')]}; 193: {'list': ['193.015', '193.075', '193.085', '193.087', '193.095', '193.115', '193.125', '193.128', '193.135', '193.185', '193.195', '193.205', '193.215', '193.255']}; 474: {'ranges': [('474.010', '474.300'), ('474.420', '474.420')]}; 432: {'list': ['432.010']}; 516: {'list': ['516.100', '516.110', '516.120', '516.350']}; 565: {'ranges': [('565.002', '565.002'), ('565.072', '565.076'), ('565.150', '565.160')]}. Every section page (OneSection.aspx) fetched; heading, text, Effective date, history note parsed; every prior version listed in the 'All versions' table fetched by bid and stored in data/mo-history/<section>.json with text and a normalized-text identity flag vs. the current text (for the SCOPE §2(b) test). Repealed/transferred sections are taken from revisor rx.aspx and listed below (excluded from norms). Interpretations are handled by the case-law agent.",
+  "chapter_listing_rows_in_scope": 1233,
+  "prior_versions_stored": 326,
+  "excluded_not_in_force": [
+    {
+      "section": "513.423",
+      "status": "not yet in force",
+      "heading": "Adjustment interval, amount — revisor of statutes duties.",
+      "effective": "2027-01-01",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.423"
+    }
+  ],
+  "concurrent_versions": [
+    {
+      "section": "210.620",
+      "current_bid": "33098",
+      "current_effective": "1975-08-28",
+      "other_bid": "11394",
+      "other_effective": "2007-08-28"
+    },
+    {
+      "section": "210.622",
+      "current_bid": "33099",
+      "current_effective": "1985-08-28",
+      "other_bid": "11395",
+      "other_effective": "2007-08-28"
+    },
+    {
+      "section": "210.625",
+      "current_bid": "33100",
+      "current_effective": "1975-08-28",
+      "other_bid": "11396",
+      "other_effective": "2007-08-28"
+    },
+    {
+      "section": "210.635",
+      "current_bid": "33101",
+      "current_effective": "1975-08-28",
+      "other_bid": "11398",
+      "other_effective": "2007-08-28"
+    },
+    {
+      "section": "210.640",
+      "current_bid": "33102",
+      "current_effective": "1975-08-28",
+      "other_bid": "11399",
+      "other_effective": "2007-08-28"
+    }
+  ],
+  "repealed_transferred": [
+    {
+      "section": "210.110",
+      "note": "(Repealed L. 1965 p. 360 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.110&bid=41228"
+    },
+    {
+      "section": "210.111",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.111&bid=11296"
+    },
+    {
+      "section": "210.130",
+      "note": "(Repealed L. 1965 p. 360 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.130&bid=41230"
+    },
+    {
+      "section": "210.140",
+      "note": "(Repealed L. 1965 p. 360 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.140&bid=41231"
+    },
+    {
+      "section": "210.150",
+      "note": "(Repealed L. 1965 p. 360 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.150&bid=41232"
+    },
+    {
+      "section": "210.160",
+      "note": "(Repealed L. 1965 p. 360 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.160&bid=41233"
+    },
+    {
+      "section": "210.630",
+      "note": "(Repealed L. 2007 S.B. 84)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.630&bid=11397"
+    },
+    {
+      "section": "210.819",
+      "note": "(Repealed L. 1986 H.B. 953 § 1)",
+      "date": "1986-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.819&bid=41283"
+    },
+    {
+      "section": "210.826",
+      "note": "(Repealed L. 1986 H.B. 953 § 1)",
+      "date": "1986-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.826&bid=41284"
+    },
+    {
+      "section": "210.830",
+      "note": "(Repealed L. 1986 H.B. 953 § 1)",
+      "date": "1986-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.830&bid=41285"
+    },
+    {
+      "section": "210.835",
+      "note": "(Repealed L. 1986 H.B. 953 § 1)",
+      "date": "1986-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.835&bid=41286"
+    },
+    {
+      "section": "210.837",
+      "note": "(Repealed L. 1986 H.B. 953 § 1)",
+      "date": "1986-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.837&bid=41287"
+    },
+    {
+      "section": "211.450",
+      "note": "(Repealed L. 1957 p. 642 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.450&bid=41339"
+    },
+    {
+      "section": "211.451",
+      "note": "(Repealed L. 1978 H.B. 972 § A)",
+      "date": "1978-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.451&bid=41340"
+    },
+    {
+      "section": "211.455",
+      "note": "(Repealed L. 1957 p. 642 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.455&bid=41341"
+    },
+    {
+      "section": "211.457",
+      "note": "(Repealed L. 1985 H.B. 366, et al. § A)",
+      "date": "1985-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.457&bid=41342"
+    },
+    {
+      "section": "211.460",
+      "note": "(Repealed L. 1957 p. 642 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.460&bid=41343"
+    },
+    {
+      "section": "211.461",
+      "note": "(Repealed L. 1978 H.B. 972 § A)",
+      "date": "1978-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.461&bid=41344"
+    },
+    {
+      "section": "211.467",
+      "note": "(Repealed L. 1985 H.B. 366, et al. § A)",
+      "date": "1985-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.467&bid=41345"
+    },
+    {
+      "section": "211.470",
+      "note": "(Repealed L. 1957 p. 642 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.470&bid=41346"
+    },
+    {
+      "section": "211.471",
+      "note": "(Repealed L. 1978 H.B. 972 § A)",
+      "date": "1978-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.471&bid=41347"
+    },
+    {
+      "section": "211.472",
+      "note": "(Repealed L. 1985 H.B. 366, et al. § A)",
+      "date": "1985-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.472&bid=41348"
+    },
+    {
+      "section": "211.480",
+      "note": "(Repealed L. 1957 p. 642 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.480&bid=41349"
+    },
+    {
+      "section": "211.481",
+      "note": "(Repealed L. 1978 H.B. 972 § A)",
+      "date": "1978-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.481&bid=41350"
+    },
+    {
+      "section": "211.482",
+      "note": "(Repealed L. 1985 H.B. 366, et al. § A)",
+      "date": "1985-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=211.482&bid=41351"
+    },
+    {
+      "section": "451.050",
+      "note": "(Repealed L. 1980 S.B. 532 § 1)",
+      "date": "1980-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.050&bid=44885"
+    },
+    {
+      "section": "451.060",
+      "note": "(Repealed L. 1981 S.B. 21 & 113 § 1)",
+      "date": "1981-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.060&bid=44886"
+    },
+    {
+      "section": "451.070",
+      "note": "(Repealed L. 1981 S.B. 21 & 113 § 1)",
+      "date": "1981-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.070&bid=44887"
+    },
+    {
+      "section": "451.140",
+      "note": "(Repealed L. 1989 S.B. 127)",
+      "date": "1989-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.140&bid=44888"
+    },
+    {
+      "section": "451.280",
+      "note": "(Repealed L. 2001 H.B. 537 § A)",
+      "date": "2001-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.280&bid=24982"
+    },
+    {
+      "section": "452.010",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.010&bid=44889"
+    },
+    {
+      "section": "452.020",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.020&bid=44890"
+    },
+    {
+      "section": "452.030",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.030&bid=44891"
+    },
+    {
+      "section": "452.040",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.040&bid=44892"
+    },
+    {
+      "section": "452.050",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.050&bid=44893"
+    },
+    {
+      "section": "452.060",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.060&bid=44894"
+    },
+    {
+      "section": "452.070",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.070&bid=44895"
+    },
+    {
+      "section": "452.090",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.090&bid=44896"
+    },
+    {
+      "section": "452.100",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.100&bid=44897"
+    },
+    {
+      "section": "452.120",
+      "note": "(Repealed L. 1973 H.B. 315 § A)",
+      "date": "1974-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.120&bid=44898"
+    },
+    {
+      "section": "452.353",
+      "note": "(Repealed L. 1993 S.B. 253 § B)",
+      "date": "1993-05-26",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.353&bid=44899"
+    },
+    {
+      "section": "452.401",
+      "note": "(Repealed L. 1999 S.B. 1, et al. § A)",
+      "date": "1999-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.401&bid=44900"
+    },
+    {
+      "section": "452.440",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.440&bid=25055"
+    },
+    {
+      "section": "452.445",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.445&bid=25056"
+    },
+    {
+      "section": "452.450",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.450&bid=25057"
+    },
+    {
+      "section": "452.455",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.455&bid=25058"
+    },
+    {
+      "section": "452.460",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.460&bid=25059"
+    },
+    {
+      "section": "452.465",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.465&bid=25060"
+    },
+    {
+      "section": "452.470",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.470&bid=25061"
+    },
+    {
+      "section": "452.475",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.475&bid=25062"
+    },
+    {
+      "section": "452.480",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.480&bid=25063"
+    },
+    {
+      "section": "452.485",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.485&bid=25064"
+    },
+    {
+      "section": "452.490",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.490&bid=25065"
+    },
+    {
+      "section": "452.495",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.495&bid=25066"
+    },
+    {
+      "section": "452.500",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.500&bid=25067"
+    },
+    {
+      "section": "452.505",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.505&bid=25068"
+    },
+    {
+      "section": "452.510",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.510&bid=25069"
+    },
+    {
+      "section": "452.515",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.515&bid=25070"
+    },
+    {
+      "section": "452.520",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.520&bid=25071"
+    },
+    {
+      "section": "452.525",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.525&bid=25072"
+    },
+    {
+      "section": "452.530",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.530&bid=25073"
+    },
+    {
+      "section": "452.535",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.535&bid=25074"
+    },
+    {
+      "section": "452.540",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.540&bid=25075"
+    },
+    {
+      "section": "452.545",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.545&bid=25076"
+    },
+    {
+      "section": "452.550",
+      "note": "(Repealed L. 2009 H.B. 481 § A)",
+      "date": "2009-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.550&bid=25077"
+    },
+    {
+      "section": "453.112",
+      "note": "(Repealed L. 1998 S.B. 674)",
+      "date": "1998-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.112&bid=44901"
+    },
+    {
+      "section": "453.130",
+      "note": "(Repealed L. 1982 H.B. 1171, et al. § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.130&bid=44902"
+    },
+    {
+      "section": "453.300",
+      "note": "(Repealed L. 1982 H.B. 1171, et al. § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.300&bid=44903"
+    },
+    {
+      "section": "453.305",
+      "note": "(Repealed L. 1982 H.B. 1171, et al. § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.305&bid=44904"
+    },
+    {
+      "section": "453.310",
+      "note": "(Repealed L. 1982 H.B. 1171, et al. § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.310&bid=44905"
+    },
+    {
+      "section": "453.320",
+      "note": "(Repealed L. 1982 H.B. 1171, et al. § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.320&bid=44906"
+    },
+    {
+      "section": "453.322",
+      "note": "(Repealed L. 2012 H.B. 1608 § A)",
+      "date": "2012-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.322&bid=25171"
+    },
+    {
+      "section": "453.325",
+      "note": "(Repealed L. 2012 H.B. 1608 § A)",
+      "date": "2012-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.325&bid=25172"
+    },
+    {
+      "section": "454.010",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.010&bid=25178"
+    },
+    {
+      "section": "454.020",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.020&bid=25179"
+    },
+    {
+      "section": "454.030",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.030&bid=25180"
+    },
+    {
+      "section": "454.040",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.040&bid=25181"
+    },
+    {
+      "section": "454.050",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.050&bid=25182"
+    },
+    {
+      "section": "454.060",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.060&bid=25183"
+    },
+    {
+      "section": "454.070",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.070&bid=25184"
+    },
+    {
+      "section": "454.080",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.080&bid=25185"
+    },
+    {
+      "section": "454.090",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.090&bid=25186"
+    },
+    {
+      "section": "454.100",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.100&bid=25187"
+    },
+    {
+      "section": "454.105",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.105&bid=25188"
+    },
+    {
+      "section": "454.110",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.110&bid=25189"
+    },
+    {
+      "section": "454.120",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.120&bid=25190"
+    },
+    {
+      "section": "454.130",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.130&bid=25191"
+    },
+    {
+      "section": "454.140",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.140&bid=25192"
+    },
+    {
+      "section": "454.150",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.150&bid=25193"
+    },
+    {
+      "section": "454.160",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.160&bid=25194"
+    },
+    {
+      "section": "454.170",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.170&bid=25195"
+    },
+    {
+      "section": "454.180",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.180&bid=25196"
+    },
+    {
+      "section": "454.190",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.190&bid=25197"
+    },
+    {
+      "section": "454.200",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.200&bid=25198"
+    },
+    {
+      "section": "454.210",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.210&bid=25199"
+    },
+    {
+      "section": "454.220",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.220&bid=25200"
+    },
+    {
+      "section": "454.230",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.230&bid=25201"
+    },
+    {
+      "section": "454.240",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.240&bid=25202"
+    },
+    {
+      "section": "454.250",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.250&bid=25203"
+    },
+    {
+      "section": "454.260",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.260&bid=25204"
+    },
+    {
+      "section": "454.270",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.270&bid=25205"
+    },
+    {
+      "section": "454.275",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.275&bid=25206"
+    },
+    {
+      "section": "454.280",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.280&bid=25207"
+    },
+    {
+      "section": "454.290",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.290&bid=25208"
+    },
+    {
+      "section": "454.300",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.300&bid=25209"
+    },
+    {
+      "section": "454.310",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.310&bid=25210"
+    },
+    {
+      "section": "454.320",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.320&bid=25211"
+    },
+    {
+      "section": "454.330",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.330&bid=25212"
+    },
+    {
+      "section": "454.340",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.340&bid=25213"
+    },
+    {
+      "section": "454.350",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.350&bid=25214"
+    },
+    {
+      "section": "454.355",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.355&bid=25215"
+    },
+    {
+      "section": "454.360",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.360&bid=25216"
+    },
+    {
+      "section": "454.480",
+      "note": "(Repealed L. 2007 S.B. 25 § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.480&bid=25246"
+    },
+    {
+      "section": "454.506",
+      "note": "(Repealed L. 1993 S.B. 253 § B)",
+      "date": "1993-05-26",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.506&bid=44907"
+    },
+    {
+      "section": "454.800",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.800&bid=25301"
+    },
+    {
+      "section": "454.802",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.802&bid=25302"
+    },
+    {
+      "section": "454.804",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.804&bid=25303"
+    },
+    {
+      "section": "454.806",
+      "note": "(Repealed L. 2010 H.B. 1965 § A)",
+      "date": "2010-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.806&bid=25304"
+    },
+    {
+      "section": "454.808",
+      "note": "(Repealed L. 2007 S.B. 613 Revision § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.808&bid=25305"
+    },
+    {
+      "section": "454.810",
+      "note": "(Repealed L. 2007 S.B. 25 § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.810&bid=25306"
+    },
+    {
+      "section": "454.850",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.850&bid=25308"
+    },
+    {
+      "section": "454.853",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.853&bid=25310"
+    },
+    {
+      "section": "454.855",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.855&bid=25312"
+    },
+    {
+      "section": "454.857",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.857&bid=25314"
+    },
+    {
+      "section": "454.860",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.860&bid=25316"
+    },
+    {
+      "section": "454.862",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.862&bid=25318"
+    },
+    {
+      "section": "454.865",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.865&bid=25320"
+    },
+    {
+      "section": "454.867",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.867&bid=25322"
+    },
+    {
+      "section": "454.869",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.869&bid=25324"
+    },
+    {
+      "section": "454.871",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.871&bid=25326"
+    },
+    {
+      "section": "454.874",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.874&bid=25328"
+    },
+    {
+      "section": "454.877",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.877&bid=25330"
+    },
+    {
+      "section": "454.880",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.880&bid=25332"
+    },
+    {
+      "section": "454.882",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.882&bid=25334"
+    },
+    {
+      "section": "454.885",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.885&bid=25336"
+    },
+    {
+      "section": "454.887",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.887&bid=25338"
+    },
+    {
+      "section": "454.890",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.890&bid=25340"
+    },
+    {
+      "section": "454.892",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.892&bid=25342"
+    },
+    {
+      "section": "454.895",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.895&bid=25344"
+    },
+    {
+      "section": "454.897",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.897&bid=25346"
+    },
+    {
+      "section": "454.900",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.900&bid=25348"
+    },
+    {
+      "section": "454.902",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.902&bid=25350"
+    },
+    {
+      "section": "454.905",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.905&bid=25352"
+    },
+    {
+      "section": "454.907",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.907&bid=25354"
+    },
+    {
+      "section": "454.910",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.910&bid=25356"
+    },
+    {
+      "section": "454.912",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.912&bid=25358"
+    },
+    {
+      "section": "454.915",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.915&bid=25360"
+    },
+    {
+      "section": "454.917",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.917&bid=25362"
+    },
+    {
+      "section": "454.920",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.920&bid=25364"
+    },
+    {
+      "section": "454.922",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.922&bid=25366"
+    },
+    {
+      "section": "454.927",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.927&bid=25368"
+    },
+    {
+      "section": "454.930",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.930&bid=25370"
+    },
+    {
+      "section": "454.932",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.932&bid=25372"
+    },
+    {
+      "section": "454.934",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.934&bid=25374"
+    },
+    {
+      "section": "454.935",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.935&bid=44908"
+    },
+    {
+      "section": "454.936",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2011-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.936&bid=25376"
+    },
+    {
+      "section": "454.937",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.937&bid=44909"
+    },
+    {
+      "section": "454.938",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.938&bid=25378"
+    },
+    {
+      "section": "454.940",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.940&bid=44910"
+    },
+    {
+      "section": "454.941",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.941&bid=25380"
+    },
+    {
+      "section": "454.942",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.942&bid=44911"
+    },
+    {
+      "section": "454.943",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.943&bid=25382"
+    },
+    {
+      "section": "454.945",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.945&bid=44912"
+    },
+    {
+      "section": "454.946",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.946&bid=25384"
+    },
+    {
+      "section": "454.947",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.947&bid=44913"
+    },
+    {
+      "section": "454.948",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.948&bid=25386"
+    },
+    {
+      "section": "454.950",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.950&bid=44914"
+    },
+    {
+      "section": "454.951",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.951&bid=25388"
+    },
+    {
+      "section": "454.952",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.952&bid=44915"
+    },
+    {
+      "section": "454.953",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.953&bid=25390"
+    },
+    {
+      "section": "454.955",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.955&bid=44916"
+    },
+    {
+      "section": "454.956",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.956&bid=25392"
+    },
+    {
+      "section": "454.957",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.957&bid=44917"
+    },
+    {
+      "section": "454.958",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.958&bid=25394"
+    },
+    {
+      "section": "454.960",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.960&bid=44918"
+    },
+    {
+      "section": "454.961",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.961&bid=25396"
+    },
+    {
+      "section": "454.962",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.962&bid=44919"
+    },
+    {
+      "section": "454.963",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.963&bid=25398"
+    },
+    {
+      "section": "454.965",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.965&bid=44920"
+    },
+    {
+      "section": "454.966",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.966&bid=25400"
+    },
+    {
+      "section": "454.967",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.967&bid=44921"
+    },
+    {
+      "section": "454.968",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.968&bid=25402"
+    },
+    {
+      "section": "454.970",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.970&bid=44922"
+    },
+    {
+      "section": "454.971",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.971&bid=25404"
+    },
+    {
+      "section": "454.972",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.972&bid=44923"
+    },
+    {
+      "section": "454.973",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.973&bid=25406"
+    },
+    {
+      "section": "454.975",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.975&bid=44924"
+    },
+    {
+      "section": "454.976",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.976&bid=25408"
+    },
+    {
+      "section": "454.977",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.977&bid=44925"
+    },
+    {
+      "section": "454.978",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.978&bid=25410"
+    },
+    {
+      "section": "454.979",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.979&bid=44926"
+    },
+    {
+      "section": "454.980",
+      "note": "(Repealed L. 1997 S.B. 361 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.980&bid=44927"
+    },
+    {
+      "section": "454.981",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.981&bid=25412"
+    },
+    {
+      "section": "454.983",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.983&bid=25414"
+    },
+    {
+      "section": "454.986",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.986&bid=25416"
+    },
+    {
+      "section": "454.989",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.989&bid=25418"
+    },
+    {
+      "section": "454.991",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.991&bid=25420"
+    },
+    {
+      "section": "454.993",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.993&bid=25422"
+    },
+    {
+      "section": "454.995",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.995&bid=25424"
+    },
+    {
+      "section": "454.997",
+      "note": "(Repealed L. 2007 S.B. 613 Revision § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.997&bid=25426"
+    },
+    {
+      "section": "454.999",
+      "note": "(Repealed L. 2011 H.B. 260)",
+      "date": "2016-06-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.999&bid=25427"
+    },
+    {
+      "section": "454.1019",
+      "note": "(Repealed L. 2000 S.B. 1001)",
+      "date": "2000-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1019&bid=44928"
+    },
+    {
+      "section": "455.501",
+      "note": "(Repealed L. 2011 S.B. 320 § A)",
+      "date": "2011-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.501&bid=25560"
+    },
+    {
+      "section": "455.508",
+      "note": "(Repealed L. 2002 H.B. 1814 § A)",
+      "date": "2002-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.508&bid=25564"
+    },
+    {
+      "section": "455.540",
+      "note": "(Repealed L. 2011 S.B. 320 § A)",
+      "date": "2011-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.540&bid=25578"
+    },
+    {
+      "section": "474.060",
+      "note": "(Repealed L. 1980 S.B. 637 § 1)",
+      "date": "1981-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=474.060&bid=45513"
+    },
+    {
+      "section": "474.210",
+      "note": "(Repealed L. 1980 S.B. 637 § 1)",
+      "date": "1981-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=474.210&bid=45514"
+    },
+    {
+      "section": "506.070",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=506.070&bid=46199"
+    },
+    {
+      "section": "506.320",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=506.320&bid=46200"
+    },
+    {
+      "section": "508.040",
+      "note": "(Repealed L. 2005 H.B. 393 § A)",
+      "date": "2005-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.040&bid=27408"
+    },
+    {
+      "section": "508.070",
+      "note": "(Repealed L. 2005 H.B. 393 § A)",
+      "date": "2005-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.070&bid=27411"
+    },
+    {
+      "section": "508.120",
+      "note": "(Repealed L. 2005 H.B. 393 § A)",
+      "date": "2005-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.120&bid=27417"
+    },
+    {
+      "section": "508.200",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.200&bid=46201"
+    },
+    {
+      "section": "508.210",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.210&bid=46202"
+    },
+    {
+      "section": "508.220",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.220&bid=46203"
+    },
+    {
+      "section": "508.230",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.230&bid=46204"
+    },
+    {
+      "section": "508.260",
+      "note": "(Repealed L. 1965 p. 95 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.260&bid=46205"
+    },
+    {
+      "section": "508.270",
+      "note": "(Repealed L. 1965 p. 95 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.270&bid=46206"
+    },
+    {
+      "section": "508.280",
+      "note": "(Repealed L. 1965 p. 95 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.280&bid=46207"
+    },
+    {
+      "section": "508.290",
+      "note": "(Repealed L. 1965 p. 95 § 1)",
+      "date": "1965-10-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.290&bid=46208"
+    },
+    {
+      "section": "510.340",
+      "note": "(Repealed L. 2005 H.B. 393 § A)",
+      "date": "2005-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=510.340&bid=27521"
+    },
+    {
+      "section": "511.460",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.460&bid=46209"
+    },
+    {
+      "section": "511.520",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.520&bid=46210"
+    },
+    {
+      "section": "512.180",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=512.180&bid=46211"
+    },
+    {
+      "section": "512.220",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=512.220&bid=46212"
+    },
+    {
+      "section": "512.230",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=512.230&bid=46213"
+    },
+    {
+      "section": "512.240",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=512.240&bid=46214"
+    },
+    {
+      "section": "512.260",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=512.260&bid=46215"
+    },
+    {
+      "section": "513.195",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.195&bid=46216"
+    },
+    {
+      "section": "513.405",
+      "note": "(Repealed L. 1977 S.B. 60 § 1)",
+      "date": "1979-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.405&bid=46217"
+    },
+    {
+      "section": "513.435",
+      "note": "(Repealed L. 1982 S.B. 490 § 1)",
+      "date": "1982-08-13",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.435&bid=46218"
+    },
+    {
+      "section": "513.450",
+      "note": "(Repealed L. 1983 H.B. 713 § 1 Revision)",
+      "date": "1983-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.450&bid=46219"
+    },
+    {
+      "section": "513.495",
+      "note": "(Repealed L. 1957 p. 292 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.495&bid=46220"
+    },
+    {
+      "section": "513.500",
+      "note": "(Repealed L. 1957 p. 292 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.500&bid=46221"
+    },
+    {
+      "section": "513.505",
+      "note": "(Repealed L. 1957 p. 292 § 1)",
+      "date": "1957-08-29",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.505&bid=46222"
+    },
+    {
+      "section": "514.010",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.010&bid=46223"
+    },
+    {
+      "section": "514.020",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.020&bid=46224"
+    },
+    {
+      "section": "514.030",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.030&bid=46225"
+    },
+    {
+      "section": "514.120",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.120&bid=46226"
+    },
+    {
+      "section": "514.140",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.140&bid=46227"
+    },
+    {
+      "section": "514.150",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.150&bid=46228"
+    },
+    {
+      "section": "514.290",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.290&bid=46229"
+    },
+    {
+      "section": "514.300",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.300&bid=46230"
+    },
+    {
+      "section": "514.320",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.320&bid=46231"
+    },
+    {
+      "section": "514.340",
+      "note": "(Repealed L. 1983 H.B. 68 § 1 Revision)",
+      "date": "1983-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.340&bid=46232"
+    },
+    {
+      "section": "514.350",
+      "note": "(Repealed L. 1983 H.B. 68 § 1 Revision)",
+      "date": "1983-09-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.350&bid=46233"
+    },
+    {
+      "section": "514.360",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.360&bid=46234"
+    },
+    {
+      "section": "514.370",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.370&bid=46235"
+    },
+    {
+      "section": "514.380",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.380&bid=46236"
+    },
+    {
+      "section": "514.390",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.390&bid=46237"
+    },
+    {
+      "section": "514.400",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.400&bid=46238"
+    },
+    {
+      "section": "514.410",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.410&bid=46239"
+    },
+    {
+      "section": "514.420",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.420&bid=46240"
+    },
+    {
+      "section": "514.430",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.430&bid=46241"
+    },
+    {
+      "section": "514.470",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.470&bid=46242"
+    },
+    {
+      "section": "514.475",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.475&bid=46243"
+    },
+    {
+      "section": "514.480",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.480&bid=46244"
+    },
+    {
+      "section": "514.490",
+      "note": "(Repealed L. 1996 S.B. 869 § A)",
+      "date": "1997-07-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.490&bid=46245"
+    },
+    {
+      "section": "515.240",
+      "note": "(Repealed L. 2016 H.B. 1765 merged with S.B. 578)",
+      "date": "2016-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.240&bid=33747"
+    },
+    {
+      "section": "515.250",
+      "note": "(Repealed L. 2016 H.B. 1765 merged with S.B. 578)",
+      "date": "2016-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.250&bid=33748"
+    },
+    {
+      "section": "515.260",
+      "note": "(Repealed L. 2016 H.B. 1765 merged with S.B. 578)",
+      "date": "2016-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.260&bid=33749"
+    },
+    {
+      "section": "516.060",
+      "note": "(Repealed L. 2007 S.B. 613 Revision § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.060&bid=27822"
+    },
+    {
+      "section": "516.065",
+      "note": "(Repealed L. 2007 S.B. 613 Revision § A)",
+      "date": "2007-08-28",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.065&bid=27823"
+    },
+    {
+      "section": "516.107",
+      "note": "(Repealed L. 1987 S.B. 328)",
+      "date": "1987-07-15",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.107&bid=46246"
+    },
+    {
+      "section": "517.010",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.010&bid=46248"
+    },
+    {
+      "section": "517.010",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.010&bid=46247"
+    },
+    {
+      "section": "517.020",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.020&bid=46250"
+    },
+    {
+      "section": "517.020",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.020&bid=46249"
+    },
+    {
+      "section": "517.030",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.030&bid=46251"
+    },
+    {
+      "section": "517.040",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.040&bid=46252"
+    },
+    {
+      "section": "517.050",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.050&bid=46253"
+    },
+    {
+      "section": "517.060",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.060&bid=46254"
+    },
+    {
+      "section": "517.070",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.070&bid=46255"
+    },
+    {
+      "section": "517.080",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.080&bid=46256"
+    },
+    {
+      "section": "517.090",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.090&bid=46257"
+    },
+    {
+      "section": "517.100",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.100&bid=46258"
+    },
+    {
+      "section": "517.110",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.110&bid=46259"
+    },
+    {
+      "section": "517.120",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.120&bid=46260"
+    },
+    {
+      "section": "517.130",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.130&bid=46261"
+    },
+    {
+      "section": "517.140",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.140&bid=46262"
+    },
+    {
+      "section": "517.150",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.150&bid=46263"
+    },
+    {
+      "section": "517.160",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.160&bid=46264"
+    },
+    {
+      "section": "517.170",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.170&bid=46265"
+    },
+    {
+      "section": "517.180",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.180&bid=46266"
+    },
+    {
+      "section": "517.185",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.185&bid=46267"
+    },
+    {
+      "section": "517.190",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.190&bid=46268"
+    },
+    {
+      "section": "517.200",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.200&bid=46269"
+    },
+    {
+      "section": "517.210",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.210&bid=46270"
+    },
+    {
+      "section": "517.220",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.220&bid=46271"
+    },
+    {
+      "section": "517.230",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.230&bid=46272"
+    },
+    {
+      "section": "517.240",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.240&bid=46273"
+    },
+    {
+      "section": "517.250",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.250&bid=46274"
+    },
+    {
+      "section": "517.260",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.260&bid=46275"
+    },
+    {
+      "section": "517.270",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.270&bid=46276"
+    },
+    {
+      "section": "517.280",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.280&bid=46277"
+    },
+    {
+      "section": "517.290",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.290&bid=46278"
+    },
+    {
+      "section": "517.300",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.300&bid=46279"
+    },
+    {
+      "section": "517.310",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.310&bid=46280"
+    },
+    {
+      "section": "517.320",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.320&bid=46281"
+    },
+    {
+      "section": "517.330",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.330&bid=46282"
+    },
+    {
+      "section": "517.340",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.340&bid=46283"
+    },
+    {
+      "section": "517.350",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.350&bid=46284"
+    },
+    {
+      "section": "517.360",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.360&bid=46285"
+    },
+    {
+      "section": "517.370",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.370&bid=46286"
+    },
+    {
+      "section": "517.380",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.380&bid=46287"
+    },
+    {
+      "section": "517.390",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.390&bid=46288"
+    },
+    {
+      "section": "517.400",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.400&bid=46289"
+    },
+    {
+      "section": "517.410",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.410&bid=46290"
+    },
+    {
+      "section": "517.420",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.420&bid=46291"
+    },
+    {
+      "section": "517.430",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.430&bid=46292"
+    },
+    {
+      "section": "517.440",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.440&bid=46293"
+    },
+    {
+      "section": "517.450",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.450&bid=46294"
+    },
+    {
+      "section": "517.460",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.460&bid=46295"
+    },
+    {
+      "section": "517.470",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.470&bid=46296"
+    },
+    {
+      "section": "517.480",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.480&bid=46297"
+    },
+    {
+      "section": "517.490",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.490&bid=46298"
+    },
+    {
+      "section": "517.500",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.500&bid=46299"
+    },
+    {
+      "section": "517.510",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.510&bid=46300"
+    },
+    {
+      "section": "517.520",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.520&bid=46301"
+    },
+    {
+      "section": "517.530",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.530&bid=46302"
+    },
+    {
+      "section": "517.540",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.540&bid=46303"
+    },
+    {
+      "section": "517.550",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.550&bid=46304"
+    },
+    {
+      "section": "517.560",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.560&bid=46305"
+    },
+    {
+      "section": "517.570",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.570&bid=46306"
+    },
+    {
+      "section": "517.580",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.580&bid=46307"
+    },
+    {
+      "section": "517.590",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.590&bid=46308"
+    },
+    {
+      "section": "517.600",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.600&bid=46309"
+    },
+    {
+      "section": "517.610",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.610&bid=46310"
+    },
+    {
+      "section": "517.620",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.620&bid=46311"
+    },
+    {
+      "section": "517.630",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.630&bid=46312"
+    },
+    {
+      "section": "517.640",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.640&bid=46313"
+    },
+    {
+      "section": "517.650",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.650&bid=46314"
+    },
+    {
+      "section": "517.660",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.660&bid=46315"
+    },
+    {
+      "section": "517.670",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.670&bid=46316"
+    },
+    {
+      "section": "517.675",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.675&bid=46317"
+    },
+    {
+      "section": "517.680",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.680&bid=46318"
+    },
+    {
+      "section": "517.690",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.690&bid=46319"
+    },
+    {
+      "section": "517.700",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.700&bid=46320"
+    },
+    {
+      "section": "517.710",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.710&bid=46321"
+    },
+    {
+      "section": "517.720",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.720&bid=46322"
+    },
+    {
+      "section": "517.730",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.730&bid=46323"
+    },
+    {
+      "section": "517.740",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.740&bid=46324"
+    },
+    {
+      "section": "517.750",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.750&bid=46325"
+    },
+    {
+      "section": "517.760",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.760&bid=46326"
+    },
+    {
+      "section": "517.770",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.770&bid=46327"
+    },
+    {
+      "section": "517.780",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.780&bid=46328"
+    },
+    {
+      "section": "517.790",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.790&bid=46329"
+    },
+    {
+      "section": "517.800",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.800&bid=46330"
+    },
+    {
+      "section": "517.810",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.810&bid=46331"
+    },
+    {
+      "section": "517.820",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.820&bid=46332"
+    },
+    {
+      "section": "517.830",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.830&bid=46333"
+    },
+    {
+      "section": "517.840",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.840&bid=46334"
+    },
+    {
+      "section": "517.850",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.850&bid=46335"
+    },
+    {
+      "section": "517.860",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.860&bid=46336"
+    },
+    {
+      "section": "517.870",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.870&bid=46337"
+    },
+    {
+      "section": "517.880",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.880&bid=46338"
+    },
+    {
+      "section": "517.890",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.890&bid=46339"
+    },
+    {
+      "section": "517.900",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.900&bid=46340"
+    },
+    {
+      "section": "517.910",
+      "note": "(Repealed L. 1985 S.B. 5, et al. § B)",
+      "date": "1987-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=517.910&bid=46341"
+    },
+    {
+      "section": "525.320",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.320&bid=46349"
+    },
+    {
+      "section": "525.330",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.330&bid=46350"
+    },
+    {
+      "section": "525.340",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.340&bid=46351"
+    },
+    {
+      "section": "525.350",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.350&bid=46352"
+    },
+    {
+      "section": "525.360",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.360&bid=46353"
+    },
+    {
+      "section": "525.370",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.370&bid=46354"
+    },
+    {
+      "section": "525.380",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.380&bid=46355"
+    },
+    {
+      "section": "525.390",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.390&bid=46356"
+    },
+    {
+      "section": "525.400",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.400&bid=46357"
+    },
+    {
+      "section": "525.410",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.410&bid=46358"
+    },
+    {
+      "section": "525.420",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.420&bid=46359"
+    },
+    {
+      "section": "525.430",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.430&bid=46360"
+    },
+    {
+      "section": "525.440",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.440&bid=46361"
+    },
+    {
+      "section": "525.450",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.450&bid=46362"
+    },
+    {
+      "section": "525.460",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.460&bid=46363"
+    },
+    {
+      "section": "525.470",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.470&bid=46364"
+    },
+    {
+      "section": "525.480",
+      "note": "(Repealed L. 1978 H.B. 1634 § A)",
+      "date": "1979-01-02",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=525.480&bid=46365"
+    },
+    {
+      "section": "565.075",
+      "note": "(Repealed L. 2014 S.B. 491)",
+      "date": "2017-01-01",
+      "kind": "repealed",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.075&bid=29294"
+    },
+    {
+      "section": "455.205",
+      "note": "(Transferred 2000; now 488.445)",
+      "date": "2000-08-28",
+      "kind": "transferred",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.205&bid=25551"
+    },
+    {
+      "section": "508.355",
+      "note": "(Transferred 1989; now 545.473)",
+      "date": "1989-08-28",
+      "kind": "transferred",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=508.355&bid=27432"
+    },
+    {
+      "section": "514.440",
+      "note": "(Transferred 2000; now 488.426)",
+      "date": "2000-08-28",
+      "kind": "transferred",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.440&bid=27788"
+    },
+    {
+      "section": "514.450",
+      "note": "(Transferred 2000; now 488.429)",
+      "date": "2000-08-28",
+      "kind": "transferred",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.450&bid=27789"
+    },
+    {
+      "section": "514.460",
+      "note": "(Transferred 2000; now 488.432)",
+      "date": "2000-08-28",
+      "kind": "transferred",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=514.460&bid=27790"
+    }
+  ],
+  "gaps": [],
+  "updated": "2026-09-30",
+  "id_convention": "mo-rsmo-<section> e.g. mo-rsmo-452.375"
+}

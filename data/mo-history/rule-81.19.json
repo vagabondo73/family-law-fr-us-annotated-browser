@@ -1,0 +1,31 @@
+{
+  "rule": "81.19",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=200322",
+  "current": {
+    "effective": "2000-01-01",
+    "text_sha256": "7533f7a9553d0b63e62e19e4e6616c4be36a455311ef6fe41765bf9b59867740"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1972-02-01",
+      "effective": "1972-09-01"
+    },
+    {
+      "adopted_or_amended": "1979-06-13",
+      "effective": "1980-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1999-05-27",
+      "effective": "2000-01-01"
+    }
+  ],
+  "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended June 13, 1979, corrected July 27, 1979, effective January 1, 1980; amended June 1, 1993, effective January 1, 1994; amended May 27, 1999, effective January 1, 2000.)",
+  "versions": [],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

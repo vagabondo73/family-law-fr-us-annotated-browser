@@ -1,0 +1,41 @@
+{
+  "section": "455.032",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.032",
+  "current": {
+    "effective": "2021-08-28",
+    "bid": "49766",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.032&bid=49766"
+  },
+  "versions": [
+    {
+      "effective": "2015-08-28",
+      "end": "2021-08-28",
+      "bid": "25532",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.032&bid=25532",
+      "heading": "Protection order, restraining respondent from abuse if petitioner is permanently or temporarily in state — evidence admissible of prior abuse in or out of state.",
+      "text": "In addition to any other jurisdictional grounds provided by law, a court shall have jurisdiction to enter an order of protection restraining or enjoining the respondent from committing or threatening to commit domestic violence, stalking, sexual assault, molesting or disturbing the peace of petitioner, pursuant to sections 455.010 to 455.085, if the petitioner is present, whether permanently or on a temporary basis within the state of Missouri and if the respondent's actions constituting domestic violence have occurred, have been attempted or have been or are threatened within the state of Missouri. For purposes of this section, if the petitioner has been the subject of domestic violence within or outside of the state of Missouri, such evidence shall be admissible to demonstrate the need for protection in Missouri.",
+      "history_note": "(L. 1995 H.B. 232 & 485, A.L. 2013 H.B. 215, A.L. 2015 S.B. 321 merged with S.B. 341)",
+      "effdt_raw": "Effective - 28 Aug 2015, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    },
+    {
+      "effective": "2013-08-28",
+      "end": "2015-08-28",
+      "bid": "48191",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.032&bid=48191",
+      "heading": "Protection order, restraining respondent from abuse if petitioner is permanently or temporarily in state — evidence admissible of prior abuse in or out of state.",
+      "text": "In addition to any other jurisdictional grounds provided by law, a court shall have jurisdiction to enter an order of protection restraining or enjoining the respondent from committing or threatening to commit domestic violence, stalking, molesting or disturbing the peace of petitioner, pursuant to sections 455.010 to 455.085, if the petitioner is present, whether permanently or on a temporary basis within the state of Missouri and if the respondent's actions constituting domestic violence have occurred, have been attempted or have been or are threatened within the state of Missouri. For purposes of this section, if the petitioner has been the subject of domestic violence within or outside of the state of Missouri, such evidence shall be admissible to demonstrate the need for protection in Missouri.",
+      "history_note": "(L. 1995 H.B. 232 & 485, A.L. 2013 H.B. 215)",
+      "effdt_raw": "Effective - 28 Aug 2013, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

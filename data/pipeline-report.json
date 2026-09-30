@@ -1,0 +1,125 @@
+{
+  "generated": "2026-09-30T14:39:48+00:00",
+  "pipelines": [
+    {
+      "id": "fr-legi",
+      "owner": "fr_legi",
+      "corpora": "fr-cc, fr-cpc, fr-coj, fr-casf, fr-csp, fr-cp, fr-cpp, fr-cgi, fr-css, fr-ceseda, fr-cpce, fr-const, fr-textes",
+      "steps": [
+        {
+          "cmd": "TODO git clone --depth 1 https://git.tricoteuses.fr/codes/code_civil.git raw/code_civil  (and the other codes)",
+          "status": "placeholder"
+        },
+        {
+          "cmd": "TODO python3 scripts/fr_legi_build.py --refresh",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "fr-cass",
+      "owner": "fr_cass",
+      "corpora": "fr-cass",
+      "steps": [
+        {
+          "cmd": "TODO git clone --depth 1 https://git.tricoteuses.fr/dila/cass.git raw/cass",
+          "status": "placeholder"
+        },
+        {
+          "cmd": "TODO python3 scripts/fr_cass_screen.py --resume",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "fr-cons-ce",
+      "owner": "fr_cons",
+      "corpora": "fr-cons, fr-ce",
+      "steps": [
+        {
+          "cmd": "TODO git clone --depth 1 https://git.tricoteuses.fr/dila/constit.git raw/constit",
+          "status": "placeholder"
+        },
+        {
+          "cmd": "TODO python3 scripts/fr_cons_screen.py --resume",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "eu-int",
+      "owner": "eu_int",
+      "corpora": "eu-reg, int-hcch, int-un, int-coe, int-ciec, int-bilateral, eu-cjeu, coe-ecthr",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/eu_int_build.py --refresh",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "us-federal",
+      "owner": "us_fed",
+      "corpora": "us-const, us-usc, us-cfr, us-common, us-scotus, us-ca8",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/us_fed_build.py --refresh",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "missouri",
+      "owner": "mo",
+      "corpora": "mo-const, mo-rsmo, mo-rules, mo-common, mo-sc, mo-app",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/mo_build.py --refresh",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "mo-proc",
+      "owner": "mo_proc",
+      "corpora": "mo-rules (Rules 41–101), mo-rsmo (chs. 506–517, 525), mo-sc, mo-app (interps/mo-sc-proc.json, mo-app-proc.json), issues/mo-proc.json",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/mo_proc_build.py --refresh",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "cpc-mo-mapping",
+      "owner": "mapping",
+      "corpora": "(correspondence table data/mapping/cpc-mo.json — CPC article → Missouri rule; French side cross-links only)",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/cpc_mo_mapping.py --check-links",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    },
+    {
+      "id": "issues",
+      "owner": "issues",
+      "corpora": "(issue trees data/issues/*.json)",
+      "steps": [
+        {
+          "cmd": "TODO python3 scripts/issues_build.py",
+          "status": "placeholder"
+        }
+      ],
+      "status": "placeholder"
+    }
+  ]
+}

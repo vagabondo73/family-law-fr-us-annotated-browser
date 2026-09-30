@@ -1,0 +1,17 @@
+{
+  "corpus": "int-bilateral",
+  "norms_expected": 72,
+  "norms_done": 72,
+  "instrument_records": 5,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "U.S. Department of State, Treaties in Force 2026 (France section) for the list and entry-into-force dates; texts: Consular Convention 1966 from UNTS vol. 700 (English text), Social Security Agreement 1987 from ssa.gov (HTML rendered via browser; list markers reconstructed from <ol> numbering).",
+  "gaps": [
+    "estate-tax-1978: article-level text not ingested (tax treaty; status record + link only)",
+    "income-tax-1994: article-level text not ingested (tax treaty; status record + link only)",
+    "Child-support reciprocity: no bilateral instrument listed in TIF 2026; record points to Hague 2007 (in force FR/US since 2017-01-01) — no declaration date invented.",
+    "Consular Convention: protocol and exchange of letters not ingested."
+  ],
+  "updated": "2026-09-30"
+}

@@ -1,0 +1,17 @@
+{
+  "corpus": "fr-ceseda",
+  "norms_expected": 260,
+  "norms_done": 260,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_de_l_entree_et_du_sejour_des_etrangers_et_du_droit_d_asile (HEAD 36981f1d8336), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 2496 en vigueur sur 2496 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 260 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Sélection par intitulés (membres de famille UE, motif familial, regroupement/réunification familiale, fraude) et mots-clés."
+  ],
+  "updated": "2026-09-30"
+}

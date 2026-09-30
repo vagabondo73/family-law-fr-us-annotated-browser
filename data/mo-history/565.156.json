@@ -1,0 +1,29 @@
+{
+  "section": "565.156",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.156",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29331",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.156&bid=29331"
+  },
+  "versions": [
+    {
+      "effective": "1988-08-13",
+      "end": "2017-01-01",
+      "bid": "29332",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.156&bid=29332",
+      "heading": "Until December 31, 2016 — Child abduction — penalty.",
+      "text": "1. A person commits the crime of child abduction if he or she:\n\n(1) Intentionally takes, detains, entices, conceals or removes a child from a parent after being served with process in an action affecting marriage or paternity but prior to the issuance of a temporary or final order determining custody;\n\n(2) At the expiration of visitation rights outside the state, intentionally fails or refuses to return or impedes the return of the child to the legal custodian in Missouri;\n\n(3) Conceals, detains, or removes the child for payment or promise of payment at the instruction of a person who has no legal right to custody;\n\n(4) Retains in this state for thirty days a child removed from another state without the consent of the legal custodian or in violation of a valid court order of custody; or\n\n(5) Having legal custody of the child pursuant to a valid court order, removes, takes, detains, conceals or entices away that child within or without the state, without good cause, and with the intent to deprive the custody or visitation rights of another person, without obtaining written consent as is provided under section 452.377.\n\n2. Child abduction is a class D felony.",
+      "history_note": "(L. 1988 H.B. 1272, et al. § 3)",
+      "effdt_raw": "Effective - 13 Aug 1988, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

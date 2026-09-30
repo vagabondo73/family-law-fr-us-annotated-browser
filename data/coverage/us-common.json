@@ -1,0 +1,11 @@
+{
+  "corpus": "us-common",
+  "norms_expected": 21,
+  "norms_done": 21,
+  "method": "Judge-made federal rules stated with verbatim language of the founding/leading U.S. Supreme Court decisions (rule_sources); D = date of the founding decision.",
+  "gaps": [],
+  "interps_candidates": null,
+  "interps_screened": null,
+  "interps_included": 266,
+  "updated": "2026-09-30"
+}

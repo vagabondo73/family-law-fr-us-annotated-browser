@@ -1,0 +1,23 @@
+{
+  "corpus": "fr-textes",
+  "norms_expected": 806,
+  "norms_done": 806,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "texts_screened": {
+    "candidates": 722,
+    "selected": 249,
+    "excluded": 486
+  },
+  "texts_included": 195,
+  "method": "Candidats: titres LEGI (index table_des_matieres du miroir dila/textes_juridiques) filtrés par mots-clés famille; exclusion des textes non VIGUEUR et des textes hors champ (liste EXC/DROP de scripts/frn_textes_config.py); ajout manuel des lois de réforme; pour chaque texte, seuls les articles autonomes en vigueur sont ingérés (articles modificatifs exclus : leur contenu est consolidé dans les codes).",
+  "gaps": [
+    "Index table_des_matieres_textes_juridiques (Tricoteuses) figé au 2025-02-08 : les textes publiés après cette date ne sont repérés que par recherche ciblée.",
+    "Circulaires : le fonds CIRCULAIRES (circulaires.legifrance.gouv.fr) n'est pas miroité ; seules des circulaires identifiées par recherche sont listées, sans texte intégral (text_not_ingested). Non vérifiées/non listées : circulaire du 21 septembre 2021 (AMP, JUSC2127286C), du 3 juin 2022 (nom, JUSC2215808C), du 22 septembre 2023 (adoption, JUSC2320454C), publiées au BO Justice.",
+    "Sélection des textes par mots-clés de titre puis exclusion manuelle (scripts/frn_textes_config.py) : des textes familiaux au titre atypique peuvent manquer ; les lois omnibus (J21, LPJ 2019, égalité réelle, simplification) sont filtrées par mots-clés au niveau de l'article.",
+    "Articles modificatifs (« est ainsi modifié », « A modifié… ») exclus par règle textuelle : leur contenu figure dans les codes consolidés ; quelques articles autonomes rédigés sous forme modificative peuvent avoir été écartés.",
+    "Textes postérieurs à février 2025 : essentiellement codifiés (repris via les miroirs de codes) ; aucune recherche exhaustive des textes non codifiés 2025-2026."
+  ],
+  "updated": "2026-09-30"
+}

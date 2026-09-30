@@ -1,0 +1,28 @@
+{
+  "section": "210.127",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.127",
+  "current": {
+    "effective": "2022-08-28",
+    "bid": "51085",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.127&bid=51085"
+  },
+  "versions": [
+    {
+      "effective": "2004-08-28",
+      "end": "2022-08-28",
+      "bid": "11306",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.127&bid=11306",
+      "heading": "Diligent search for biological parents required, when.",
+      "text": "1. If the location or identity of the biological parent or parents of a child in the custody of the division is unknown, the children's division shall utilize all reasonable and effective means available to conduct a diligent search for the biological parent or parents of such child.\n\n2. For purposes of this section, \"diligent search\" means the efforts of the division, or an entity under contract with the division, to locate a biological parent whose identity or location is unknown, initiated as soon as the division is made aware of the existence of such parent, with the search progress reported at each court hearing until the parent is either identified and located or the court excuses further search.",
+      "history_note": "(L. 2004 H.B. 1453)",
+      "effdt_raw": "Effective - 28 Aug 2004, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

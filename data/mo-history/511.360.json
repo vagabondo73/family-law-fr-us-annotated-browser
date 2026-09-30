@@ -1,0 +1,27 @@
+{
+  "section": "511.360",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.360",
+  "current": {
+    "effective": "2002-08-28",
+    "bid": "27562",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.360&bid=27562"
+  },
+  "versions": [
+    {
+      "effective": "2001-08-28",
+      "end": "2002-08-28",
+      "bid": "53704",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=511.360&bid=53704",
+      "heading": "Commencement, extent and duration of lien.",
+      "text": "The lien of a judgment or decree shall extend as well to the real estate acquired after the rendition thereof, as to that which was owned when the judgment or decree was rendered. Such liens shall commence on the day of the rendition of the judgment, and shall continue for ten years, subject to be revived as herein provided; but when two or more judgments or decrees are rendered at the same term, as between the parties entitled to such judgments or decrees, the lien shall commence on the last day of the term at which they are rendered.",
+      "history_note": "(RSMo 1939 § 1270, A.L. 2001 S.B. 10)",
+      "effdt_raw": "Effective - 28 Aug 2001, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,29 @@
+{
+  "section": "513.380",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.380",
+  "current": {
+    "effective": "1993-08-28",
+    "bid": "27713",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.380&bid=27713"
+  },
+  "versions": [],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-01-01",
+      "end": null,
+      "bid": "60207",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.380&bid=60207",
+      "heading": "Examination of judgment debtor, when, procedure — immunity, when.",
+      "text": "1. A judgment creditor shall, upon motion made at any time before the judgment has been satisfied of record by the judgment creditor and before the judgment being presumed paid and satisfied under section 516.350, be entitled to an order by the court rendering such judgment, requiring the judgment debtor or, in the case of a corporate judgment debtor, its chief officer to appear before such court at a time and place in said order to be named, to undergo an examination under oath touching his or her ability and means to satisfy said judgment, and in case of neglect or refusal on the part of such judgment debtor or, in the case of a corporate debtor, its chief officer to obey such order, such court is hereby authorized to issue a writ of attachment against said debtor, as now provided by law, and to punish him or, in the case of a corporate debtor, its chief officer for contempt.\n\n2. For any statement made at a judgment debtor's examination and conducted pursuant to subsection 1 of this section, a judgment debtor shall enjoy full use immunity and derivative use immunity from prosecution coextensive with their constitutional privilege against self-incrimination. No testimony or other information directly or indirectly derived therefrom, compelled under subsection 1 of this section, may be used against the witness in any criminal case, except a prosecution for perjury or giving a false statement.",
+      "history_note": "(RSMo 1939 § 1391, A.L. 1959 H.B. 372, A.L. 1978 H.B. 1634, A.L. 1993 S.B. 180, A.L. 2026 H.B. 1870 merged with S.B. 835 & 1111)",
+      "effdt_raw": "Effective - 01 Jan 2027, 2 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

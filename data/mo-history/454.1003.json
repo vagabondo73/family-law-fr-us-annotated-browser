@@ -1,0 +1,28 @@
+{
+  "section": "454.1003",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1003",
+  "current": {
+    "effective": "2014-08-28",
+    "bid": "25430",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1003&bid=25430"
+  },
+  "versions": [
+    {
+      "effective": "2010-08-28",
+      "end": "2014-08-28",
+      "bid": "49249",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1003&bid=49249",
+      "heading": "Suspension of a professional or occupational license, when, procedure.",
+      "text": "1. A court or the director of the division of child support enforcement may issue an order, or in the case of a business, professional or occupational license, only a court may issue an order, suspending an obligor's license and ordering the obligor to refrain from engaging in a licensed activity in the following cases:\n\n(1) When the obligor is not making child support payments in accordance with a support order and owes an arrearage in an amount greater than or equal to three months support payments or two thousand five hundred dollars, whichever is less, as of the date of service of a notice of intent to suspend such license; or\n\n(2) When the obligor or any other person, after receiving appropriate notice, fails to comply with a subpoena of a court or the director concerning actions relating to the establishment of paternity, or to the establishment, modification or enforcement of support orders, or order of the director for genetic testing.\n\n2. In any case but a IV-D case, upon the petition of an obligee alleging the existence of an arrearage, a court with jurisdiction over the support order may issue a notice of intent to suspend a license. In a IV-D case, the director, or a court at the request of the director, may issue a notice of intent to suspend.\n\n3. The notice of intent to suspend a license shall be served on the obligor personally or by certified mail. If the proposed suspension of license is based on the obligor's support arrearage, the notice shall state that the obligor's license shall be suspended sixty days after service unless, within such time, the obligor:\n\n(1) Pays the entire arrearage stated in the notice;\n\n(2) Enters into and complies with a payment plan approved by the court or the division; or\n\n(3) Requests a hearing before the court or the director.\n\n4. In a IV-D case, the notice shall advise the obligor that hearings are subject to the contested case provisions of chapter 536.\n\n5. If the proposed suspension of license is based on the alleged failure to comply with a subpoena relating to paternity or a child support proceeding, or order of the director for genetic testing, the notice of intent to suspend shall inform the person that such person's license shall be suspended sixty days after service, unless the person complies with the subpoena or order.\n\n6. If the obligor fails to comply with the terms of repayment agreement, a court or the division may issue a notice of intent to suspend the obligor's license.\n\n7. In addition to the actions to suspend or withhold licenses pursuant to this chapter, a court or the director of the division of child support enforcement may restrict such licenses in accordance with the provisions of this chapter.",
+      "history_note": "(L. 1997 S.B. 361, A.L. 2010 H.B. 1692, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2010, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "7"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,75 @@
+{
+  "rule": "81.12",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=200315",
+  "current": {
+    "effective": "2024-07-01",
+    "text_sha256": "f6477d1464692a5625675f466a382c07362b3419f4ddcc4801ca251623f2f3d5"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1972-02-01",
+      "effective": "1972-09-01"
+    },
+    {
+      "adopted_or_amended": "1979-06-13",
+      "effective": "1980-01-01"
+    },
+    {
+      "adopted_or_amended": "1979-07-27",
+      "effective": "1980-01-01"
+    },
+    {
+      "adopted_or_amended": "1980-06-10",
+      "effective": "1981-01-01"
+    },
+    {
+      "adopted_or_amended": "1982-11-09",
+      "effective": "1984-01-01"
+    },
+    {
+      "adopted_or_amended": "1983-06-03",
+      "effective": "1984-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1996-12-17",
+      "effective": "1997-07-01"
+    },
+    {
+      "adopted_or_amended": "1998-05-26",
+      "effective": "1999-01-01"
+    },
+    {
+      "adopted_or_amended": "2005-12-20",
+      "effective": "2006-07-01"
+    },
+    {
+      "adopted_or_amended": "2006-06-27",
+      "effective": "2007-01-01"
+    },
+    {
+      "adopted_or_amended": "2016-05-19",
+      "effective": "2017-01-01"
+    },
+    {
+      "adopted_or_amended": "2017-06-30",
+      "effective": "2018-01-01"
+    },
+    {
+      "adopted_or_amended": "2023-03-07",
+      "effective": "2024-01-01"
+    },
+    {
+      "adopted_or_amended": "2023-08-15",
+      "effective": "2024-07-01"
+    }
+  ],
+  "history_note": "(Adopted February 1, 1972, effective September 1, 1972. Amended June 13, 1979, corrected July 27, 1979, effective January 1, 1980. Amended July 27, 1979, effective January 1, 1980; amended June 10, 1980, effective January 1, 1981; amended November 9, 1982, effective January 1, 1984; amended June 3, 1983, effective January 1, 1984; amended June 1, 1993, effective January 1, 1994; amended December 17, 1996, effective July 1, 1997; amended August 12, 1997; amended May 26, 1998, effective January 1, 1999; amended December 20, 2005, effective July 1, 2006; amended June 27, 2006, effective January 1, 2007; amended May 19, 2016, effective January 1, 2017; amended June 30, 2017, effective January 1, 2018; amended March 7, 2023, effective January 1, 2024; amended August 15, 2023, effective July 1, 2024.)",
+  "versions": [],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

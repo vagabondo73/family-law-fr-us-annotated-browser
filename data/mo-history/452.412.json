@@ -1,0 +1,29 @@
+{
+  "section": "452.412",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.412",
+  "current": {
+    "effective": "2009-08-28",
+    "bid": "25046",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.412&bid=25046"
+  },
+  "versions": [
+    {
+      "effective": "2008-08-28",
+      "end": "2009-08-28",
+      "bid": "50344",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.412&bid=50344",
+      "heading": "Military service of parent not to be a basis for modification of a visitation or custody order.",
+      "text": "A party's absence, relocation, or failure to comply with custody and visitation orders shall not, by itself, be sufficient to justify a modification of a custody or visitation order if the reason for the absence, relocation, or failure to comply is the party's activation to military service and deployment out-of-state.",
+      "history_note": "(L. 2008 H.B. 1678)",
+      "effdt_raw": "Effective - 28 Aug 2008, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

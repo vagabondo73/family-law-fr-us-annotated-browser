@@ -1,0 +1,43 @@
+{
+  "section": "513.475",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.475",
+  "current": {
+    "effective": "2003-08-28",
+    "bid": "27731",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.475&bid=27731"
+  },
+  "versions": [
+    {
+      "effective": "1982-08-13",
+      "end": "2003-08-28",
+      "bid": "56371",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.475&bid=56371",
+      "heading": "Homestead defined — exempt from execution — spouses debarred from selling, when.",
+      "text": "1. The homestead of every person, consisting of a dwelling house and appurtenances, and the land used in connection therewith, not exceeding the value of eight thousand dollars, which is or shall be used by such person as a homestead, shall, together with the rents, issues and products thereof, be exempt from attachment and execution. The exemption allowed under this section shall not be allowed for more than one owner of any homestead if one owner claims the entire amount allowed under this subsection; but, if more than one owner of any homestead claims an exemption under this section, the exemption allowed to each of such owners shall not exceed, in the aggregate, the total exemption allowed under this subsection as to any one homestead.\n\n2. Either spouse separately shall be debarred from and incapable of selling, mortgaging or alienating the homestead in any manner whatever, and every such sale, mortgage or alienation is hereby declared null and void; provided, however, that nothing herein contained shall be so construed as to prevent the husband and wife from jointly conveying, mortgaging, alienating or in any other manner disposing of such homestead, or any part thereof.",
+      "history_note": "(RSMo 1939 § 608, A.L. 1976 H.B. 1280, A.L. 1982 S.B. 490)",
+      "effdt_raw": "Effective - 13 Aug 1982, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-01-01",
+      "end": null,
+      "bid": "60210",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.475&bid=60210",
+      "heading": "Homestead defined — exempt from execution — spouses debarred from selling, when.",
+      "text": "1. The homestead of every person, consisting of a dwelling house and appurtenances, and the land used in connection therewith, not exceeding the aggregate value of forty thousand dollars, which is or shall be used by such person as a homestead, shall, together with the rents, issues and products thereof, be exempt from attachment and execution. The exemption allowed under this section shall not be allowed for more than one owner of any homestead if one owner claims the entire amount allowed under this subsection; but, if more than one owner of any homestead claims an exemption under this section, the exemption allowed to each of such owners shall not exceed, in the aggregate, the total exemption allowed under this subsection as to any one homestead.\n\n2. Either spouse separately shall be debarred from and incapable of selling, mortgaging or alienating the homestead in any manner whatever, and every such sale, mortgage or alienation is hereby declared null and void; provided, however, that nothing herein contained shall be so construed as to prevent the husband and wife from jointly conveying, mortgaging, alienating or in any other manner disposing of such homestead, or any part thereof.",
+      "history_note": "(RSMo 1939 § 608, A.L. 1976 H.B. 1280, A.L. 1982 S.B. 490, A.L. 2003 H.B. 613, A.L. 2026 H.B. 1870 merged with S.B. 835 & 1111)",
+      "effdt_raw": "Effective - 01 Jan 2027, 3 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

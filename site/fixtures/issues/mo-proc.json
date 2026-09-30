@@ -1,0 +1,38 @@
+{
+  "side": "mo-proc",
+  "axis": "procedure",
+  "group": "mo",
+  "lang": "en",
+  "fixture": true,
+  "label_fr": "Missouri — procédure civile",
+  "label_en": "Missouri — civil procedure",
+  "nodes": [
+    {
+      "id": "mo-proc.pleadings",
+      "label": "Pleadings and motions (Rule 55)",
+      "children": []
+    },
+    {
+      "id": "mo-proc.judgments",
+      "label": "Judgments (Rule 74)",
+      "children": [
+        {
+          "id": "mo-proc.judgments.fees",
+          "label": "Attorney fees",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo-proc.family",
+      "label": "Family-court procedure",
+      "children": [
+        {
+          "id": "mo-proc.family.petition",
+          "label": "Petition for dissolution",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

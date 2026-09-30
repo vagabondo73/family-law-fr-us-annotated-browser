@@ -1,0 +1,19 @@
+{
+  "corpus": "fr-cc",
+  "norms_expected": 1742,
+  "norms_done": 1742,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "Miroir git Tricoteuses code_civil (HEAD df37fb220cea), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 2899 en vigueur sur 2899 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 1742 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "states_included": [
+    "ABROGE_DIFF",
+    "VIGUEUR"
+  ],
+  "gaps": [
+    "Livre Ier, Titre XI : protection juridique des majeurs (art. 415-495-9, sauf 460-462) exclue — hors périmètre (SCOPE §4).",
+    "Livre V (Mayotte) non retenu ; Livre II (biens) hors plages SCOPE sauf renvois.",
+    "Articles VIGUEUR_DIFF (versions futures) : le miroir ne publie que la version courante ; les versions différées ne sont pas projetées."
+  ],
+  "updated": "2026-09-30"
+}

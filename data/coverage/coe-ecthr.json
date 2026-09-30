@@ -1,0 +1,145 @@
+{
+  "corpus": "coe-ecthr",
+  "norms_expected": 0,
+  "norms_done": 0,
+  "interps_candidates": {
+    "fra_art8_12_14_p7": 2356,
+    "grand_chamber_art8_12_14_p7": 363,
+    "hague_1980_mentions": 167
+  },
+  "interps_screened": 480,
+  "interps_included": 321,
+  "basis_links": {
+    "a": 648
+  },
+  "method": "HUDOC JSON query endpoint (hudoc.echr.coe.int/app/query/results): (1) judgments against France with violation/no-violation on arts 8, 12, 14, P7-5; (2) Grand Chamber judgments on those articles; (3) judgments mentioning the Hague 1980 Convention. Metadata pre-filter (importance, doctype) then text screen of the judgment body (HUDOC conversion endpoint): included if KP thesaurus 'Respect for family life', art 12 / P7-5, 'family life' in the conclusion, or family-term score ≥ 25; Hague cases need ≥ 3 substantive Hague mentions. All links basis a (ECHR article text unchanged since 1953; Hague 1980 text unchanged). summary = HUDOC official conclusion metadata verbatim; excerpts = operative provisions.",
+  "filter_check": {
+    "method": "HUDOC full-text keyword queries (respondent FRA, judgments) — each hit classified included / excluded by screen / outside article scope (no art 8, 12, 14, P7-5 in HUDOC metadata) / unexplained (scripts/int_ecthr_kwcheck.py)",
+    "keywords": {
+      "enfant": {
+        "hits": 167,
+        "included": 93,
+        "outside_article_scope": 66,
+        "excluded_by_screen": 8
+      },
+      "filiation": {
+        "hits": 57,
+        "included": 47,
+        "outside_article_scope": 7,
+        "excluded_by_screen": 3
+      },
+      "gestation pour autrui": {
+        "hits": 9,
+        "included": 9
+      },
+      "adoption": {
+        "hits": 167,
+        "included": 53,
+        "outside_article_scope": 100,
+        "excluded_by_screen": 8,
+        "unexplained": 6
+      },
+      "divorce": {
+        "hits": 84,
+        "included": 39,
+        "outside_article_scope": 43,
+        "unexplained": 1,
+        "excluded_by_screen": 1
+      },
+      "autorité parentale": {
+        "hits": 11,
+        "included": 10,
+        "outside_article_scope": 1
+      },
+      "placement": {
+        "hits": 276,
+        "included": 43,
+        "outside_article_scope": 218,
+        "unexplained": 2,
+        "excluded_by_screen": 13
+      },
+      "droit de visite": {
+        "hits": 54,
+        "included": 29,
+        "outside_article_scope": 18,
+        "excluded_by_screen": 5,
+        "unexplained": 2
+      },
+      "enlèvement": {
+        "hits": 19,
+        "included": 7,
+        "outside_article_scope": 12
+      },
+      "regroupement familial": {
+        "hits": 17,
+        "included": 13,
+        "outside_article_scope": 3,
+        "excluded_by_screen": 1
+      },
+      "custody": {
+        "hits": 110,
+        "outside_article_scope": 79,
+        "included": 24,
+        "unexplained": 6,
+        "excluded_by_screen": 1
+      },
+      "surrogacy": {
+        "hits": 5,
+        "included": 5
+      },
+      "abduction": {
+        "hits": 14,
+        "included": 6,
+        "outside_article_scope": 7,
+        "unexplained": 1
+      }
+    },
+    "named_cases": {
+      "Mennesson": {
+        "appno": "65192/11",
+        "included": true
+      },
+      "Labassee": {
+        "appno": "65941/11",
+        "included": true
+      },
+      "Foulon et Bouvet": {
+        "appno": "9063/14",
+        "included": true
+      },
+      "D. c. France (2020)": {
+        "appno": "11288/18",
+        "included": true
+      }
+    },
+    "unexplained_reviewed": [
+      "AFFAIRE CRÉMIEUX c. FRANCE",
+      "AFFAIRE FUNKE c. FRANCE",
+      "AFFAIRE LAMBERT c. FRANCE",
+      "CASE OF A. v. FRANCE",
+      "CASE OF AYCAGUER v. FRANCE",
+      "CASE OF CHA'ARE SHALOM VE TSEDEK v. FRANCE",
+      "CASE OF CHASSAGNOU AND OTHERS v. FRANCE",
+      "CASE OF DEMIRTEPE v. FRANCE",
+      "CASE OF E.A. AND EUROPEAN ASSOCIATION FOR COMBATING VIOLENCE AGAINST WOMEN AT WORK v. FRANCE",
+      "CASE OF EKIN ASSOCIATION v. FRANCE",
+      "CASE OF GARDEL v. FRANCE",
+      "CASE OF HUVIG v. FRANCE",
+      "CASE OF KOUA POIRREZ v. FRANCE",
+      "CASE OF KRUSLIN v. FRANCE",
+      "CASE OF P.L. v. FRANCE",
+      "CASE OF S.A. DANGEVILLE v. FRANCE",
+      "CASE OF STES COLAS EST AND OTHERS v. FRANCE"
+    ],
+    "unexplained_verdict": "all reviewed manually: art. 8 private life / home / correspondence (interceptions, searches, DNA, registers) or other rights — no family-life issue; correctly outside"
+  },
+  "gaps": [
+    "Family matters decided against France only under art 6 (e.g. length of custody proceedings) or art 3/5 are outside the article scope set by SCOPE §4.4 (arts 8/12/14/P7-5) and not included (counted as outside_article_scope in filter_check).",
+    "Decisions (inadmissibility) and Committee judgments of importance 4 against France were screened only if tagged on the included articles.",
+    "Family-life cases in the migration/prison context are included where the Court examined family life (issue int.echr.migration).",
+    "Issue classification of ECtHR items is keyword-based (see scripts/int_ecthr.py classify()).",
+    "17 items without a parsed operative-part excerpt (summary = HUDOC conclusion only).",
+    "Hague-set items with no identifiable Hague article are linked to the instrument record int-hcch-1980."
+  ],
+  "updated": "2026-09-30"
+}

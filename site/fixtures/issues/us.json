@@ -1,0 +1,34 @@
+{
+  "side": "us",
+  "lang": "en",
+  "fixture": true,
+  "nodes": [
+    {
+      "id": "us.marriage",
+      "label": "Marriage",
+      "children": [
+        {
+          "id": "us.marriage.recognition",
+          "label": "Recognition of marriages",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "us.hague",
+      "label": "Hague Abduction Convention / ICARA",
+      "children": [
+        {
+          "id": "us.hague.wrongful-removal",
+          "label": "Wrongful removal or retention",
+          "children": []
+        },
+        {
+          "id": "us.hague.habitual-residence",
+          "label": "Habitual residence",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

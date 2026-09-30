@@ -1,0 +1,28 @@
+{
+  "section": "516.350",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.350",
+  "current": {
+    "effective": "2014-08-28",
+    "bid": "27859",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.350&bid=27859"
+  },
+  "versions": [
+    {
+      "effective": "2001-08-28",
+      "end": "2014-08-28",
+      "bid": "53708",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.350&bid=53708",
+      "heading": "Judgments presumed to be paid, when — presumption, how rebutted — inclusion in the automated child support system.",
+      "text": "1. Every judgment, order or decree of any court of record of the United States, or of this or any other state, territory or country, except for any judgment, order, or decree awarding child support or maintenance or dividing pension, retirement, life insurance, or other employee benefits in connection with a dissolution of marriage, legal separation or annulment which mandates the making of payments over a period of time or payments in the future, shall be presumed to be paid and satisfied after the expiration of ten years from the date of the original rendition thereof, or if the same has been revived upon personal service duly had upon the defendant or defendants therein, then after ten years from and after such revival, or in case a payment has been made on such judgment, order or decree, and duly entered upon the record thereof, after the expiration of ten years from the last payment so made, and after the expiration of ten years from the date of the original rendition or revival upon personal service, or from the date of the last payment, such judgment shall be conclusively presumed to be paid, and no execution, order or process shall issue thereon, nor shall any suit be brought, had or maintained thereon for any purpose whatever. An action to emancipate a child, and any personal service or order rendered thereon, shall not act to revive the support order.\n\n2. In any judgment, order, or decree awarding child support or maintenance, each periodic payment shall be presumed paid and satisfied after the expiration of ten years from the date that periodic payment is due, unless the judgment has been otherwise revived as set out in subsection 1 of this section. This subsection shall take effect as to all such judgments, orders, or decrees which have not been presumed paid pursuant to subsection 1 of this section as of August 31, 1982.\n\n3. In any judgment, order, or decree dividing pension, retirement, life insurance, or other employee benefits in connection with a dissolution of marriage, legal separation or annulment, each periodic payment shall be presumed paid and satisfied after the expiration of ten years from the date that periodic payment is due, unless the judgment has been otherwise revived as set out in subsection 1 of this section. This subsection shall take effect as to all such judgments, orders, or decrees which have not been presumed paid pursuant to subsection 1 of this section as of August 28, 2001.\n\n4. In any judgment, order or decree awarding child support or maintenance, payment duly entered on the record as provided in subsection 1 of this section shall include recording of payments or credits in the automated child support system created pursuant to chapter 454 by the division of child support enforcement or payment center pursuant to chapter 454.",
+      "history_note": "(RSMo 1939 § 1038, A.L. 1982 S.B. 468, A.L. 1999 S.B. 291, A.L. 2001 S.B. 10)",
+      "effdt_raw": "Effective - 28 Aug 2001, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

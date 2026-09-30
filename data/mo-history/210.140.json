@@ -1,0 +1,41 @@
+{
+  "section": "210.140",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.140",
+  "current": {
+    "effective": "2001-08-28",
+    "bid": "11309",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.140&bid=11309"
+  },
+  "versions": [
+    {
+      "effective": "1980-08-13",
+      "end": "2001-08-28",
+      "bid": "58637",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.140&bid=58637",
+      "heading": "Privileged communication not recognized, exception.",
+      "text": "Any legally recognized privileged communication, except that between attorney and client, shall not apply to situations involving known or suspected child abuse or neglect and shall not constitute grounds for failure to report as required or permitted by sections 210.110 to 210.165, to cooperate with the division in any of its activities pursuant to sections 210.110 to 210.165, or to give or accept evidence in any judicial proceeding relating to child abuse or neglect.",
+      "history_note": "(L. 1975 H.B. 578 § 7, A.L. 1980 S.B. 574)",
+      "effdt_raw": "Effective - 13 Aug 1980, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    },
+    {
+      "effective": "1965-10-13",
+      "end": "1965-10-13",
+      "bid": "41231",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.140&bid=41231",
+      "heading": "",
+      "text": "210.140. (Repealed L. 1965 p. 360 § 1)",
+      "history_note": "",
+      "effdt_raw": "Effective - 13 Oct 1965, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

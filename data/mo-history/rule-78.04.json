@@ -1,0 +1,52 @@
+{
+  "rule": "78.04",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=200290",
+  "current": {
+    "effective": "2026-07-01",
+    "text_sha256": "664e6a7e93499eacf550aca1e0d5e21192997a5d25352b0a0a67e7578f97572c"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1974-04-10",
+      "effective": "1975-01-01"
+    },
+    {
+      "adopted_or_amended": "1987-05-22",
+      "effective": "1988-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1994-02-22",
+      "effective": "1995-01-01"
+    },
+    {
+      "adopted_or_amended": "1995-09-26",
+      "effective": "1996-07-01"
+    },
+    {
+      "adopted_or_amended": "1999-05-27",
+      "effective": "2000-01-01"
+    },
+    {
+      "adopted_or_amended": "2009-06-24",
+      "effective": "2010-01-01"
+    }
+  ],
+  "history_note": "(Adopted April 10, 1974, effective January 1, 1975. Amended May 22, 1987, effective January 1, 1988; amended June 1, 1993, effective January 1, 1994; amended February 22, 1994, effective January 1, 1995; amended September 26, 1995, effective July 1, 1996; amended May 27, 1999, effective January 1, 2000; amended June 24, 2009, effective January 1, 2010.)",
+  "versions": [
+    {
+      "effective": "2010-01-01",
+      "end": "2026-07-01",
+      "heading": "Motion for New Trial – Time for Filing",
+      "text": "Any motion for new trial and any motion to amend the judgment or opinion shall be filed not later than thirty days after the entry of judgment. Any motion for judgment notwithstanding the verdict shall be filed within the time provided in Rule 72.01. If the motion is filed prematurely, the motion shall be considered as filed immediately after the time the judgment is finally entered.",
+      "source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)",
+      "identical_to_current": true
+    }
+  ],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,27 @@
+{
+  "section": "452.410",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.410",
+  "current": {
+    "effective": "2021-08-28",
+    "bid": "49918",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.410&bid=49918"
+  },
+  "versions": [
+    {
+      "effective": "1990-08-28",
+      "end": "2021-08-28",
+      "bid": "25044",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.410&bid=25044",
+      "heading": "Custody, decree, modification of, when.",
+      "text": "1. Except as provided in subsection 2 of this section, the court shall not modify a prior custody decree unless it has jurisdiction under the provisions of section 452.450 and it finds, upon the basis of facts that have arisen since the prior decree or that were unknown to the court at the time of the prior decree, that a change has occurred in the circumstances of the child or his custodian and that the modification is necessary to serve the best interests of the child. Notwithstanding any other provision of this section or sections 452.375 and 452.400, any custody order entered by any court in this state or any other state prior to August 13, 1984, may, subject to jurisdictional requirements, be modified to allow for joint custody in accordance with section 452.375, without any further showing.\n\n2. If either parent files a motion to modify an award of joint legal custody or joint physical custody, each party shall be entitled to a change of judge as provided by supreme court rule.",
+      "history_note": "(L. 1973 H.B. 315 § 23, A.L. 1978 H.B. 914, A.L. 1984 H.B. 1513, A.L. 1990 H.B. 1370, et al.)",
+      "effdt_raw": "Effective - 28 Aug 1990, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

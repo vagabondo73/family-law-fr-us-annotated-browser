@@ -1,0 +1,61 @@
+{
+  "section": "453.072",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.072",
+  "current": {
+    "effective": "2013-08-28",
+    "bid": "25151",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.072&bid=25151"
+  },
+  "versions": [
+    {
+      "effective": "2008-08-28",
+      "end": "2013-08-28",
+      "bid": "50345",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.072&bid=50345",
+      "heading": "Qualified relatives to receive subsidies, when.",
+      "text": "Any subsidies available to adoptive parents pursuant to section 453.073 and section 453.074 shall also be available to a qualified relative of a child who is granted legal guardianship of the child in the same manner as such subsidies are available for adoptive parents. As used in this section \"relative\" means any grandparent, aunt, uncle, adult sibling of the child or adult first cousin of the child.",
+      "history_note": "(L. 1999 S.B. 1, et al., A.L. 2001 S.B. 236, A.L. 2005 S.B. 539, A.L. 2008 H.B. 1946)",
+      "effdt_raw": "Effective - 28 Aug 2008, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2005-08-28",
+      "end": "2008-08-28",
+      "bid": "51908",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.072&bid=51908",
+      "heading": "Qualified relatives to receive subsidies, when.",
+      "text": "Any subsidies available to adoptive parents pursuant to section 453.073 and section 453.074 shall also be available to a qualified relative of a child who is granted legal guardianship of the child in the same manner as such subsidies are available for adoptive parents, including income restrictions as provided in subsection 4 of section 453.073. As used in this section \"relative\" means any grandparent, aunt, uncle, adult sibling of the child or adult first cousin of the child.",
+      "history_note": "(L. 1999 S.B. 1, et al., A.L. 2001 S.B. 236, A.L. 2005 S.B. 539)",
+      "effdt_raw": "Effective - 28 Aug 2005, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2001-08-28",
+      "end": "2005-08-28",
+      "bid": "53677",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=453.072&bid=53677",
+      "heading": "Qualified relatives to receive subsidies, when.",
+      "text": "Any subsidies available to adoptive parents pursuant to section 453.073 and section 453.074 shall also be available to a qualified relative of a child who is granted legal guardianship of the child in the same manner as such subsidies are available for adoptive parents. As used in this section \"relative\" means any grandparent, aunt, uncle, adult sibling of the child or adult first cousin of the child.",
+      "history_note": "(L. 1999 S.B. 1, et al., A.L. 2001 S.B. 236)",
+      "effdt_raw": "Effective - 28 Aug 2001, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,2432 @@
+{
+  "generated": "2026-09-30",
+  "note": "FR / US / EU status of every international family-law instrument screened (SCOPE §4.4)",
+  "instruments": [
+    {
+      "instrument": "Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1961a",
+      "entry_into_force": "1965-01-24",
+      "FR": {
+        "status": "party",
+        "signature": "1961-10-09",
+        "ratification_or_accession": "1964-11-25",
+        "type": "R",
+        "entry_into_force": "1965-01-24",
+        "raw": [
+          "France",
+          "9-X-1961",
+          "25-XI-1964",
+          "R",
+          "24-I-1965",
+          "",
+          "1",
+          "D"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "1980-12-24",
+        "type": "A",
+        "entry_into_force": "1981-10-15",
+        "raw": [
+          "United States of America",
+          "",
+          "24-XII-1980",
+          "A",
+          "15-X-1981",
+          "",
+          "1",
+          "D"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "articles": 15,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1965",
+      "entry_into_force": "1969-02-10",
+      "FR": {
+        "status": "party",
+        "signature": "1967-01-12",
+        "ratification_or_accession": "1972-07-03",
+        "type": "R",
+        "entry_into_force": "1972-09-01",
+        "raw": [
+          "France",
+          "12-I-1967",
+          "3-VII-1972",
+          "R",
+          "1-IX-1972",
+          "1",
+          "3",
+          "D 8,15,16"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "1965-11-15",
+        "ratification_or_accession": "1967-08-24",
+        "type": "R",
+        "entry_into_force": "1969-02-10",
+        "raw": [
+          "United States of America",
+          "15-XI-1965",
+          "24-VIII-1967",
+          "R",
+          "10-II-1969",
+          "1",
+          "1",
+          "D 2,15,16,29"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+      "articles": 31,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 18 March 1970 on the Taking of Evidence Abroad in Civil or Commercial Matters",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1970e",
+      "entry_into_force": "1972-10-07",
+      "FR": {
+        "status": "party",
+        "signature": "1972-08-24",
+        "ratification_or_accession": "1974-08-07",
+        "type": "R",
+        "entry_into_force": "1974-10-06",
+        "raw": [
+          "France",
+          "24-VIII-1972",
+          "7-VIII-1974",
+          "R",
+          "6-X-1974",
+          "1",
+          "2",
+          "D,Res 4,16,17,23"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "1970-07-27",
+        "ratification_or_accession": "1972-08-08",
+        "type": "R",
+        "entry_into_force": "1972-10-07",
+        "raw": [
+          "United States of America",
+          "27-VII-1970",
+          "8-VIII-1972",
+          "R",
+          "7-X-1972",
+          "3",
+          "3",
+          "D 4,8,16,17,18"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+      "articles": 42,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 25 October 1980 on the Civil Aspects of International Child Abduction",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1980",
+      "entry_into_force": "1983-12-01",
+      "FR": {
+        "status": "party",
+        "signature": "1980-10-25",
+        "ratification_or_accession": "1982-09-16",
+        "type": "R",
+        "entry_into_force": "1983-12-01",
+        "raw": [
+          "France",
+          "25-X-1980",
+          "16-IX-1982",
+          "R",
+          "1-XII-1983",
+          "",
+          "1",
+          "Res,D 24,26,39"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "1981-12-23",
+        "ratification_or_accession": "1988-04-29",
+        "type": "R",
+        "entry_into_force": "1988-07-01",
+        "raw": [
+          "United States of America",
+          "23-XII-1981",
+          "29-IV-1988",
+          "R",
+          "1-VII-1988",
+          "",
+          "1",
+          "Res 24,26"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+      "articles": 45,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 29 May 1993 on Protection of Children and Co-operation in Respect of Intercountry Adoption",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1993",
+      "entry_into_force": "1995-05-01",
+      "FR": {
+        "status": "party",
+        "signature": "1995-04-05",
+        "ratification_or_accession": "1998-06-30",
+        "type": "R",
+        "entry_into_force": "1998-10-01",
+        "raw": [
+          "France",
+          "5-IV-1995",
+          "30-VI-1998",
+          "R",
+          "1-X-1998",
+          "",
+          "3",
+          "D 22,25,45"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "1994-03-31",
+        "ratification_or_accession": "2007-12-12",
+        "type": "R",
+        "entry_into_force": "2008-04-01",
+        "raw": [
+          "United States of America",
+          "31-III-1994",
+          "12-XII-2007",
+          "R",
+          "1-IV-2008",
+          "",
+          "3",
+          "D 22(2)"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=69",
+      "articles": 48,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 19 October 1996 on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1996",
+      "entry_into_force": "2002-01-01",
+      "FR": {
+        "status": "party",
+        "signature": "2003-04-01",
+        "ratification_or_accession": "2010-10-15",
+        "type": "R",
+        "entry_into_force": "2011-02-01",
+        "raw": [
+          "France",
+          "1-IV-2003",
+          "15-X-2010",
+          "R",
+          "1-II-2011",
+          "",
+          "1",
+          "D 23,26,34,52"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "2010-10-22",
+        "ratification_or_accession": null,
+        "type": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "22-X-2010",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=70",
+      "articles": 63,
+      "note": "United States: signed 22 Oct 2010, not ratified."
+    },
+    {
+      "instrument": "Convention of 13 January 2000 on the International Protection of Adults",
+      "corpus": "int-hcch",
+      "id": "int-hcch-2000",
+      "entry_into_force": "2009-01-01",
+      "FR": {
+        "status": "party",
+        "signature": "2001-07-13",
+        "ratification_or_accession": "2008-09-18",
+        "type": "R",
+        "entry_into_force": "2009-01-01",
+        "raw": [
+          "France",
+          "13-VII-2001",
+          "18-IX-2008",
+          "R",
+          "1-I-2009",
+          "",
+          "2",
+          "D 32"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=71",
+      "articles": 59,
+      "note": "Treaty-level only (adult protection is outside the domestic perimeter)."
+    },
+    {
+      "instrument": "Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "corpus": "int-hcch",
+      "id": "int-hcch-2007",
+      "entry_into_force": "2013-01-01",
+      "FR": {
+        "status": "party (through the EU)",
+        "signature": null,
+        "ratification_or_accession": null,
+        "type": "Ap EU *",
+        "entry_into_force": "2014-08-01",
+        "raw": [
+          "France",
+          "",
+          "",
+          "Ap EU *",
+          "1-VIII-2014",
+          "",
+          "1",
+          "D"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "2007-11-23",
+        "ratification_or_accession": "2016-09-07",
+        "type": "R",
+        "entry_into_force": "2017-01-01",
+        "raw": [
+          "United States of America",
+          "23-XI-2007",
+          "7-IX-2016",
+          "R",
+          "1-I-2017",
+          "",
+          "1",
+          "D,Res 20, 44, 60-63"
+        ]
+      },
+      "EU": {
+        "status": "party",
+        "signature": "2011-04-06",
+        "ratification_or_accession": "2014-04-09",
+        "type": "Ap EU",
+        "entry_into_force": "2014-08-01",
+        "raw": [
+          "European Union",
+          "6-IV-2011",
+          "9-IV-2014",
+          "Ap EU",
+          "1-VIII-2014",
+          "",
+          "",
+          "D,Res 2,11,44,59"
+        ]
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=131",
+      "articles": 65,
+      "note": "France bound through the EU's approval (Ap EU)."
+    },
+    {
+      "instrument": "Protocol of 23 November 2007 on the Law Applicable to Maintenance Obligations",
+      "corpus": "int-hcch",
+      "id": "int-hcch-2007p",
+      "entry_into_force": "2013-08-01",
+      "FR": {
+        "status": "party (through the EU)",
+        "signature": null,
+        "ratification_or_accession": null,
+        "type": "Ap EU *",
+        "entry_into_force": "2013-08-01",
+        "raw": [
+          "France",
+          "",
+          "",
+          "Ap EU *",
+          "1-VIII-2013",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "party",
+        "signature": "2010-04-08",
+        "ratification_or_accession": "2010-04-08",
+        "type": "Ap EU",
+        "entry_into_force": "2013-08-01",
+        "raw": [
+          "European Union",
+          "8-IV-2010",
+          "8-IV-2010",
+          "Ap EU",
+          "1-VIII-2013",
+          "",
+          "",
+          "D,N 24"
+        ]
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=133",
+      "articles": 30,
+      "note": "Bound through the EU (applied by the EU since 18 June 2011 under Council Decision 2009/941/EC; entry into force 1 Aug 2013)."
+    },
+    {
+      "instrument": "Convention of 2 October 1973 on the Law Applicable to Maintenance Obligations",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1973a",
+      "entry_into_force": "1977-10-01",
+      "FR": {
+        "status": "party",
+        "signature": "1973-12-18",
+        "ratification_or_accession": "1977-07-19",
+        "type": "R",
+        "entry_into_force": "1977-10-01",
+        "raw": [
+          "France",
+          "18-XII-1973",
+          "19-VII-1977",
+          "R",
+          "1-X-1977",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=86",
+      "articles": 27,
+      "note": "Replaced between EU Member States bound by the 2007 Protocol (Protocol art. 18)."
+    },
+    {
+      "instrument": "Convention of 2 October 1973 on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1973r",
+      "entry_into_force": "1976-08-01",
+      "FR": {
+        "status": "party",
+        "signature": "1973-12-18",
+        "ratification_or_accession": "1977-07-19",
+        "type": "R",
+        "entry_into_force": "1977-10-01",
+        "raw": [
+          "France",
+          "18-XII-1973",
+          "19-VII-1977",
+          "R",
+          "1-X-1977",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=85",
+      "articles": 37,
+      "note": "Replaced between States bound by the 2007 Convention (art. 48)."
+    },
+    {
+      "instrument": "Convention of 15 April 1958 concerning the recognition and enforcement of decisions relating to maintenance obligations towards children",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1958",
+      "entry_into_force": "1962-01-01",
+      "FR": {
+        "status": "party",
+        "signature": "1965-01-06",
+        "ratification_or_accession": "1966-05-26",
+        "type": "R",
+        "entry_into_force": "1966-07-25",
+        "raw": [
+          "France",
+          "6-I-1965",
+          "26-V-1966",
+          "R",
+          "25-VII-1966",
+          "11",
+          "1",
+          "N"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=38",
+      "articles": 19,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 24 October 1956 on the law applicable to maintenance obligations towards children",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1956",
+      "entry_into_force": "1962-01-01",
+      "FR": {
+        "status": "party",
+        "signature": "1956-10-24",
+        "ratification_or_accession": "1963-05-02",
+        "type": "R",
+        "entry_into_force": "1963-07-01",
+        "raw": [
+          "France",
+          "24-X-1956",
+          "2-V-1963",
+          "R",
+          "1-VII-1963",
+          "",
+          "",
+          "N 9"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=37",
+      "articles": 12,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of infants",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1961m",
+      "entry_into_force": "1969-02-04",
+      "FR": {
+        "status": "party",
+        "signature": "1961-11-29",
+        "ratification_or_accession": "1972-09-11",
+        "type": "R",
+        "entry_into_force": "1972-11-10",
+        "raw": [
+          "France",
+          "29-XI-1961",
+          "11-IX-1972",
+          "R",
+          "10-XI-1972",
+          "",
+          "1",
+          "N"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=39",
+      "articles": 25,
+      "note": "Replaced by the 1996 Convention between States Parties to both (1996 art. 51)."
+    },
+    {
+      "instrument": "Convention of 14 March 1978 on the Law Applicable to Matrimonial Property Regimes",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1978m",
+      "entry_into_force": "1992-09-01",
+      "FR": {
+        "status": "party",
+        "signature": "1978-09-26",
+        "ratification_or_accession": "1979-09-26",
+        "type": "R",
+        "entry_into_force": "1992-09-01",
+        "raw": [
+          "France",
+          "26-IX-1978",
+          "26-IX-1979",
+          "R",
+          "1-IX-1992",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+      "articles": 31,
+      "note": "Applies to spouses married before 29 Jan 2019; for later marriages Regulation (EU) 2016/1103 (art. 62 and 69)."
+    },
+    {
+      "instrument": "Convention of 5 October 1961 on the Conflicts of Laws Relating to the Form of Testamentary Dispositions",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1961t",
+      "entry_into_force": "1964-01-05",
+      "FR": {
+        "status": "party",
+        "signature": "1961-10-09",
+        "ratification_or_accession": "1967-09-20",
+        "type": "R",
+        "entry_into_force": "1967-11-19",
+        "raw": [
+          "France",
+          "9-X-1961",
+          "20-IX-1967",
+          "R",
+          "19-XI-1967",
+          "",
+          "",
+          "D,Res 10"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+      "articles": 20,
+      "note": "Preserved by Regulation (EU) 650/2012, art. 75(1)."
+    },
+    {
+      "instrument": "Convention of 1 March 1954 on civil procedure",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1954",
+      "entry_into_force": "1957-04-12",
+      "FR": {
+        "status": "party",
+        "signature": "1956-01-24",
+        "ratification_or_accession": "1959-04-23",
+        "type": "R",
+        "entry_into_force": "1959-06-22",
+        "raw": [
+          "France",
+          "24-I-1956",
+          "23-IV-1959",
+          "R",
+          "22-VI-1959",
+          "10",
+          "1",
+          "N"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=33",
+      "articles": 33,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 25 October 1980 on International Access to Justice",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1980j",
+      "entry_into_force": "1988-05-01",
+      "FR": {
+        "status": "party",
+        "signature": "1980-10-25",
+        "ratification_or_accession": "1982-12-22",
+        "type": "R",
+        "entry_into_force": "1988-05-01",
+        "raw": [
+          "France",
+          "25-X-1980",
+          "22-XII-1982",
+          "R",
+          "1-V-1988",
+          "",
+          "2",
+          "D,Res 1,7,33"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=91",
+      "articles": 36,
+      "note": ""
+    },
+    {
+      "instrument": "Convention of 30 June 2005 on Choice of Court Agreements",
+      "corpus": "int-hcch",
+      "id": "int-hcch-2005",
+      "entry_into_force": "2015-10-01",
+      "FR": {
+        "status": "party (through the EU)",
+        "signature": null,
+        "ratification_or_accession": null,
+        "type": "Ap EU *",
+        "entry_into_force": "2015-10-01",
+        "raw": [
+          "France",
+          "",
+          "",
+          "Ap EU *",
+          "1-X-2015",
+          "",
+          "",
+          "D"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "2009-01-19",
+        "ratification_or_accession": null,
+        "type": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "19-I-2009",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "party",
+        "signature": "2009-04-01",
+        "ratification_or_accession": "2015-06-11",
+        "type": "Ap EU",
+        "entry_into_force": "2015-10-01",
+        "raw": [
+          "European Union",
+          "1-IV-2009",
+          "11-VI-2015",
+          "Ap EU",
+          "1-X-2015",
+          "",
+          "",
+          "D,N 30"
+        ]
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=98",
+      "articles": 0,
+      "note": "Family matters excluded (art. 2(2)(a)-(d)); status only."
+    },
+    {
+      "instrument": "Convention of 2 July 2019 on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters",
+      "corpus": "int-hcch",
+      "id": "int-hcch-2019",
+      "entry_into_force": "2023-09-01",
+      "FR": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "2022-08-29",
+        "type": "A EU *",
+        "entry_into_force": "2023-09-01",
+        "raw": [
+          "France",
+          "",
+          "29-VIII-2022",
+          "A EU *",
+          "1-IX-2023",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "2022-03-02",
+        "ratification_or_accession": null,
+        "type": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "2-III-2022",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "2022-08-29",
+        "type": "A EU",
+        "entry_into_force": "2023-09-01",
+        "raw": [
+          "European Union",
+          "",
+          "29-VIII-2022",
+          "A EU",
+          "1-IX-2023",
+          "",
+          "",
+          "D"
+        ]
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=137",
+      "articles": 0,
+      "note": "Family matters excluded (art. 2(1)(a)-(d)); status only."
+    },
+    {
+      "instrument": "Convention of 1 July 1985 on the Law Applicable to Trusts and on their Recognition",
+      "corpus": "int-hcch",
+      "id": "int-hcch-1985",
+      "entry_into_force": "1992-01-01",
+      "FR": {
+        "status": "signed",
+        "signature": "1991-11-26",
+        "ratification_or_accession": null,
+        "type": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "26-XI-1991",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "1988-06-13",
+        "ratification_or_accession": null,
+        "type": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "13-VI-1988",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=59",
+      "articles": 0,
+      "note": "Signed by France and the United States, ratified by neither; status only."
+    },
+    {
+      "instrument": "Convention on the Rights of the Child (New York, 20 November 1989)",
+      "corpus": "int-un",
+      "id": "int-un-crc",
+      "entry_into_force": "1990-09-02",
+      "FR": {
+        "status": "party",
+        "signature": "1990-01-26",
+        "ratification_or_accession": "1990-08-07",
+        "type": "r",
+        "raw": [
+          "France",
+          "26 Jan 1990",
+          "7 Aug 1990"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "1995-02-16",
+        "ratification_or_accession": null,
+        "type": null,
+        "raw": [
+          "United States of America",
+          "16 Feb 1995",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11&chapter=4&clang=_en",
+      "articles": 54
+    },
+    {
+      "instrument": "Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict (2000)",
+      "corpus": "int-un",
+      "id": "int-un-crc-opac",
+      "entry_into_force": "2002-02-12",
+      "FR": {
+        "status": "party",
+        "signature": "2000-09-06",
+        "ratification_or_accession": "2003-02-05",
+        "type": "r",
+        "raw": [
+          "France",
+          "6 Sep 2000",
+          "5 Feb 2003"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "2000-07-05",
+        "ratification_or_accession": "2002-12-23",
+        "type": "r",
+        "raw": [
+          "United States of America",
+          "5 Jul 2000",
+          "23 Dec 2002"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-b&chapter=4&clang=_en",
+      "articles": 13
+    },
+    {
+      "instrument": "Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography (2000)",
+      "corpus": "int-un",
+      "id": "int-un-crc-opsc",
+      "entry_into_force": "2002-01-18",
+      "FR": {
+        "status": "party",
+        "signature": "2000-09-06",
+        "ratification_or_accession": "2003-02-05",
+        "type": "r",
+        "raw": [
+          "France",
+          "6 Sep 2000",
+          "5 Feb 2003"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "2000-07-05",
+        "ratification_or_accession": "2002-12-23",
+        "type": "r",
+        "raw": [
+          "United States of America",
+          "5 Jul 2000",
+          "23 Dec 2002"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-c&chapter=4&clang=_en",
+      "articles": 17
+    },
+    {
+      "instrument": "Optional Protocol to the Convention on the Rights of the Child on a communications procedure (2011)",
+      "corpus": "int-un",
+      "id": "int-un-crc-opic",
+      "entry_into_force": "2014-04-14",
+      "FR": {
+        "status": "party",
+        "signature": "2014-11-20",
+        "ratification_or_accession": "2016-01-07",
+        "type": "r",
+        "raw": [
+          "France",
+          "20 Nov 2014",
+          "7 Jan 2016"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-d&chapter=4&clang=_en",
+      "articles": 0
+    },
+    {
+      "instrument": "International Covenant on Civil and Political Rights (1966)",
+      "corpus": "int-un",
+      "id": "int-un-iccpr",
+      "entry_into_force": "1976-03-23",
+      "FR": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "1980-11-04",
+        "type": "a",
+        "raw": [
+          "France",
+          "",
+          "4 Nov 1980 a"
+        ]
+      },
+      "US": {
+        "status": "party",
+        "signature": "1977-10-05",
+        "ratification_or_accession": "1992-06-08",
+        "type": "r",
+        "raw": [
+          "United States of America",
+          "5 Oct 1977",
+          "8 Jun 1992"
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en",
+      "articles": 2
+    },
+    {
+      "instrument": "International Covenant on Economic, Social and Cultural Rights (1966)",
+      "corpus": "int-un",
+      "id": "int-un-icescr",
+      "entry_into_force": "1976-01-03",
+      "FR": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "1980-11-04",
+        "type": "a",
+        "raw": [
+          "France",
+          "",
+          "4 Nov 1980 a"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "1977-10-05",
+        "ratification_or_accession": null,
+        "type": null,
+        "raw": [
+          "United States of America",
+          "5 Oct 1977",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&clang=_en",
+      "articles": 1
+    },
+    {
+      "instrument": "Convention on the Elimination of All Forms of Discrimination against Women (1979)",
+      "corpus": "int-un",
+      "id": "int-un-cedaw",
+      "entry_into_force": "1981-09-03",
+      "FR": {
+        "status": "party",
+        "signature": "1980-07-17",
+        "ratification_or_accession": "1983-12-14",
+        "type": "r",
+        "raw": [
+          "France 22",
+          "17 Jul 1980",
+          "14 Dec 1983"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "1980-07-17",
+        "ratification_or_accession": null,
+        "type": null,
+        "raw": [
+          "United States of America",
+          "17 Jul 1980",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8&chapter=4&clang=_en",
+      "articles": 1
+    },
+    {
+      "instrument": "Convention on the Rights of Persons with Disabilities (2006)",
+      "corpus": "int-un",
+      "id": "int-un-crpd",
+      "entry_into_force": "2008-05-03",
+      "FR": {
+        "status": "party",
+        "signature": "2007-03-30",
+        "ratification_or_accession": "2010-02-18",
+        "type": "r",
+        "raw": [
+          "France",
+          "30 Mar 2007",
+          "18 Feb 2010"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "2009-07-30",
+        "ratification_or_accession": null,
+        "type": null,
+        "raw": [
+          "United States of America",
+          "30 Jul 2009",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "party",
+        "signature": "2007-03-30",
+        "ratification_or_accession": "2010-12-23",
+        "type": "c",
+        "raw": [
+          "European Union",
+          "30 Mar 2007",
+          "23 Dec 2010 c"
+        ]
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4&clang=_en",
+      "articles": 1
+    },
+    {
+      "instrument": "Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages (1962)",
+      "corpus": "int-un",
+      "id": "int-un-marriage1962",
+      "entry_into_force": "1964-12-09",
+      "FR": {
+        "status": "party",
+        "signature": "1962-12-10",
+        "ratification_or_accession": "2010-10-14",
+        "type": "r",
+        "raw": [
+          "France",
+          "10 Dec 1962",
+          "14 Oct 2010"
+        ]
+      },
+      "US": {
+        "status": "signed",
+        "signature": "1962-12-10",
+        "ratification_or_accession": null,
+        "type": null,
+        "raw": [
+          "United States of America",
+          "10 Dec 1962",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVI-3&chapter=16&clang=_en",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention on the Recovery Abroad of Maintenance (New York, 20 June 1956)",
+      "corpus": "int-un",
+      "id": "int-un-maint1956",
+      "entry_into_force": "1957-05-25",
+      "FR": {
+        "status": "party",
+        "signature": "1956-09-05",
+        "ratification_or_accession": "1960-06-24",
+        "type": "r",
+        "raw": [
+          "France 5",
+          "5 Sep 1956",
+          "24 Jun 1960"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XX-1&chapter=20&clang=_en",
+      "articles": 21
+    },
+    {
+      "instrument": "Convention for the Protection of Human Rights and Fundamental Freedoms (ETS No. 005), as amended by Protocols Nos. 11, 14 and 15",
+      "corpus": "int-coe",
+      "id": "int-coe-echr",
+      "entry_into_force": "1953-09-03",
+      "FR": {
+        "status": "party",
+        "signature": "1950-11-04",
+        "ratification_or_accession": "1974-05-03",
+        "entry_into_force": "1974-05-03",
+        "raw": [
+          "France",
+          "04/11/1950",
+          "03/05/1974",
+          "03/05/1974"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "European Union",
+          "",
+          "a"
+        ]
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=005",
+      "articles": 3
+    },
+    {
+      "instrument": "Protocol No. 7 to the Convention for the Protection of Human Rights and Fundamental Freedoms (ETS No. 117)",
+      "corpus": "int-coe",
+      "id": "int-coe-echr-p7",
+      "entry_into_force": "1988-11-01",
+      "FR": {
+        "status": "party",
+        "signature": "1984-11-22",
+        "ratification_or_accession": "1986-02-17",
+        "entry_into_force": "1988-11-01",
+        "raw": [
+          "France",
+          "22/11/1984",
+          "17/02/1986",
+          "01/11/1988"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=117",
+      "articles": 1
+    },
+    {
+      "instrument": "European Convention on Recognition and Enforcement of Decisions concerning Custody of Children and on Restoration of Custody of Children (Luxembourg, 20 May 1980) (ETS No. 105)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets105",
+      "entry_into_force": "1983-09-01",
+      "FR": {
+        "status": "party",
+        "signature": "1980-05-20",
+        "ratification_or_accession": "1982-08-04",
+        "entry_into_force": "1983-09-01",
+        "raw": [
+          "France",
+          "20/05/1980",
+          "04/08/1982",
+          "01/09/1983"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=105",
+      "articles": 30
+    },
+    {
+      "instrument": "European Convention on the Exercise of Children's Rights (ETS No. 160)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets160",
+      "entry_into_force": "2000-07-01",
+      "FR": {
+        "status": "party",
+        "signature": "1996-06-04",
+        "ratification_or_accession": "2007-09-19",
+        "entry_into_force": "2008-01-01",
+        "raw": [
+          "France",
+          "04/06/1996",
+          "19/09/2007",
+          "01/01/2008"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=160",
+      "articles": 26
+    },
+    {
+      "instrument": "Council of Europe Convention on preventing and combating violence against women and domestic violence (Istanbul, CETS No. 210)",
+      "corpus": "int-coe",
+      "id": "int-coe-cets210",
+      "entry_into_force": "2014-08-01",
+      "FR": {
+        "status": "party",
+        "signature": "2011-05-11",
+        "ratification_or_accession": "2014-07-04",
+        "entry_into_force": "2014-11-01",
+        "raw": [
+          "France",
+          "11/05/2011",
+          "04/07/2014",
+          "01/11/2014"
+        ]
+      },
+      "US": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "party",
+        "signature": "2017-06-13",
+        "ratification_or_accession": "2023-06-28",
+        "entry_into_force": "2023-10-01",
+        "raw": [
+          "European Union",
+          "13/06/2017",
+          "28/06/2023",
+          "01/10/2023"
+        ]
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=210",
+      "articles": 81
+    },
+    {
+      "instrument": "Protocol No. 12 to the Convention (ETS No. 177)",
+      "corpus": "int-coe",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=177",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "European Convention on the Adoption of Children (ETS No. 058)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets058",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1967-04-24",
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "24/04/1967",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=058",
+      "articles": 0
+    },
+    {
+      "instrument": "European Convention on the Adoption of Children (Revised) (CETS No. 202)",
+      "corpus": "int-coe",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=202",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "European Convention on the Legal Status of Children born out of Wedlock (ETS No. 085)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets085",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1977-09-02",
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "02/09/1977",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=085",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention on Contact concerning Children (ETS No. 192)",
+      "corpus": "int-coe",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "European Union",
+          "",
+          "",
+          ""
+        ]
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=192",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "European Convention on Nationality (ETS No. 166)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets166",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "2000-07-04",
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "France",
+          "04/07/2000",
+          "",
+          ""
+        ]
+      },
+      "US": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null,
+        "raw": [
+          "United States of America",
+          "",
+          "",
+          ""
+        ]
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=166",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention on the Reduction of Cases of Multiple Nationality and on Military Obligations in Cases of Multiple Nationality (ETS No. 043)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets043",
+      "entry_into_force": null,
+      "FR": {
+        "status": "party",
+        "signature": "1963-05-06",
+        "ratification_or_accession": "1965-01-26",
+        "entry_into_force": "1968-03-28",
+        "raw": [
+          "France",
+          "06/05/1963",
+          "26/01/1965",
+          "28/03/1968"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=043",
+      "articles": 0
+    },
+    {
+      "instrument": "European Convention on Information on Foreign Law (ETS No. 062)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets062",
+      "entry_into_force": null,
+      "FR": {
+        "status": "party",
+        "signature": "1968-06-07",
+        "ratification_or_accession": "1972-04-10",
+        "entry_into_force": "1972-07-11",
+        "raw": [
+          "France",
+          "07/06/1968",
+          "10/04/1972",
+          "11/07/1972"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=062",
+      "articles": 0
+    },
+    {
+      "instrument": "Additional Protocol to the European Convention on Information on Foreign Law (ETS No. 097)",
+      "corpus": "int-coe",
+      "id": "int-coe-ets097",
+      "entry_into_force": null,
+      "FR": {
+        "status": "party",
+        "signature": "1978-03-15",
+        "ratification_or_accession": "1983-09-22",
+        "entry_into_force": "1983-12-23",
+        "raw": [
+          "France",
+          "15/03/1978",
+          "22/09/1983",
+          "23/12/1983"
+        ]
+      },
+      "US": {
+        "status": "not party"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=097",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°35) relative à la délivrance de certificats de capacité matrimoniale et de capacité à conclure un partenariat enregistré",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n35-relative-a-la-delivrance-de-certificats-de-capacite-matrimoniale-et-de-capacite-a-conclure-un-partenariat-enregistre/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°34) relative à la délivrance d’extraits et de certificats plurilingues et codés d’actes de l’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec34",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "2015-02-12",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n34-relative-a-la-delivrance-dextraits-et-de-certificats-plurilingues-et-codes-dactes-de-letat-civil/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°33) sur l’utilisation de la Plateforme de la Commission Internationale de l’État Civil de communication internationale de données d’état civil par voie électronique",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec33",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "2013-09-20",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n33-sur-lutilisation-de-la-plateforme-de-la-commission-internationale-de-letat-civil-de-communication-internationale-de-donnees-detat-civil-par-voie-electronique/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°32) sur la reconnaissance des partenariats enregistrés",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n32-sur-la-reconnaissance-des-partenariats-enregistres/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°31) sur la reconnaissance des noms",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n31-sur-la-reconnaissance-des-noms/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°30) relative à la communication internationale par voie électronique",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec30",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "2001-09-17",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n30-relative-a-la-communication-internationale-par-voie-electronique/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°29) relative à la reconnaissance des décisions constatant un changement de sexe",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n29-relative-a-la-reconnaissance-des-decisions-constatant-un-changement-de-sexe/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°28) relative à la délivrance d’un certificat de nationalité",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n28-relative-a-la-delivrance-dun-certificat-de-nationalite/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°27) relative à la délivrance d’un certificat de vie",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec27",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1998-09-10",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n27-relative-a-la-delivrance-dun-certificat-de-vie/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°26) concernant l’échange international d’informations en matière d’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec26",
+      "entry_into_force": "2004-12-01",
+      "FR": {
+        "status": "party",
+        "signature": "1997-09-12",
+        "ratification_or_accession": "2003-02-12",
+        "entry_into_force": "2004-12-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n26-concernant-lechange-international-dinformations-en-matiere-detat-civil/",
+      "articles": 23
+    },
+    {
+      "instrument": "Convention (n°25) relative au codage des énonciations figurant dans les documents d’état civil",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n25-relative-au-codage-des-enonciations-figurant-dans-les-documents-detat-civil/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°24) relative à la reconnaissance et à la mise à jour des livrets d’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec24",
+      "entry_into_force": "1992-07-01",
+      "FR": {
+        "status": "party",
+        "signature": "1990-09-05",
+        "ratification_or_accession": "1991-10-31",
+        "entry_into_force": "1992-07-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n24-relative-a-la-reconnaissance-et-a-la-mise-a-jour-des-livrets-detat-civil/",
+      "articles": 14
+    },
+    {
+      "instrument": "Protocole additionnel à la Convention concernant l’échange international d’informations en matière d’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec-protocole-additionnel-a-la-convention-co",
+      "entry_into_force": "1991-03-01",
+      "FR": {
+        "status": "party",
+        "signature": "1989-09-06",
+        "ratification_or_accession": "1990-12-11",
+        "entry_into_force": "1991-03-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/protocole-additionnel-a-la-convention-concernant-lechange-international-dinformations-en-matiere-detat-civil/",
+      "articles": 8
+    },
+    {
+      "instrument": "Convention (n°22) relative à la coopération internationale en matière d’aide administrative aux réfugiés",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec22",
+      "entry_into_force": "1987-03-01",
+      "FR": {
+        "status": "party",
+        "signature": "1985-09-03",
+        "ratification_or_accession": "1986-12-17",
+        "entry_into_force": "1987-03-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n22-relative-a-la-cooperation-internationale-en-matiere-daide-administrative-aux-refugies/",
+      "articles": 15
+    },
+    {
+      "instrument": "Convention (n°21) relative à la délivrance d’un certificat de diversité de noms de famille",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec21",
+      "entry_into_force": "1988-07-01",
+      "FR": {
+        "status": "party",
+        "signature": "1982-09-08",
+        "ratification_or_accession": "1984-05-29",
+        "entry_into_force": "1988-07-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n21-relative-a-la-delivrance-dun-certificat-de-diversite-de-noms-de-famille/",
+      "articles": 18
+    },
+    {
+      "instrument": "Convention (n°20) relative à la délivrance d’un certificat de capacité matrimoniale",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n20-relative-a-la-delivrance-dun-certificat-de-capacite-matrimoniale/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°19) sur la loi applicable aux noms et prénoms",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n19-sur-la-loi-applicable-aux-noms-et-prenoms/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°18) relative à la reconnaissance volontaire des enfants nés hors mariage",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec18",
+      "entry_into_force": null,
+      "FR": {
+        "status": "party",
+        "signature": "1982-10-11",
+        "ratification_or_accession": "1986-05-14",
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n18-relative-a-la-reconnaissance-volontaire-des-enfants-nes-hors-mariage/",
+      "articles": 28
+    },
+    {
+      "instrument": "Convention (n°17) portant dispense de légalisation pour certains actes et documents",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec17",
+      "entry_into_force": "1982-08-01",
+      "FR": {
+        "status": "party",
+        "signature": "1977-09-15",
+        "ratification_or_accession": "1982-05-14",
+        "entry_into_force": "1982-08-01"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n17-portant-dispense-de-legalisation-pour-certains-actes-et-documents/",
+      "articles": 12
+    },
+    {
+      "instrument": "Convention (n°16) relative à la délivrance d’extraits plurilingues d’actes de l’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec16",
+      "entry_into_force": "1987-01-16",
+      "FR": {
+        "status": "party",
+        "signature": null,
+        "ratification_or_accession": "1986-12-17",
+        "entry_into_force": "1987-01-16"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n16-relative-a-la-delivrance-dextraits-plurilingues-dactes-de-letat-civil/",
+      "articles": 18
+    },
+    {
+      "instrument": "Convention (n°15) créant un Livret de famille international",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec15",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1974-09-12",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n15-creant-un-livret-de-famille-international/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°14) relative à l’indication des noms et prénoms dans les registres de l’état civil",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n14-relative-a-lindication-des-noms-et-prenoms-dans-les-registres-de-letat-civil/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°13) tendant à réduire le nombre des cas d’apatridie",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n13-tendant-a-reduire-le-nombre-des-cas-dapatridie/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°12) sur la légitimation par mariage",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec12",
+      "entry_into_force": "1976-02-08",
+      "FR": {
+        "status": "party",
+        "signature": "1970-09-10",
+        "ratification_or_accession": "1976-01-09",
+        "entry_into_force": "1976-02-08"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n12-sur-la-legitimation-par-mariage/",
+      "articles": 17
+    },
+    {
+      "instrument": "Convention (n°11) sur la reconnaissance des décisions relatives au lien conjugal",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec11",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1967-09-08",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n11-sur-la-reconnaissance-des-decisions-relatives-au-lien-conjugal/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°10) relative à la constatation de certains décès",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec10",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1966-09-14",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n10-relative-a-la-constatation-de-certains-deces/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°9) relative aux décisions de rectification d’actes de l’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec9",
+      "entry_into_force": "1983-08-18",
+      "FR": {
+        "status": "party",
+        "signature": "1964-09-10",
+        "ratification_or_accession": "1983-07-19",
+        "entry_into_force": "1983-08-18"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n9-relative-aux-decisions-de-rectification-dactes-de-letat-civil/",
+      "articles": 10
+    },
+    {
+      "instrument": "Convention (n°8) concernant l’échange d’informations en matière d’acquisition de nationalité",
+      "corpus": "int-ciec",
+      "id": null,
+      "FR": {
+        "status": "not party",
+        "signature": null,
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n8-concernant-lechange-dinformations-en-matiere-dacquisition-de-nationalite/",
+      "articles": 0,
+      "note": "excluded — binding on neither"
+    },
+    {
+      "instrument": "Convention (n°7) tendant à faciliter la célébration des mariages à l’étranger",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec7",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1964-09-10",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n7-tendant-a-faciliter-la-celebration-des-mariages-a-letranger/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°6) relative à l’établissement de la filiation maternelle des enfants naturels",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec6",
+      "entry_into_force": null,
+      "FR": {
+        "status": "signed",
+        "signature": "1962-09-12",
+        "ratification_or_accession": null,
+        "entry_into_force": null
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n6-relative-a-letablissement-de-la-filiation-maternelle-des-enfants-naturels/",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention (n°5) portant extension de la compétence des autorités qualifiées pour recevoir les reconnaissances d’enfants naturels",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec5",
+      "entry_into_force": "1963-07-29",
+      "FR": {
+        "status": "party",
+        "signature": "1961-09-14",
+        "ratification_or_accession": "1962-06-20",
+        "entry_into_force": "1963-07-29"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n5-portant-extension-de-la-competence-des-autorites-qualifiees-pour-recevoir-les-reconnaissances-denfants-naturels/",
+      "articles": 11
+    },
+    {
+      "instrument": "Convention (n°4) relative aux changements de noms et de prénoms",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec4",
+      "entry_into_force": "1961-12-24",
+      "FR": {
+        "status": "party",
+        "signature": "1958-09-04",
+        "ratification_or_accession": "1959-09-24",
+        "entry_into_force": "1961-12-24"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n4-relative-aux-changements-de-noms-et-de-prenoms/",
+      "articles": 11
+    },
+    {
+      "instrument": "Convention (n°3) concernant l’échange international d’informations en matière d’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec3",
+      "entry_into_force": "1961-04-16",
+      "FR": {
+        "status": "party",
+        "signature": "1958-09-04",
+        "ratification_or_accession": "1959-09-24",
+        "entry_into_force": "1961-04-16"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n3-concernant-lechange-international-dinformations-en-matiere-detat-civil/",
+      "articles": 10
+    },
+    {
+      "instrument": "Convention (n°2) relative à la délivrance gratuite et à la dispense de légalisation des expéditions d’actes de l’état civil",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec2",
+      "entry_into_force": "1960-01-03",
+      "FR": {
+        "status": "party",
+        "signature": "1957-09-26",
+        "ratification_or_accession": "1959-01-22",
+        "entry_into_force": "1960-01-03"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n2-relative-a-la-delivrance-gratuite-et-a-la-dispense-de-legalisation-des-expeditions-dactes-de-letat-civil/",
+      "articles": 11
+    },
+    {
+      "instrument": "Convention (n°1) relative à la délivrance de certains extraits d’actes de l’état civil destinés à l’étranger",
+      "corpus": "int-ciec",
+      "id": "int-ciec-ciec1",
+      "entry_into_force": "1958-03-15",
+      "FR": {
+        "status": "party",
+        "signature": "1956-09-27",
+        "ratification_or_accession": "1957-08-12",
+        "entry_into_force": "1958-03-15"
+      },
+      "US": {
+        "status": "not party",
+        "note": "the United States is not a CIEC member"
+      },
+      "EU": {
+        "status": "not party"
+      },
+      "depositary_url": "https://ciec1.org/convention/convention-n1-relative-a-la-delivrance-de-certains-extraits-dactes-de-letat-civil-destines-a-letranger/",
+      "articles": 13
+    },
+    {
+      "instrument": "Consular Convention between the United States of America and France, with protocol and exchange of letters (Paris, 18 July 1966)",
+      "corpus": "int-bilateral",
+      "id": "int-bilateral-consular-1966",
+      "entry_into_force": "1968-01-07",
+      "FR": {
+        "status": "party",
+        "entry_into_force": "1968-01-07"
+      },
+      "US": {
+        "status": "party",
+        "entry_into_force": "1968-01-07"
+      },
+      "EU": {
+        "status": "n/a"
+      },
+      "depositary_url": "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002801353f1",
+      "articles": 43
+    },
+    {
+      "instrument": "Agreement on Social Security between the United States of America and the French Republic (Paris, 2 March 1987)",
+      "corpus": "int-bilateral",
+      "id": "int-bilateral-ssa-1987",
+      "entry_into_force": "1988-07-01",
+      "FR": {
+        "status": "party",
+        "entry_into_force": "1988-07-01"
+      },
+      "US": {
+        "status": "party",
+        "entry_into_force": "1988-07-01"
+      },
+      "EU": {
+        "status": "n/a"
+      },
+      "depositary_url": "https://www.ssa.gov/international/Agreement_Texts/french.html",
+      "articles": 29
+    },
+    {
+      "instrument": "Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on estates, inheritances, and gifts (Washington, 24 November 1978), as amended by the Protocol of 8 December 2004",
+      "corpus": "int-bilateral",
+      "id": "int-bilateral-estate-tax-1978",
+      "entry_into_force": "1980-10-01",
+      "FR": {
+        "status": "party",
+        "entry_into_force": "1980-10-01"
+      },
+      "US": {
+        "status": "party",
+        "entry_into_force": "1980-10-01"
+      },
+      "EU": {
+        "status": "n/a"
+      },
+      "depositary_url": "https://www.irs.gov/businesses/international-businesses/france-tax-treaty-documents",
+      "articles": 0
+    },
+    {
+      "instrument": "Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital (Paris, 31 August 1994), as amended by the Protocols of 8 December 2004 and 13 January 2009",
+      "corpus": "int-bilateral",
+      "id": "int-bilateral-income-tax-1994",
+      "entry_into_force": "1995-12-30",
+      "FR": {
+        "status": "party",
+        "entry_into_force": "1995-12-30"
+      },
+      "US": {
+        "status": "party",
+        "entry_into_force": "1995-12-30"
+      },
+      "EU": {
+        "status": "n/a"
+      },
+      "depositary_url": "https://www.irs.gov/businesses/international-businesses/france-tax-treaty-documents",
+      "articles": 0
+    },
+    {
+      "instrument": "France–United States reciprocity for the enforcement of child support (42 U.S.C. § 659a foreign reciprocating country)",
+      "corpus": "int-bilateral",
+      "id": "int-bilateral-child-support-reciprocity",
+      "entry_into_force": null,
+      "FR": {
+        "status": "see int-hcch-2007"
+      },
+      "US": {
+        "status": "see int-hcch-2007"
+      },
+      "EU": {
+        "status": "n/a"
+      },
+      "depositary_url": "https://www.state.gov/wp-content/uploads/2026/06/Treaties-in-Force-2026.pdf",
+      "articles": 0
+    }
+  ]
+}

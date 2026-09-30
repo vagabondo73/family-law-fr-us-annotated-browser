@@ -1,0 +1,28 @@
+{
+  "section": "210.829",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.829",
+  "current": {
+    "effective": "2014-08-28",
+    "bid": "11418",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.829&bid=11418"
+  },
+  "versions": [
+    {
+      "effective": "1994-07-01",
+      "end": "2014-08-28",
+      "bid": "58669",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.829&bid=58669",
+      "heading": "Jurisdiction, venue, severance — effect of failure to join action for necessaries.",
+      "text": "1. The circuit court has jurisdiction of an action brought under sections 210.817 to 210.852. The action may be joined by separate document with an action for dissolution of marriage, annulment, separate maintenance, support, custody or visitation, except that in any action instituted at the request of the division of child support enforcement by a prosecuting or circuit attorney or attorney under contract with such division, if an action for dissolution, annulment, separate maintenance, custody or visitation is joined hereunder, it shall be severed upon request. Failure to join an action for reimbursement of necessaries provided with an action brought under sections 210.817 to 210.852 shall not be a bar to subsequently bringing such an action for reimbursement of necessaries provided.\n\n2. A person who has sexual intercourse in this state thereby submits to the jurisdiction of the courts of this state to an action brought under sections 210.817 to 210.852 with respect to a child who may have been conceived by that act of intercourse. In addition to any other method provided by rule or statute, including sections 506.160 and 506.510, personal jurisdiction may be acquired by personal service of summons outside this state or by certified mail with proof of actual receipt.\n\n3. Notwithstanding subsection 2 of this section, personal jurisdiction may be asserted over any person if there is any basis consistent with the constitution of this state or the United States.\n\n4. An action brought under sections 210.817 to 210.852 may be brought in the county in which the child resides, the mother resides, or the alleged father resides or is found or, if the father is deceased, in which proceedings for probate of his estate have been or could be commenced.",
+      "history_note": "(L. 1987 S.B. 328 § 8, A.L. 1993 S.B. 253, A.L. 1994 H.B. 1491 & 1134 merged with S.B. 508)",
+      "effdt_raw": "Effective - 01 Jul 1994, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "4"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

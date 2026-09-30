@@ -1,0 +1,28 @@
+{
+  "section": "474.150",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=474.150",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "34913",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=474.150&bid=34913"
+  },
+  "versions": [
+    {
+      "effective": "1983-08-28",
+      "end": "2018-08-28",
+      "bid": "26273",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=474.150&bid=26273",
+      "heading": "Gifts in fraud of marital rights — presumptions on conveyances.",
+      "text": "1. Any gift made by a person, whether dying testate or intestate, in fraud of the marital rights of his surviving spouse to share in his estate, shall, at the election of the surviving spouse, be treated as a testamentary disposition and may be recovered from the donee and persons taking from him without adequate consideration and applied to the payment of the spouse's share, as in case of his election to take against the will.\n\n2. Any conveyance of real estate made by a married person at any time without the joinder or other written express assent of his spouse, made at any time, duly acknowledged, is deemed to be in fraud of the marital rights of his spouse, if the spouse becomes a surviving spouse, unless the contrary is shown.\n\n3. Any conveyance of the property of the spouse of a disabled person is deemed not to be in fraud of the marital rights of the disabled person if the probate division of the circuit court authorizes the conservator of the disabled person to join in or assent to the conveyance after finding that it is not made in fraud of the marital rights. Any conveyance of the property of a minor or disabled person made by a conservator pursuant to an order of court is deemed not to be in fraud of the marital rights of the spouse of the protectee.",
+      "history_note": "(L. 1955 p. 385 § 251, A.L. 1957 p. 829, A.L. 1959 S.B. 141, A.L. 1983 S.B. 44 & 45)",
+      "effdt_raw": "Effective - 28 Aug 1983, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

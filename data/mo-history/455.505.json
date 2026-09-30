@@ -1,0 +1,42 @@
+{
+  "section": "455.505",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.505",
+  "current": {
+    "effective": "2015-08-28",
+    "bid": "25563",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.505&bid=25563"
+  },
+  "versions": [
+    {
+      "effective": "2013-08-28",
+      "end": "2015-08-28",
+      "bid": "48197",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.505&bid=48197",
+      "heading": "Relief may be sought for child for domestic violence or child being stalked — order of protection effective, where.",
+      "text": "1. An order of protection for a child who has been subject to domestic violence by a present or former household member or person stalking the child may be sought under sections 455.500 to 455.538 by the filing of a verified petition alleging such domestic violence or stalking by the respondent.\n\n2. A child's right to relief under sections 455.500 to 455.538 shall not be affected by the child's leaving the residence or household to avoid domestic violence.\n\n3. Any protection order issued pursuant to sections 455.500 to 455.538 shall be effective throughout the state in all cities and counties.",
+      "history_note": "(L. 1987 H.B. 598 § 4, A.L. 1995 S.B. 174, A.L. 2011 S.B. 320, A.L. 2013 H.B. 215)",
+      "effdt_raw": "Effective - 28 Aug 2013, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ]
+    },
+    {
+      "effective": "2011-08-28",
+      "end": "2013-08-28",
+      "bid": "49001",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.505&bid=49001",
+      "heading": "Relief may be sought for\nchild for domestic violence or child being\nstalked — order of protection effective,\nwhere.",
+      "text": "1. An order of protection for a child who has been subject to domestic violence by a present or former adult household member or person stalking the child may be sought under sections 455.500 to 455.538 by the filing of a verified petition alleging such domestic violence by the respondent.\n\n2. A child's right to relief under sections 455.500 to 455.538 shall not be affected by his leaving the residence or household to avoid domestic violence.\n\n3. Any protection order issued pursuant to sections 455.500 to 455.538 shall be effective throughout the state in all cities and counties.",
+      "history_note": "(L. 1987 H.B. 598 § 4, A.L. 1995 S.B. 174, A.L. 2011 S.B. 320)",
+      "effdt_raw": "Effective - 28 Aug 2011, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

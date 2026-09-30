@@ -1,0 +1,29 @@
+{
+  "section": "451.080",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.080",
+  "current": {
+    "effective": "2025-08-28",
+    "bid": "57671",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.080&bid=57671"
+  },
+  "versions": [
+    {
+      "effective": "2001-08-28",
+      "end": "2025-08-28",
+      "bid": "24961",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.080&bid=24961",
+      "heading": "Recorder to issue license — form of.",
+      "text": "1. The recorders of the several counties of this state, and the recorder of the city of St. Louis, shall, when applied to by any person legally entitled to a marriage license, issue the same which may be in the following form:\n\nState of Missouri\n)\n\n)\n\nss.\n\n)\n\nCounty of ______\n)\n\nThis license authorizes any judge, associate circuit judge, licensed or ordained preacher of the gospel, or other person authorized under the laws of this state, to solemnize marriage between A B of ______, county of ______ and state of ______, who is ______ the age of eighteen years, and C D of ______, in the county of ______, state of ______, who is ______ the age of eighteen years.\n\n2. If the man is under eighteen or the woman under eighteen, add the following:\n\nThe custodial parent or guardian, as the case may be, of the said A B or C D (A B or C D, as the case may require), has given his or her assent to the said marriage.\n\nWitness my hand as recorder, with the seal of office hereto affixed, at my office, in ______, the ______ day of ______, 20______, recorder.\n\n3. On which such license the person solemnizing the marriage shall, within fifteen days after the issuing thereof, make as near as may be the following return, and return such license to the officer issuing the same:\n\nState of Missouri\n)\n\n)\n\nss.\n\n)\n\nCounty of ______\n)\n\nThis is to certify that the undersigned ______ did at ______, in said county, on the ______ day of ______ A.D. 20______, unite in marriage the above-named persons.",
+      "history_note": "(RSMo 1939 § 3365, A.L. 1974 2d Ex. Sess. H.B. 11, A.L. 1993 S.B. 180, A.L. 2001 H.B. 157)",
+      "effdt_raw": "Effective - 28 Aug 2001, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

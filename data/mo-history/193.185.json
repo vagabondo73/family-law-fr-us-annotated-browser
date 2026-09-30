@@ -1,0 +1,27 @@
+{
+  "section": "193.185",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.185",
+  "current": {
+    "effective": "2001-08-28",
+    "bid": "9919",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.185&bid=9919"
+  },
+  "versions": [
+    {
+      "effective": "1984-08-13",
+      "end": "2001-08-28",
+      "bid": "58392",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.185&bid=58392",
+      "heading": "Marriage report — certification.",
+      "text": "1. A report of each marriage performed in this state shall be filed with the department and shall be registered if it has been completed and filed in accordance with this section.\n\n2. The official who issues the marriage license shall prepare the report on the form prescribed and furnished by the state registrar upon the basis of information obtained from one of the parties to be married.\n\n3. Each person who performs a marriage shall certify the fact of marriage and return the license to the official who issued the license within ten days after the ceremony. This license shall be signed by the witnesses to the ceremony. A marriage certificate shall be given to the parties.\n\n4. Every official issuing marriage licenses shall complete and forward to the department on or before the fifteenth day of each calendar month the reports of marriages returned to such official during the preceding calendar month.",
+      "history_note": "(L. 1984 S.B. 574)",
+      "effdt_raw": "Effective - 13 Aug 1984, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

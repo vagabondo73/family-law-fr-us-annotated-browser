@@ -1,0 +1,27 @@
+{
+  "section": "455.545",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.545",
+  "current": {
+    "effective": "2016-08-28",
+    "bid": "33617",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.545&bid=33617"
+  },
+  "versions": [
+    {
+      "effective": "2000-08-28",
+      "end": "2016-08-28",
+      "bid": "25580",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.545&bid=25580",
+      "heading": "Annual report by highway patrol.",
+      "text": "The highway patrol shall compile an annual report of homicides and suicides related to domestic violence. Such report shall be presented by February first of the subsequent year to the governor, speaker of the house of representatives, and president pro tempore of the senate.",
+      "history_note": "(L. 1998 H.B. 1918, A.L. 2000 H.B. 1677, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2000, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

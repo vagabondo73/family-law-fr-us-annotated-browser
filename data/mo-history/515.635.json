@@ -1,0 +1,27 @@
+{
+  "section": "515.635",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.635",
+  "current": {
+    "effective": "2018-08-28",
+    "bid": "34915",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.635&bid=34915"
+  },
+  "versions": [
+    {
+      "effective": "2016-08-28",
+      "end": "2018-08-28",
+      "bid": "33738",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=515.635&bid=33738",
+      "heading": "Noncontingent liquidated claims, interest allowed, rate.",
+      "text": "To the extent that funds are available in the estate for distribution to creditors in a general receivership, the holder of an allowed noncontingent, liquidated claim is entitled to receive interest at the legal rate or other applicable rate from the date of appointment of the receiver or the date on which the claim became a noncontingent, liquidated claim. If there are sufficient funds in the estate to fully pay all interest owing to all members of the class, then interest shall be paid proportionately to each member of the class.",
+      "history_note": "(L. 2016 H.B. 1765 merged with S.B. 578)",
+      "effdt_raw": "Effective - 28 Aug 2016, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,28 @@
+{
+  "section": "454.475",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.475",
+  "current": {
+    "effective": "2013-08-28",
+    "bid": "25243",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.475&bid=25243"
+  },
+  "versions": [
+    {
+      "effective": "2010-08-28",
+      "end": "2013-08-28",
+      "bid": "49248",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.475&bid=49248",
+      "heading": "Administrative hearing, procedure, effect on orders of social services — support, how determined — failure of parent to appear, result — judicial review.",
+      "text": "1. Hearings provided for in this section shall be conducted pursuant to chapter 536 by administrative hearing officers designated by the Missouri department of social services. The hearing officer shall provide the parents, the person having custody of the child, or other appropriate agencies or their attorneys with notice of any proceeding in which support obligations may be established or modified. The department shall not be stayed from enforcing and collecting upon the administrative order during the hearing process and during any appeal to the courts of this state, unless specifically enjoined by court order.\n\n2. If no factual issue has been raised by the application for hearing, or the issues raised have been previously litigated or do not constitute a defense to the action, the director may enter an order without an evidentiary hearing, which order shall be a final decision entitled to judicial review as provided in sections 536.100 to 536.140.\n\n3. After full and fair hearing, the hearing officer shall make specific findings regarding the liability and responsibility, if any, of the alleged responsible parent for the support of the dependent child, and for repayment of accrued state debt or arrearages, and the costs of collection, and shall enter an order consistent therewith. In making the determination of the amount the parent shall contribute toward the future support of a dependent child, the hearing officer shall consider the factors set forth in section 452.340.\n\n4. If the person who requests the hearing fails to appear at the time and place set for the hearing, upon a showing of proper notice to that parent, the hearing officer shall enter findings and order in accordance with the provisions of the notice and finding of support responsibility unless the hearing officer determines that no good cause therefor exists.\n\n5. In contested cases, the findings and order of the hearing officer shall be the decision of the director. Any parent or person having custody of the child adversely affected by such decision may obtain judicial review pursuant to sections 536.100 to 536.140 by filing a petition for review in the circuit court of proper venue within thirty days of mailing of the decision. Copies of the decision or order of the hearing officer shall be mailed to any parent, person having custody of the child and the division within fourteen days of issuance.\n\n6. If a hearing has been requested, and upon request of a parent, a person having custody of the child, the division or a IV-D agency, the director shall enter a temporary order requiring the provision of child support pending the final decision or order pursuant to this section if there is clear and convincing evidence establishing a presumption of paternity pursuant to section 210.822. In determining the amount of child support, the director shall consider the factors set forth in section 452.340. The temporary order, effective upon filing pursuant to section 454.490, is not subject to a hearing pursuant to this section. The temporary order may be stayed by a court of competent jurisdiction only after a hearing and a finding by the court that the order fails to comply with rule 88.01.",
+      "history_note": "(L. 1982 S.B. 468 § 18, A.L. 1984 H.B. 1275, A.L. 1997 S.B. 361, A.L. 2010 H.B. 1692, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2010, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "4",
+        "7"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

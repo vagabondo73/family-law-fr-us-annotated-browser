@@ -1,0 +1,28 @@
+{
+  "section": "210.635",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.635",
+  "current": {
+    "effective": "1975-08-28",
+    "bid": "33101",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.635&bid=33101"
+  },
+  "versions": [],
+  "pending_or_concurrent": [
+    {
+      "effective": "2007-08-28",
+      "end": null,
+      "bid": "11398",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.635&bid=11398",
+      "heading": "Placement authority of courts, retention of jurisdiction.",
+      "text": "Any court having jurisdiction to place delinquent children may place such a child in an institution of or in another state pursuant to Article III of the Interstate Compact on the Placement of Children and shall retain jurisdiction as provided in Article IV thereof.",
+      "history_note": "(L. 1975 S.B. 162 § 5, A.L. 2007 S.B. 84)",
+      "effdt_raw": "Effective - 28 Aug 2007, 2 histories",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ],
+      "note": "concurrent version without end date (contingent / multiple enactment) — see revisor footnote"
+    }
+  ],
+  "generated": "2026-09-30"
+}

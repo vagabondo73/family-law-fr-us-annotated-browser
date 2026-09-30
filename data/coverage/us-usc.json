@@ -1,0 +1,16 @@
+{
+  "corpus": "us-usc",
+  "norms_expected": 113,
+  "norms_done": 111,
+  "method": "SCOPE \u00a74.2 sections fetched from uscode.house.gov (prelim edition; 26 U.S.C. 71/215 from 2017 edition as last text in force). Very long sections split at the subdivision named in SCOPE (e.g. 8 U.S.C. 1101(b), 11 U.S.C. 523(a)(5)). D(norm) = enactment date of the latest amending Public Law in the source credit (section-level) or latest Public Law whose Amendments note targets the subdivision (subdivision-level; amendments to introductory/flush language excluded).",
+  "gaps": [
+    "22 U.S.C. 9102: no section found at uscode.house.gov (omitted)",
+    "22 U.S.C. 9103: no section found at uscode.house.gov (omitted)",
+    "FRCP 4(f) (Hague Service implementation) not included \u2014 rules of court are not in the U.S. Code sections fetched; to add from uscourts.gov",
+    "Amendment effective dates that differ from enactment dates (e.g. BAPCPA 2005 effective 2005-10-17) are not modelled \u2014 enactment date used as D(norm)"
+  ],
+  "interps_candidates": null,
+  "interps_screened": null,
+  "interps_included": 220,
+  "updated": "2026-09-30"
+}

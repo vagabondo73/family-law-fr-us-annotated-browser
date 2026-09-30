@@ -1,0 +1,4116 @@
+{
+  "sources": [
+    {
+      "id": "eurlex-32019R1111",
+      "label": "EUR-Lex / Cellar — 32019R1111 (consolidated 02019R1111-20190702)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R1111-20190702",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02019R1111-20190702",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32009R0004",
+      "label": "EUR-Lex / Cellar — 32009R0004 (consolidated 02009R0004-20260716)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0004-20260716",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02009R0004-20260716",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32010R1259",
+      "label": "EUR-Lex / Cellar — 32010R1259 (consolidated 32010R1259)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010R1259",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "32010R1259",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32016R1103",
+      "label": "EUR-Lex / Cellar — 32016R1103 (consolidated 02016R1103-20160708)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1103-20160708",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02016R1103-20160708",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32016R1104",
+      "label": "EUR-Lex / Cellar — 32016R1104 (consolidated 02016R1104-20160708)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1104-20160708",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02016R1104-20160708",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32012R0650",
+      "label": "EUR-Lex / Cellar — 32012R0650 (consolidated 02012R0650-20120705)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0650-20120705",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02012R0650-20120705",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32016R1191",
+      "label": "EUR-Lex / Cellar — 32016R1191 (consolidated 32016R1191)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1191",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "32016R1191",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32020R1784",
+      "label": "EUR-Lex / Cellar — 32020R1784 (consolidated 02020R1784-20250501)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02020R1784-20250501",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02020R1784-20250501",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32020R1783",
+      "label": "EUR-Lex / Cellar — 32020R1783 (consolidated 02020R1783-20201202)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02020R1783-20201202",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02020R1783-20201202",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32012R1215",
+      "label": "EUR-Lex / Cellar — 32012R1215 (consolidated 02012R1215-20150226)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1215-20150226",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02012R1215-20150226",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32004L0038",
+      "label": "EUR-Lex / Cellar — 32004L0038 (consolidated 02004L0038-20110616)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02004L0038-20110616",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "02004L0038-20110616",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-32003L0086",
+      "label": "EUR-Lex / Cellar — 32003L0086 (consolidated 32003L0086)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0086",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "32003L0086",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-12016P/TXT",
+      "label": "EUR-Lex / Cellar — 12016P/TXT (consolidated None)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016P/TXT",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": null,
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "eurlex-12016E/TXT",
+      "label": "EUR-Lex / Cellar — 12016E/TXT (consolidated None)",
+      "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E/TXT",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+      "check": "api",
+      "corpora": [
+        "eu-reg"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": null,
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-41",
+      "label": "HCCH status table cid=41 (1961a)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "6f388c7c869a8fe9",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-17",
+      "label": "HCCH status table cid=17 (1965)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "bb54ed854124ee38",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-82",
+      "label": "HCCH status table cid=82 (1970e)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "2ba9e4613d13367d",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-24",
+      "label": "HCCH status table cid=24 (1980)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "3ed5669c3eb1127e",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-69",
+      "label": "HCCH status table cid=69 (1993)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=69",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=69",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "d9972b3ce4629395",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-70",
+      "label": "HCCH status table cid=70 (1996)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=70",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=70",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "5ee989ea1fe3100e",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-71",
+      "label": "HCCH status table cid=71 (2000)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=71",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=71",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "de810696fb1f95a6",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-131",
+      "label": "HCCH status table cid=131 (2007)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=131",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=131",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "5d10d7cbfbd071be",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-133",
+      "label": "HCCH status table cid=133 (2007p)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=133",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=133",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "f9f6a1f3245487c8",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-86",
+      "label": "HCCH status table cid=86 (1973a)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=86",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=86",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "3b706fb0cb81463b",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-85",
+      "label": "HCCH status table cid=85 (1973r)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=85",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=85",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "7e0b7fd1bb7ae810",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-38",
+      "label": "HCCH status table cid=38 (1958)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=38",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=38",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "e597ca6a29a0e7ad",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-37",
+      "label": "HCCH status table cid=37 (1956)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=37",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=37",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "f4cb56d03b8b8bfb",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-39",
+      "label": "HCCH status table cid=39 (1961m)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=39",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=39",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "6e9f547ec04bfd7d",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-87",
+      "label": "HCCH status table cid=87 (1978m)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "b8e8bcc45a066be4",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-40",
+      "label": "HCCH status table cid=40 (1961t)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "00e158dba977f63a",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-33",
+      "label": "HCCH status table cid=33 (1954)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=33",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=33",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "119a943319d9e51d",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-91",
+      "label": "HCCH status table cid=91 (1980j)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=91",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=91",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "14939ddd0aed7a62",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-98",
+      "label": "HCCH status table cid=98 (2005)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=98",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=98",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "c104e66bd4bd9a0d",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-137",
+      "label": "HCCH status table cid=137 (2019)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=137",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=137",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "46494d48403b60d2",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hcch-status-59",
+      "label": "HCCH status table cid=59 (1985)",
+      "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=59",
+      "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=59",
+      "check": "http-hash",
+      "corpora": [
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "ebcf17716bc82cd9",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-11",
+      "label": "UN Treaty Collection status IV-11 (crc)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "182bc19d1a674ed8",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-11-b",
+      "label": "UN Treaty Collection status IV-11-b (crc-opac)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-b&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "8292b280ad485796",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-11-c",
+      "label": "UN Treaty Collection status IV-11-c (crc-opsc)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-c&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "0c7384e30571e598",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-11-d",
+      "label": "UN Treaty Collection status IV-11-d (crc-opic)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-d&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "f9a4f0dd262b6f2f",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-4",
+      "label": "UN Treaty Collection status IV-4 (iccpr)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "18d6c83ac57413b4",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-3",
+      "label": "UN Treaty Collection status IV-3 (icescr)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "5ea4ba739affe473",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-8",
+      "label": "UN Treaty Collection status IV-8 (cedaw)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "b291cd54fb4f9f5c",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-IV-15",
+      "label": "UN Treaty Collection status IV-15 (crpd)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "925f30342afc31ec",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-XVI-3",
+      "label": "UN Treaty Collection status XVI-3 (marriage1962)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVI-3&chapter=16&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "ca9c5fbd2b0e6293",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "untc-XX-1",
+      "label": "UN Treaty Collection status XX-1 (maint1956)",
+      "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XX-1&chapter=20&clang=_en",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-un"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "81c8608297be8009",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "coe-treaty-office",
+      "label": "Council of Europe Treaty Office — charts of signatures and ratifications",
+      "official": "https://www.coe.int/en/web/conventions/full-list",
+      "channel": "browser (cloud) — coe.int blocks non-browser clients",
+      "check": "http-hash",
+      "corpora": [
+        "int-coe"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "f2dbd9a85732f5ff",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "ciec",
+      "label": "Commission internationale de l'état civil — conventions et états des signatures",
+      "official": "https://ciec1.org/",
+      "channel": "http:https://ciec1.org/convention/<slug>/",
+      "check": "http-hash",
+      "corpora": [
+        "int-ciec"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "f183bb65b6de2d27",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "state-tif-2026",
+      "label": "U.S. Department of State — Treaties in Force 2026",
+      "official": "https://www.state.gov/wp-content/uploads/2026/06/Treaties-in-Force-2026.pdf",
+      "channel": "http",
+      "check": "http-hash",
+      "corpora": [
+        "int-bilateral",
+        "int-hcch"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "8c6b28ad497e659c",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "ssa-france",
+      "label": "SSA — U.S.-French Social Security Agreement",
+      "official": "https://www.ssa.gov/international/Agreement_Texts/french.html",
+      "channel": "browser",
+      "check": "http-hash",
+      "corpora": [
+        "int-bilateral"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "cc0c23eb47d309e0",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "cellar-cjeu",
+      "label": "Cellar — CJEU case law interpreting included acts",
+      "official": "https://eur-lex.europa.eu/",
+      "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql",
+      "check": "api",
+      "corpora": [
+        "eu-cjeu"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "17932a1028f24a21",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "hudoc",
+      "label": "HUDOC — European Court of Human Rights case law",
+      "official": "https://hudoc.echr.coe.int/",
+      "channel": "api:https://hudoc.echr.coe.int/app/query/results",
+      "check": "api",
+      "corpora": [
+        "coe-ecthr"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "979bd3cd81fa28bc",
+      "_file": "sources-int.json"
+    },
+    {
+      "id": "courts-mo-page-128693",
+      "label": "Missouri Courts — Orders For Rules (entries for Rules 41–101 and Form 14)",
+      "official": "https://www.courts.mo.gov/page.jsp?id=128693",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "81421b574ac2132a790d614f2129d43e7a70c46ef96544308493902d1f54abf7",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199632",
+      "label": "Supreme Court Rule 55.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199632",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "704675d8bdff5b54b508fe4b621620e10c4f2ce4e1053c0898c827417b7f4780",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199633",
+      "label": "Supreme Court Rule 55.02",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199633",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0b65a185e8c1bc2c3ff206aee9add444dbdea7c34cd905cb85b76346913dc10c",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199634",
+      "label": "Supreme Court Rule 55.03",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199634",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "3a5c7ba29ac2935eed43c31486d383a5cc3309d41a6a3a0b01dcb6c7f4b58100",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199635",
+      "label": "Supreme Court Rule 55.04",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199635",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "98bb43ceddf88da22d4a0f7fbeb214728411664c93e73ef539206cf34fa3c89d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199636",
+      "label": "Supreme Court Rule 55.05",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199636",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "fe0d554740d50f66181e5b715821f610a728e6582e64c3ba6198430f03ad04e0",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199637",
+      "label": "Supreme Court Rule 55.06",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199637",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "f92e42eedb9feff0dcaf7bb1eebc79963ca1acc3aec066cb7d40a64097b96d99",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199638",
+      "label": "Supreme Court Rule 55.07",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199638",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b2fb3ba30696a3d82d2d46812c8b084def529038efdd5fd0bfcd2775ec26b2ba",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199639",
+      "label": "Supreme Court Rule 55.08",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199639",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "3e8d54b8ba924ef4706871177e6a1ca0d3d9177fc297719abcc96492c6d9f4c2",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199640",
+      "label": "Supreme Court Rule 55.09",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199640",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "9080147f833db247722b7235a175112a6ffc896d784c08ac07afc896143bfb38",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199641",
+      "label": "Supreme Court Rule 55.10",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199641",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a1a1df5cdcc9cffcc4e268c7e60f5c3a9a7b5b92a74a053246a0e278c1e7787a",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199642",
+      "label": "Supreme Court Rule 55.11",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199642",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "cc2a80ae8f7934089d7b8b0126c2291b8cb53f6a638d241b880c4e41be63ff2d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199643",
+      "label": "Supreme Court Rule 55.12",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199643",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6559efa567bd6ef28034a3c08eebdd96384f9e77bc745c81dc1c7a39c3557e37",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199644",
+      "label": "Supreme Court Rule 55.13",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199644",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "8883af9cd942844b4c4a34e334904027c84fe22befda0f64e674742e61b01fe2",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199646",
+      "label": "Supreme Court Rule 55.15",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199646",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "ee08fdb1f7f39b82e6cce0e86127c50b3d4e350e3edaac21846ac304fb52519e",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199647",
+      "label": "Supreme Court Rule 55.16",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199647",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "aa6b2c7f68f0305fca58a12d2b484dde77541bb278ebf28d6bef5a8c48ba7bb0",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199650",
+      "label": "Supreme Court Rule 55.19",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199650",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "18385c97bbcbc143d0524cf45b84aea74d3017a2f0d6d5f8c4afc1c18d89801d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199651",
+      "label": "Supreme Court Rule 55.20",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199651",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "8c6407ef2bc2ebf928caf835bab624a4a12db03a4b4176643f388784edcbb947",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199652",
+      "label": "Supreme Court Rule 55.21",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199652",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "666ca4b716f3111237e1a2a64ef465b2a7281b60988e3328b443857cb963e5db",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199653",
+      "label": "Supreme Court Rule 55.22",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199653",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b0258da36fbebbae0cd79f88a99e504eb36111d5c9a2edb39e77f6ff760e46d4",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199656",
+      "label": "Supreme Court Rule 55.25",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199656",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "620af893d8e75e59b0e46f07e29c715b54a20ff71a8a58ab48ee3a0d43bcd9a0",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199657",
+      "label": "Supreme Court Rule 55.26",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199657",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b63f7616447bd43173e392483a4a2f8dba5176d6b9d2ca936344094ac19e301b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199658",
+      "label": "Supreme Court Rule 55.27",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199658",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "02946103e98a9ddbba64ac1dbc04711ab2595348d4f2a91137f83052caa7a32b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199659",
+      "label": "Supreme Court Rule 55.28",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199659",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "ff8ab12eb691230992f3e8f4f5c13cbf4bdc095e9412743227c49c98f950a378",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199660",
+      "label": "Supreme Court Rule 55.29",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199660",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "81cc97e6d1f6883c0680a715594e1163442f6c6397dbb9b49188918b8221d26e",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199661",
+      "label": "Supreme Court Rule 55.30",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199661",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0a64f13118bff857797595d7e0ab48ca27032df8ba7199d43fe0d78cb1c26fa3",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199662",
+      "label": "Supreme Court Rule 55.31",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199662",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "56d85d10a47ea08ef381e3302a7861e063270742b3c48180ad7a72c660a867fd",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199663",
+      "label": "Supreme Court Rule 55.32",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199663",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "e931a679f6d0dad796dc87f9f0924336b4ee762e22954d9f7db48b065b02f8df",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199664",
+      "label": "Supreme Court Rule 55.33",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199664",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0bbbb49d4fe79c6ccc49d7ea228232fe5ccbf5b1b1cf38d2ad33c6416b137702",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199665",
+      "label": "Supreme Court Rule 55.34",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199665",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "fab75f0193ece78779bb93d959a78ae156322870c7846acf24e046c4731f8086",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199668",
+      "label": "Supreme Court Rule 56.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199668",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c50542eb60f1ae308c9d05b415a93505fb26739fafc1870c23d77a64eda394d8",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199670",
+      "label": "Supreme Court Rule 57.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199670",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "af0d9c935616e3bcb655d35d87284d2b1574f31fbab2c79a7ae240a5aee2573d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199671",
+      "label": "Supreme Court Rule 57.02",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199671",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "bd3c007ee5a90fc019323fe0a5b82cb4e9f2e10f87af3fa96f1fa554636a307f",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199672",
+      "label": "Supreme Court Rule 57.03",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199672",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "19ab8a4dd0f2990e5256bde12e2cd23c3611511f2613892f3d0846d7799e3bdb",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199741",
+      "label": "Supreme Court Rule 74.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199741",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "e24b96d4cf1393d42cbf60b2df447af1e1d6323b003b83c26d580c8ebdd45b84",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199742",
+      "label": "Supreme Court Rule 74.02",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199742",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "2f401219636d2d8dc86c3c45f01439a20a783fbfb51c63c3471b646e6c9247a6",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199743",
+      "label": "Supreme Court Rule 74.03",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199743",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "58a0060544ba4bc83818ae5b57004db5ed81ad48751ab32a7bf8390c86ae748d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199744",
+      "label": "Supreme Court Rule 74.04",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199744",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0267982e72271b96ba504ea0266d08caa820d1feaafd285d50833535936a8b6a",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199745",
+      "label": "Supreme Court Rule 74.05",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199745",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "962a44c43237fd9832ef6f8dd684836dd509a536ee5bcf52bb9577f746f875bf",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199746",
+      "label": "Supreme Court Rule 74.06",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199746",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "795e985176c1650fe3a93a21522db79fea5e1c9110ad0942b0c71d06d8b99155",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199747",
+      "label": "Supreme Court Rule 74.07",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199747",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b90c28aa7620312606be3d5cb0090fc34ac93492991913e0aa66c8dd97fe2057",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199748",
+      "label": "Supreme Court Rule 74.08",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199748",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "28aaf44d483ad38f8637d03e90b1be624a8de3a13b94fc794e7f4e08392c1e0b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199749",
+      "label": "Supreme Court Rule 74.09",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199749",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "24f0fdc52a2b827fcc127590c3d0cdd48fc7ab3fc485e69d6308633b65a801c2",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199750",
+      "label": "Supreme Court Rule 74.10",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199750",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "5f5a3497935f568a04431b494f3be5dcb7425b0cc861097c697f0a842197fdc2",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199751",
+      "label": "Supreme Court Rule 74.11",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199751",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0d8d6738ec86ad6fdfebe6289c2255219f7f1c1516e39fc65874617d97361095",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199752",
+      "label": "Supreme Court Rule 74.12",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199752",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "040b0cae211c0334d0fb62704e0c123b7a20a7aa35d2ab7772ec76ad64a4516e",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199753",
+      "label": "Supreme Court Rule 74.13",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199753",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "325224f3cb7d1722362e4ea394d881eab8a441e01730da937d8aaedfb038de62",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199754",
+      "label": "Supreme Court Rule 74.14",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199754",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "5dcedd03d4a4c47ca802624dbfbf74e708bcee494b9c3c5b428bbb0488af08ac",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199756",
+      "label": "Supreme Court Rule 74.16",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199756",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "1a25ac60282847c58077b38fbeab1923aea29dc7cf174f4c459a1b191a6745b8",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199758",
+      "label": "Supreme Court Rule 74.80",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199758",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "4699827b0b57925165c9115f395e9e8bd3ad9390a7b369de9b26975c68264c43",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199760",
+      "label": "Supreme Court Rule 75.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199760",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "dc30afe19afedd7cc3e92c9611df41228e8c714423607e2f1dab77b1253ab0e1",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199793",
+      "label": "Supreme Court Rule 84.16",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199793",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "671df7fda2e869b70e18b7391f85c25a817e41fc8a98c195e73279e971e2d0c8",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199857",
+      "label": "Supreme Court Rule 88.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199857",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "cc70d42fd8043934105fde0178f07e3e9a7a9c04937ccadea67a505482722740",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199859",
+      "label": "Supreme Court Rule 88.03",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199859",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b729ede885415270d678551cee90f0c38b557ca00b4017be621c5e1c4065ac47",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199860",
+      "label": "Supreme Court Rule 88.04",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199860",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "cdb0dfc1ad824301fd2d7b64ce50346299daa3c3961fc72024e4c905b9578b6a",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199861",
+      "label": "Supreme Court Rule 88.05",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199861",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "e0c91febe06114113c888a5667e716ba0ea74d8f41ae31306984c9854c7f8b2a",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199862",
+      "label": "Supreme Court Rule 88.06",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199862",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c7f13c51b1063212a168f1e638e631b3e8f2bfee7b0b7e0324c8a3266d676a33",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199863",
+      "label": "Supreme Court Rule 88.07",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199863",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a6441b9d23f589724ba3214a96ef08378452a9dcfb919be4643ea31713993a28",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199864",
+      "label": "Supreme Court Rule 88.08",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199864",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0a1a3010c4945e3213691b51a7e3db596df82c6465b5f48ee8ca02b086abf4fe",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-199865",
+      "label": "Supreme Court Rule 88.09",
+      "official": "https://www.courts.mo.gov/page.jsp?id=199865",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "2e450459f6cab8e530791a71e88652d4f0536b51ef056ed5db8517d1a68fc98f",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200287",
+      "label": "Supreme Court Rule 78.01",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200287",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6c5eef6d2421b4e21cc0cc2c1e3434d640c56f4862ed837f608a72b6dbb2043f",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200288",
+      "label": "Supreme Court Rule 78.02",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200288",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "f20169907fa6eb88daf7f1742ae55ca8c9b9cbfc0c942172da3b9df6dc1de46f",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200290",
+      "label": "Supreme Court Rule 78.04",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200290",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "2909b8ea79e4452982ff497a15f1178d2ff31a8278ef58c482123d9b6111fb85",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200291",
+      "label": "Supreme Court Rule 78.05",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200291",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "7cb11662c066c062b5aa65f4378fdc2dc8685dc7925fca984b2d0cc9145cb7ba",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200292",
+      "label": "Supreme Court Rule 78.06",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200292",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "07866a37b8e3a9060cd55c981c73ca665c73b313b30a5a17a39026e29f48db14",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200293",
+      "label": "Supreme Court Rule 78.07",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200293",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "315c5cc4760251e3b7f09e3c737a2fcb67697d5b135273e603f6c427c1705103",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200295",
+      "label": "Supreme Court Rule 78.09",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200295",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "764a55f4e21c0cf2f53528ce4b38c0a6c44034bd7e8beb03d6b60f9b834f0a75",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-page-200296",
+      "label": "Supreme Court Rule 78.10",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200296",
+      "channel": "pplx_sdk.content.snippets (index copy; courts.mo.gov 403 to automated clients)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "9583cb3f3fc1de995222ea79cdb837e8ecc2bc634110f085f338d70e3bd29bec",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199547",
+      "label": "Supreme Court Rule (index page 199547) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199547",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "9f92deab333a90f49972ead38de51fcea6cf60846b880d12ab849ce7aaff72e1",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199575",
+      "label": "Supreme Court Rule (index page 199575) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199575",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0b4846c4ec330727fb215a9a4e9ceaf31a9710b8e84d0b710e20559a94bf22c5",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199592",
+      "label": "Supreme Court Rule (index page 199592) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199592",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a31cab26dacdaf1066b09a564a5ec817e9be1a29a33b9128f50700d2eda70b9b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199608",
+      "label": "Supreme Court Rule (index page 199608) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199608",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c7ea3a9e4b19f42bbb56d7635fc186ed6c57d5eff3e4c32cf45a74765c9cc44e",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199631",
+      "label": "Supreme Court Rule (index page 199631) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199631",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "75de875adc9ba6132a749bcbf36b3e300408822b13d022e860bd6baa4e6e8250",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199669",
+      "label": "Supreme Court Rule (index page 199669) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199669",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "0fb663d404c1ec7345e957fa76ee1ccc6f92d9a73a81dfdf5e30e1ff89cd2d05",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199696",
+      "label": "Supreme Court Rule (index page 199696) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199696",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "3253eb56e1cf521670d369d676326f9b38b1c3df8fd41cfea1fdf88b0a33df0c",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199706",
+      "label": "Supreme Court Rule (index page 199706) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199706",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a145f545d08d23082b9abdfbfa952543e805e5d07f373dbe54ef1bd7931928b6",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199729",
+      "label": "Supreme Court Rule (index page 199729) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199729",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "8d460fd420452b162fd9f6f16f371a3c35d3b5e9e0546ab8641f3586e88ecce4",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199740",
+      "label": "Supreme Court Rule (index page 199740) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199740",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a954450ff7a1de413a1c26410fa269f632d541b9451f019da1fab07c7bc9dd4d",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199759",
+      "label": "Supreme Court Rule (index page 199759) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199759",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "78a5d7073ee512560efad7795cd09549b4e6047218f0a3ff1ddd622e6e218dde",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199761",
+      "label": "Supreme Court Rule (index page 199761) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199761",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "9f2a87574917827560ac4d177b12428bf282fb1c3d66e1199ad1c70a239b046c",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199764",
+      "label": "Supreme Court Rule (index page 199764) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199764",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "1f4258ff063cd91dfef76634803469f8cb36b01bf2d46953ddd89c3599d71477",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199775",
+      "label": "Supreme Court Rule (index page 199775) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199775",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "43fb9a9485af8ee1021950f3986cd11f109c83a6101d2996d4f0260745509569",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199807",
+      "label": "Supreme Court Rule (index page 199807) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199807",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "d8c6ccae33b3a90e25c46e2968b08fd05a2069849df65c0692848ee00980f505",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199832",
+      "label": "Supreme Court Rule (index page 199832) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199832",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "d8bf6698fd1cc17d5ee298ac0282cc0841a274c67119b82acd5ee900cde31500",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199844",
+      "label": "Supreme Court Rule (index page 199844) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199844",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "9dfac496a33c8d3780d7266f26c3091e8a2092b8c0effe80907fa303e2c44c04",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199856",
+      "label": "Supreme Court Rule (index page 199856) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199856",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "8e8e2ee7b0a829e591baeb674aebb5a782f56508bd488c0449735a072c291ea6",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199868",
+      "label": "Supreme Court Rule (index page 199868) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199868",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6aa92419bb84251fcbb4ab9900f491a215bbdfa15a454053e3db9a7b7cb4bd94",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199892",
+      "label": "Supreme Court Rule (index page 199892) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199892",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a43215f83b4118c466333fcaacc170589351801cd80447e2f15b8581d1d949b2",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199924",
+      "label": "Supreme Court Rule (index page 199924) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199924",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "f6a20b9ae4e6f018d5f1b8483ecb05ef20c40433c894959d4cc06e336ed9325c",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199938",
+      "label": "Supreme Court Rule (index page 199938) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199938",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c8fe81f43f965305edc34e7cc7ea69cf8e432cdca8c63ccaa242cc8651b67026",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199971",
+      "label": "Supreme Court Rule (index page 199971) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199971",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6f2e6cc02a921e154afc348fc683c1895cef6f38be04bcb45c82d070b5ecc1a0",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-199986",
+      "label": "Supreme Court Rule (index page 199986) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=199986",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "41839bf7183bd322f0d81ae57ba3df4dc61370caefb53ce8d0ae0b78d525278b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-200286",
+      "label": "Supreme Court Rule (index page 200286) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=200286",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "cc33c839e77ed9cf3f97a0dfb1a06ce7c5f41832effee9d6e75435e733fad892",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "courts-mo-rule-combined-200301",
+      "label": "Supreme Court Rule (index page 200301) — all subdivisions",
+      "official": "https://www.courts.mo.gov/page.jsp?id=200636&up=200301",
+      "channel": "pplx_sdk.content.fetch (Perplexity cached copy)",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b6e67ac1a16c30ad9a0fd8b770c46455a77194c36571943ef5aea9ab6b693463",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-const-I-10",
+      "label": "Missouri Constitution art. I § 10",
+      "official": "https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%2010&constit=y",
+      "channel": "http:https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%2010&constit=y",
+      "check": "http-hash",
+      "corpora": [
+        "mo-const"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "5f72b37f1ec5de4bf2db24d8b774995c5d0bae65526752b71be03b09e8464a27",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-const-I-2",
+      "label": "Missouri Constitution art. I § 2",
+      "official": "https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%202&constit=y",
+      "channel": "http:https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%202&constit=y",
+      "check": "http-hash",
+      "corpora": [
+        "mo-const"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "de0cd8a8b417c2be576f5210eeb944d77fe1af45a0c81000c8c2545422f3445b",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-const-I-33",
+      "label": "Missouri Constitution art. I § 33",
+      "official": "https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%2033&constit=y",
+      "channel": "http:https://revisor.mo.gov/main/OneSection.aspx?section=I%20%20%20%2033&constit=y",
+      "check": "http-hash",
+      "corpora": [
+        "mo-const"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "bd550b97a21cdb7f01a0ddcb17cc26328c52d86cc5bce8eecfb9b3fce5683e8e",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-const-V-5",
+      "label": "Missouri Constitution art. V § 5",
+      "official": "https://revisor.mo.gov/main/OneSection.aspx?section=V%20%20%20%205&constit=y",
+      "channel": "http:https://revisor.mo.gov/main/OneSection.aspx?section=V%20%20%20%205&constit=y",
+      "check": "http-hash",
+      "corpora": [
+        "mo-const"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "f6588be9062fb8193a690a2d4b69994a913c23a311fcfc9c1eaffc266f7f9812",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-form-14-order-3093",
+      "label": "Civil Procedure Form No. 14 — order of March 4, 2025 (eff. Jan. 1, 2026), attachment 3093",
+      "official": "https://www.courts.mo.gov/page.jsp?id=128693",
+      "channel": "http:https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3093.pdf",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "854efa003207dfce77d5f3c2f316f288f02db4b4d93e4c4161adf5b393d804a6",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-form-14-order-3093a",
+      "label": "Civil Procedure Form No. 14 — order of March 4, 2025 (eff. Jan. 1, 2026), attachment 3093a",
+      "official": "https://www.courts.mo.gov/page.jsp?id=128693",
+      "channel": "http:https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3093a.pdf",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "bfd3db77ae761ce52245dcfdeedd0f3acf6330124317e6715423f70cbb6bcb37",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "mo-form-14-order-3093b",
+      "label": "Civil Procedure Form No. 14 — order of March 4, 2025 (eff. Jan. 1, 2026), attachment 3093b",
+      "official": "https://www.courts.mo.gov/page.jsp?id=128693",
+      "channel": "http:https://images.magnetmail.net/images/clients/MOBAR/attach/Orders/3093b.pdf",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rules"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "108c5b3efbd1f9a89f87b44fa1e80306e577320d31a8f05bbeb66137c6a259d9",
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-193",
+      "label": "RSMo Chapter 193 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=193",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=193",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "7f009a1e381b8ace22f352068f05f6c321d60c62ee6a6f947adc4f35edbda5a0",
+      "rows": {
+        "193.015": "47911",
+        "193.075": "49780",
+        "193.085": "9908",
+        "193.087": "9909",
+        "193.095": "9910",
+        "193.115": "9912",
+        "193.125": "33137",
+        "193.128": "35045",
+        "193.135": "9914",
+        "193.185": "9919",
+        "193.195": "9920",
+        "193.205": "9921",
+        "193.215": "9922",
+        "193.255": "9926"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-210",
+      "label": "RSMo Chapter 210 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=210",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=210",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "ab4b25f8b66b1647f0a4d62a20ba5f05727bd225d2500ae5daedd8445de2e987",
+      "rows": {
+        "210.109": "48791",
+        "210.110": "60301",
+        "210.112": "57657",
+        "210.113": "11298",
+        "210.114": "36035",
+        "210.115": "49904",
+        "210.116": "48706",
+        "210.117": "11301",
+        "210.118": "33235",
+        "210.125": "11305",
+        "210.127": "51085",
+        "210.130": "11307",
+        "210.135": "48793",
+        "210.140": "11309",
+        "210.143": "49846",
+        "210.145": "57659",
+        "210.146": "33236",
+        "210.147": "11311",
+        "210.148": "11312",
+        "210.150": "49781",
+        "210.152": "35617",
+        "210.153": "11315",
+        "210.154": "33237",
+        "210.155": "11316",
+        "210.156": "49782",
+        "210.160": "57660",
+        "210.165": "11318",
+        "210.183": "11328",
+        "210.620": "33098",
+        "210.622": "33099",
+        "210.625": "33100",
+        "210.630": "33093",
+        "210.635": "33101",
+        "210.640": "33102",
+        "210.650": "11400",
+        "210.817": "11410",
+        "210.818": "11411",
+        "210.819": "11412",
+        "210.822": "11413",
+        "210.823": "11414",
+        "210.824": "11415",
+        "210.826": "11416",
+        "210.828": "11417",
+        "210.829": "11418",
+        "210.830": "11419",
+        "210.832": "11420",
+        "210.834": "11421",
+        "210.836": "11422",
+        "210.838": "11423",
+        "210.839": "11424",
+        "210.841": "11425",
+        "210.842": "11426",
+        "210.843": "11427",
+        "210.844": "11428",
+        "210.845": "11429",
+        "210.846": "11430",
+        "210.847": "11431",
+        "210.848": "11432",
+        "210.849": "11433",
+        "210.850": "11434",
+        "210.851": "11435",
+        "210.852": "11436",
+        "210.853": "11437",
+        "210.854": "11438",
+        "210.950": "57212"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-211",
+      "label": "RSMo Chapter 211 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=211",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=211",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "88b181df10b445726f83a4e1b02f57d289936a57e5b71aa5373ffef8d8ee2699",
+      "rows": {
+        "211.031": "54656",
+        "211.442": "11550",
+        "211.443": "11551",
+        "211.444": "35159",
+        "211.447": "49783",
+        "211.452": "11554",
+        "211.453": "11555",
+        "211.455": "11556",
+        "211.459": "11557",
+        "211.462": "57669",
+        "211.464": "11559",
+        "211.477": "11560",
+        "211.487": "11561"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-432",
+      "label": "RSMo Chapter 432 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=432",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=432",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "bfbfcedcad90706b31af73b92725bd862044437196539ad8bf0944eb0f1677a2",
+      "rows": {
+        "432.010": "24148"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-451",
+      "label": "RSMo Chapter 451 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=451",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=451",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "8bf453568f4c1d8c8a29ca4486a5a6ad64cbeeb3d0ac18bbfce8b2bd09d2e9fa",
+      "rows": {
+        "451.010": "24956",
+        "451.020": "24957",
+        "451.022": "24958",
+        "451.030": "24959",
+        "451.040": "57670",
+        "451.080": "57671",
+        "451.090": "57672",
+        "451.100": "24963",
+        "451.110": "24964",
+        "451.115": "24965",
+        "451.120": "24966",
+        "451.130": "24967",
+        "451.150": "24968",
+        "451.151": "24969",
+        "451.160": "24970",
+        "451.170": "24971",
+        "451.180": "24972",
+        "451.190": "24973",
+        "451.200": "24974",
+        "451.210": "24975",
+        "451.220": "24976",
+        "451.230": "24977",
+        "451.240": "24978",
+        "451.250": "24979",
+        "451.260": "24980",
+        "451.270": "24981",
+        "451.290": "24983",
+        "451.300": "24984"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-452",
+      "label": "RSMo Chapter 452 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=452",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=452",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "1afdfe2516aa74880ecd749b11a3e471f6f5c9197c5dd86207f27a352aecbc20",
+      "rows": {
+        "452.025": "24985",
+        "452.075": "24986",
+        "452.080": "24987",
+        "452.110": "24988",
+        "452.130": "24989",
+        "452.140": "24990",
+        "452.150": "24991",
+        "452.160": "24992",
+        "452.170": "24993",
+        "452.180": "24994",
+        "452.190": "24995",
+        "452.200": "24996",
+        "452.210": "24997",
+        "452.220": "24998",
+        "452.230": "24999",
+        "452.240": "25000",
+        "452.250": "25001",
+        "452.300": "25002",
+        "452.305": "59918",
+        "452.310": "59919",
+        "452.311": "25005",
+        "452.312": "25006",
+        "452.314": "25007",
+        "452.315": "25008",
+        "452.317": "25009",
+        "452.318": "25010",
+        "452.320": "25011",
+        "452.325": "25012",
+        "452.330": "25013",
+        "452.335": "25014",
+        "452.340": "33223",
+        "452.341": "25016",
+        "452.342": "25017",
+        "452.343": "25018",
+        "452.344": "25019",
+        "452.345": "25020",
+        "452.346": "25021",
+        "452.347": "25022",
+        "452.350": "25023",
+        "452.354": "25024",
+        "452.355": "25025",
+        "452.360": "25026",
+        "452.365": "25027",
+        "452.370": "25028",
+        "452.371": "25029",
+        "452.372": "25030",
+        "452.374": "25031",
+        "452.375": "54643",
+        "452.376": "25033",
+        "452.377": "48006",
+        "452.380": "25035",
+        "452.385": "25036",
+        "452.390": "25037",
+        "452.395": "25038",
+        "452.400": "33225",
+        "452.402": "47784",
+        "452.403": "25041",
+        "452.404": "25042",
+        "452.405": "25043",
+        "452.410": "49918",
+        "452.411": "25045",
+        "452.412": "25046",
+        "452.413": "25047",
+        "452.415": "25048",
+        "452.416": "25049",
+        "452.420": "25050",
+        "452.423": "25051",
+        "452.425": "25052",
+        "452.426": "25053",
+        "452.430": "25054",
+        "452.552": "25078",
+        "452.554": "25079",
+        "452.556": "33226",
+        "452.600": "25081",
+        "452.605": "25082",
+        "452.607": "25083",
+        "452.610": "25084",
+        "452.700": "25085",
+        "452.705": "25086",
+        "452.710": "25087",
+        "452.715": "25088",
+        "452.720": "25089",
+        "452.725": "25090",
+        "452.730": "25091",
+        "452.735": "25092",
+        "452.740": "25093",
+        "452.745": "25094",
+        "452.747": "25095",
+        "452.750": "25096",
+        "452.755": "25097",
+        "452.760": "25098",
+        "452.762": "25099",
+        "452.765": "25100",
+        "452.770": "25101",
+        "452.775": "25102",
+        "452.780": "25103",
+        "452.782": "25104",
+        "452.785": "25105",
+        "452.790": "25106",
+        "452.795": "25107",
+        "452.800": "25108",
+        "452.805": "25109",
+        "452.810": "25110",
+        "452.815": "25111",
+        "452.820": "25112",
+        "452.825": "25113",
+        "452.830": "25114",
+        "452.835": "25115",
+        "452.840": "25116",
+        "452.845": "25117",
+        "452.850": "25118",
+        "452.855": "25119",
+        "452.860": "25120",
+        "452.865": "25121",
+        "452.870": "25122",
+        "452.875": "25123",
+        "452.880": "25124",
+        "452.885": "25125",
+        "452.890": "25126",
+        "452.895": "25127",
+        "452.900": "25128",
+        "452.905": "25129",
+        "452.910": "25130",
+        "452.915": "25131",
+        "452.920": "25132",
+        "452.925": "25133",
+        "452.930": "25134",
+        "452.1200": "54839",
+        "452.1202": "54840",
+        "452.1204": "54841",
+        "452.1206": "54842",
+        "452.1208": "54843",
+        "452.1210": "54844",
+        "452.1212": "54845",
+        "452.1214": "54846",
+        "452.1216": "54847",
+        "452.1218": "54848",
+        "452.1220": "54849",
+        "452.1222": "54850",
+        "452.1224": "54851",
+        "452.1226": "54852",
+        "452.1228": "54853",
+        "452.1230": "54854",
+        "452.1232": "54855",
+        "452.1234": "54856",
+        "452.1236": "54857",
+        "452.1238": "54858",
+        "452.1240": "54859",
+        "452.1242": "54860",
+        "452.1244": "54861",
+        "452.1246": "54862",
+        "452.1248": "54863",
+        "452.1250": "54864",
+        "452.1252": "54865",
+        "452.1254": "54866",
+        "452.1256": "54867",
+        "452.1258": "54868"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-453",
+      "label": "RSMo Chapter 453 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=453",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=453",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "1bccf8477ee85bd6be9407e9ab4aed809fe3a54540a9dd6fd196aa16e17dd4bd",
+      "rows": {
+        "453.005": "25135",
+        "453.010": "25136",
+        "453.011": "25137",
+        "453.012": "25138",
+        "453.014": "49785",
+        "453.015": "35623",
+        "453.020": "25141",
+        "453.025": "25142",
+        "453.026": "25143",
+        "453.030": "49786",
+        "453.040": "49787",
+        "453.050": "25146",
+        "453.060": "25147",
+        "453.061": "25148",
+        "453.065": "25149",
+        "453.070": "49788",
+        "453.072": "25151",
+        "453.073": "25152",
+        "453.074": "25153",
+        "453.075": "25154",
+        "453.077": "25155",
+        "453.080": "35625",
+        "453.090": "25157",
+        "453.100": "25158",
+        "453.101": "25159",
+        "453.102": "25160",
+        "453.110": "25161",
+        "453.120": "25163",
+        "453.121": "48804",
+        "453.140": "25165",
+        "453.150": "25166",
+        "453.153": "25167",
+        "453.160": "25168",
+        "453.170": "25169",
+        "453.315": "25170",
+        "453.350": "25173",
+        "453.400": "25174",
+        "453.500": "25175",
+        "453.503": "25176",
+        "453.600": "35347",
+        "453.650": "57213"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-454",
+      "label": "RSMo Chapter 454 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=454",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=454",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "bccba03e565c63779d45150b704ac29682e14dd3290ed5545bca80be1dd7152f",
+      "rows": {
+        "454.390": "25217",
+        "454.395": "25218",
+        "454.400": "25219",
+        "454.401": "25220",
+        "454.402": "25221",
+        "454.403": "25222",
+        "454.405": "25223",
+        "454.408": "25224",
+        "454.410": "25225",
+        "454.412": "25226",
+        "454.413": "25227",
+        "454.415": "25228",
+        "454.420": "25229",
+        "454.425": "25230",
+        "454.430": "25231",
+        "454.432": "25232",
+        "454.433": "25233",
+        "454.435": "25234",
+        "454.440": "25235",
+        "454.445": "25236",
+        "454.450": "25237",
+        "454.455": "25238",
+        "454.460": "25239",
+        "454.465": "25240",
+        "454.470": "25241",
+        "454.472": "25242",
+        "454.475": "25243",
+        "454.476": "25244",
+        "454.478": "25245",
+        "454.485": "25247",
+        "454.490": "25248",
+        "454.495": "25249",
+        "454.496": "25250",
+        "454.498": "25251",
+        "454.500": "25252",
+        "454.501": "25253",
+        "454.505": "25254",
+        "454.507": "48007",
+        "454.510": "25256",
+        "454.511": "25257",
+        "454.512": "25258",
+        "454.513": "25259",
+        "454.514": "25260",
+        "454.515": "25261",
+        "454.516": "25262",
+        "454.517": "25263",
+        "454.518": "25264",
+        "454.519": "25265",
+        "454.520": "25266",
+        "454.522": "25267",
+        "454.525": "25268",
+        "454.528": "25269",
+        "454.530": "25270",
+        "454.531": "25271",
+        "454.533": "25272",
+        "454.536": "25273",
+        "454.539": "25274",
+        "454.542": "25275",
+        "454.545": "25276",
+        "454.548": "25277",
+        "454.551": "25278",
+        "454.554": "25279",
+        "454.557": "25280",
+        "454.559": "25281",
+        "454.560": "25282",
+        "454.565": "25283",
+        "454.600": "48008",
+        "454.603": "48009",
+        "454.606": "25286",
+        "454.609": "25287",
+        "454.612": "25288",
+        "454.615": "25289",
+        "454.618": "25290",
+        "454.621": "25291",
+        "454.624": "25292",
+        "454.627": "25293",
+        "454.630": "25294",
+        "454.633": "25295",
+        "454.636": "25296",
+        "454.639": "25297",
+        "454.642": "25298",
+        "454.645": "25299",
+        "454.700": "25300",
+        "454.849": "33658",
+        "454.1000": "25429",
+        "454.1003": "25430",
+        "454.1005": "53797",
+        "454.1008": "25432",
+        "454.1010": "25433",
+        "454.1013": "25434",
+        "454.1015": "25435",
+        "454.1018": "25436",
+        "454.1020": "25437",
+        "454.1023": "25438",
+        "454.1025": "25439",
+        "454.1027": "25440",
+        "454.1029": "25441",
+        "454.1031": "25442",
+        "454.1050": "60022",
+        "454.1500": "25443",
+        "454.1503": "25444",
+        "454.1506": "25445",
+        "454.1509": "25446",
+        "454.1512": "25447",
+        "454.1515": "25448",
+        "454.1518": "25449",
+        "454.1521": "25450",
+        "454.1524": "25451",
+        "454.1527": "25452",
+        "454.1530": "25453",
+        "454.1533": "25454",
+        "454.1536": "25455",
+        "454.1539": "25456",
+        "454.1542": "25457",
+        "454.1545": "25458",
+        "454.1548": "25459",
+        "454.1551": "25460",
+        "454.1554": "25461",
+        "454.1557": "25462",
+        "454.1560": "25463",
+        "454.1563": "25464",
+        "454.1566": "25465",
+        "454.1569": "25466",
+        "454.1572": "25467",
+        "454.1575": "25468",
+        "454.1578": "25469",
+        "454.1581": "25470",
+        "454.1584": "25471",
+        "454.1587": "25472",
+        "454.1590": "25473",
+        "454.1593": "25474",
+        "454.1596": "25475",
+        "454.1599": "25476",
+        "454.1602": "25477",
+        "454.1605": "25478",
+        "454.1608": "25479",
+        "454.1611": "25480",
+        "454.1614": "25481",
+        "454.1617": "25482",
+        "454.1620": "25483",
+        "454.1623": "25484",
+        "454.1626": "25485",
+        "454.1629": "25486",
+        "454.1632": "25487",
+        "454.1635": "25488",
+        "454.1638": "25489",
+        "454.1641": "25490",
+        "454.1644": "25491",
+        "454.1647": "25492",
+        "454.1650": "25493",
+        "454.1653": "25494",
+        "454.1656": "25495",
+        "454.1659": "25496",
+        "454.1662": "25497",
+        "454.1665": "25498",
+        "454.1668": "25499",
+        "454.1671": "25500",
+        "454.1674": "25501",
+        "454.1677": "25502",
+        "454.1680": "25503",
+        "454.1683": "25504",
+        "454.1686": "25505",
+        "454.1689": "25506",
+        "454.1692": "25507",
+        "454.1695": "25508",
+        "454.1698": "25509",
+        "454.1701": "25510",
+        "454.1704": "25511",
+        "454.1707": "25512",
+        "454.1710": "25513",
+        "454.1713": "25514",
+        "454.1716": "25515",
+        "454.1719": "25516",
+        "454.1722": "25517",
+        "454.1725": "25518",
+        "454.1727": "25519",
+        "454.1728": "33659",
+        "454.1730": "25521"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-455",
+      "label": "RSMo Chapter 455 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=455",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=455",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c1957c1878c86eaa400cd53fa5f89651b283d628d921e0cc29f473bc4ccdc925",
+      "rows": {
+        "455.003": "25522",
+        "455.004": "25523",
+        "455.005": "25524",
+        "455.007": "25525",
+        "455.010": "50117",
+        "455.015": "25527",
+        "455.020": "25528",
+        "455.025": "25529",
+        "455.027": "25530",
+        "455.030": "25531",
+        "455.032": "49766",
+        "455.035": "25533",
+        "455.038": "25534",
+        "455.040": "49767",
+        "455.045": "49768",
+        "455.050": "60730",
+        "455.055": "25538",
+        "455.060": "25539",
+        "455.065": "25540",
+        "455.067": "25541",
+        "455.070": "25542",
+        "455.073": "51049",
+        "455.075": "51050",
+        "455.080": "25545",
+        "455.083": "25546",
+        "455.085": "51051",
+        "455.090": "25549",
+        "455.095": "57695",
+        "455.098": "60697",
+        "455.200": "25550",
+        "455.210": "25552",
+        "455.215": "25553",
+        "455.220": "25554",
+        "455.225": "25555",
+        "455.230": "25556",
+        "455.300": "25557",
+        "455.305": "25558",
+        "455.500": "25559",
+        "455.503": "25561",
+        "455.504": "25562",
+        "455.505": "25563",
+        "455.510": "25565",
+        "455.513": "49770",
+        "455.516": "25567",
+        "455.520": "49771",
+        "455.523": "49772",
+        "455.524": "25570",
+        "455.526": "25571",
+        "455.528": "25572",
+        "455.530": "25573",
+        "455.534": "25574",
+        "455.536": "25575",
+        "455.538": "25576",
+        "455.543": "33616",
+        "455.545": "33617",
+        "455.547": "25581",
+        "455.549": "25582",
+        "455.560": "35672"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-474",
+      "label": "RSMo Chapter 474 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=474",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=474",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "01d63d65989fa7a1e07af18d3ad5526025adafcdd8cc0a729697e12e43b5d7e4",
+      "rows": {
+        "474.010": "26258",
+        "474.015": "26259",
+        "474.020": "26260",
+        "474.030": "26261",
+        "474.040": "26262",
+        "474.050": "26263",
+        "474.060": "26264",
+        "474.070": "26265",
+        "474.080": "26266",
+        "474.090": "26267",
+        "474.100": "26268",
+        "474.110": "26269",
+        "474.120": "26270",
+        "474.130": "26271",
+        "474.140": "26272",
+        "474.150": "34913",
+        "474.155": "26274",
+        "474.160": "26275",
+        "474.163": "26276",
+        "474.170": "26277",
+        "474.180": "26278",
+        "474.190": "26279",
+        "474.200": "26280",
+        "474.220": "26281",
+        "474.230": "26282",
+        "474.235": "26283",
+        "474.240": "26284",
+        "474.250": "26285",
+        "474.260": "26286",
+        "474.270": "26287",
+        "474.280": "26288",
+        "474.290": "26289",
+        "474.293": "26290",
+        "474.300": "26291",
+        "474.420": "26307"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-506",
+      "label": "RSMo Chapter 506 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=506",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=506",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6deb6143a4307cfa0ea64395d71d353a61fa8e61f1d748fa57e46ffddbbc2750",
+      "rows": {
+        "506.010": "27326",
+        "506.020": "27327",
+        "506.030": "27328",
+        "506.040": "27329",
+        "506.050": "27330",
+        "506.060": "27331",
+        "506.080": "27332",
+        "506.090": "27333",
+        "506.100": "27334",
+        "506.110": "27335",
+        "506.120": "27336",
+        "506.130": "27337",
+        "506.140": "27338",
+        "506.145": "27339",
+        "506.150": "27340",
+        "506.160": "27341",
+        "506.170": "27342",
+        "506.180": "27343",
+        "506.190": "27344",
+        "506.192": "27345",
+        "506.200": "27346",
+        "506.210": "27347",
+        "506.220": "27348",
+        "506.230": "27349",
+        "506.240": "27350",
+        "506.250": "27351",
+        "506.260": "27352",
+        "506.270": "27353",
+        "506.280": "27354",
+        "506.290": "27355",
+        "506.300": "27356",
+        "506.310": "27357",
+        "506.330": "27358",
+        "506.340": "27359",
+        "506.350": "27360",
+        "506.360": "27361",
+        "506.363": "27362",
+        "506.366": "27363",
+        "506.369": "27364",
+        "506.372": "27365",
+        "506.375": "27366",
+        "506.378": "27367",
+        "506.381": "27368",
+        "506.384": "27369",
+        "506.387": "27370",
+        "506.390": "27371",
+        "506.500": "27372",
+        "506.510": "27373",
+        "506.520": "27374",
+        "506.602": "60058"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-507",
+      "label": "RSMo Chapter 507 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=507",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=507",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "b48e30b3bccd051157e555010292c5dccf7893302ae0d2e5c1c0cc1e2a169ee5",
+      "rows": {
+        "507.010": "27375",
+        "507.020": "27376",
+        "507.030": "27377",
+        "507.040": "47707",
+        "507.050": "47708",
+        "507.060": "34933",
+        "507.070": "27381",
+        "507.080": "27382",
+        "507.090": "27383",
+        "507.100": "27384",
+        "507.110": "27385",
+        "507.115": "27386",
+        "507.120": "27387",
+        "507.130": "27388",
+        "507.140": "27389",
+        "507.150": "27390",
+        "507.160": "27391",
+        "507.170": "27392",
+        "507.180": "27393",
+        "507.182": "27394",
+        "507.184": "49696",
+        "507.186": "27396",
+        "507.188": "27397",
+        "507.190": "27398",
+        "507.200": "27399",
+        "507.210": "27400",
+        "507.220": "27401",
+        "507.230": "27402"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-508",
+      "label": "RSMo Chapter 508 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=508",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=508",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "006568a1675949a5e3361bdd4aa3b0e53cb861de5600415a1a2a2bd7d0a58749",
+      "rows": {
+        "508.010": "47727",
+        "508.011": "27404",
+        "508.012": "47709",
+        "508.013": "47711",
+        "508.020": "27406",
+        "508.030": "27407",
+        "508.050": "27409",
+        "508.060": "27410",
+        "508.072": "27412",
+        "508.074": "60059",
+        "508.080": "27413",
+        "508.090": "27414",
+        "508.100": "27415",
+        "508.110": "27416",
+        "508.130": "27418",
+        "508.140": "27419",
+        "508.150": "27420",
+        "508.160": "27421",
+        "508.170": "27422",
+        "508.180": "27423",
+        "508.190": "27424",
+        "508.240": "27425",
+        "508.250": "27426",
+        "508.300": "27427",
+        "508.310": "27428",
+        "508.320": "27429",
+        "508.330": "27430",
+        "508.340": "27431"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-509",
+      "label": "RSMo Chapter 509 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=509",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=509",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "c5c8203369ae6ba027ce0324d9c4601a2c42f6277d68ce9342118481127a1513",
+      "rows": {
+        "509.010": "27433",
+        "509.020": "27434",
+        "509.030": "27435",
+        "509.040": "27436",
+        "509.050": "27437",
+        "509.060": "27438",
+        "509.070": "27439",
+        "509.080": "27440",
+        "509.090": "27441",
+        "509.100": "27442",
+        "509.110": "27443",
+        "509.120": "27444",
+        "509.130": "27445",
+        "509.140": "27446",
+        "509.150": "27447",
+        "509.160": "27448",
+        "509.170": "27449",
+        "509.180": "27450",
+        "509.190": "27451",
+        "509.200": "27452",
+        "509.210": "27453",
+        "509.220": "27454",
+        "509.230": "27455",
+        "509.240": "27456",
+        "509.250": "27457",
+        "509.260": "27458",
+        "509.270": "27459",
+        "509.280": "27460",
+        "509.290": "27461",
+        "509.300": "27462",
+        "509.310": "27463",
+        "509.320": "27464",
+        "509.330": "27465",
+        "509.340": "27466",
+        "509.350": "27467",
+        "509.360": "27468",
+        "509.370": "27469",
+        "509.380": "27470",
+        "509.390": "27471",
+        "509.400": "27472",
+        "509.410": "27473",
+        "509.420": "27474",
+        "509.430": "27475",
+        "509.440": "27476",
+        "509.450": "27477",
+        "509.460": "27478",
+        "509.470": "27479",
+        "509.480": "27480",
+        "509.490": "27481",
+        "509.500": "27482",
+        "509.510": "27483",
+        "509.520": "54051"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-510",
+      "label": "RSMo Chapter 510 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=510",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=510",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6bd0636398970320314a718de5bc8f8c7b41f5a6b715155f08bfd1d7b6ba6b87",
+      "rows": {
+        "510.010": "27485",
+        "510.020": "27486",
+        "510.030": "27487",
+        "510.035": "33199",
+        "510.040": "27488",
+        "510.050": "27489",
+        "510.060": "27490",
+        "510.070": "27491",
+        "510.080": "27492",
+        "510.090": "27493",
+        "510.100": "27494",
+        "510.110": "27495",
+        "510.120": "27496",
+        "510.125": "27497",
+        "510.130": "27498",
+        "510.140": "27499",
+        "510.150": "27500",
+        "510.160": "27501",
+        "510.170": "27502",
+        "510.180": "27503",
+        "510.190": "27504",
+        "510.200": "27505",
+        "510.210": "27506",
+        "510.220": "27507",
+        "510.230": "27508",
+        "510.240": "27509",
+        "510.250": "27510",
+        "510.260": "27511",
+        "510.261": "48373",
+        "510.262": "48378",
+        "510.263": "48374",
+        "510.265": "48375",
+        "510.270": "27514",
+        "510.280": "27515",
+        "510.290": "27516",
+        "510.300": "27517",
+        "510.310": "27518",
+        "510.320": "27519",
+        "510.330": "27520",
+        "510.350": "27522",
+        "510.360": "27523",
+        "510.370": "27524",
+        "510.380": "27525",
+        "510.390": "27526"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-511",
+      "label": "RSMo Chapter 511 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=511",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=511",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "6b49dd9474a48802d2208627d5cee368ef8ae72836dc2e247fff9744a22d4de6",
+      "rows": {
+        "511.010": "27527",
+        "511.020": "27528",
+        "511.030": "27529",
+        "511.040": "27530",
+        "511.050": "27531",
+        "511.060": "27532",
+        "511.070": "27533",
+        "511.080": "27534",
+        "511.090": "27535",
+        "511.100": "27536",
+        "511.110": "27537",
+        "511.120": "27538",
+        "511.130": "27539",
+        "511.140": "27540",
+        "511.150": "27541",
+        "511.160": "27542",
+        "511.170": "27543",
+        "511.180": "27544",
+        "511.190": "27545",
+        "511.200": "27546",
+        "511.210": "27547",
+        "511.220": "27548",
+        "511.230": "27549",
+        "511.240": "27550",
+        "511.250": "27551",
+        "511.260": "27552",
+        "511.270": "27553",
+        "511.280": "27554",
+        "511.290": "27555",
+        "511.300": "27556",
+        "511.310": "27557",
+        "511.320": "27558",
+        "511.330": "27559",
+        "511.340": "27560",
+        "511.350": "27561",
+        "511.360": "27562",
+        "511.370": "27563",
+        "511.380": "27564",
+        "511.390": "27565",
+        "511.400": "27566",
+        "511.410": "27567",
+        "511.420": "27568",
+        "511.430": "27569",
+        "511.440": "27570",
+        "511.450": "27571",
+        "511.470": "27572",
+        "511.480": "27573",
+        "511.490": "27574",
+        "511.500": "27575",
+        "511.510": "27576",
+        "511.530": "27577",
+        "511.540": "27578",
+        "511.550": "27579",
+        "511.560": "27580",
+        "511.570": "27581",
+        "511.580": "27582",
+        "511.590": "27583",
+        "511.600": "27584",
+        "511.610": "27585",
+        "511.620": "27586",
+        "511.630": "27587",
+        "511.640": "27588",
+        "511.650": "27589",
+        "511.660": "27590",
+        "511.670": "27591",
+        "511.680": "27592",
+        "511.690": "27593",
+        "511.700": "27594",
+        "511.710": "27595",
+        "511.720": "27596",
+        "511.730": "27597",
+        "511.740": "27598",
+        "511.750": "27599",
+        "511.760": "27600",
+        "511.770": "27601",
+        "511.773": "27602",
+        "511.775": "27603",
+        "511.778": "27604",
+        "511.780": "27605",
+        "511.783": "27606",
+        "511.785": "27607",
+        "511.787": "27608"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-512",
+      "label": "RSMo Chapter 512 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=512",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=512",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "ee2b4c741fdf6e77e988bd9e419643a1201e4ad9f7a4a34cb6415c5bc161393e",
+      "rows": {
+        "512.010": "27609",
+        "512.020": "27610",
+        "512.025": "27611",
+        "512.030": "27612",
+        "512.040": "27613",
+        "512.050": "27614",
+        "512.060": "27615",
+        "512.070": "27616",
+        "512.080": "27617",
+        "512.085": "27618",
+        "512.090": "27619",
+        "512.099": "27620",
+        "512.100": "27621",
+        "512.110": "27622",
+        "512.120": "27623",
+        "512.130": "27624",
+        "512.140": "27625",
+        "512.150": "27626",
+        "512.160": "27627",
+        "512.170": "27628",
+        "512.180": "35185",
+        "512.190": "27630",
+        "512.200": "27631",
+        "512.210": "27632",
+        "512.250": "27633",
+        "512.270": "27634",
+        "512.280": "27635",
+        "512.290": "27636",
+        "512.300": "27637",
+        "512.310": "27638",
+        "512.320": "27639"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-513",
+      "label": "RSMo Chapter 513 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=513",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=513",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "7cc7a24366cec80d27149961ce16956d028a3736797c20cdf816513480698ec2",
+      "rows": {
+        "513.010": "27640",
+        "513.015": "27641",
+        "513.020": "27642",
+        "513.025": "27643",
+        "513.030": "27644",
+        "513.035": "27645",
+        "513.040": "27646",
+        "513.045": "27647",
+        "513.050": "27648",
+        "513.055": "27649",
+        "513.060": "27650",
+        "513.065": "27651",
+        "513.070": "27652",
+        "513.075": "27653",
+        "513.080": "27654",
+        "513.085": "27655",
+        "513.090": "27656",
+        "513.095": "27657",
+        "513.100": "27658",
+        "513.105": "27659",
+        "513.110": "27660",
+        "513.115": "27661",
+        "513.120": "27662",
+        "513.125": "27663",
+        "513.130": "27664",
+        "513.135": "27665",
+        "513.140": "27666",
+        "513.145": "27667",
+        "513.150": "27668",
+        "513.155": "27669",
+        "513.160": "27670",
+        "513.165": "27671",
+        "513.170": "27672",
+        "513.175": "27673",
+        "513.180": "27674",
+        "513.185": "27675",
+        "513.190": "27676",
+        "513.200": "27677",
+        "513.205": "27678",
+        "513.210": "27679",
+        "513.215": "27680",
+        "513.220": "27681",
+        "513.225": "27682",
+        "513.230": "27683",
+        "513.235": "27684",
+        "513.240": "27685",
+        "513.245": "27686",
+        "513.250": "27687",
+        "513.255": "27688",
+        "513.260": "27689",
+        "513.265": "27690",
+        "513.270": "27691",
+        "513.275": "27692",
+        "513.280": "27693",
+        "513.285": "27694",
+        "513.290": "27695",
+        "513.295": "27696",
+        "513.300": "27697",
+        "513.305": "27698",
+        "513.310": "27699",
+        "513.315": "27700",
+        "513.320": "27701",
+        "513.325": "27702",
+        "513.330": "27703",
+        "513.335": "27704",
+        "513.340": "27705",
+        "513.345": "27706",
+        "513.350": "27707",
+        "513.355": "27708",
+        "513.360": "27709",
+        "513.365": "27710",
+        "513.370": "27711",
+        "513.375": "27712",
+        "513.380": "27713",
+        "513.385": "27714",
+        "513.390": "27715",
+        "513.395": "27716",
+        "513.400": "27717",
+        "513.410": "27718",
+        "513.415": "27719",
+        "513.420": "27720",
+        "513.423": "60208",
+        "513.425": "27721",
+        "513.427": "27722",
+        "513.430": "51255",
+        "513.436": "27724",
+        "513.440": "27725",
+        "513.445": "27726",
+        "513.455": "57534",
+        "513.460": "27728",
+        "513.465": "27729",
+        "513.470": "27730",
+        "513.475": "27731",
+        "513.480": "27732",
+        "513.485": "27733",
+        "513.490": "27734",
+        "513.510": "27735",
+        "513.515": "27736",
+        "513.520": "27737",
+        "513.525": "27738",
+        "513.530": "27739",
+        "513.600": "27740",
+        "513.605": "57697",
+        "513.607": "27742",
+        "513.610": "27743",
+        "513.612": "27744",
+        "513.615": "27745",
+        "513.617": "27746",
+        "513.620": "27747",
+        "513.623": "27748",
+        "513.625": "27749",
+        "513.630": "27750",
+        "513.635": "27751",
+        "513.637": "27752",
+        "513.640": "27753",
+        "513.645": "27754",
+        "513.647": "27755",
+        "513.649": "27756",
+        "513.651": "27757",
+        "513.653": "35674",
+        "513.660": "27759"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-514",
+      "label": "RSMo Chapter 514 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=514",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=514",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "ce8d91e549e73fc8295a45b47174793bad0b6fe78e0d2341adfcc1374f4c0a70",
+      "rows": {
+        "514.040": "35218",
+        "514.050": "27761",
+        "514.060": "27762",
+        "514.070": "27763",
+        "514.080": "27764",
+        "514.090": "27765",
+        "514.100": "27766",
+        "514.110": "27767",
+        "514.112": "27768",
+        "514.130": "27769",
+        "514.160": "27770",
+        "514.170": "27771",
+        "514.180": "27772",
+        "514.190": "27773",
+        "514.200": "27774",
+        "514.205": "27775",
+        "514.210": "27776",
+        "514.220": "27777",
+        "514.230": "27778",
+        "514.240": "27779",
+        "514.250": "27780",
+        "514.260": "27781",
+        "514.270": "27782",
+        "514.280": "27783",
+        "514.303": "27784",
+        "514.310": "27785",
+        "514.330": "27786",
+        "514.335": "27787"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-515",
+      "label": "RSMo Chapter 515 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=515",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=515",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "789ebe94d10379c99fa77385281fafd7b2c6a6b8fff4a42d2d643d68c0a73b4c",
+      "rows": {
+        "515.010": "27791",
+        "515.020": "27792",
+        "515.030": "27793",
+        "515.040": "27794",
+        "515.050": "27795",
+        "515.060": "27796",
+        "515.070": "27797",
+        "515.080": "27798",
+        "515.090": "27799",
+        "515.100": "27800",
+        "515.110": "27801",
+        "515.120": "27802",
+        "515.130": "27803",
+        "515.140": "27804",
+        "515.150": "27805",
+        "515.160": "27806",
+        "515.170": "27807",
+        "515.180": "27808",
+        "515.190": "27809",
+        "515.200": "27810",
+        "515.210": "27811",
+        "515.220": "27812",
+        "515.230": "27813",
+        "515.500": "33711",
+        "515.505": "33712",
+        "515.510": "33713",
+        "515.515": "33714",
+        "515.520": "33715",
+        "515.525": "33716",
+        "515.530": "33717",
+        "515.535": "33718",
+        "515.540": "33719",
+        "515.545": "33720",
+        "515.550": "33721",
+        "515.555": "33722",
+        "515.560": "33723",
+        "515.565": "33724",
+        "515.570": "33725",
+        "515.575": "34914",
+        "515.580": "33727",
+        "515.585": "33728",
+        "515.590": "33729",
+        "515.595": "33730",
+        "515.600": "33731",
+        "515.605": "33732",
+        "515.610": "33733",
+        "515.615": "33734",
+        "515.620": "33735",
+        "515.625": "33736",
+        "515.630": "33737",
+        "515.635": "34915",
+        "515.640": "33739",
+        "515.645": "33740",
+        "515.650": "33741",
+        "515.655": "33742",
+        "515.660": "33743",
+        "515.665": "33744"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-516",
+      "label": "RSMo Chapter 516 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=516",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=516",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "a51ada466f4f325fe04a17143c4fe20aa85e79815c577989bc538c74c18036fa",
+      "rows": {
+        "516.010": "27817",
+        "516.020": "27818",
+        "516.030": "27819",
+        "516.040": "27820",
+        "516.050": "27821",
+        "516.070": "27824",
+        "516.080": "27825",
+        "516.090": "27826",
+        "516.095": "27827",
+        "516.097": "27828",
+        "516.098": "27829",
+        "516.100": "27830",
+        "516.103": "27831",
+        "516.105": "35258",
+        "516.110": "27833",
+        "516.120": "27834",
+        "516.130": "27835",
+        "516.140": "27836",
+        "516.145": "27837",
+        "516.150": "27838",
+        "516.155": "27839",
+        "516.160": "27840",
+        "516.170": "27841",
+        "516.180": "27842",
+        "516.190": "27843",
+        "516.200": "27844",
+        "516.210": "27845",
+        "516.220": "27846",
+        "516.230": "27847",
+        "516.240": "27848",
+        "516.250": "27849",
+        "516.260": "27850",
+        "516.270": "27851",
+        "516.280": "27852",
+        "516.290": "27853",
+        "516.300": "27854",
+        "516.310": "27855",
+        "516.320": "27856",
+        "516.330": "27857",
+        "516.340": "27858",
+        "516.350": "27859",
+        "516.360": "27860",
+        "516.370": "27861",
+        "516.371": "27862",
+        "516.380": "27863",
+        "516.390": "27864",
+        "516.400": "27865",
+        "516.410": "27866",
+        "516.420": "27867",
+        "516.500": "27868"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-517",
+      "label": "RSMo Chapter 517 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=517",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=517",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "4db2f8631e26458929552261acc9402339e073533dce986bf610ae89228722cc",
+      "rows": {
+        "517.011": "27869",
+        "517.021": "27870",
+        "517.031": "27871",
+        "517.041": "27872",
+        "517.051": "27873",
+        "517.061": "27874",
+        "517.071": "27875",
+        "517.081": "27876",
+        "517.091": "27877",
+        "517.101": "27878",
+        "517.111": "27879",
+        "517.121": "27880",
+        "517.131": "27881",
+        "517.132": "27882",
+        "517.141": "27883",
+        "517.151": "27884",
+        "517.161": "27885"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-525",
+      "label": "RSMo Chapter 525 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=525",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=525",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "259bd157d95698210632b4d29668dc04dd6eee156e3da4b7ba6d30d5344d737c",
+      "rows": {
+        "525.010": "28060",
+        "525.020": "28061",
+        "525.030": "28062",
+        "525.040": "28063",
+        "525.050": "28064",
+        "525.060": "28065",
+        "525.070": "28066",
+        "525.080": "28067",
+        "525.090": "28068",
+        "525.100": "28069",
+        "525.110": "28070",
+        "525.120": "28071",
+        "525.130": "28072",
+        "525.140": "28073",
+        "525.150": "28074",
+        "525.160": "28075",
+        "525.170": "28076",
+        "525.180": "28077",
+        "525.190": "28078",
+        "525.200": "28079",
+        "525.210": "28080",
+        "525.220": "28081",
+        "525.230": "28082",
+        "525.233": "28083",
+        "525.235": "60211",
+        "525.240": "28084",
+        "525.250": "28085",
+        "525.260": "28086",
+        "525.270": "28087",
+        "525.280": "28088",
+        "525.290": "28089",
+        "525.300": "28090",
+        "525.310": "28091"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "rsmo-ch-565",
+      "label": "RSMo Chapter 565 (Revisor of Statutes)",
+      "official": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=565",
+      "channel": "http:https://revisor.mo.gov/main/OneChapter.aspx?chapter=565",
+      "check": "http-hash",
+      "corpora": [
+        "mo-rsmo"
+      ],
+      "last_checked": "2026-09-30T14:45:30Z",
+      "last_version": "e01220880e947104260c59c7ff29201ca66d9accff427d766286311c69e362e8",
+      "rows": {
+        "565.002": "34703",
+        "565.072": "29288",
+        "565.073": "29290",
+        "565.074": "29292",
+        "565.076": "34706",
+        "565.150": "29327",
+        "565.153": "29329",
+        "565.156": "29331",
+        "565.160": "29333"
+      },
+      "_file": "sources-mo.json"
+    },
+    {
+      "id": "uscode-house",
+      "label": "United States Code (Office of the Law Revision Counsel, prelim edition)",
+      "official": "https://uscode.house.gov/",
+      "channel": "http:https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title{T}-section{S}&num=0&edition=prelim",
+      "check": "http-hash",
+      "corpora": [
+        "us-usc"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "b5ab75b8ba93bc87",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "ecfr",
+      "label": "Electronic Code of Federal Regulations (eCFR, versioner API)",
+      "official": "https://www.ecfr.gov/",
+      "channel": "api:https://www.ecfr.gov/api/versioner/v1/full/{date}/title-{T}.xml?part={P}",
+      "check": "api",
+      "corpora": [
+        "us-cfr"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "e94ebae5c45e3383",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "us-constitution",
+      "label": "Constitution of the United States (National Archives transcription; Constitution Annotated)",
+      "official": "https://constitution.congress.gov/constitution/",
+      "channel": "http:https://www.archives.gov/founding-docs/constitution-transcript",
+      "check": "http-hash",
+      "corpora": [
+        "us-const"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "d2197ce5b702666d",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "cap-static",
+      "label": "Caselaw Access Project static bulk (Harvard LIL) — U.S. Reports 1–572, F.2d, F.3d 1–936 (reading channel)",
+      "official": "https://static.case.law/",
+      "channel": "http:https://static.case.law/{reporter}/{volume}.zip",
+      "check": "http-hash",
+      "corpora": [
+        "us-scotus",
+        "us-ca8"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "static (frozen dataset)",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "courtlistener-search",
+      "label": "CourtListener REST API v4 search (Free Law Project) — enumeration of SCOTUS >= 2014-06 and CA8 >= 2019",
+      "official": "https://www.courtlistener.com/",
+      "channel": "api:https://www.courtlistener.com/api/rest/v4/search/?type=o&court=scotus|ca8&stat_Precedential=on&filed_after=…",
+      "check": "api",
+      "corpora": [
+        "us-scotus",
+        "us-ca8"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "0 candidates",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "courtlistener-bulk",
+      "label": "CourtListener quarterly bulk data (dockets, opinion-clusters, citations CSV; public S3, no quota)",
+      "official": "https://www.courtlistener.com/help/api/bulk-data/",
+      "channel": "http:https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/bulk-data/{table}-{YYYY-MM-DD}.csv.bz2",
+      "check": "http-hash",
+      "corpora": [
+        "us-ca8"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "2026-06-30 snapshot",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "supremecourt-boundvolumes",
+      "label": "Supreme Court — U.S. Reports bound volumes (PDF) and preliminary prints",
+      "official": "https://www.supremecourt.gov/opinions/USReports.aspx",
+      "channel": "http:https://www.supremecourt.gov/opinions/boundvolumes/{vol}BV.pdf",
+      "check": "http-hash",
+      "corpora": [
+        "us-scotus"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "vols 573-585",
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "supremecourt-gov",
+      "label": "Supreme Court of the United States — slip opinions / bound volumes",
+      "official": "https://www.supremecourt.gov/opinions/",
+      "channel": "http:https://www.supremecourt.gov/opinions/slipopinion/{term} (lists -> {term}pdf/*.pdf, preliminaryprint/*.pdf#page=N)",
+      "check": "http-hash",
+      "corpora": [
+        "us-scotus"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": null,
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "loc-usreports",
+      "label": "Library of Congress — United States Reports (vols. 1–578)",
+      "official": "https://www.loc.gov/collections/united-states-reports/",
+      "channel": "link:https://www.loc.gov/item/usrep{VVV}{PPP}/",
+      "check": "http-hash",
+      "corpora": [
+        "us-scotus"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": null,
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "ca8-opinions",
+      "label": "U.S. Court of Appeals for the Eighth Circuit — opinions (PDF)",
+      "official": "https://www.ca8.uscourts.gov/opinions",
+      "channel": "http:https://ecf.ca8.uscourts.gov/opndir/{YY}/{MM}/{docket}P.pdf",
+      "check": "http-hash",
+      "corpora": [
+        "us-ca8"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": null,
+      "_file": "sources-us.json"
+    },
+    {
+      "id": "legi-code-civil",
+      "label": "Code civil (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_civil.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cc"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "df37fb220cea125bdecae7a161fb4c22dff421d6",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-procedure-civile",
+      "label": "Code de procédure civile (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_procedure_civile.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cpc"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "64a5dcbbf517c334b068f5820510519288f778b8",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-l-organisation-judiciaire",
+      "label": "Code de l'organisation judiciaire (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071164",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_l_organisation_judiciaire.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-coj"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "523b0a4b3546812118a792fc9ad7d2da77fb75d3",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-l-action-sociale-et-des-familles",
+      "label": "Code de l'action sociale et des familles (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074069",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_l_action_sociale_et_des_familles.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-casf"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "9f64b63114005701371e012b32be532ab732b64e",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-la-sante-publique",
+      "label": "Code de la santé publique (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072665",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_la_sante_publique.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-csp"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "75eabdee9911578f1f4a205a1914c0d8a774f88c",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-penal",
+      "label": "Code pénal (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_penal.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cp"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "dc4b088173f9939e97c53668900ac9af4758eb57",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-procedure-penale",
+      "label": "Code de procédure pénale (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_procedure_penale.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cpp"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "39ee3d4a8258737c644dcd7548c1b59194bc7b7b",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-general-des-impots",
+      "label": "Code général des impôts (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_general_des_impots.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cgi"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "4b9e66d88df809b54d2ab7f61bcb4c7252a33f43",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-la-securite-sociale",
+      "label": "Code de la sécurité sociale (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_la_securite_sociale.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-css"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "b18fd5980d767c2690807e45fcc8bda81f11a505",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile",
+      "label": "Code de l'entrée et du séjour des étrangers et du droit d'asile (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070158",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_de_l_entree_et_du_sejour_des_etrangers_et_du_droit_d_asile.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-ceseda"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "36981f1d83367359c14172328f07ad30959c2917",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-code-des-procedures-civiles-d-execution",
+      "label": "Code des procédures civiles d'exécution (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000025024948",
+      "channel": "git:https://git.tricoteuses.fr/codes/code_des_procedures_civiles_d_execution.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-cpce"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "bb94cf88f9f9bf7c66fdfe7c031cafa763d22aef",
+      "_file": "sources.json"
+    },
+    {
+      "id": "legi-constitution-du-4-octobre-1958",
+      "label": "Constitution du 4 octobre 1958 (LEGI, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194",
+      "channel": "git:https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-const"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "696e96dfa26a913ed36d47e270c1d7fc4019a4ec",
+      "_file": "sources.json"
+    },
+    {
+      "id": "tj-textes-juridiques",
+      "label": "Textes non codifiés (LEGI/JORF, dila/textes_juridiques, miroir Tricoteuses)",
+      "official": "https://www.legifrance.gouv.fr/liste/loda",
+      "channel": "git:https://git.tricoteuses.fr/dila/textes_juridiques.git",
+      "check": "git-head",
+      "corpora": [
+        "fr-textes"
+      ],
+      "last_checked": "2026-09-30",
+      "last_version": "8680af59aca80eb45b2eb24ec0bcaf95304e170d",
+      "texts": [
+        "LEGITEXT000005615997",
+        "LEGITEXT000006053798",
+        "LEGITEXT000028471856",
+        "LEGITEXT000046190361",
+        "LEGITEXT000041742170",
+        "LEGITEXT000033621780",
+        "LEGITEXT000023451893",
+        "LEGITEXT000048108762",
+        "LEGITEXT000005627153",
+        "LEGITEXT000028145306",
+        "LEGITEXT000047320878",
+        "LEGITEXT000048238943",
+        "LEGITEXT000042724262",
+        "LEGITEXT000043690461",
+        "LEGITEXT000036536497",
+        "LEGITEXT000030379109",
+        "LEGITEXT000019352003",
+        "LEGITEXT000050927901",
+        "LEGITEXT000020654922",
+        "LEGITEXT000029622432",
+        "LEGITEXT000047044650",
+        "LEGITEXT000005618137",
+        "LEGITEXT000005634775",
+        "LEGITEXT000006073849",
+        "LEGITEXT000018846834",
+        "LEGITEXT000043229733",
+        "LEGITEXT000006072647",
+        "LEGITEXT000037249151",
+        "LEGITEXT000006073725",
+        "LEGITEXT000048108734",
+        "LEGITEXT000019731322",
+        "LEGITEXT000006077769",
+        "LEGITEXT000021215907",
+        "LEGITEXT000046142265",
+        "LEGITEXT000047109216",
+        "LEGITEXT000042308862",
+        "LEGITEXT000005876383",
+        "LEGITEXT000048562001",
+        "LEGITEXT000045888569",
+        "LEGITEXT000045328366",
+        "LEGITEXT000006057807",
+        "LEGITEXT000006071291",
+        "LEGITEXT000041992986",
+        "LEGITEXT000046142252",
+        "LEGITEXT000005629073",
+        "LEGITEXT000005629074",
+        "LEGITEXT000005633240",
+        "LEGITEXT000005633781",
+        "LEGITEXT000005866967",
+        "LEGITEXT000005867199",
+        "LEGITEXT000039347343",
+        "LEGITEXT000005793351",
+        "LEGITEXT000006052431",
+        "LEGITEXT000006052991",
+        "LEGITEXT000006034671",
+        "LEGITEXT000006045940",
+        "LEGITEXT000006054382",
+        "LEGITEXT000006054996",
+        "LEGITEXT000006055164",
+        "LEGITEXT000006055165",
+        "LEGITEXT000006053796",
+        "LEGITEXT000006053995",
+        "LEGITEXT000006054157",
+        "LEGITEXT000006056020",
+        "LEGITEXT000006056221",
+        "LEGITEXT000020053710",
+        "LEGITEXT000019062867",
+        "LEGITEXT000019350545",
+        "LEGITEXT000019350858",
+        "LEGITEXT000021148571",
+        "LEGITEXT000021215187",
+        "LEGITEXT000021501799",
+        "LEGITEXT000021582936",
+        "LEGITEXT000020516884",
+        "LEGITEXT000020523397",
+        "LEGITEXT000039348227",
+        "LEGITEXT000020648678",
+        "LEGITEXT000022868111",
+        "LEGITEXT000022220916",
+        "LEGITEXT000022411533",
+        "LEGITEXT000024530083",
+        "LEGITEXT000024938969",
+        "LEGITEXT000025038133",
+        "LEGITEXT000025263472",
+        "LEGITEXT000026701454",
+        "LEGITEXT000026831653",
+        "LEGITEXT000026305481",
+        "LEGITEXT000025210638",
+        "LEGITEXT000027467269",
+        "LEGITEXT000027915834",
+        "LEGITEXT000027915858",
+        "LEGITEXT000029622350",
+        "LEGITEXT000029622338",
+        "LEGITEXT000029417842",
+        "LEGITEXT000031079518",
+        "LEGITEXT000031321566",
+        "LEGITEXT000031419341",
+        "LEGITEXT000031825426",
+        "LEGITEXT000030379171",
+        "LEGITEXT000030719581",
+        "LEGITEXT000030814884",
+        "LEGITEXT000033339816",
+        "LEGITEXT000033359787",
+        "LEGITEXT000033513961",
+        "LEGITEXT000033546178",
+        "LEGITEXT000032102672",
+        "LEGITEXT000033731387",
+        "LEGITEXT000033731483",
+        "LEGITEXT000033822345",
+        "LEGITEXT000032155827",
+        "LEGITEXT000032770920",
+        "LEGITEXT000032821732",
+        "LEGITEXT000034016693",
+        "LEGITEXT000036034264",
+        "LEGITEXT000034130554",
+        "LEGITEXT000034321542",
+        "LEGITEXT000034713821",
+        "LEGITEXT000034708016",
+        "LEGITEXT000037249501",
+        "LEGITEXT000037249125",
+        "LEGITEXT000039208561",
+        "LEGITEXT000039393836",
+        "LEGITEXT000039638960",
+        "LEGITEXT000039820223",
+        "LEGITEXT000039157904",
+        "LEGITEXT000042358181",
+        "LEGITEXT000042384069",
+        "LEGITEXT000042384124",
+        "LEGITEXT000042724920",
+        "LEGITEXT000042939047",
+        "LEGITEXT000041924257",
+        "LEGITEXT000044113570",
+        "LEGITEXT000044360271",
+        "LEGITEXT000043314954",
+        "LEGITEXT000043790249",
+        "LEGITEXT000043872751",
+        "LEGITEXT000046153474",
+        "LEGITEXT000046222742",
+        "LEGITEXT000046801230",
+        "LEGITEXT000046813327",
+        "LEGITEXT000045247948",
+        "LEGITEXT000045280057",
+        "LEGITEXT000045353472",
+        "LEGITEXT000045933255",
+        "LEGITEXT000048454080",
+        "LEGITEXT000048461624",
+        "LEGITEXT000047048029",
+        "LEGITEXT000047480198",
+        "LEGITEXT000047690038",
+        "LEGITEXT000047093330",
+        "LEGITEXT000047969744",
+        "LEGITEXT000047974981",
+        "LEGITEXT000048068485",
+        "LEGITEXT000049145279",
+        "LEGITEXT000049145391",
+        "LEGITEXT000049157956",
+        "LEGITEXT000049158023",
+        "LEGITEXT000049158038",
+        "LEGITEXT000049903857",
+        "LEGITEXT000050981221",
+        "LEGITEXT000006069465",
+        "LEGITEXT000006060594",
+        "LEGITEXT000006061274",
+        "LEGITEXT000006061330",
+        "LEGITEXT000006061924",
+        "LEGITEXT000045282148",
+        "LEGITEXT000006062287",
+        "LEGITEXT000006062302",
+        "LEGITEXT000006063232",
+        "LEGITEXT000006063274",
+        "LEGITEXT000006064640",
+        "LEGITEXT000006065029",
+        "LEGITEXT000006065215",
+        "LEGITEXT000006077441",
+        "LEGITEXT000006080171",
+        "LEGITEXT000006082684",
+        "LEGITEXT000006067964",
+        "LEGITEXT000006067965",
+        "LEGITEXT000006067966",
+        "LEGITEXT000005615637",
+        "LEGITEXT000006082885",
+        "LEGITEXT000005615144",
+        "LEGITEXT000005619818",
+        "LEGITEXT000005617872",
+        "LEGITEXT000005617924",
+        "LEGITEXT000005624043",
+        "LEGITEXT000005624248",
+        "LEGITEXT000005624249",
+        "LEGITEXT000005624250",
+        "LEGITEXT000005626032",
+        "LEGITEXT000005626037",
+        "LEGITEXT000005626421",
+        "LEGITEXT000005628849",
+        "LEGITEXT000006054704",
+        "LEGITEXT000006053893",
+        "LEGITEXT000024323943",
+        "LEGITEXT000042181366",
+        "LEGITEXT000045199322",
+        "LEGITEXT000045289019",
+        "LEGITEXT000047242569",
+        "LEGITEXT000048083614",
+        "LEGITEXT000006068209",
+        "LEGITEXT000006068235",
+        "LEGITEXT000006068286",
+        "LEGITEXT000042419978",
+        "LEGITEXT000006068366",
+        "LEGITEXT000006068520",
+        "LEGITEXT000006068521",
+        "LEGITEXT000006068881",
+        "LEGITEXT000006069127",
+        "LEGITEXT000006082751",
+        "LEGITEXT000005616306",
+        "LEGITEXT000005621316",
+        "LEGITEXT000006069584",
+        "LEGITEXT000006051870",
+        "LEGITEXT000006051967",
+        "LEGITEXT000018832052",
+        "LEGITEXT000031322320",
+        "LEGITEXT000038748235",
+        "LEGITEXT000046369133",
+        "LEGITEXT000006069219",
+        "LEGITEXT000006069457",
+        "LEGITEXT000049259273",
+        "LEGITEXT000049270201",
+        "LEGITEXT000047572631",
+        "LEGITEXT000006069318",
+        "LEGITEXT000005628705",
+        "LEGITEXT000005631757",
+        "LEGITEXT000005632380",
+        "LEGITEXT000005632381",
+        "LEGITEXT000005773380",
+        "LEGITEXT000006053518",
+        "LEGITEXT000006055596",
+        "LEGITEXT000022455660",
+        "LEGITEXT000027416452",
+        "LEGITEXT000032205870",
+        "LEGITEXT000039696403",
+        "LEGITEXT000043886035",
+        "LEGITEXT000045134301",
+        "LEGITEXT000043404965",
+        "LEGITEXT000049164013",
+        "LEGITEXT000049291811",
+        "LEGITEXT000029333373",
+        "LEGITEXT000033423670",
+        "LEGITEXT000038262498",
+        "LEGITEXT000030249581",
+        "LEGITEXT000037286909",
+        "LEGITEXT000024961879",
+        "LEGITEXT000020606377",
+        "circ-42386",
+        "circ-45058"
+      ],
+      "_file": "sources.json"
+    }
+  ],
+  "update_report": null
+}

@@ -1,0 +1,126 @@
+{
+  "corpus": "mo-rules",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "mo-rules-55.05",
+      "corpus": "mo-rules",
+      "side": "mo",
+      "lang": "en",
+      "kind": "rule",
+      "num": "55.05",
+      "heading": "Pleading Setting Forth Claims for Relief Shall Contain What",
+      "path": [
+        {
+          "label": "Supreme Court Rules — Rules of Civil Procedure",
+          "id": "mo-rules-civ"
+        },
+        {
+          "label": "Rules Governing Civil Procedure in the Circuit Courts",
+          "id": "mo-rules-civ-circuit"
+        },
+        {
+          "label": "Rule 55 — Pleadings, Motions, and Hearings",
+          "id": "rule-55",
+          "url": "https://www.courts.mo.gov/page.jsp?id=199631"
+        }
+      ],
+      "text": "A pleading that sets forth a claim for relief, whether an original claim, counterclaim, cross-claim, or third-party claim shall contain (1) a short and plain statement of the facts showing that the pleader is entitled to relief and (2) a demand for judgment for the relief to which the pleader claims to be entitled.\nAn initial pleading filed in the family court division of the circuit court shall have attached thereto a certificate stating whether any other case involving any party to the action or any child of such party has been filed in the family court division and, if so, the certificate shall identify to the extent known by style and case number every other case in the family court division, whether pending or previously adjudicated, involving any such party or child.\nIf a recovery of money be demanded, the amount shall be stated, except that in actions for damages based upon an alleged tort, no dollar amount shall be included in the demand except to determine the proper jurisdictional authority, but the prayer shall be for such damages as are fair and reasonable. A party may argue at trial that a specific amount of damages should be awarded even though the prayer is for a fair and reasonable amount. Relief in the alternative or of several different types may be demanded.",
+      "in_force_since": "1995-01-01",
+      "status": "in force",
+      "applies_to": [
+        "MO"
+      ],
+      "official_url": "https://www.courts.mo.gov/page.jsp?id=199636",
+      "alt_urls": [
+        {
+          "label": "Rule 55 — all subdivisions (courts.mo.gov)",
+          "url": "https://www.courts.mo.gov/page.jsp?id=200636&up=199631"
+        }
+      ],
+      "source_ids": {
+        "courts_mo_page_id": 199636,
+        "first_adopted": "1973-01-19",
+        "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Amended May 22, 1987, by Laws 1976, p. 837, § 1, effective January 1, 1988, with notation that amendment may be followed after July 1, 1987; amended June 1, 1993, effective January 1, 1994; amended March 22, 1994, effective January 1, 1995.)",
+        "source_note": null,
+        "text_sha256": "36c79e4a673c850ec6989bf92e57528c89b790d646eb2ad6372fd985247bba72",
+        "text_source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)"
+      },
+      "issues": [
+        "mo.procedure.pleadings-motions",
+        "proc.mo.pleadings-motions.claims-defenses",
+        "mo-proc.pleadings"
+      ],
+      "xrefs": [],
+      "interps": [],
+      "axes": [
+        "procedure"
+      ],
+      "fixture": true
+    },
+    {
+      "id": "mo-rules-74.16",
+      "corpus": "mo-rules",
+      "side": "mo",
+      "lang": "en",
+      "kind": "rule",
+      "num": "74.16",
+      "heading": "Attorney Fees",
+      "path": [
+        {
+          "label": "Supreme Court Rules — Rules of Civil Procedure",
+          "id": "mo-rules-civ"
+        },
+        {
+          "label": "Rules Governing Civil Procedure in the Circuit Courts",
+          "id": "mo-rules-civ-circuit"
+        },
+        {
+          "label": "Rule 74 — Judgments, Orders and Proceedings Thereon",
+          "id": "rule-74",
+          "url": "https://www.courts.mo.gov/page.jsp?id=199740"
+        }
+      ],
+      "text": "(a) Claim to be made by motion. A claim for attorney fees and related nontaxable expenses must be made by motion filed under this Rule 74.16, unless the substantive law requires those fees to be proved at trial as an element of damages.\n\n(b) Motions and proceedings thereon.\n\n(1) Time for filing. A motion seeking attorney fees under this Rule 74.16 must be filed no later than 30 days after the entry of judgment on the underlying claim.\n(2) Contents of the motion. The motion must specify the statute, rule, or other ground entitling the movant to the award and state the amount sought.\n\n(3) Nature of the motion. Except for purposes of Rule 51.05(a), a motion filed under this Rule 74.16 is an independent action and not an authorized after-trial motion subject to Rules 78.04, 78.06, or 81.05.",
+      "in_force_since": "2022-07-01",
+      "status": "in force",
+      "applies_to": [
+        "MO"
+      ],
+      "official_url": "https://www.courts.mo.gov/page.jsp?id=199756",
+      "alt_urls": [
+        {
+          "label": "Rule 74 — all subdivisions (courts.mo.gov)",
+          "url": "https://www.courts.mo.gov/page.jsp?id=200636&up=199740"
+        }
+      ],
+      "source_ids": {
+        "courts_mo_page_id": 199756,
+        "first_adopted": "2021-10-26",
+        "history_note": "(Adopted October 26, 2021, effective July 1, 2022.)",
+        "source_note": null,
+        "text_sha256": "f3b0e477c8ca6bb922b2721305c4280896aee246847b8468b697c9818c233a23",
+        "text_source": "Perplexity search-index copy of the courts.mo.gov page (pplx_sdk.content.snippets)"
+      },
+      "issues": [
+        "mo.procedure.judgments",
+        "proc.mo.judgments.entry-finality",
+        "mo-proc.judgments.fees"
+      ],
+      "xrefs": [
+        "mo-rules-51.05",
+        "mo-rules-78.04",
+        "mo-rules-78.06",
+        "mo-rules-81.05"
+      ],
+      "interps": [],
+      "axes": [
+        "family",
+        "procedure"
+      ],
+      "fixture": true
+    }
+  ]
+}

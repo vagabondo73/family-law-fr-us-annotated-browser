@@ -1,0 +1,70 @@
+{
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus. Equivalence qualifications are illustrative, not reviewed.",
+  "label_fr": "Correspondances CPC ↔ Missouri (FIXTURE)",
+  "label_en": "CPC ↔ Missouri correspondence (FIXTURE)",
+  "axis": "procedure",
+  "generated": "2026-09-30",
+  "entries": [
+    {
+      "cpc_article": "56",
+      "cpc_legiarti": "LEGIARTI000006410156",
+      "cpc_url": "https://vagabondo73.github.io/cpc-annotated-browser/content/article-LEGIARTI000006410156.html",
+      "legifrance_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410156",
+      "mo_norms": [
+        "mo-rules-55.05"
+      ],
+      "equivalence": "partial",
+      "note_fr": "FIXTURE — contenu de l'acte introductif (assignation) / contenu de la petition.",
+      "note_en": "FIXTURE — contents of the originating process (assignation) vs. contents of the petition.",
+      "frcp": [
+        {
+          "rule": "8",
+          "url": "https://vagabondo73.github.io/frcp-annotated-browser/content/provision-frcp-8.html"
+        }
+      ]
+    },
+    {
+      "cpc_article": "700",
+      "cpc_legiarti": "LEGIARTI000006411119",
+      "cpc_url": "https://vagabondo73.github.io/cpc-annotated-browser/content/article-LEGIARTI000006411119.html",
+      "legifrance_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411119",
+      "mo_norms": [
+        "mo-rules-74.16"
+      ],
+      "equivalence": "functional",
+      "note_fr": "FIXTURE — frais non compris dans les dépens / attorney fees (règle américaine : chaque partie supporte ses honoraires sauf texte).",
+      "note_en": "FIXTURE — non-taxable costs vs. attorney fees (American rule: each party bears its own fees absent statute or contract).",
+      "frcp": [
+        {
+          "rule": "54",
+          "url": "https://vagabondo73.github.io/frcp-annotated-browser/content/provision-frcp-54.html"
+        }
+      ]
+    },
+    {
+      "cpc_article": "1107",
+      "cpc_legiarti": null,
+      "cpc_url": null,
+      "legifrance_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053188",
+      "mo_norms": [
+        "mo-rsmo-452.310"
+      ],
+      "equivalence": "partial",
+      "note_fr": "FIXTURE — acte introductif de l'instance en divorce / petition for dissolution.",
+      "note_en": "FIXTURE — originating act of divorce proceedings vs. petition for dissolution of marriage.",
+      "frcp": []
+    },
+    {
+      "cpc_article": "1",
+      "cpc_legiarti": "LEGIARTI000006410094",
+      "cpc_url": "https://vagabondo73.github.io/cpc-annotated-browser/content/article-LEGIARTI000006410094.html",
+      "legifrance_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410094",
+      "mo_norms": [],
+      "equivalence": "none",
+      "note_fr": "FIXTURE — exemple d'article sans correspondant enregistré.",
+      "note_en": "FIXTURE — example of an article with no recorded counterpart.",
+      "frcp": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "corpus": "us-usc",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "us-usc-1-7",
+      "corpus": "us-usc",
+      "side": "us",
+      "lang": "en",
+      "kind": "section",
+      "num": "1 U.S.C. § 7",
+      "heading": "Marriage",
+      "path": [
+        {
+          "label": "Title 1 — General Provisions",
+          "id": "t1"
+        },
+        {
+          "label": "Chapter 1 — Rules of Construction"
+        }
+      ],
+      "text": "(a) For the purposes of any Federal law, rule, or regulation in which marital status is a factor, an individual shall be considered married if that individual's marriage is between 2 individuals and is valid in the State where the marriage was entered into or, in the case of a marriage entered into outside any State, if the marriage is between 2 individuals and is valid in the place where entered into and the marriage could have been entered into in a State.\n\n(b) In this section, the term \"State\" means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.\n\n(c) For purposes of subsection (a), in determining whether a marriage is valid in a State or the place where entered into, if outside of any State, only the law of the jurisdiction applicable at the time the marriage was entered into may be considered.",
+      "in_force_since": "2022-12-13",
+      "status": "in force",
+      "applies_to": [
+        "US"
+      ],
+      "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section7&num=0&edition=prelim",
+      "alt_urls": [
+        {
+          "label": "GovInfo (Pub. L. 117-228)",
+          "url": "https://www.govinfo.gov/app/details/PLAW-117publ228"
+        }
+      ],
+      "source_ids": {
+        "usc": "1 USC 7"
+      },
+      "issues": [
+        "us.marriage.recognition"
+      ],
+      "xrefs": [],
+      "interps": [],
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}

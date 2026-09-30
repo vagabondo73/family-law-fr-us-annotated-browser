@@ -1,0 +1,41 @@
+{
+  "corpus": "us-scotus",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "interps": [
+    {
+      "id": "us-scotus-monasky-v-taglieri-2020",
+      "authority": "us-scotus",
+      "court": "Supreme Court of the United States",
+      "date": "2020-02-25",
+      "number": "No. 18-935",
+      "citation": "Monasky v. Taglieri, 589 U.S. 68 (2020)",
+      "publication": "published",
+      "official_url": "https://www.supremecourt.gov/opinions/19pdf/18-935_e1pf.pdf",
+      "alt_urls": [
+        {
+          "label": "CourtListener",
+          "url": "https://www.courtlistener.com/?q=%22Monasky+v.+Taglieri%22"
+        }
+      ],
+      "summary": "A child's habitual residence under Article 3 of the Hague Convention depends on the totality of the circumstances; an actual agreement between the parents is not required. (Non-official summary — FIXTURE.)",
+      "summary_is_official": false,
+      "excerpts": [
+        "We hold that a child's habitual residence depends on the totality of the circumstances specific to the case."
+      ],
+      "norms": [
+        {
+          "norm": "int-hcch-1980-3",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "us.hague.habitual-residence"
+      ],
+      "lang": "en",
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}

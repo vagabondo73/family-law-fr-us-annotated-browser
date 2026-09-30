@@ -1,0 +1,73 @@
+[
+  {
+    "id": "legi-code-civil",
+    "label": "Code civil (LEGI)",
+    "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721",
+    "channel": "git:https://git.tricoteuses.fr/codes/code_civil.git",
+    "check": "git-head",
+    "corpora": [
+      "fr-cc"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null,
+    "fixture": true
+  },
+  {
+    "id": "dila-cass",
+    "label": "Cour de cassation (DILA CASS)",
+    "official": "https://www.legifrance.gouv.fr/search/juri",
+    "channel": "git:https://git.tricoteuses.fr/dila/cass.git",
+    "check": "git-head",
+    "corpora": [
+      "fr-cass"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null,
+    "fixture": true
+  },
+  {
+    "id": "revisor-452-375",
+    "label": "RSMo 452.375 (Revisor of Missouri)",
+    "official": "https://revisor.mo.gov/main/OneSection.aspx?section=452.375",
+    "channel": "https://revisor.mo.gov/main/OneSection.aspx?section=452.375",
+    "check": "http-hash",
+    "corpora": [
+      "mo-rsmo"
+    ],
+    "norm_ids": [
+      "mo-rsmo-452.375"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null,
+    "fixture": true
+  },
+  {
+    "id": "hcch-1980-status",
+    "label": "HCCH 1980 status table",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+    "channel": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "norm_ids": [
+      "int-hcch-1980-3"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null,
+    "fixture": true
+  },
+  {
+    "id": "legifrance-api",
+    "label": "Légifrance API (PISTE) — article versions",
+    "official": "https://www.legifrance.gouv.fr",
+    "channel": "api:legifrance",
+    "check": "api",
+    "corpora": [
+      "fr-cc"
+    ],
+    "last_checked": null,
+    "last_version": null,
+    "fixture": true
+  }
+]

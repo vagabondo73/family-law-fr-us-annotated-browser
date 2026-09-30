@@ -1,0 +1,41 @@
+{
+  "section": "210.165",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.165",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "11318",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.165&bid=11318"
+  },
+  "versions": [
+    {
+      "effective": "2014-08-28",
+      "end": "2017-01-01",
+      "bid": "11319",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.165&bid=11319",
+      "heading": "Until December 31, 2016 — Penalty for violation.",
+      "text": "1. Any person violating any provision of sections 210.110 to 210.165 is guilty of a class A misdemeanor.\n\n2. Any person who intentionally files a false report of child abuse or neglect shall be guilty of a class A misdemeanor.\n\n3. Every person who has been previously convicted of making a false report to the children's division or its predecessor agency, the division of family services, and who is subsequently convicted of making a false report under subsection 2 of this section is guilty of a class D felony and shall be punished as provided by law.\n\n4. Evidence of prior convictions of false reporting shall be heard by the court, out of the hearing of the jury, prior to the submission of the case to the jury, and the court shall determine the existence of the prior convictions.",
+      "history_note": "(L. 1975 H.B. 578 § 12, A.L. 1982 H.B. 1171, et al., A.L. 1986 S.B. 470, A.L. 2014 H.B. 1299 Revision)",
+      "effdt_raw": "Effective - 28 Aug 2014, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3"
+      ]
+    },
+    {
+      "effective": "1986-08-13",
+      "end": "2014-08-28",
+      "bid": "58640",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.165&bid=58640",
+      "heading": "Penalty for violation.",
+      "text": "1. Any person violating any provision of sections 210.110 to 210.165 is guilty of a class A misdemeanor.\n\n2. Any person who intentionally files a false report of child abuse or neglect shall be guilty of a class A misdemeanor.\n\n3. Every person who has been previously convicted of making a false report to the division of family services and who is subsequently convicted of making a false report under subsection 2 of this section is guilty of a class D felony and shall be punished as provided by law.\n\n4. Evidence of prior convictions of false reporting shall be heard by the court, out of the hearing of the jury, prior to the submission of the case to the jury, and the court shall determine the existence of the prior convictions.",
+      "history_note": "(L. 1975 H.B. 578 § 12, A.L. 1982 H.B. 1171, et al., A.L. 1986 S.B. 470)",
+      "effdt_raw": "Effective - 13 Aug 1986, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "uscode-house",
+    "label": "United States Code (Office of the Law Revision Counsel, prelim edition)",
+    "official": "https://uscode.house.gov/",
+    "channel": "http:https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title{T}-section{S}&num=0&edition=prelim",
+    "check": "http-hash",
+    "corpora": [
+      "us-usc"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "b5ab75b8ba93bc87"
+  },
+  {
+    "id": "ecfr",
+    "label": "Electronic Code of Federal Regulations (eCFR, versioner API)",
+    "official": "https://www.ecfr.gov/",
+    "channel": "api:https://www.ecfr.gov/api/versioner/v1/full/{date}/title-{T}.xml?part={P}",
+    "check": "api",
+    "corpora": [
+      "us-cfr"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "e94ebae5c45e3383"
+  },
+  {
+    "id": "us-constitution",
+    "label": "Constitution of the United States (National Archives transcription; Constitution Annotated)",
+    "official": "https://constitution.congress.gov/constitution/",
+    "channel": "http:https://www.archives.gov/founding-docs/constitution-transcript",
+    "check": "http-hash",
+    "corpora": [
+      "us-const"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "d2197ce5b702666d"
+  },
+  {
+    "id": "cap-static",
+    "label": "Caselaw Access Project static bulk (Harvard LIL) \u2014 U.S. Reports 1\u2013572, F.2d, F.3d 1\u2013936 (reading channel)",
+    "official": "https://static.case.law/",
+    "channel": "http:https://static.case.law/{reporter}/{volume}.zip",
+    "check": "http-hash",
+    "corpora": [
+      "us-scotus",
+      "us-ca8"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "static (frozen dataset)"
+  },
+  {
+    "id": "courtlistener-search",
+    "label": "CourtListener REST API v4 search (Free Law Project) \u2014 enumeration of SCOTUS >= 2014-06 and CA8 >= 2019",
+    "official": "https://www.courtlistener.com/",
+    "channel": "api:https://www.courtlistener.com/api/rest/v4/search/?type=o&court=scotus|ca8&stat_Precedential=on&filed_after=\u2026",
+    "check": "api",
+    "corpora": [
+      "us-scotus",
+      "us-ca8"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "0 candidates"
+  },
+  {
+    "id": "courtlistener-bulk",
+    "label": "CourtListener quarterly bulk data (dockets, opinion-clusters, citations CSV; public S3, no quota)",
+    "official": "https://www.courtlistener.com/help/api/bulk-data/",
+    "channel": "http:https://com-courtlistener-storage.s3-us-west-2.amazonaws.com/bulk-data/{table}-{YYYY-MM-DD}.csv.bz2",
+    "check": "http-hash",
+    "corpora": [
+      "us-ca8"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "2026-06-30 snapshot"
+  },
+  {
+    "id": "supremecourt-boundvolumes",
+    "label": "Supreme Court \u2014 U.S. Reports bound volumes (PDF) and preliminary prints",
+    "official": "https://www.supremecourt.gov/opinions/USReports.aspx",
+    "channel": "http:https://www.supremecourt.gov/opinions/boundvolumes/{vol}BV.pdf",
+    "check": "http-hash",
+    "corpora": [
+      "us-scotus"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "vols 573-585"
+  },
+  {
+    "id": "supremecourt-gov",
+    "label": "Supreme Court of the United States \u2014 slip opinions / bound volumes",
+    "official": "https://www.supremecourt.gov/opinions/",
+    "channel": "http:https://www.supremecourt.gov/opinions/slipopinion/{term} (lists -> {term}pdf/*.pdf, preliminaryprint/*.pdf#page=N)",
+    "check": "http-hash",
+    "corpora": [
+      "us-scotus"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null
+  },
+  {
+    "id": "loc-usreports",
+    "label": "Library of Congress \u2014 United States Reports (vols. 1\u2013578)",
+    "official": "https://www.loc.gov/collections/united-states-reports/",
+    "channel": "link:https://www.loc.gov/item/usrep{VVV}{PPP}/",
+    "check": "http-hash",
+    "corpora": [
+      "us-scotus"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null
+  },
+  {
+    "id": "ca8-opinions",
+    "label": "U.S. Court of Appeals for the Eighth Circuit \u2014 opinions (PDF)",
+    "official": "https://www.ca8.uscourts.gov/opinions",
+    "channel": "http:https://ecf.ca8.uscourts.gov/opndir/{YY}/{MM}/{docket}P.pdf",
+    "check": "http-hash",
+    "corpora": [
+      "us-ca8"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null
+  }
+]

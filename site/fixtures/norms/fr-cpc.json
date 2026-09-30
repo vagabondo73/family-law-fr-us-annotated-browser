@@ -1,0 +1,76 @@
+{
+  "corpus": "fr-cpc",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "fr-cpc-1107",
+      "corpus": "fr-cpc",
+      "side": "fr",
+      "lang": "fr",
+      "kind": "article",
+      "num": "1107",
+      "heading": "La demande et l'instance en divorce",
+      "path": [
+        {
+          "label": "Livre III : Dispositions particulières à certaines matières",
+          "id": "livre_iii"
+        },
+        {
+          "label": "Titre Ier : Les personnes",
+          "id": "titre_ier"
+        },
+        {
+          "label": "Chapitre V : La procédure en matière familiale",
+          "id": "chapitre_v"
+        },
+        {
+          "label": "Section II : Le divorce et la séparation de corps judiciaires",
+          "id": "section_ii"
+        },
+        {
+          "label": "Sous-section III : Les autres procédures de divorce judiciaire",
+          "id": "sous-section_iii"
+        },
+        {
+          "label": "Paragraphe 1 : La demande et l'instance en divorce",
+          "id": "paragraphe_1"
+        }
+      ],
+      "text": "La demande en divorce est formée par assignation ou par requête remise ou adressée conjointement par les parties au greffe et contient, à peine de nullité, les lieu, jour et heure de l'audience d'orientation et sur mesures provisoires.\n\nCette date est communiquée par la juridiction au demandeur selon des modalités définies par arrêté du garde des sceaux.\n\nA peine d'irrecevabilité, l'acte introductif d'instance n'indique ni le fondement juridique de la demande en divorce lorsqu'il relève de l'article 242 du code civil, ni les faits à l'origine de celle-ci.\n\nLorsque le demandeur n'a pas indiqué le fondement de la demande en divorce dans l'acte introductif d'instance, le défendeur ne peut lui-même le faire avant les premières conclusions au fond du demandeur ou, à défaut, avant l'expiration du délai fixé par le juge de la mise en état par injonction de conclure.",
+      "in_force_since": "2023-01-26",
+      "status": "en vigueur",
+      "applies_to": [
+        "FR"
+      ],
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053188",
+      "alt_urls": [
+        {
+          "label": "Tricoteuses",
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000047053188"
+        },
+        {
+          "label": "Tricoteuses git",
+          "url": "https://git.tricoteuses.fr/codes/code_de_procedure_civile/src/branch/main/livre_iii/titre_ier/chapitre_v/section_ii/sous-section_iii/paragraphe_1/article_1107.md"
+        }
+      ],
+      "source_ids": {
+        "legiarti": "LEGIARTI000047053188",
+        "legitext": "LEGITEXT000006070716"
+      },
+      "issues": [
+        "fr.divorce.procedure",
+        "fr.procedure-civile-famille.generale",
+        "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
+      ],
+      "xrefs": [],
+      "interps": [],
+      "axes": [
+        "family",
+        "procedure"
+      ],
+      "fixture": true
+    }
+  ]
+}

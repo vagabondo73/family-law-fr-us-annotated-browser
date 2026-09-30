@@ -1,0 +1,28 @@
+{
+  "section": "210.622",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.622",
+  "current": {
+    "effective": "1985-08-28",
+    "bid": "33099",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.622&bid=33099"
+  },
+  "versions": [],
+  "pending_or_concurrent": [
+    {
+      "effective": "2007-08-28",
+      "end": null,
+      "bid": "11395",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.622&bid=11395",
+      "heading": "Emergency placement of abused or neglected children across state lines, approval required, when.",
+      "text": "Notwithstanding the provisions of section 210.620, the children's division may enter into an agreement with a similar agency in any state adjoining Missouri that provides for the emergency placement of abused or neglected children across state lines, without the prior approval required by the interstate compact. A request for approval pursuant to section 210.620 shall be initiated if the placement extends beyond thirty days.",
+      "history_note": "(L. 1985 H.B. 711, A.L. 2007 S.B. 84)",
+      "effdt_raw": "Effective - 28 Aug 2007, 2 histories",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ],
+      "note": "concurrent version without end date (contingent / multiple enactment) — see revisor footnote"
+    }
+  ],
+  "generated": "2026-09-30"
+}

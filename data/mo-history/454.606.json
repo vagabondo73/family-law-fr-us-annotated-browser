@@ -1,0 +1,28 @@
+{
+  "section": "454.606",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.606",
+  "current": {
+    "effective": "2003-08-28",
+    "bid": "25286",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.606&bid=25286"
+  },
+  "versions": [
+    {
+      "effective": "2002-08-28",
+      "end": "2003-08-28",
+      "bid": "53196",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.606&bid=53196",
+      "heading": "Notice to employer or union, National Medical Support Notice to be used — division duties.",
+      "text": "1. In all IV-D cases in which income withholding for child support is to be initiated on the effective date of the order pursuant to section 452.350, RSMo, and section 454.505, respectively, the circuit clerk or division, as appropriate, shall send a notice to the employer or union of the parent who has been ordered to provide the health benefit plan coverage at the same time the support order withholding notice is issued. In cases in which the division enforces an order to obtain health benefit plan coverage, it also shall send a notice to the employer or union of the parent who has been ordered to provide the health benefit plan coverage.\n\n2. The notice shall be sent to the employer or union by certified mail, return receipt requested.\n\n3. The division shall use the National Medical Support Notice required by 42 U.S.C. Section 666(a)(19) and 45 C.F.R. Section 303.32 to enforce health benefit plan coverage under this chapter. All employers, unions, and plan administrators shall comply with the terms of the National Medical Support Notice, including the instructions therein, whether issued by the division or the IV-D agency of another state which appears regular on its face. The division shall:\n\n(1) Transfer the National Medical Support Notice to an employer within two business days after the date of entry of an employee who is an obligor in a IV-D case in the state directory of new hires; and\n\n(2) Promptly notify the appropriate employer or union if a current order for medical support for which the division is responsible is no longer in effect.\n\n4. The notice issued by the circuit clerk shall contain, at a minimum, the following information:\n\n(1) The parent's name and Social Security number;\n\n(2) A statement that the parent is required to provide and maintain health benefit plan coverage for a dependent minor child; and\n\n(3) The name, date of birth, and Social Security number, if available, for each child.\n\n5. The notice to withhold sufficient funds from the earnings due the obligor to cover employee contributions or premiums, when necessary to comply with the order to provide health benefit plan coverage, is binding on current and successor employers for current and subsequent periods of employment. Such notice shall continue until further notice by the court or division.\n\n6. The withholding of health benefit plan employee contributions or premiums from income, if required to comply with the order, shall not be held in abeyance pending the outcome of any hearing provided pursuant to section 454.609.",
+      "history_note": "(L. 1993 S.B. 253 § 5, A.L. 2002 S.B. 923, et al.)",
+      "effdt_raw": "Effective - 28 Aug 2002, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

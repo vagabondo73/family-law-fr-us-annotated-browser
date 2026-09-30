@@ -1,0 +1,15 @@
+{
+  "corpus": "mo-common",
+  "norms_expected": 22,
+  "norms_done": 22,
+  "interps_candidates": 913,
+  "interps_screened": null,
+  "interps_included": 54,
+  "method": "Doctrine phrase searches (raw/moj/common_q*.json) over all local Missouri opinion texts (CAP + CourtListener); leading/recent statements selected; every quoted segment of summary_rule machine-verified verbatim against the source texts (scripts/moj_common_check.py).",
+  "gaps": [
+    "Rule set is a curated selection of recurring doctrines (13 rules), not an exhaustive restatement of Missouri family common law.",
+    "Doctrines governed by statute (e.g. non-modifiability of property division, \u00a7 452.330.5) are left to mo-rsmo interpretations.",
+    "Rule 54.06(b) (long-arm in dissolution cases) is not in data/norms/mo-rules.json; personal-jurisdiction rule cites it via case language only."
+  ],
+  "updated": "2026-09-30T16:45:58+00:00"
+}

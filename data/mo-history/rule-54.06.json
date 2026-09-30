@@ -1,0 +1,51 @@
+{
+  "rule": "54.06",
+  "official_url": "https://www.courts.mo.gov/page.jsp?id=199614",
+  "current": {
+    "effective": "2003-01-01",
+    "text_sha256": "d4b5610c00ca7e1587375345e48d2e1f8e0ecc254d882133afd823be8fde3888"
+  },
+  "chronology": [
+    {
+      "adopted_or_amended": "1973-01-19",
+      "effective": "1973-09-01"
+    },
+    {
+      "adopted_or_amended": "1973-05-18",
+      "effective": "1974-01-01"
+    },
+    {
+      "adopted_or_amended": "1977-04-08",
+      "effective": "1978-01-01"
+    },
+    {
+      "adopted_or_amended": "1989-06-10",
+      "effective": "1990-01-01"
+    },
+    {
+      "adopted_or_amended": "1989-06-16",
+      "effective": "1990-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-06-01",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1993-09-28",
+      "effective": "1994-01-01"
+    },
+    {
+      "adopted_or_amended": "1999-04-27",
+      "effective": "2000-01-01"
+    },
+    {
+      "adopted_or_amended": "2002-02-27",
+      "effective": "2003-01-01"
+    }
+  ],
+  "history_note": "(Adopted January 19, 1973, effective September 1, 1973. Amended May 18, 1973, effective January 1, 1974; amended April 8, 1977, effective January 1, 1978; amended June 10, 1989, effective January 1, 1990; amended June 16, 1989, effective January 1, 1990; amended June 1, 1993, effective January 1, 1994; amended September 28, 1993, effective January 1, 1994; amended April 27, 1999, effective January 1, 2000; amended February 27, 2002, effective January 1, 2003.)",
+  "versions": [],
+  "pending": [],
+  "note": "Prior rule texts are not published on courts.mo.gov rule pages; the chronology comes from the Court's history note. For the SCOPE §2(b) test, a decision predating the last effective date requires comparison with the amending order (courts.mo.gov 'Orders For Rules', page.jsp?id=128693; Missouri Bar copies) — not yet ingested.",
+  "generated": "2026-09-30"
+}

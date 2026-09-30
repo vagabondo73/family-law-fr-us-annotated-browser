@@ -1,0 +1,14 @@
+{
+  "corpus": "fr-cc",
+  "norms_expected": 4,
+  "norms_done": 4,
+  "interps_candidates": 2,
+  "interps_screened": 2,
+  "interps_included": 2,
+  "method": "FIXTURE — hand-picked sample",
+  "gaps": [
+    "Fixture set: not exhaustive by design."
+  ],
+  "updated": "2026-09-30",
+  "fixture": true
+}

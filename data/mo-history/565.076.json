@@ -1,0 +1,43 @@
+{
+  "section": "565.076",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076",
+  "current": {
+    "effective": "2017-08-28",
+    "bid": "34706",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076&bid=34706"
+  },
+  "versions": [
+    {
+      "effective": "2017-01-01",
+      "end": "2017-08-28",
+      "bid": "29296",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076&bid=29296",
+      "heading": "Domestic assault in the fourth degree, penalty.",
+      "text": "1. A person commits the offense of domestic assault in the fourth degree if the act involves a domestic victim, as the term \"domestic victim\" is defined under section 565.002, and:\n\n(1) The person attempts to cause or recklessly causes physical injury, physical pain, or illness to such domestic victim;\n\n(2) With criminal negligence the person causes physical injury to such domestic victim by means of a deadly weapon or dangerous instrument;\n\n(3) The person purposely places such domestic victim in apprehension of immediate physical injury by any means;\n\n(4) The person recklessly engages in conduct which creates a substantial risk of death or serious physical injury to such domestic victim;\n\n(5) The person knowingly causes physical contact with such domestic victim knowing he or she will regard the contact as offensive; or\n\n(6) The person knowingly attempts to cause or causes the isolation of such domestic victim by unreasonably and substantially restricting or limiting his or her access to other persons, telecommunication devices or transportation for the purpose of isolation.\n\n2. The offense of domestic assault in the fourth degree is a class A misdemeanor, unless the person has previously been found guilty of the offense of assault of a domestic victim two or more times, in which case it is a class E felony. The offenses described in this subsection may be against the same domestic victim or against different domestic victims.",
+      "history_note": "(L. 2014 S.B. 491)",
+      "effdt_raw": "Effective - 01 Jan 2017, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-07-01",
+      "end": null,
+      "bid": "60740",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.076&bid=60740",
+      "heading": "Domestic assault in the fourth degree, penalty.",
+      "text": "1. A person commits the offense of domestic assault in the fourth degree if the act involves a domestic victim, as the term \"domestic victim\" is defined under section 565.002, and:\n\n(1) The person attempts to cause or recklessly causes bodily harm to such domestic victim;\n\n(2) With criminal negligence the person causes bodily harm to such domestic victim by means of a deadly weapon or dangerous instrument;\n\n(3) The person purposely places such domestic victim in apprehension of immediate bodily harm by any means;\n\n(4) The person recklessly engages in conduct which creates a substantial risk of death or great bodily harm to such domestic victim;\n\n(5) The person knowingly causes physical contact with such domestic victim knowing he or she will regard the contact as offensive; or\n\n(6) The person knowingly attempts to cause or causes the isolation of such domestic victim by unreasonably and substantially restricting or limiting his or her access to other persons, telecommunication devices or transportation for the purpose of isolation.\n\n2. The offense of domestic assault in the fourth degree is a class A misdemeanor, unless the person has previously been found guilty of the offense of domestic assault, of any assault offense under this chapter, or of any offense against a domestic victim committed in violation of any county or municipal ordinance in any state, any state law, any federal law, or any military law which if committed in this state two or more times would be a violation of this section, in which case it is a class E felony. The offenses described in this subsection may be against the same domestic victim or against different domestic victims.",
+      "history_note": "(L. 2014 S.B. 491, A.L. 2017 S.B. 34, A.L. 2026 H.B. 2637 & 3155 merged with S.B. 999)",
+      "effdt_raw": "Effective - 01 Jul 2027, 3 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

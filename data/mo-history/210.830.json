@@ -1,0 +1,41 @@
+{
+  "section": "210.830",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.830",
+  "current": {
+    "effective": "2014-08-28",
+    "bid": "11419",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.830&bid=11419"
+  },
+  "versions": [
+    {
+      "effective": "1998-08-28",
+      "end": "2014-08-28",
+      "bid": "58670",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.830&bid=58670",
+      "heading": "Parties — guardian ad litem, when appointed.",
+      "text": "The child shall be made a party to any action commenced under sections 210.817 to 210.852. If he is a minor, he may be represented by a next friend appointed for him for any such action. The child's mother or father or the division of child support enforcement or any person having physical or legal custody of the child may represent him as his next friend. A guardian ad litem shall be appointed for the child only if child abuse or neglect is alleged, or if the child is named as a defendant, or if the court determines that the interests of the child and his next friend are in conflict. The natural mother, each man presumed to be the father under section 210.822, and each man alleged to be the natural father, shall be made parties or, if not subject to the jurisdiction of the court, shall be given notice of the action in a manner prescribed by the court and an opportunity to be heard. The court may align the parties.",
+      "history_note": "(L. 1987 S.B. 328 § 9, A.L. 1993 S.B. 253, A.L. 1998 S.B. 910)",
+      "effdt_raw": "Effective - 28 Aug 1998, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    },
+    {
+      "effective": "1986-08-13",
+      "end": "1986-08-13",
+      "bid": "41285",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=210.830&bid=41285",
+      "heading": "",
+      "text": "210.830. (Repealed L. 1986 H.B. 953 § 1)",
+      "history_note": "",
+      "effdt_raw": "Effective - 13 Aug 1986, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

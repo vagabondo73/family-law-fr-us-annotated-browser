@@ -1,0 +1,27 @@
+{
+  "section": "513.440",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.440",
+  "current": {
+    "effective": "2012-08-28",
+    "bid": "27725",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.440&bid=27725"
+  },
+  "versions": [
+    {
+      "effective": "2004-08-28",
+      "end": "2012-08-28",
+      "bid": "52426",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.440&bid=52426",
+      "heading": "Other property exempt — provisions — exceptions.",
+      "text": "Each head of a family may select and hold, exempt from execution, any other property, real, personal or mixed, or debts and wages, not exceeding in value the amount of one thousand two hundred fifty dollars plus three hundred fifty dollars for each of such person's unmarried dependent children under the age of eighteen years or dependent as defined by the Internal Revenue Code of 1986, as amended, determined to be disabled by the Social Security Administration, except ten percent of any debt, income, salary or wages due such head of a family.",
+      "history_note": "(RSMo 1939 § 1327, A.L. 1959 S.B. 238, A.L. 1982 S.B. 490, A.L. 2004 H.B. 959 merged with S.B. 1211)",
+      "effdt_raw": "Effective - 28 Aug 2004, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "0"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

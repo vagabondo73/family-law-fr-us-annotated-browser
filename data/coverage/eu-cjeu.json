@@ -1,0 +1,381 @@
+{
+  "corpus": "eu-cjeu",
+  "norms_expected": 0,
+  "norms_done": 0,
+  "interps_candidates": 684,
+  "interps_screened": 423,
+  "interps_included": 142,
+  "basis_links": {
+    "a": 172,
+    "b": 80
+  },
+  "interps_with_basis_b": 49,
+  "method": "Candidates: (1) Cellar SPARQL — case-law works (CJ/CO) with cdm:case-law_interpretes_resource_legal or cdm:work_cites_work to the included acts and their predecessors (2201/2003, 1347/2000, 1393/2007, 1348/2000, 1206/2001, 44/2001); (2) independent check: InfoCuria (official CURIA search back-end) exact-phrase full-text search per instrument number, Court of Justice, with a second pass listing all decisions of every matched case (scripts/int_cjeu_infocuria.py); decisions missing from (1) added (raw/int/cjeu/candidates_extra.json). Screening: French text of each judgment/order from Cellar; operative part parsed for article references; orders without interpretive ruling (rectification, removal) excluded; Brussels I/Ibis only art 1 (family exclusions); Directive 2004/38 only family-member provisions; Charter arts 7/9/24/33 only alongside an included act. Basis a if decision >= D(current article). Predecessor provisions: decisive test = manual functional review of old vs new provision, the recast correlation table and recital 3 of 2019/1111 (scripts/int_cjeu_review.py) — include as basis b with specific French justification or exclude with logged reason (raw/int/cjeu/screen_ledger.json functional_review_log); difflib similarity is informative only. summary = operative part verbatim; titrage = official keywords.",
+  "completeness_check": {
+    "infocuria_per_term": {
+      "2201/2003": {
+        "cases_matching": 127,
+        "cases_read": 127
+      },
+      "2019/1111": {
+        "cases_matching": 18,
+        "cases_read": 18
+      },
+      "1347/2000": {
+        "cases_matching": 111,
+        "cases_read": 111
+      },
+      "règlement (CE) no 4/2009": {
+        "cases_matching": 39,
+        "cases_read": 39
+      },
+      "règlement (CE) n° 4/2009": {
+        "cases_matching": 19,
+        "cases_read": 19
+      },
+      "Regulation (EC) No 4/2009": {
+        "cases_matching": 49,
+        "cases_read": 49
+      },
+      "1259/2010": {
+        "cases_matching": 21,
+        "cases_read": 21
+      },
+      "2016/1103": {
+        "cases_matching": 18,
+        "cases_read": 18
+      },
+      "2016/1104": {
+        "cases_matching": 9,
+        "cases_read": 9
+      },
+      "650/2012": {
+        "cases_matching": 52,
+        "cases_read": 52
+      },
+      "2016/1191": {
+        "cases_matching": 5,
+        "cases_read": 5
+      },
+      "1393/2007": {
+        "cases_matching": 48,
+        "cases_read": 48
+      },
+      "2020/1784": {
+        "cases_matching": 9,
+        "cases_read": 9
+      },
+      "1348/2000": {
+        "cases_matching": 52,
+        "cases_read": 52
+      },
+      "1206/2001": {
+        "cases_matching": 23,
+        "cases_read": 23
+      },
+      "2020/1783": {
+        "cases_matching": 3,
+        "cases_read": 3
+      },
+      "2003/86": {
+        "cases_matching": 109,
+        "cases_read": 109
+      }
+    },
+    "cases_matched": 360,
+    "decisions_found": 307,
+    "already_in_cellar_candidates": 204,
+    "added": [
+      "62003CJ0522",
+      "62004CJ0414",
+      "62005CJ0001",
+      "62005CJ0325",
+      "62006CJ0177",
+      "62006CO0175",
+      "62006CO0323",
+      "62007CJ0484",
+      "62007CO0087",
+      "62007CO0192",
+      "62008CJ0050",
+      "62008CJ0051",
+      "62009CJ0465",
+      "62009CO0465",
+      "62010CJ0412",
+      "62010CO0296",
+      "62011CJ0004",
+      "62011CJ0648",
+      "62011CO0648",
+      "62012CJ0306",
+      "62012CO0513",
+      "62013CJ0469",
+      "62013CJ0491",
+      "62013CJ0554",
+      "62013CJ0579",
+      "62013CO0436",
+      "62013CO0442",
+      "62014CJ0333",
+      "62014CJ0438",
+      "62014CJ0471",
+      "62014CJ0511",
+      "62014CJ0528",
+      "62014CO0196",
+      "62014CO0489",
+      "62014CO0527",
+      "62015CJ0189",
+      "62015CJ0541",
+      "62015CO0215",
+      "62015CO0492",
+      "62016CO0283",
+      "62017CJ0034",
+      "62017CJ0123",
+      "62017CJ0545",
+      "62017CJ0582",
+      "62017CO0111",
+      "62018CJ0555",
+      "62018CJ0615",
+      "62018CJ0667",
+      "62018CO0129",
+      "62019CJ0193",
+      "62019CJ0768",
+      "62019CJ0921",
+      "62019CO0250",
+      "62019CO0919",
+      "62020CJ0091",
+      "62020CJ0109",
+      "62020CJ0152",
+      "62020CJ0338",
+      "62020CJ0341",
+      "62020CJ0350",
+      "62020CJ0459",
+      "62020CJ0483",
+      "62020CJ0720",
+      "62021CJ0057",
+      "62021CJ0163",
+      "62021CJ0449",
+      "62021CJ0650",
+      "62021CJ0663",
+      "62021CJ0700",
+      "62021CO0504",
+      "62021CO0614",
+      "62021CO0722",
+      "62022CJ0374",
+      "62022CJ0409",
+      "62022CO0191",
+      "62022CO0304",
+      "62023CJ0004",
+      "62023CJ0014",
+      "62023CJ0109",
+      "62023CJ0158",
+      "62023CJ0501",
+      "62023CJ0662",
+      "62023CJ0744",
+      "62023CJ0767",
+      "62023CJ0784",
+      "62023CJ0789",
+      "62023CO0327",
+      "62023CO0656",
+      "62024CJ0130",
+      "62024CJ0286",
+      "62024CJ0340",
+      "62024CJ0350",
+      "62024CJ0489",
+      "62024CJ0634",
+      "62024CO0361",
+      "62024CO0489",
+      "62025CJ0190",
+      "62025CJ0195",
+      "62025CJ0300",
+      "62025CJ0400",
+      "62025CO0195",
+      "62025CO0278",
+      "62026CO0004"
+    ],
+    "added_and_included": [
+      "62019CJ0768",
+      "62020CJ0483",
+      "62023CJ0004",
+      "62025CJ0190",
+      "62025CJ0300"
+    ]
+  },
+  "functional_review": {
+    "pairs_included": 90,
+    "pairs_excluded": 34,
+    "excluded": [
+      {
+        "celex": "62008CJ0168",
+        "from": "32003R2201 art 64(4)",
+        "reason": "Dispositions transitoires de l'ancien article 64 : propres à l'entrée en application du règlement 2201/2003 ; l'article 100 du règlement (UE) 2019/1111 fixe un régime transitoire distinct (procédures engagées à compter du 1er août 2022) ; non transposable."
+      },
+      {
+        "celex": "62008CJ0195",
+        "from": "32003R2201 art 11(8)",
+        "reason": "Voir ancien article 11, paragraphe 6 : mécanisme refondu aux articles 29, 43, 47, 50 et 56 du règlement (UE) 2019/1111 ; non transposé."
+      },
+      {
+        "celex": "62008CJ0195",
+        "from": "32003R2201 art 31(1)",
+        "reason": "Procédure de déclaration de force exécutoire supprimée par le règlement (UE) 2019/1111 ; aucune correspondance."
+      },
+      {
+        "celex": "62008CJ0195",
+        "from": "32003R2201 art 42",
+        "reason": "Certificat de retour de l'ancien article 42 : remplacé par les articles 43, 47 à 49 du règlement (UE) 2019/1111 (conditions de délivrance nouvelles, rectification/annulation dans l'État d'origine, refus et suspension de l'exécution aux articles 50 et 56). Changement de fonction ; non transposé."
+      },
+      {
+        "celex": "62009CJ0256",
+        "from": "32003R2201 art 20",
+        "reason": "La question de la circulation des mesures fondées sur l'ancien article 20 est désormais réglée expressément par l'article 2, paragraphe 1, second alinéa, point b), du règlement (UE) 2019/1111 : texte nouveau, interprétation non transposée au titre du critère b."
+      },
+      {
+        "celex": "62009CJ0256",
+        "from": "32003R2201 art 21",
+        "reason": "La non-application du régime de reconnaissance aux mesures fondées sur l'ancien article 20 est désormais réglée expressément par l'article 2, paragraphe 1, second alinéa, point b), du règlement (UE) 2019/1111 ; texte nouveau, non transposé au titre du critère b."
+      },
+      {
+        "celex": "62010CJ0211",
+        "from": "32003R2201 art 11(8)",
+        "reason": "Voir ancien article 11, paragraphe 6 : mécanisme refondu aux articles 29, 43, 47, 50 et 56 du règlement (UE) 2019/1111 ; non transposé."
+      },
+      {
+        "celex": "62010CJ0211",
+        "from": "32003R2201 art 47(2)",
+        "reason": "Procédure d'exécution des décisions certifiées (ancien article 47) : remplacée par les articles 51 à 63 du règlement (UE) 2019/1111, qui introduisent des motifs de suspension et de refus de l'exécution (notamment article 56, paragraphes 4 et 6, en cas de risque grave) absents de l'ancien régime ; ch"
+      },
+      {
+        "celex": "62010CJ0296",
+        "from": "32003R2201 art 19(2)",
+        "reason": "Litispendance lorsque la première juridiction n'est saisie qu'au titre de mesures provisoires : point désormais réglé expressément par l'article 20, paragraphe 2, du règlement (UE) 2019/1111 (« excepté lorsque la compétence … est uniquement fondée sur l'article 15 ») ; la solution est codifiée par u"
+      },
+      {
+        "celex": "62010CJ0296",
+        "from": "32003R2201 art 20",
+        "reason": "L'articulation litispendance / mesures provisoires est désormais réglée expressément par l'article 20, paragraphe 2, du règlement (UE) 2019/1111 (« excepté lorsque la compétence … est uniquement fondée sur l'article 15 ») : texte nouveau, non transposé au titre du critère b."
+      },
+      {
+        "celex": "62010CJ0491",
+        "from": "32003R2201 art 42",
+        "reason": "Certificat de retour de l'ancien article 42 : remplacé par les articles 43, 47 à 49 du règlement (UE) 2019/1111 (conditions de délivrance nouvelles, rectification/annulation dans l'État d'origine, refus et suspension de l'exécution aux articles 50 et 56). Changement de fonction ; non transposé."
+      },
+      {
+        "celex": "62011CJ0325",
+        "from": "32007R1393 art 1(1)",
+        "reason": "Champ d'application : l'article 1er du règlement (UE) 2020/1784 est réécrit (signification « transfrontière », exclusion expresse des acta jure imperii, nouveaux paragraphes 2 et 3 relatifs à l'adresse inconnue et au représentant dans l'État du for) ; les questions tranchées (qualification civile/co"
+      },
+      {
+        "celex": "62013CJ0226",
+        "from": "32007R1393 art 1(1)",
+        "reason": "Champ d'application : l'article 1er du règlement (UE) 2020/1784 est réécrit (signification « transfrontière », exclusion expresse des acta jure imperii, nouveaux paragraphes 2 et 3 relatifs à l'adresse inconnue et au représentant dans l'État du for) ; les questions tranchées (qualification civile/co"
+      },
+      {
+        "celex": "62013CJ0436",
+        "from": "32003R2201 art 12(3)",
+        "reason": "Prorogation de compétence : l'ancien article 12, paragraphe 3, est remplacé par l'article 10 du règlement (UE) 2019/1111, qui modifie les conditions de l'acceptation (accord libre au plus tard lors de la saisine, ou acceptation expresse en cours d'instance après information du droit de refuser ; exi"
+      },
+      {
+        "celex": "62013CJ0656",
+        "from": "32003R2201 art 12(3)",
+        "reason": "Prorogation de compétence : l'ancien article 12, paragraphe 3, est remplacé par l'article 10 du règlement (UE) 2019/1111, qui modifie les conditions de l'acceptation (accord libre au plus tard lors de la saisine, ou acceptation expresse en cours d'instance après information du droit de refuser ; exi"
+      },
+      {
+        "celex": "62014CJ0498",
+        "from": "32003R2201 art 11(7)",
+        "reason": "Voir ancien article 11, paragraphe 6 : mécanisme refondu à l'article 29 du règlement (UE) 2019/1111 ; non transposé."
+      },
+      {
+        "celex": "62014CJ0498",
+        "from": "32003R2201 art 11(8)",
+        "reason": "Voir ancien article 11, paragraphe 6 : mécanisme refondu aux articles 29, 43, 47, 50 et 56 du règlement (UE) 2019/1111 ; non transposé."
+      },
+      {
+        "celex": "62015CJ0215",
+        "from": "32003R2201 art 12(3)",
+        "reason": "Prorogation de compétence : l'ancien article 12, paragraphe 3, est remplacé par l'article 10 du règlement (UE) 2019/1111, qui modifie les conditions de l'acceptation (accord libre au plus tard lors de la saisine, ou acceptation expresse en cours d'instance après information du droit de refuser ; exi"
+      },
+      {
+        "celex": "62016CJ0565",
+        "from": "32003R2201 art 12(3)",
+        "reason": "Prorogation de compétence : l'ancien article 12, paragraphe 3, est remplacé par l'article 10 du règlement (UE) 2019/1111, qui modifie les conditions de l'acceptation (accord libre au plus tard lors de la saisine, ou acceptation expresse en cours d'instance après information du droit de refuser ; exi"
+      },
+      {
+        "celex": "62017CJ0021",
+        "from": "32007R1393 art 8(1)",
+        "reason": "Refus de réception de l'acte : l'article 12 du règlement (UE) 2020/1784 reformule le droit de refus et limite l'obligation d'information au moyen du formulaire L au cas où l'acte n'est pas rédigé ou traduit dans la langue officielle du lieu de signification (paragraphe 2), alors que la Cour avait dé"
+      },
+      {
+        "celex": "62017CO0604",
+        "from": "32003R2201 art 12",
+        "reason": "Prorogation de compétence : régime remplacé par l'article 10 du règlement (UE) 2019/1111 (conditions d'acceptation modifiées) ; non transposé."
+      },
+      {
+        "celex": "62018CJ0325",
+        "from": "32003R2201 art 33(1)",
+        "reason": "Recours contre la déclaration constatant la force exécutoire : l'exequatur est supprimé par le règlement (UE) 2019/1111 (articles 34 et 35) ; aucune disposition correspondante (le tableau de correspondance ne mentionne pas l'ancien article 33, paragraphes 1 et 5)."
+      },
+      {
+        "celex": "62018CJ0325",
+        "from": "32003R2201 art 33(5)",
+        "reason": "Recours contre la déclaration constatant la force exécutoire : l'exequatur est supprimé par le règlement (UE) 2019/1111 (articles 34 et 35) ; aucune disposition correspondante (le tableau de correspondance ne mentionne pas l'ancien article 33, paragraphes 1 et 5)."
+      },
+      {
+        "celex": "62018CJ0361",
+        "from": "32001R0044 art 1(1)",
+        "reason": "L'arrêt porte sur l'exclusion des « régimes matrimoniaux » appliquée à une union de fait ; l'article 1er, paragraphe 2, point a), du règlement n° 1215/2012 exclut désormais aussi les régimes patrimoniaux des relations ayant des effets comparables au mariage : changement de libellé sur le point préci"
+      },
+      {
+        "celex": "62018CJ0361",
+        "from": "32001R0044 art 1(2)",
+        "reason": "L'arrêt porte sur l'exclusion des « régimes matrimoniaux » appliquée à une union de fait ; l'article 1er, paragraphe 2, point a), du règlement n° 1215/2012 exclut désormais aussi les régimes patrimoniaux des relations ayant des effets comparables au mariage : changement de libellé sur le point préci"
+      },
+      {
+        "celex": "62018CO0759",
+        "from": "32003R2201 art 12(1)",
+        "reason": "Prorogation de compétence : régime remplacé par l'article 10 du règlement (UE) 2019/1111 (conditions d'acceptation modifiées) ; non transposé."
+      },
+      {
+        "celex": "62019CJ0025",
+        "from": "32007R1393 art 152(1)",
+        "reason": "Artefact d'analyse : le règlement 1393/2007 ne comporte pas d'article 152 (renvoi à un autre acte) ; aucun lien."
+      },
+      {
+        "celex": "62020CJ0501",
+        "from": "32003R2201 art 11",
+        "reason": "L'article 11 n'est pas interprété dans le dispositif (localisation Cellar seulement) ; aucun lien retenu."
+      },
+      {
+        "celex": "62020CJ0501",
+        "from": "32003R2201 art 12",
+        "reason": "Prorogation de compétence : régime remplacé par l'article 10 du règlement (UE) 2019/1111 (conditions d'acceptation modifiées) ; non transposé."
+      },
+      {
+        "celex": "62020CJ0646",
+        "from": "32003R2201 art 2",
+        "reason": "Notion de « décision » (ancien article 2, point 4) : la refonte distingue désormais « décision », « acte authentique » et « accord » (article 2 du règlement (UE) 2019/1111 ; articles 64 à 68) ; qualification non transposable sans examen."
+      },
+      {
+        "celex": "62020CJ0646",
+        "from": "32003R2201 art 21(1)",
+        "reason": "La reconnaissance d'un divorce constaté par un officier de l'état civil relève désormais, selon le cas, des règles propres aux actes authentiques et accords (articles 64 à 68 du règlement (UE) 2019/1111) ; qualification non transposable sans examen."
+      },
+      {
+        "celex": "62021CJ0007",
+        "from": "32007R1393 art 8(1)",
+        "reason": "Refus de réception de l'acte : l'article 12 du règlement (UE) 2020/1784 reformule le droit de refus et limite l'obligation d'information au moyen du formulaire L au cas où l'acte n'est pas rédigé ou traduit dans la langue officielle du lieu de signification (paragraphe 2), alors que la Cour avait dé"
+      },
+      {
+        "celex": "62021CO0346",
+        "from": "32007R1393 art 8(1)",
+        "reason": "Refus de réception de l'acte : l'article 12 du règlement (UE) 2020/1784 reformule le droit de refus et limite l'obligation d'information au moyen du formulaire L au cas où l'acte n'est pas rédigé ou traduit dans la langue officielle du lieu de signification (paragraphe 2), alors que la Cour avait dé"
+      },
+      {
+        "celex": "62023CJ0035",
+        "from": "32003R2201 art 11(6)",
+        "reason": "Mécanisme dit de « prépondérance » (anciens articles 11, paragraphes 6 à 8, et 42) : refondu à l'article 29 du règlement (UE) 2019/1111 (champ limité aux refus fondés uniquement sur l'article 13, premier alinéa, point b), ou deuxième alinéa, de la convention de 1980 ; certificat d'office ; examen ap"
+      }
+    ]
+  },
+  "gaps": [
+    "InfoCuria check not run for 44/2001, 1215/2012 and 2004/38 (hundreds of non-family decisions); their family-adjacent subset rests on the Cellar candidate set and the title/term screen."
+  ],
+  "updated": "2026-09-30"
+}

@@ -1,0 +1,18 @@
+{
+  "corpus": "int-un",
+  "norms_expected": 110,
+  "norms_done": 110,
+  "instrument_records": 10,
+  "interps_candidates": 0,
+  "interps_screened": 0,
+  "interps_included": 0,
+  "method": "UN Treaty Collection status pages (ViewDetails mtdsg_no) parsed for FR/US/EU; texts: UNTC certified true copies (PDF, English section) aligned with OHCHR text; family-relevant articles only for general covenants (ICCPR 23-24, ICESCR 10, CEDAW 16, CRPD 23); full text for CRC, its OP-AC and OP-SC, and the 1956 New York Maintenance Convention.",
+  "gaps": [
+    "int-un marriage1962: article text not retrieved (status record only)",
+    "CRC: 7 articles (1, 4, 5, 29, 38, 39, 54) taken from the UNTC certified-copy PDF text layer (OCR) with manual correction of obvious OCR marks; other 47 from the OHCHR text.",
+    "1962 Consent to Marriage Convention: the only copy available (UNTC PDF) has an unreliable OCR layer and OHCHR is behind a bot wall — status record only, no article text.",
+    "OP-CRC communications procedure (2011): status record only (France party; procedural, no substantive family articles).",
+    "Convention on the Nationality of Married Women (1957, XVI-2): excluded — neither France nor the US is a party."
+  ],
+  "updated": "2026-09-30"
+}

@@ -1,0 +1,38 @@
+{
+  "corpus": "fr-ce",
+  "updated": "2026-09-30",
+  "source": "Tricoteuses/DILA JADE, sous-ensemble global/publie https://git.tricoteuses.fr/dila/jade",
+  "source_head": "82efcb4d8f2add9cee3a76e0780b0ca17a8d6592 2026-09-29T21:34:57+02:00",
+  "norms_expected": 6029,
+  "norms_with_interps": 435,
+  "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
+  "interps_candidates": 2878,
+  "interps_screened": 51663,
+  "interps_linked": 1778,
+  "interps_included": 596,
+  "links": {
+    "included": 1163,
+    "excluded": 3347,
+    "basis_a": 962,
+    "basis_b": 169,
+    "b_text_identical": 39,
+    "b_functional_review": 130,
+    "exclusion_reasons": {
+      "aucune-version-a-la-date": 78,
+      "texte-modifie": 1477,
+      "mention-faible": 1763,
+      "alinea-vise-modifie": 28,
+      "ancienne-numerotation": 1
+    }
+  },
+  "screened_breakdown": {
+    "ce": 51663
+  },
+  "decisions_out_of_screen": 9463,
+  "excerpts_missing": 62,
+  "method": "Conseil d'État uniquement (JURIDICTION = Conseil d'État), décisions publiées au Lebon (A) ou mentionnées aux tables (B), dont avis contentieux ; mêmes règles de liaison (LIENS, sommaire, titrage, motifs « Aux termes de l'article… ») et règle temporelle.",
+  "gaps": [
+    "Seul le sous-ensemble « publie » de JADE est utilisé ; décisions CE inédites exclues par construction.",
+    "Le visa CE (« Vu le code civil ») ne désigne pas d'article : liaison par LIENS, sommaire, titrage et motifs."
+  ]
+}

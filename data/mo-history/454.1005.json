@@ -1,0 +1,34 @@
+{
+  "section": "454.1005",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1005",
+  "current": {
+    "effective": "2023-08-28",
+    "bid": "53797",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1005&bid=53797"
+  },
+  "versions": [
+    {
+      "effective": "1997-07-01",
+      "end": "2023-08-28",
+      "bid": "25431",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=454.1005&bid=25431",
+      "heading": "Hearing to show cause for suspension of a license, procedure.",
+      "text": "1. To show cause why suspension of a license may not be appropriate, the obligor shall request a hearing from the court or division that issued the notice of intent to suspend the license. The request shall be made within sixty days of the date of service of notice.\n\n2. If an obligor fails to respond, without good cause, to a notice of intent to suspend a license, timely request a hearing or comply with a payment plan, the obligor's defenses and objections shall be considered to be without merit and the court or director may enter an order suspending the obligor's license and ordering the obligor to refrain from engaging in the licensed activity.\n\n3. Upon timely receipt of a request for hearing from an obligor, the court or director shall schedule a hearing to determine if suspension of the obligor's license is appropriate. The court or director shall stay suspension of the license pending the outcome of the hearing.\n\n4. If the action involves an arrearage, the only issues that may be determined in a hearing pursuant to this section are:\n\n(1) The identity of the obligor;\n\n(2) Whether the arrearage is in an amount greater than or equal to three months of support payments or two thousand five hundred dollars, whichever is less, by the date of service of a notice of intent to suspend; and\n\n(3) Whether the obligor has entered a payment plan. If the action involves a failure to comply with a subpoena or order, the only issues that may be determined are the identity of the obligor and whether the obligor has complied with the subpoena or order.\n\n5. If the court or director, after hearing, determines that the obligor has failed to comply with any of the requirements in subsection 4 of this section, the court or director shall issue an order suspending the obligor's license and ordering the obligor to refrain from engaging in the licensed activity.\n\n6. The court or division shall send a copy of the order suspending a license to the licensing authority and the obligor by certified mail.\n\n7. The determination of the director, after a hearing pursuant to this section, shall be a final agency decision and shall be subject to judicial review pursuant to chapter 536. Administrative hearings held pursuant to this section shall be conducted by hearing officers appointed by the director of the department pursuant to subsection 1 of section 454.475.\n\n8. A determination made by the court or division pursuant to this section is independent of any proceeding of the licensing authority to suspend, revoke, deny, terminate or renew a license.",
+      "history_note": "(L. 1997 S.B. 361)",
+      "effdt_raw": "Effective - 01 Jul 1997, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

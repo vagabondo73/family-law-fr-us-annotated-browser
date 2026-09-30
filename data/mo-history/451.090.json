@@ -1,0 +1,45 @@
+{
+  "section": "451.090",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.090",
+  "current": {
+    "effective": "2025-08-28",
+    "bid": "57672",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.090&bid=57672"
+  },
+  "versions": [
+    {
+      "effective": "2018-08-28",
+      "end": "2025-08-28",
+      "bid": "35828",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.090&bid=35828",
+      "heading": "Issuance of license prohibited, when — parental consent, when required — proof of age.",
+      "text": "1. No recorder shall issue a license authorizing the marriage of any male or female under sixteen years of age nor shall a license be issued authorizing the marriage of any male or female twenty-one years of age or older to a male or female under eighteen years of age.\n\n2. No recorder shall issue a license authorizing the marriage of any male or female under the age of eighteen years, except with the consent of his or her custodial parent or guardian, which consent shall be given at the time, in writing, stating the residence of the person giving such consent, signed and sworn to before an officer authorized to administer oaths.\n\n3. The recorder shall state in every license whether the parties applying for same, one or either or both of them, are of age, or whether the male is under the age of eighteen years or the female under the age of eighteen years, and if the male is under the age of eighteen years or the female is under the age of eighteen years, the name of the custodial parent or guardian consenting to such marriage. Applicants shall provide proof of age to the recorder in the form of a certified copy of the applicant's birth certificate, passport, or other government-issued identification, which shall then be documented by the recorder.",
+      "history_note": "(RSMo 1939 § 3370, A.L. 1974 2d Ex. Sess. H.B. 11, A.L. 1978 H.B. 1634, A.L. 1993 S.B. 180, A.L. 2018 S.B. 655)",
+      "effdt_raw": "Effective - 28 Aug 2018, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "effective": "1993-08-28",
+      "end": "2018-08-28",
+      "bid": "24962",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=451.090&bid=24962",
+      "heading": "Issuance of license prohibited, when — parental consent, when required — proof of age.",
+      "text": "1. No recorder shall, in any event except as herein provided, issue a license authorizing the marriage of any person under fifteen years of age; provided, however, that such license may be issued on order of a circuit or associate circuit judge of the county in which the license is applied for, such license being issued only for good cause shown and by reason of such unusual conditions as to make such marriage advisable.\n\n2. No recorder shall issue a license authorizing the marriage of any male under the age of eighteen years or of any female under the age of eighteen years, except with the consent of his or her custodial parent or guardian, which consent shall be given at the time, in writing, stating the residence of the person giving such consent, signed and sworn to before an officer authorized to administer oaths.\n\n3. The recorder shall state in every license whether the parties applying for same, one or either or both of them, are of age, or whether the male is under the age of eighteen years or the female under the age of eighteen years, and if the male is under the age of eighteen years or the female is under the age of eighteen years, the name of the custodial parent or guardian consenting to such marriage.",
+      "history_note": "(RSMo 1939 § 3370, A.L. 1974 2d Ex. Sess. H.B. 11, A.L. 1978 H.B. 1634, A.L. 1993 S.B. 180)",
+      "effdt_raw": "Effective - 28 Aug 1993, 3 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

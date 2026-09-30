@@ -1,0 +1,615 @@
+[
+  {
+    "id": "eurlex-32019R1111",
+    "label": "EUR-Lex / Cellar — 32019R1111 (consolidated 02019R1111-20190702)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R1111-20190702",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02019R1111-20190702"
+  },
+  {
+    "id": "eurlex-32009R0004",
+    "label": "EUR-Lex / Cellar — 32009R0004 (consolidated 02009R0004-20260716)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0004-20260716",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02009R0004-20260716"
+  },
+  {
+    "id": "eurlex-32010R1259",
+    "label": "EUR-Lex / Cellar — 32010R1259 (consolidated 32010R1259)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010R1259",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "32010R1259"
+  },
+  {
+    "id": "eurlex-32016R1103",
+    "label": "EUR-Lex / Cellar — 32016R1103 (consolidated 02016R1103-20160708)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1103-20160708",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02016R1103-20160708"
+  },
+  {
+    "id": "eurlex-32016R1104",
+    "label": "EUR-Lex / Cellar — 32016R1104 (consolidated 02016R1104-20160708)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1104-20160708",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02016R1104-20160708"
+  },
+  {
+    "id": "eurlex-32012R0650",
+    "label": "EUR-Lex / Cellar — 32012R0650 (consolidated 02012R0650-20120705)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0650-20120705",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02012R0650-20120705"
+  },
+  {
+    "id": "eurlex-32016R1191",
+    "label": "EUR-Lex / Cellar — 32016R1191 (consolidated 32016R1191)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1191",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "32016R1191"
+  },
+  {
+    "id": "eurlex-32020R1784",
+    "label": "EUR-Lex / Cellar — 32020R1784 (consolidated 02020R1784-20250501)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02020R1784-20250501",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02020R1784-20250501"
+  },
+  {
+    "id": "eurlex-32020R1783",
+    "label": "EUR-Lex / Cellar — 32020R1783 (consolidated 02020R1783-20201202)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02020R1783-20201202",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02020R1783-20201202"
+  },
+  {
+    "id": "eurlex-32012R1215",
+    "label": "EUR-Lex / Cellar — 32012R1215 (consolidated 02012R1215-20150226)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1215-20150226",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02012R1215-20150226"
+  },
+  {
+    "id": "eurlex-32004L0038",
+    "label": "EUR-Lex / Cellar — 32004L0038 (consolidated 02004L0038-20110616)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02004L0038-20110616",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "02004L0038-20110616"
+  },
+  {
+    "id": "eurlex-32003L0086",
+    "label": "EUR-Lex / Cellar — 32003L0086 (consolidated 32003L0086)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0086",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "32003L0086"
+  },
+  {
+    "id": "eurlex-12016P/TXT",
+    "label": "EUR-Lex / Cellar — 12016P/TXT (consolidated None)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016P/TXT",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null
+  },
+  {
+    "id": "eurlex-12016E/TXT",
+    "label": "EUR-Lex / Cellar — 12016E/TXT (consolidated None)",
+    "official": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E/TXT",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql (latest consolidated version) + http://publications.europa.eu/resource/celex/<CELEX>",
+    "check": "api",
+    "corpora": [
+      "eu-reg"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": null
+  },
+  {
+    "id": "hcch-status-41",
+    "label": "HCCH status table cid=41 (1961a)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "6f388c7c869a8fe9"
+  },
+  {
+    "id": "hcch-status-17",
+    "label": "HCCH status table cid=17 (1965)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=17",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "bb54ed854124ee38"
+  },
+  {
+    "id": "hcch-status-82",
+    "label": "HCCH status table cid=82 (1970e)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "2ba9e4613d13367d"
+  },
+  {
+    "id": "hcch-status-24",
+    "label": "HCCH status table cid=24 (1980)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=24",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "3ed5669c3eb1127e"
+  },
+  {
+    "id": "hcch-status-69",
+    "label": "HCCH status table cid=69 (1993)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=69",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=69",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "d9972b3ce4629395"
+  },
+  {
+    "id": "hcch-status-70",
+    "label": "HCCH status table cid=70 (1996)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=70",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=70",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "5ee989ea1fe3100e"
+  },
+  {
+    "id": "hcch-status-71",
+    "label": "HCCH status table cid=71 (2000)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=71",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=71",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "de810696fb1f95a6"
+  },
+  {
+    "id": "hcch-status-131",
+    "label": "HCCH status table cid=131 (2007)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=131",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=131",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "5d10d7cbfbd071be"
+  },
+  {
+    "id": "hcch-status-133",
+    "label": "HCCH status table cid=133 (2007p)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=133",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=133",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "f9f6a1f3245487c8"
+  },
+  {
+    "id": "hcch-status-86",
+    "label": "HCCH status table cid=86 (1973a)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=86",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=86",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "3b706fb0cb81463b"
+  },
+  {
+    "id": "hcch-status-85",
+    "label": "HCCH status table cid=85 (1973r)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=85",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=85",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "7e0b7fd1bb7ae810"
+  },
+  {
+    "id": "hcch-status-38",
+    "label": "HCCH status table cid=38 (1958)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=38",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=38",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "e597ca6a29a0e7ad"
+  },
+  {
+    "id": "hcch-status-37",
+    "label": "HCCH status table cid=37 (1956)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=37",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=37",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "f4cb56d03b8b8bfb"
+  },
+  {
+    "id": "hcch-status-39",
+    "label": "HCCH status table cid=39 (1961m)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=39",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=39",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "6e9f547ec04bfd7d"
+  },
+  {
+    "id": "hcch-status-87",
+    "label": "HCCH status table cid=87 (1978m)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "b8e8bcc45a066be4"
+  },
+  {
+    "id": "hcch-status-40",
+    "label": "HCCH status table cid=40 (1961t)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "00e158dba977f63a"
+  },
+  {
+    "id": "hcch-status-33",
+    "label": "HCCH status table cid=33 (1954)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=33",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=33",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "119a943319d9e51d"
+  },
+  {
+    "id": "hcch-status-91",
+    "label": "HCCH status table cid=91 (1980j)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=91",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=91",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "14939ddd0aed7a62"
+  },
+  {
+    "id": "hcch-status-98",
+    "label": "HCCH status table cid=98 (2005)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=98",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=98",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "c104e66bd4bd9a0d"
+  },
+  {
+    "id": "hcch-status-137",
+    "label": "HCCH status table cid=137 (2019)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=137",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=137",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "46494d48403b60d2"
+  },
+  {
+    "id": "hcch-status-59",
+    "label": "HCCH status table cid=59 (1985)",
+    "official": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=59",
+    "channel": "http:https://www.hcch.net/en/instruments/conventions/status-table/?cid=59",
+    "check": "http-hash",
+    "corpora": [
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "ebcf17716bc82cd9"
+  },
+  {
+    "id": "untc-IV-11",
+    "label": "UN Treaty Collection status IV-11 (crc)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "182bc19d1a674ed8"
+  },
+  {
+    "id": "untc-IV-11-b",
+    "label": "UN Treaty Collection status IV-11-b (crc-opac)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-b&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "8292b280ad485796"
+  },
+  {
+    "id": "untc-IV-11-c",
+    "label": "UN Treaty Collection status IV-11-c (crc-opsc)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-c&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "0c7384e30571e598"
+  },
+  {
+    "id": "untc-IV-11-d",
+    "label": "UN Treaty Collection status IV-11-d (crc-opic)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-11-d&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "f9a4f0dd262b6f2f"
+  },
+  {
+    "id": "untc-IV-4",
+    "label": "UN Treaty Collection status IV-4 (iccpr)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "18d6c83ac57413b4"
+  },
+  {
+    "id": "untc-IV-3",
+    "label": "UN Treaty Collection status IV-3 (icescr)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "5ea4ba739affe473"
+  },
+  {
+    "id": "untc-IV-8",
+    "label": "UN Treaty Collection status IV-8 (cedaw)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-8&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "b291cd54fb4f9f5c"
+  },
+  {
+    "id": "untc-IV-15",
+    "label": "UN Treaty Collection status IV-15 (crpd)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "925f30342afc31ec"
+  },
+  {
+    "id": "untc-XVI-3",
+    "label": "UN Treaty Collection status XVI-3 (marriage1962)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVI-3&chapter=16&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "ca9c5fbd2b0e6293"
+  },
+  {
+    "id": "untc-XX-1",
+    "label": "UN Treaty Collection status XX-1 (maint1956)",
+    "official": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XX-1&chapter=20&clang=_en",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-un"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "81c8608297be8009"
+  },
+  {
+    "id": "coe-treaty-office",
+    "label": "Council of Europe Treaty Office — charts of signatures and ratifications",
+    "official": "https://www.coe.int/en/web/conventions/full-list",
+    "channel": "browser (cloud) — coe.int blocks non-browser clients",
+    "check": "http-hash",
+    "corpora": [
+      "int-coe"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "f2dbd9a85732f5ff"
+  },
+  {
+    "id": "ciec",
+    "label": "Commission internationale de l'état civil — conventions et états des signatures",
+    "official": "https://ciec1.org/",
+    "channel": "http:https://ciec1.org/convention/<slug>/",
+    "check": "http-hash",
+    "corpora": [
+      "int-ciec"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "f183bb65b6de2d27"
+  },
+  {
+    "id": "state-tif-2026",
+    "label": "U.S. Department of State — Treaties in Force 2026",
+    "official": "https://www.state.gov/wp-content/uploads/2026/06/Treaties-in-Force-2026.pdf",
+    "channel": "http",
+    "check": "http-hash",
+    "corpora": [
+      "int-bilateral",
+      "int-hcch"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "8c6b28ad497e659c"
+  },
+  {
+    "id": "ssa-france",
+    "label": "SSA — U.S.-French Social Security Agreement",
+    "official": "https://www.ssa.gov/international/Agreement_Texts/french.html",
+    "channel": "browser",
+    "check": "http-hash",
+    "corpora": [
+      "int-bilateral"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "cc0c23eb47d309e0"
+  },
+  {
+    "id": "cellar-cjeu",
+    "label": "Cellar — CJEU case law interpreting included acts",
+    "official": "https://eur-lex.europa.eu/",
+    "channel": "sparql:https://publications.europa.eu/webapi/rdf/sparql",
+    "check": "api",
+    "corpora": [
+      "eu-cjeu"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "17932a1028f24a21"
+  },
+  {
+    "id": "hudoc",
+    "label": "HUDOC — European Court of Human Rights case law",
+    "official": "https://hudoc.echr.coe.int/",
+    "channel": "api:https://hudoc.echr.coe.int/app/query/results",
+    "check": "api",
+    "corpora": [
+      "coe-ecthr"
+    ],
+    "last_checked": "2026-09-30",
+    "last_version": "979bd3cd81fa28bc"
+  }
+]

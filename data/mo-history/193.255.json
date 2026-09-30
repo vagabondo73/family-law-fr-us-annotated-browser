@@ -1,0 +1,28 @@
+{
+  "section": "193.255",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.255",
+  "current": {
+    "effective": "2004-08-28",
+    "bid": "9926",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.255&bid=9926"
+  },
+  "versions": [
+    {
+      "effective": "1984-08-13",
+      "end": "2004-08-28",
+      "bid": "58396",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=193.255&bid=58396",
+      "heading": "Certified copies of vital records, issuance — probative value — cooperation with federal agencies and other states.",
+      "text": "1. The state registrar and other custodians of vital records authorized by the state registrar to issue certified copies of vital records upon receipt of application shall issue a certified copy of any vital record in his custody or a part thereof to any applicant having a direct and tangible interest in the vital record. Each copy issued shall show the date of registration, and copies issued from records marked \"Delayed\" or \"Amended\" shall be similarly marked and show the effective date. The documentary evidence used to establish a delayed certificate shall be shown on all copies issued. All forms and procedures used in the issuance of certified copies of vital records in the state shall be provided or approved by the state registrar.\n\n2. A certified copy of a vital record or any part thereof, issued in accordance with subsection 1 of this section, shall be considered for all purposes the same as the original and shall be prima facie evidence of the facts stated therein, provided that the evidentiary value of a certificate or record filed more than one year after the event, or a record which has been amended, shall be determined by the judicial or administrative body or official before whom the certificate is offered as evidence.\n\n3. The federal agency responsible for national vital statistics may be furnished such copies or data from the system of vital statistics as it may require for national statistics, provided such federal agency share in the cost of collecting, processing, and transmitting such data, and provided further that such data shall not be used for other than statistical purposes by the federal agency unless so authorized by the state registrar.\n\n4. Federal, state, local and other public or private agencies may, upon request, be furnished copies or data of any other vital statistics not obtainable under subsection 1 of this section for statistical or administrative purposes upon such terms or conditions as may be prescribed by regulation, provided that such copies or data shall not be used for purposes other than those for which they were requested unless so authorized by the state registrar.\n\n5. The state registrar may, by agreement, transmit copies of records and other reports required by sections 193.005 to 193.325 to offices of vital statistics outside this state when such records or other reports relate to residents of those jurisdictions or persons born in those jurisdictions. This agreement shall require that the copies be used for statistical and administrative purposes only, and the agreement shall further provide for the retention and disposition of such copies. Copies received by the department from offices of vital statistics in other states shall be handled in the same manner as prescribed in this section.\n\n6. No person shall prepare or issue any certificate which purports to be an original, certified copy, or copy of a vital record except as authorized herein or by regulations adopted hereunder.",
+      "history_note": "(L. 1984 S.B. 574)",
+      "effdt_raw": "Effective - 13 Aug 1984, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,29 @@
+{
+  "side": "eu-int",
+  "lang": "fr",
+  "fixture": true,
+  "nodes": [
+    {
+      "id": "eu-int.competence",
+      "label": "Compétence internationale",
+      "children": [
+        {
+          "id": "eu-int.competence.responsabilite-parentale",
+          "label": "Responsabilité parentale",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "eu-int.enlevement",
+      "label": "Enlèvement international d'enfants",
+      "children": [
+        {
+          "id": "eu-int.enlevement.deplacement-illicite",
+          "label": "Déplacement ou non-retour illicite",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

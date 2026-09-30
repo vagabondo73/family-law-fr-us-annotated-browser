@@ -1,0 +1,29 @@
+{
+  "section": "455.504",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.504",
+  "current": {
+    "effective": "2003-08-28",
+    "bid": "25562",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.504&bid=25562"
+  },
+  "versions": [
+    {
+      "effective": "2002-08-28",
+      "end": "2003-08-28",
+      "bid": "53200",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=455.504&bid=53200",
+      "heading": "Court clerks to furnish petitioners with uniform forms and information to litigants having no counsel on procedure, filing forms and pleadings — services of clerks and location of office to file petition to be posted — rules — no fees required — guardian ad litem or CASA to be provided copy of petition.",
+      "text": "1. The clerk of the court shall make available to the petitioner the uniform forms adopted by the supreme court pursuant to section 455.073. Except as provided in section 455.510, clerks under the supervision of a circuit clerk shall explain to litigants not represented by counsel the procedures for filing all forms and pleadings necessary for the presentation of their petition filed pursuant to the provisions of sections 455.500 to 455.538 to the court. Notice of the fact that clerks will provide such assistance shall be conspicuously posted in the clerks' offices. The location of the office where a petition can be filed shall be conspicuously posted in the court building. The performance of duties prescribed in this section shall not constitute the practice of law as defined in section 484.010, RSMo. All duties of the clerk prescribed in this section shall be performed without cost to the litigants. The supreme court may promulgate rules as necessary to govern conduct of court clerks under sections 455.500 to 455.538, and shall provide forms for petitions and written instructions on filling out all forms and pleadings necessary for the presentation of the petition to the court.\n\n2. No filing fees, court costs, or bond shall be assessed in an action commenced under sections 455.500 to 455.538.\n\n3. The clerk shall immediately notify the guardian ad litem or court- appointed special advocate of appointment and shall provide such guardian or advocate with a copy of the petition for the order of protection for the child. The clerk shall provide such guardian or advocate with the names, addresses, and telephone numbers of the parties within twenty-four hours of entry of the order appointing the guardian ad litem or court-appointed special advocate.",
+      "history_note": "(L. 1995 S.B. 174, A.L. 2002 H.B. 1814)",
+      "effdt_raw": "Effective - 28 Aug 2002, 2 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [],
+  "generated": "2026-09-30"
+}

@@ -1,0 +1,14 @@
+{
+  "corpus": "int-hcch",
+  "norms_expected": 1,
+  "norms_done": 1,
+  "interps_candidates": 1,
+  "interps_screened": 1,
+  "interps_included": 1,
+  "method": "FIXTURE — hand-picked sample",
+  "gaps": [
+    "Fixture set: not exhaustive by design."
+  ],
+  "updated": "2026-09-30",
+  "fixture": true
+}

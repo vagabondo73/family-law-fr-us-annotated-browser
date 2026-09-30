@@ -1,0 +1,59 @@
+{
+  "section": "565.072",
+  "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072",
+  "current": {
+    "effective": "2017-01-01",
+    "bid": "29288",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=29288"
+  },
+  "versions": [
+    {
+      "effective": "2012-08-28",
+      "end": "2017-01-01",
+      "bid": "29289",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=29289",
+      "heading": "Until December 31, 2016 — Domestic assault, first degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the first degree if he or she attempts to kill or knowingly causes or attempts to cause serious physical injury to a family or household member, including any child who is a member of the family or household, as defined in section 455.010.\n\n2. Domestic assault in the first degree is a class B felony unless in the course thereof the actor inflicts serious physical injury on the victim or has previously pleaded guilty to or been found guilty of committing this crime, in which case it is a class A felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2007 H.B. 583, A.L. 2012 S.B. 628)",
+      "effdt_raw": "Effective - 28 Aug 2012, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "effective": "2007-08-28",
+      "end": "2012-08-28",
+      "bid": "50757",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=50757",
+      "heading": "Domestic assault, first degree — penalty.",
+      "text": "1. A person commits the crime of domestic assault in the first degree if he or she attempts to kill or knowingly causes or attempts to cause serious physical injury to a family or household member or an adult who is or has been in a continuing social relationship of a romantic or intimate nature with the actor, as defined in section 455.010.\n\n2. Domestic assault in the first degree is a class B felony unless in the course thereof the actor inflicts serious physical injury on the victim or has previously pleaded guilty to or been found guilty of committing this crime, in which case it is a class A felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2007 H.B. 583)",
+      "effdt_raw": "Effective - 28 Aug 2007, 4 histories, see footnote (history)",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "pending_or_concurrent": [
+    {
+      "effective": "2027-07-01",
+      "end": null,
+      "bid": "60737",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.072&bid=60737",
+      "heading": "Domestic assault, first degree — penalty.",
+      "text": "1. A person commits the offense of domestic assault in the first degree if he or she attempts to kill or knowingly causes or attempts to cause great bodily harm to a domestic victim, as the term \"domestic victim\" is defined under section 565.002.\n\n2. The offense of domestic assault in the first degree is a class B felony unless in the course thereof the person inflicts serious physical injury on the victim, in which case it is a class A felony.",
+      "history_note": "(L. 2000 H.B. 1677, et al., A.L. 2007 H.B. 583, A.L. 2012 S.B. 628, A.L. 2014 S.B. 491, A.L. 2026 H.B. 2637 & 3155 merged with S.B. 999)",
+      "effdt_raw": "Effective - 01 Jul 2027, 4 histories, see footnote",
+      "identical_to_current": false,
+      "subsections_changed_vs_current": [
+        "1"
+      ],
+      "note": "future version (not yet in force)"
+    }
+  ],
+  "generated": "2026-09-30"
+}

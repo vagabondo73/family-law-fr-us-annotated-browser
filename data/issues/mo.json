@@ -1,0 +1,619 @@
+{
+  "side": "mo",
+  "lang": "en",
+  "nodes": [
+    {
+      "id": "mo.constitution",
+      "label": "Missouri Constitution",
+      "children": [
+        {
+          "id": "mo.constitution.equal-rights",
+          "label": "Natural rights, equality under the law",
+          "children": []
+        },
+        {
+          "id": "mo.constitution.due-process",
+          "label": "Due process of law",
+          "children": []
+        },
+        {
+          "id": "mo.constitution.marriage",
+          "label": "Marriage definition (art. I § 33) and Obergefell",
+          "children": []
+        },
+        {
+          "id": "mo.constitution.rulemaking",
+          "label": "Supreme Court rulemaking power",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.marriage",
+      "label": "Marriage",
+      "children": [
+        {
+          "id": "mo.marriage.formation",
+          "label": "Nature of marriage; solemnization and officiants",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.license",
+          "label": "Marriage license, recording, fees",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.validity",
+          "label": "Prohibited, void and bigamous marriages; same-sex marriage policy",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.records",
+          "label": "Marriage records and certificates",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.children-legitimation",
+          "label": "Children born before marriage",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.marital-agreements",
+          "label": "Marriage contracts / antenuptial agreements (form, recording, notice)",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.spousal-property",
+          "label": "Property rights of married persons; separate property; tenancy by the entirety",
+          "children": []
+        },
+        {
+          "id": "mo.marriage.agreement-enforceability",
+          "label": "Validity and enforceability of antenuptial and postnuptial agreements (judge-made)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.dissolution",
+      "label": "Dissolution of marriage and legal separation",
+      "children": [
+        {
+          "id": "mo.dissolution.grounds-procedure",
+          "label": "Grounds, petition, venue, residence, irretrievable breakdown",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.temporary-orders",
+          "label": "Temporary orders, restraining orders, insurance",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.separation-agreements",
+          "label": "Separation agreements and unconscionability review (452.325)",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.property-division",
+          "label": "Division of marital property and debts; separate property",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.transmutation-commingling",
+          "label": "Transmutation, commingling, source-of-funds rule (judge-made)",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.maintenance",
+          "label": "Maintenance (spousal support) and alimony",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.attorney-fees",
+          "label": "Costs and attorney's fees",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.judgment",
+          "label": "Judgment of dissolution/legal separation; name; effect; enforcement of decree",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.modification",
+          "label": "Modification of maintenance and support",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.older-provisions",
+          "label": "Older separate-maintenance / married persons' provisions (452.025–452.250)",
+          "children": []
+        },
+        {
+          "id": "mo.dissolution.education-programs",
+          "label": "Parent education sessions, resolution fund, handbook",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.custody",
+      "label": "Child custody, parenting time and visitation",
+      "children": [
+        {
+          "id": "mo.custody.best-interests",
+          "label": "Custody determination, best-interests factors, joint custody, parenting plans",
+          "children": []
+        },
+        {
+          "id": "mo.custody.visitation",
+          "label": "Visitation / parenting time; neutral exchange",
+          "children": []
+        },
+        {
+          "id": "mo.custody.third-party",
+          "label": "Third-party and grandparent visitation/custody",
+          "children": []
+        },
+        {
+          "id": "mo.custody.relocation",
+          "label": "Relocation of the child",
+          "children": []
+        },
+        {
+          "id": "mo.custody.modification",
+          "label": "Modification of custody",
+          "children": []
+        },
+        {
+          "id": "mo.custody.domestic-violence",
+          "label": "Domestic violence and abuse in custody determinations",
+          "children": []
+        },
+        {
+          "id": "mo.custody.gal-investigation",
+          "label": "Guardian ad litem, investigations, child's wishes",
+          "children": []
+        },
+        {
+          "id": "mo.custody.military",
+          "label": "Military service and deployment (incl. Uniform Deployed Parents Custody and Visitation Act 452.1200 ff.)",
+          "children": []
+        },
+        {
+          "id": "mo.custody.international-abduction",
+          "label": "Risk of international abduction; enforcement by law enforcement",
+          "children": []
+        },
+        {
+          "id": "mo.custody.records-access",
+          "label": "Parental access to records",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.uccjea",
+      "label": "UCCJEA (452.700–452.930): jurisdiction and enforcement of custody determinations",
+      "children": [
+        {
+          "id": "mo.uccjea.general",
+          "label": "General provisions, definitions, international application",
+          "children": []
+        },
+        {
+          "id": "mo.uccjea.jurisdiction",
+          "label": "Initial, exclusive continuing, modification and emergency jurisdiction; inconvenient forum",
+          "children": []
+        },
+        {
+          "id": "mo.uccjea.enforcement",
+          "label": "Registration, recognition and enforcement; warrants; Hague Convention enforcement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.child-support",
+      "label": "Child support",
+      "children": [
+        {
+          "id": "mo.child-support.determination",
+          "label": "Determination, factors, Form 14 presumption (452.340; Rule 88.01)",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.duration-emancipation",
+          "label": "Duration, emancipation, post-secondary education",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.payment-withholding",
+          "label": "Payment through clerk/payment center; income withholding",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.medical-support",
+          "label": "Health benefit plan / medical support orders",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.administrative",
+          "label": "Family Support Division; administrative establishment and modification",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.enforcement",
+          "label": "Enforcement: liens, garnishment, license suspension, passport, credit reporting",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.state-debt-assignment",
+          "label": "Assignment of support rights; state debt; public assistance",
+          "children": []
+        },
+        {
+          "id": "mo.child-support.stepparent",
+          "label": "Stepparent support duty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.uifsa",
+      "label": "UIFSA (454.1500–454.1730): interstate and international support",
+      "children": [
+        {
+          "id": "mo.uifsa.jurisdiction",
+          "label": "Jurisdiction, continuing exclusive jurisdiction, controlling order",
+          "children": []
+        },
+        {
+          "id": "mo.uifsa.procedure",
+          "label": "Tribunals, proceedings, evidence, communications",
+          "children": []
+        },
+        {
+          "id": "mo.uifsa.registration-enforcement",
+          "label": "Registration and enforcement of foreign orders; income withholding",
+          "children": []
+        },
+        {
+          "id": "mo.uifsa.modification",
+          "label": "Registration for modification; modification of other-state/foreign orders",
+          "children": []
+        },
+        {
+          "id": "mo.uifsa.hague-convention",
+          "label": "Support proceedings under the 2007 Hague Child Support Convention (Art. 7)",
+          "children": []
+        },
+        {
+          "id": "mo.uifsa.rendition-general",
+          "label": "Rendition; uniformity; general",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.paternity",
+      "label": "Parentage / paternity (Uniform Parentage Act 210.817–210.854)",
+      "children": [
+        {
+          "id": "mo.paternity.presumptions",
+          "label": "Presumptions of paternity and rebuttal",
+          "children": []
+        },
+        {
+          "id": "mo.paternity.acknowledgment",
+          "label": "Voluntary acknowledgment of paternity",
+          "children": []
+        },
+        {
+          "id": "mo.paternity.actions",
+          "label": "Paternity actions: standing, limitations, parties, genetic testing, evidence",
+          "children": []
+        },
+        {
+          "id": "mo.paternity.judgment-support",
+          "label": "Judgment, support, custody and parenting plan in paternity cases",
+          "children": []
+        },
+        {
+          "id": "mo.paternity.set-aside",
+          "label": "Setting aside paternity/support judgments",
+          "children": []
+        },
+        {
+          "id": "mo.paternity.assisted-reproduction",
+          "label": "Artificial insemination",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.adoption",
+      "label": "Adoption",
+      "children": [
+        {
+          "id": "mo.adoption.petition-procedure",
+          "label": "Petition, jurisdiction, venue, GAL, hearing and decree",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.consent",
+          "label": "Consent to adoption and cases where consent is not required",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.investigation-placement",
+          "label": "Placement, investigations, home studies, postplacement",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.effects",
+          "label": "Consequences of adoption",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.records",
+          "label": "Adoption records, confidentiality, birth certificates, adoptee rights",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.foreign-interstate",
+          "label": "Adoptions under laws of other states or countries; interstate compacts (ICPC, adoption assistance)",
+          "children": []
+        },
+        {
+          "id": "mo.adoption.subsidy",
+          "label": "Subsidies and adoption funds",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.tpr",
+      "label": "Termination of parental rights (211.442–211.487)",
+      "children": [
+        {
+          "id": "mo.tpr.grounds",
+          "label": "Grounds and consent/voluntary termination",
+          "children": []
+        },
+        {
+          "id": "mo.tpr.procedure",
+          "label": "Petition, service, hearings, GAL, orders",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.child-protection",
+      "label": "Child protection",
+      "children": [
+        {
+          "id": "mo.child-protection.abuse-reporting",
+          "label": "Child abuse and neglect reporting and investigation (210.109 ff.)",
+          "children": []
+        },
+        {
+          "id": "mo.child-protection.protective-custody",
+          "label": "Protective custody; juvenile court jurisdiction",
+          "children": []
+        },
+        {
+          "id": "mo.child-protection.gal",
+          "label": "Guardian ad litem in abuse/neglect proceedings",
+          "children": []
+        },
+        {
+          "id": "mo.child-protection.safe-haven",
+          "label": "Safe place for newborns",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.protection-orders",
+      "label": "Orders of protection",
+      "children": [
+        {
+          "id": "mo.protection-orders.adult-abuse",
+          "label": "Adult Abuse Act: definitions, petitions, ex parte and full orders, relief",
+          "children": []
+        },
+        {
+          "id": "mo.protection-orders.child-protection-orders",
+          "label": "Child Protection Orders Act (455.500 ff.)",
+          "children": []
+        },
+        {
+          "id": "mo.protection-orders.foreign-orders",
+          "label": "Foreign orders of protection — full faith and credit",
+          "children": []
+        },
+        {
+          "id": "mo.protection-orders.enforcement",
+          "label": "Law enforcement response, arrest, violation penalties",
+          "children": []
+        },
+        {
+          "id": "mo.protection-orders.services",
+          "label": "Shelters, commissions, programs, fatality review",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.criminal",
+      "label": "Family-related crimes",
+      "children": [
+        {
+          "id": "mo.criminal.domestic-assault",
+          "label": "Domestic assault (565.072–565.076); definitions",
+          "children": []
+        },
+        {
+          "id": "mo.criminal.custody-interference",
+          "label": "Interference with custody, parental kidnapping, child abduction (565.150–565.160)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.vital-records",
+      "label": "Vital records",
+      "children": [
+        {
+          "id": "mo.vital-records.birth",
+          "label": "Birth certificates, parentage entries, court-ordered certificates",
+          "children": []
+        },
+        {
+          "id": "mo.vital-records.marriage-divorce",
+          "label": "Marriage and dissolution records",
+          "children": []
+        },
+        {
+          "id": "mo.vital-records.amendment",
+          "label": "Amendment of certificates; certified copies",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.succession",
+      "label": "Probate — surviving spouse and children",
+      "children": [
+        {
+          "id": "mo.succession.intestacy",
+          "label": "Intestate succession; parent-child relationship; posthumous children",
+          "children": []
+        },
+        {
+          "id": "mo.succession.spousal-bars",
+          "label": "Waiver/bar of spousal rights (misconduct, contract, abandonment)",
+          "children": []
+        },
+        {
+          "id": "mo.succession.elective-share",
+          "label": "Elective share; gifts in fraud of marital rights",
+          "children": []
+        },
+        {
+          "id": "mo.succession.marital-agreement-waiver",
+          "label": "Waiver of right of election and statutory rights by agreement (474.120, 474.220)",
+          "children": []
+        },
+        {
+          "id": "mo.succession.omitted-spouse-children",
+          "label": "Omitted spouse and children",
+          "children": []
+        },
+        {
+          "id": "mo.succession.allowances",
+          "label": "Exempt property, support allowance, homestead allowance",
+          "children": []
+        },
+        {
+          "id": "mo.succession.revocation-divorce",
+          "label": "Revocation of will provisions by divorce",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.contracts",
+      "label": "Contract formalities and limitations",
+      "children": [
+        {
+          "id": "mo.contracts.statute-of-frauds",
+          "label": "Statute of frauds (432.010) — agreements in consideration of marriage",
+          "children": []
+        },
+        {
+          "id": "mo.contracts.limitations",
+          "label": "Limitations periods (516.100–516.120)",
+          "children": []
+        },
+        {
+          "id": "mo.contracts.judgments-presumption",
+          "label": "Presumption of payment of judgments / revival (516.350)",
+          "children": []
+        },
+        {
+          "id": "mo.contracts.interpretation",
+          "label": "Contract interpretation principles applied to marital agreements (judge-made)",
+          "children": []
+        },
+        {
+          "id": "mo.contracts.equitable-doctrines",
+          "label": "Equitable doctrines (estoppel, laches, unclean hands) in family matters (judge-made)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.conflicts",
+      "label": "Conflict of laws and recognition",
+      "children": [
+        {
+          "id": "mo.conflicts.foreign-judgments-comity",
+          "label": "Recognition of foreign-country divorce/custody/support judgments; comity",
+          "children": []
+        },
+        {
+          "id": "mo.conflicts.choice-of-law",
+          "label": "Choice of law (Restatement (Second) Conflict of Laws §§ 187–188 as adopted)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "mo.procedure",
+      "label": "Civil procedure in family matters (Supreme Court Rules)",
+      "children": [
+        {
+          "id": "mo.procedure.pleadings-motions",
+          "label": "Pleadings, motions and hearings (Rule 55)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.judgments",
+          "label": "Judgments and relief from judgment (Rule 74)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.control-of-judgment",
+          "label": "Trial court control of judgments (Rule 75)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.post-trial",
+          "label": "New trial and after-trial motions (Rule 78)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.appellate-opinions",
+          "label": "Appellate opinions, memoranda and orders (Rule 84.16)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.child-support-guidelines",
+          "label": "Rule 88.01 and Civil Procedure Form No. 14",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.mediation",
+          "label": "Mediation of custody and visitation (Rule 88.02–88.08)",
+          "children": []
+        },
+        {
+          "id": "mo.procedure.self-represented",
+          "label": "Self-represented litigants (Rule 88.09)",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

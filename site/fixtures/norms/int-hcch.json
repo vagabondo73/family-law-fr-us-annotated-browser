@@ -1,0 +1,62 @@
+{
+  "corpus": "int-hcch",
+  "generated": "2026-09-30",
+  "fixture": true,
+  "_note": "FIXTURE — development data for the site only; not part of the validated corpus.",
+  "norms": [
+    {
+      "id": "int-hcch-1980-3",
+      "corpus": "int-hcch",
+      "side": "int",
+      "lang": "en",
+      "kind": "treaty-article",
+      "num": "3",
+      "heading": "Hague Convention of 25 October 1980 on the Civil Aspects of International Child Abduction — Art. 3 (wrongful removal or retention)",
+      "path": [
+        {
+          "label": "HCCH 1980 Child Abduction Convention",
+          "id": "hcch-1980"
+        },
+        {
+          "label": "Chapter I – Scope of the Convention"
+        }
+      ],
+      "text": "The removal or the retention of a child is to be considered wrongful where –\n\na) it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and\n\nb) at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention.\n\nThe rights of custody mentioned in sub-paragraph a) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.",
+      "in_force_since": "1983-12-01",
+      "status": "in force",
+      "applies_to": [
+        "FR",
+        "US"
+      ],
+      "parties": {
+        "FR": "party — in force 1983-12-01",
+        "US": "party — in force 1988-07-01",
+        "EU": "not a party (EU Member States are parties)"
+      },
+      "official_url": "https://www.hcch.net/en/instruments/conventions/full-text/?cid=24",
+      "alt_urls": [
+        {
+          "label": "HCCH status table",
+          "url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=24"
+        },
+        {
+          "label": "Texte français (HCCH)",
+          "url": "https://www.hcch.net/fr/instruments/conventions/full-text/?cid=24"
+        }
+      ],
+      "source_ids": {
+        "hcch_cid": "24"
+      },
+      "issues": [
+        "eu-int.enlevement.deplacement-illicite",
+        "us.hague.wrongful-removal"
+      ],
+      "xrefs": [
+        "eu-reg-2019-1111-7"
+      ],
+      "interps": [],
+      "fixture": true,
+      "fixture_unverified": true
+    }
+  ]
+}
