@@ -1,7 +1,59 @@
 {
   "corpus": "mo-sc",
-  "generated": "2026-09-30",
+  "generated": "2026-10-01",
   "interps": [
+    {
+      "id": "mo-sc-sc101233",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-06-23",
+      "number": "SC101233",
+      "ecli": null,
+      "citation": "State of Missouri, Respondent, vs. Desmond Harris, Appellant, No. SC101233 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236410",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/commentary/us/Missouri"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Supreme Court of Missouri opinion applying or construing 74.06, 74.04, § 452.375 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Hoskins (Mo. banc... ## Missouri Rule 74.06(b)(5): A Change in Law Alone Cannot Dissolve a Permanent Injunction; Changed Facts and Equity Must Be Proven Date: Jul 27, 2026 Missouri Rule 74.06(b)(5): A Change in Law Alone Cannot Dissolve a Permanent Injunction; Changed Facts and Equity Must Be Proven 1.",
+        "State of Missouri: No Automatic Suspension of Legislation Upon Referendum Petition Filing; Suspension Turns on a “Legal, Sufficient, and Timely” Petition Determined Through Chapter 116... ## Missouri Rule 74.04: Summary Judgment Is Not an “Extreme and Drastic Remedy,” and Noncompliant Responses Admit Movant’s Facts Date: Apr 23, 2026 Missouri Rule 74.04: Summary Judgment Is Not an “Extreme and Drastic Remedy,” and Noncompliant Responses Admit Movant’s Facts Case: Wilkinson v.",
+        "Peters (Mo. banc Feb. 24, 2026), the Supreme Court of... ## Section 452.375.5(5) Does Not Create an Independent Third-Party Visitation/Custody Cause of Action Absent a Pending Custody Dispute Date: Feb 27, 2026 Section 452.375.5(5) Does Not Create an Independent Third-Party Visitation/Custody Cause of Action Absent a Pending Custody Dispute Case: In re A.L.P. and S.H.P. (Supreme Court of Missouri, en banc)..."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.06",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-74.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.procedure.judgments",
+        "proc.mo.judgments.relief-from-judgment",
+        "proc.mo.judgments.summary-judgment"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
     {
       "id": "mo-sc-sc101121",
       "authority": "mo-sc",
@@ -68,7 +120,8 @@
         "proc.mo.parties.intervention",
         "proc.mo.post-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-sc-cl10697666",
@@ -79,8 +132,12 @@
       "ecli": null,
       "citation": "State of Missouri, Respondent, vs. Dustin Curtis Winter, Appellant., No. SC100847 (Mo. banc 2025)",
       "publication": "published",
-      "official_url": "https://www.courtlistener.com/opinion/10697666/state-of-missouri-respondent-vs-dustin-curtis-winter-appellant/",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=223393",
       "alt_urls": [
+        {
+          "label": "CourtListener / mirror",
+          "url": "https://www.courtlistener.com/opinion/10697666/state-of-missouri-respondent-vs-dustin-curtis-winter-appellant/"
+        },
         {
           "label": "CourtListener",
           "url": "https://www.courtlistener.com/opinion/10697666/state-of-missouri-respondent-vs-dustin-curtis-winter-appellant/"

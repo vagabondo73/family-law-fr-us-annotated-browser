@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-30T17:34:00+00:00",
+  "generated": "2026-10-01T07:55:40+00:00",
   "source": "/home/user/workspace/flb/data",
   "counts": {
     "warn": 109,
-    "info": 71
+    "info": 72
   },
   "items": [
     {
@@ -359,6 +359,13 @@
       "code": "no-text",
       "msg": "mo-rules-76.03 has no text",
       "norm": "mo-rules-76.03"
+    },
+    {
+      "level": "info",
+      "code": "interp-merged",
+      "msg": "mo-app-proc-wd87623 appears in several interp files — links merged",
+      "interp": "mo-app-proc-wd87623",
+      "file": "/home/user/workspace/flb/data/interps/mo-app-proc.json"
     },
     {
       "level": "info",
@@ -1196,7 +1203,7 @@
     {
       "level": "info",
       "code": "search-index",
-      "msg": "prebuilt search index: {'docs': 26690, 'shards': 885, 'max_shard': 1020605, 'total': 19490754, 'big': [(1020605, 'co'), (761579, 're'), (560892, 'pr'), (493886, 'de'), (485832, 'ap')]}"
+      "msg": "prebuilt search index: {'docs': 26885, 'shards': 889, 'max_shard': 1027867, 'total': 19651632, 'big': [(1027867, 'co'), (768587, 're'), (564221, 'pr'), (496569, 'de'), (493365, 'ap')]}"
     }
   ]
 }

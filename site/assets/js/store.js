@@ -53,6 +53,7 @@ async function textChunk(cid, k) {
   return new Map((d?.norms || []).map((n) => [n.id, n]));
 }
 export async function interpChunk(cid, k) {
+  if (Array.isArray(k)) return Object.assign({}, ...(await Promise.all(k.map((x) => interpChunk(cid, x)))));
   if (k == null || k < 0) return {};
   const d = await getJSON(`data/corpus/${cid}/i${k}.json`);
   return d?.interps || {};

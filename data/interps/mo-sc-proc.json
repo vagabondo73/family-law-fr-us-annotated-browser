@@ -1,8 +1,465 @@
 {
   "corpus": "mo-sc-proc",
   "authority": "mo-sc",
-  "generated": "2026-09-30",
+  "generated": "2026-10-01",
   "interps": [
+    {
+      "id": "mo-sc-proc-sc101805",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-09-03",
+      "number": "SC101805",
+      "ecli": null,
+      "citation": "Richard von Glahn, Appellant, vs. Denny Hoskins, in His Official Capacity, et al., Respondents., No. SC101805 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=239229",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/6a9e985c5b6007b58b90f254"
+        }
+      ],
+      "text_source": "republished copy (casemine)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 84.17 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Mo. Const. art. XII, sec. 2(b).9No Rule 84.17 motions are permitted. _______________________________________ Ginger K. Gooch, Judge All concur. 9 The ballot summary statement to be used is set out in People Not Politicians v. Hoskins, 736 S.W.3d 518, 535 (Mo. App. 2026)."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.17",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.decision-rehearing"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101801",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-09-03",
+      "number": "SC101801",
+      "ecli": null,
+      "citation": "People Not Politicians, et al., Appellants, vs. Missouri Secretary of State Denny Hoskins, et al., Respondents., No. SC101801 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=239231",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/spr-crt-mis-en-ban/384293.html"
+        }
+      ],
+      "text_source": "republished copy (FindLaw)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 84.17 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "No Rule 84.17 motions are permitted. FOOTNOTES 1."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.17",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.decision-rehearing"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101250",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-06-23",
+      "number": "SC101250",
+      "ecli": null,
+      "citation": "Michael J. Holmes, Appellant, vs. Kenneth Zellers, Catherine Hanaway, Mayor Cara Spencer, Bettye Battle-Turner, Richard Gray, Thomas Irwin, Erwin Switzer, Francis Slay, and City of St. Louis, Respondents, No. SC101250 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236412",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/spr-crt-mis-en-ban/160307.html"
+        }
+      ],
+      "text_source": "republished copy (FindLaw)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 84.04, Rule 83.02 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Generally, Holmes’ points relied on do not comply with Rule 84.04, even though the rule provides a fill-in-the-blank framework for his use.",
+        "This Court has discretion whether to grant transfer pursuant to Rule 83.02."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-83.02",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.appeals.transfer"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101233",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-06-23",
+      "number": "SC101233",
+      "ecli": null,
+      "citation": "State of Missouri, Respondent, vs. Desmond Harris, Appellant, No. SC101233 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236410",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/commentary/us/Missouri"
+        }
+      ],
+      "text_source": "republished copy (casemine)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 74.06 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Introduction In Harris v. Hoskins (Mo. banc... ## Missouri Rule 74.06(b)(5): A Change in Law Alone Cannot Dissolve a Permanent Injunction; Changed Facts and Equity Must Be Proven Date: Jul 27, 2026 Missouri Rule 74.06(b)(5): A Change in Law Alone Cannot Dissolve a Permanent Injunction; Changed Facts and Equity Must Be Proven 1."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.06",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.judgments",
+        "proc.mo.judgments.relief-from-judgment"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101268",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-04-21",
+      "number": "SC101268",
+      "ecli": null,
+      "citation": "Lucas E. Wilkinson, Appellant, vs. Farmers Holding Companies d/b/a Capital Sand, Inc., Respondent., No. SC101268 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234196",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/spr-crt-mis-en-ban/118305217.html"
+        }
+      ],
+      "text_source": "republished copy (FindLaw)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 74.04, Rule 84.04, Rule 84.13, Rule 83.08, Rule 55.01 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Rule 74.04(c)(2) requires a summary judgment response “set forth each statement of fact in its original paragraph number and immediately thereunder admit or deny each of movant's factual statements” and requires “the response ․ support each denial with specific references to the discovery, exhibits or affidavits that demonstrate specific facts showing that there is a genuine issue for trial.” Wilkinson did not comply with either requirement.",
+        "Rule 84.04(d)(1)(A) requires the appellant's initial brief to identify each “trial court ruling or action that the appellant challenges[.]” “Assignments of error set forth for the first time in the reply brief do not present issues for appellate review.”",
+        "Under Rule 84.13(a), “allegations of error not briefed or not properly briefed shall not be considered in any civil appeal[.]” Attempting to avoid these rules, Wilkinson asserts this Court is free to consider his argument raised for the first time in his reply brief because, in conducting its de novo review, this Court sits as the circuit court and reviews the case anew."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-83.08",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-55.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.judgments",
+        "mo.procedure.pleadings-motions",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.appeals.transfer",
+        "proc.mo.judgments.summary-judgment",
+        "proc.mo.pleadings-motions.pleading-form"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc87641",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-02-24",
+      "number": "SC87641",
+      "ecli": null,
+      "citation": "Ida M. Richardson, Respondent, v. Joseph A...., No. SC87641 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=26486",
+      "alt_urls": [
+        {
+          "label": "ott.law republished copy (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/ida-m-richardson-respondent-v-joseph-a-richardson-appellant-c87641"
+        }
+      ],
+      "text_source": "republished copy (ott.law)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 74.01 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Joseph further alleged that Ida thus \"breached the separation agreement, violated public policy, committed criminal acts and waived any claim to maintenance payable by [Joseph] . . . \" The trial court dismissed Count II of Joseph's Motion with prejudice for failure to state a claim upon which relief can be granted. The trial court's order dismissing Count II was certified as a final order and judgment in accordance with Rule 74.01(b)."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.judgments",
+        "proc.mo.judgments.entry-finality"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101121",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-02-24",
+      "number": "SC101121",
+      "ecli": null,
+      "citation": "In re the matter of: A.L.P. and S.H.P.,..., No. SC101121 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=231454",
+      "alt_urls": [
+        {
+          "label": "ott.law republished copy (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/in-re-the-matter-of-alp-and-shp-minors-alicia-smith-respondent-v-lora-mar-101121"
+        }
+      ],
+      "text_source": "republished copy (ott.law)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 52.12, § 512.020 RSMo, Rule 84.14 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Rule 52.12 governs intervention, detailing when a party who was not named as an original party may enter an 8 action.",
+        "This Court has appellate jurisdiction In points II and III, Martinez argues the circuit court should have set aside the third-party visitation judgment because she did not consent to the judgment the circuit court entered. In response, Smith argued this Court should dismiss the appeal for lack of appellate jurisdiction because Martinez was not aggrieved by the judgment to which she consented; therefore, Martinez lacked statutory authority to appeal under section 512.020. 5 4 Smith interprets this Court's 2012 opinion in T.Q.L. as endorsement of an independent cause of action under section 452.375.5(5)(a).",
+        "Because section 452.375.5(5)(a) does not create a cause of action, Martinez was aggrieved by the entry of the judgment awarding Smith visitation, and this Court has appellate jurisdiction to decide this appeal. Conclusion The circuit court's judgment granting third-party visitation to Smith and the family access judgment enforcing the circuit court's judgment are reversed, and the Court enters judgment pursuant Rule 84.14 dismissing Smith's action for third party visitation pursuant to section 452.375.5(5)(a) and overruling Smith's family access motion. ___________________________________ K ELLY C. BRONIEC, JUDGE All concur."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-52.12",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-512.020",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.14",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals",
+        "proc.mo.appeals.decision-rehearing",
+        "proc.mo.parties.intervention"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101091",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-02-24",
+      "number": "SC101091",
+      "ecli": null,
+      "citation": "Christopher Hanshaw, Appellant, vs. Crown Equipment Corp., et al., Respondents., No. SC101091 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=231455",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/spr-crt-mis-en-ban/118186682.html"
+        }
+      ],
+      "text_source": "republished copy (FindLaw)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 74.04 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "(internal quotation omitted)); cf. Rule 74.04(e) (“Supporting or opposing affidavits ․ shall set forth such facts as would be admissible in evidence[.]”).",
+        "Likewise, this Court has made clear, in reviewing a summary judgment motion, a reviewing court shall “determine and review summary judgment based on that Rule 74.04(c) record, not the whole trial court record.”",
+        "The motion to exclude and the motion for summary judgment are separate motions, and neither the motion to exclude nor any response thereto, with related exhibits, becomes part of the summary judgment record absent compliance with Rule 74.04."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.04",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.judgments",
+        "proc.mo.judgments.summary-judgment"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101308",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-01-23",
+      "number": "SC101308",
+      "ecli": null,
+      "citation": "Sean Soendker Nicholson, Appellant/Cross-Respondent, vs. State of Missouri, et al., Respondents/Cross-Appellants, No. SC101308 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230206",
+      "alt_urls": [
+        {
+          "label": "ott.law republished copy (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/sean-soendker-nicholson-appellantcross-respondent-v-state-of-missouri-et-101308"
+        }
+      ],
+      "text_source": "republished copy (ott.law)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 84.17 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Finding the offending provision may not be severed, this Court reverses the circuit court's judgment and enters judgment invalidating SB 22 in its entirety. 6 __________________________ W. Brent Powell, Chief Justice All concur. 6 Any Rule 84.17 motion shall be filed on or before 5 p.m. on Monday, January 26, 2026."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.17",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.decision-rehearing"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc101020",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2026-01-23",
+      "number": "SC101020",
+      "ecli": null,
+      "citation": "Mouna Apperson, f/k/a Nicholas Apperson, Appellant, vs. Natasha Kaminsky, et al., Respondents, No. SC101020 (Mo. banc 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230208",
+      "alt_urls": [
+        {
+          "label": "ott.law republished copy (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/mouna-apperson-fka-nicholas-apperson-appellant-v-natasha-kaminsky-et-al-r-101020"
+        }
+      ],
+      "text_source": "republished copy (ott.law)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 72.01 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Under Rule 72.01(a), a motion for directed verdict \"shall state the specific grounds therefor.\"",
+        "At the close of Apperson's case-in-chief, Norman and Kaminsky separately moved for directed verdicts under Rule 72.01 on the ground Apperson failed to offer independent evidence his reputation was damaged as a result of the defendants' 3 statements."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-72.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.pretrial-trial.directed-verdict"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
+    {
+      "id": "mo-sc-proc-sc100967",
+      "authority": "mo-sc",
+      "court": "Supreme Court of Missouri",
+      "date": "2025-11-04",
+      "number": "SC100967",
+      "ecli": null,
+      "citation": "State of Missouri, Appellant, vs. Amanda M. Mire, Respondent., No. SC100967 (Mo. banc 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227014",
+      "alt_urls": [
+        {
+          "label": "ott.law republished copy (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/state-of-missouri-appellant-v-amanda-m-mire-respondent-100967"
+        }
+      ],
+      "text_source": "republished copy (ott.law)",
+      "summary": "Supreme Court of Missouri opinion applying or construing Rule 74.01 (neutral index summary; see verbatim excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Far from rejecting the idea that intent matters, Rule 74.01(a) after the 1995 amendment explicitly recognizes intent does matter by providing a mechanism for a circuit court to indicate it does not intend a docket entry to serve as a judgment: \"A docket sheet entry complying with these requirements is a judgment unless the docket sheet entry indicates that the court will enter the judgment in a separate document.",
+        "\"In this case, when examining the content and substance of 6 principal opinion's analysis, the requirements for an interlocutory order triggering the right to appeal under section 547.200.1(3) are more stringent than the requirements for a civil judgment under Rule 74.01(a).",
+        "The separate document shall be the judgment when entered.\" Rule 74.01(a). 4 Yet, under the 4 Even after the 1995 amendment to Rule 74.01(a), this Court has continued to acknowledge intent to enter a judgment or order does matter: \"Judgments are a subset of orders generally.\""
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-74.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.judgments",
+        "proc.mo.judgments.entry-finality"
+      ],
+      "axes": [
+        "procedure"
+      ],
+      "lang": "en"
+    },
     {
       "id": "mo-sc-proc-cl10697672",
       "authority": "mo-sc",

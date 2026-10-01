@@ -1,10 +1,10 @@
 # Daily upstream-source check (detection only) + manual "rebuild" (pipelines → site build → PR or direct deploy).
 # Legal content is NEVER rewritten by the scheduled job: it only writes data/update-report.json and opens an issue.
-name: daily-check
+name: weekly-check
 
 on:
   schedule:
-    - cron: "17 5 * * *"          # every day 05:17 UTC
+    - cron: "17 5 * * 1"          # weekly, Mondays 05:17 UTC (user decision 2026-10-01; for bi-weekly use "17 5 1,15 * *")
   workflow_dispatch:
     inputs:
       task:

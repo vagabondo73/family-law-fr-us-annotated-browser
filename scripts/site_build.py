@@ -443,6 +443,12 @@ def main():
     cpc_pages = sibling_index(CPC_BROWSER + "content/index.html", r'<li([^>]*)>\s*<a href="([^"]*article-(LEGIARTI\d+)\.html)">Article ([^<]+)</a>',
                               SITE / "xlink-cache" / "cpc-browser.json", a.refresh_xlinks, rep)
     apply_xlinks(norms, mappings, cpc_pages, rep)
+    # outside-the-dataset search links + proposal link (site-generated navigation only; legal content untouched)
+    from site_outside import outside_links, propose_url, citation as outside_citation, REPO as GH_REPO, VERIFIED as OUTSIDE_VERIFIED
+    for n in norms.values():
+        n["outside"] = outside_links(n)
+        n["outside_q"] = outside_citation(n)
+        n["propose_url"] = propose_url(n, base)
 
     # member counts per issue node (declared descendants + undeclared deeper ids sharing the prefix), precomputed so
     # the client does not scan the whole index for every node of a large tree
@@ -566,6 +572,7 @@ def main():
                               "issue_sides": [s["side"] for s in issue_sides if s["axis"] == ax["id"]]} for ax in AXES],
                 "search": {k: search_stats[k] for k in ("docs", "shards", "max_shard", "total")}, "classement_ce": len(ce_labels),
                 "mappings": maps_out, "sibling_browsers": {"cpc": CPC_BROWSER, "frcp": FRCP_BROWSER},
+                "github_repo": GH_REPO, "outside_search_verified": OUTSIDE_VERIFIED,
                 "totals": {"norms": len(norms), "interps": len(interps), "issues": len(issue_ids),
                            "sources": len(sources), "coverage": len(cov)},
                 "build_report": levels}
@@ -614,6 +621,23 @@ def paras(text):
 
 def link_list(urls):
     return " · ".join(f'<a href="{esc(u.get("url"))}">{esc(u.get("label") or u.get("url"))}</a>' for u in urls or [] if u.get("url"))
+
+
+def outside_html(n, fr):
+    """Static-page block: searches outside the closed universe (unscreened) + proposal link."""
+    links = n.get("outside") or []
+    h = ("<h2>Rechercher hors du corpus <span lang='en'>/ Search outside the dataset</span></h2>"
+         "<p class='meta'><strong>" + ("Hors de l'univers clos — résultats non filtrés" if fr else "Outside the closed universe — unscreened results")
+         + ("</strong> : ces recherches externes ne sont pas soumises à la règle temporelle (SCOPE §2) ; une décision trouvée n'est pas une interprétation retenue."
+            if fr else "</strong>: these external searches are not screened under the temporal rule (SCOPE §2); a decision found there is not a qualifying interpretation.")
+         + f" {'Requête' if fr else 'Query'} : <code>{esc(n.get('outside_q'))}</code></p>")
+    if links:
+        h += "<ul>" + "".join(f'<li><a href="{esc(x["url"])}" rel="nofollow noopener">{esc(x["label_fr"] if fr else x["label_en"])}</a>'
+                              + (f" — {esc(x['note_fr'] if fr else x['note_en'])}" if x.get("manual") else "") + "</li>" for x in links) + "</ul>"
+    if n.get("propose_url"):
+        h += (f'<p><a href="{esc(n["propose_url"])}" rel="nofollow noopener">' + ("Proposer une décision pour inclusion (GitHub)" if fr else "Propose a decision for inclusion (GitHub)")
+              + "</a> — " + ("à examiner selon les bases (a)/(b)" if fr else "screened under basis (a)/(b)") + "</p>")
+    return h
 
 
 def interp_html(it, nid, base):
@@ -701,6 +725,7 @@ def gen_content(norms, interps, corpora, issue_sides, issue_index, sources, mani
 <div class="meta">{'Questions' if fr else 'Issues'} : {esc(', '.join(n.get('issues') or []))}</div>
 <h2>{'Interprétations obligatoires' if fr else 'Binding interpretations'} ({len(its)})</h2>
 {''.join(interp_html(it, nid, base) for it in its) or ('<p>Aucune interprétation retenue.</p>' if fr else '<p>No qualifying interpretation.</p>')}
+{outside_html(n, fr)}
 """
         (c / f"{nid}.html").write_text(page(f"{n.get('num')} {n.get('heading') or ''}", body, base, "fr" if fr else "en",
                                             canonical=f"{base}content/{nid}.html"), encoding="utf-8")

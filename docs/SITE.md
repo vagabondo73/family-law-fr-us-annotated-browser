@@ -100,3 +100,10 @@ others. Raw analysis-code nodes (labels such as `01-01-02-01,rj1 …`) are hidde
   the build and by daily_check.py.
 - Search index covers headings, numbers, text, summary rules, citations, numbers/ECLI, titrage, summaries and excerpts (prebuilt at build time; a query
   fetches only the posting shards of its tokens and the doc chunks of the displayed page — about 1 s on the full corpus).
+
+
+## Search outside the dataset + proposals (2026-10-01)
+- `scripts/site_outside.py` gives each norm, at build time, three fields: `outside` (verified deep-link templates), `outside_q` (the pre-filled query) and `propose_url`. They are rendered after the interpretations in the SPA and on the static pages. The block is labelled as outside the closed universe and unscreened. These links are navigation only; no API is called.
+- `.github/ISSUE_TEMPLATE/proposal.yml` defines the form fields `norm_id`, `norm_page`, `citation`, `url`, `basis`, `justification`, `excerpt` and `checks`. `propose_url` pre-fills `norm_id`, `norm_page` and the title. The labels `proposal` and `needs-screening` must exist in the repository, or GitHub drops them.
+- If one norm's interpretations exceed the chunk budget, they are split across several chunks; `ic` is then a list (for example, mo-rules-84.04 has `ic = [11, 12]`).
+- QA: `NORMS='fr-cc-371-1,mo-rsmo-452.375,eu-reg-2019-1111-art-10' PW_PATH=... node qa/outside-check.mjs http://localhost:8765/ qa/screens/ out`

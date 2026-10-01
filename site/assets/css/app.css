@@ -337,3 +337,12 @@ details.iside-d > summary.iside::-webkit-details-marker { display: none; }
 details.iside-d > summary .chev { font-size: 9px; transition: transform .15s; }
 details.iside-d[open] > summary .chev { transform: rotate(90deg); }
 .tn .cnt.ni { color: var(--accent); font-weight: 600; }
+
+/* search outside the dataset (unscreened) + proposals */
+.outside { margin-top: var(--space-8, 32px); padding: 14px 16px 6px; border: 1px dashed color-mix(in srgb, var(--warn) 45%, transparent); border-radius: 8px; }
+.outside h2.s { margin-top: 0; }
+.outside .warnline { background: var(--warn-soft); color: var(--warn); padding: 8px 10px; border-radius: 6px; font-size: var(--text-sm); line-height: 1.45; margin: 0 0 10px; }
+.outside code { font-size: var(--text-xs); overflow-wrap: anywhere; }
+.outside .actions { flex-wrap: wrap; }
+.outside .btn.primary .bil { color: inherit; opacity: .78; }
+.outside h2.s { flex-wrap: wrap; row-gap: 2px; }

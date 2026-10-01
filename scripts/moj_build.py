@@ -25,7 +25,8 @@ def rec_for(x):
     elif x['key'].startswith('ott:'):
         m=x['ott']; text=open(f"{ROOT}/raw/moj/ott/{x['key'][4:]}.txt",errors='ignore').read()
         sc=(m['docket'] or '').startswith('SC'); name=m['title']; date=x['date']; docket=m['docket']; cites=[]; court_raw=None
-        official=m['official'] or m['url']; alts=[{'label':'Ott Law Firm mirror (full text)','url':m['url']}]
+        official=m['official'] or m['url']; alts=[{'label':(m['site']+' republished copy (full text)') if m.get('site') else 'Ott Law Firm mirror (full text)','url':m['url']}]
+        if m.get('mobar'): alts.append({'label':'The Missouri Bar weekly case summary','url':'https://news.mobar.org/'})
         iid=('mo-sc' if sc else 'mo-app')+'-'+docket.lower()
     else:
         m=x['meta']; text=open(f"{ROOT}/raw/moj/text/{x['cl']}.txt",errors='ignore').read()
@@ -142,6 +143,20 @@ def main():
         out[c]=[r for r in L if r['id'] not in drop]
         for k in bynorm: bynorm[k]=[i for i in bynorm[k] if i not in drop]
     add_common(out,bynorm)
+    # text_source for republished copies; official courts.mo.gov URLs from The Missouri Bar weekly summaries (by docket)
+    MB={}
+    if os.path.exists(ROOT+'/raw/moo/mobar_entries.jsonl'):
+        for l in open(ROOT+'/raw/moo/mobar_entries.jsonl'):
+            e=json.loads(l)
+            for d in e['dockets']: MB.setdefault(re.sub(r'\D','',d),e)
+    for L in out.values():
+        for r in L:
+            if any('Ott Law Firm mirror (full text)'==a['label'] for a in r['alt_urls']): r['text_source']='republished copy (ott.law)'
+            for a in r['alt_urls']:
+                if a['label'].endswith(' republished copy (full text)'): r['text_source']='republished copy (%s)'%a['label'].split(' republished')[0]
+            e=MB.get(re.sub(r'\D','',r['number'] or '')[-6:]) or MB.get(re.sub(r'\D','',r['number'] or ''))
+            if e and 'courts.mo.gov' not in r['official_url'] and r['date']>='2019-01-01':
+                r['alt_urls']=[{'label':'CourtListener / mirror','url':r['official_url']}]+r['alt_urls']; r['official_url']=e['official_url']
     # official courts.mo.gov URLs confirmed via search-index hits on ott.law (docket verified on the page)
     if os.path.exists(ROOT+'/raw/moj/ott_urls.jsonl'):
         OU={}
@@ -236,7 +251,8 @@ def write_ledgers(out,led,bynorm):
           'interps_candidates':nclus,'interps_screened':nscreened,'interps_included':len(L),
           'links_included_by_basis':dict(inc_links),
           'screening_by_chapter_links_both_courts':by,'excluded_whole_opinions':dict(led['_all']),
-          'method':("Candidates = (1) every Missouri Supreme Court / Court of Appeals case in the Caselaw Access Project full-text volumes "
+          'method':("Gap-fill Oct 2025 -> (pipeline mo-gapfill, scripts/moo_*.py): The Missouri Bar weekly case summaries (news.mobar.org, recall vs CourtListener Q3-2025 published opinions 96.9%) give docket + official courts.mo.gov file.jsp URL; texts from CourtListener where held, else republished copy on ott.law located via the Perplexity search index (docket verified; text_source field). "
+          "Candidates = (1) every Missouri Supreme Court / Court of Appeals case in the Caselaw Access Project full-text volumes "
             "(S.W.2d 1-999, S.W.3d 1-579, Mo. 340-365, Mo. App. 231-241; i.e. published opinions to ~Aug 2019) whose text cites a perimeter RSMo "
             "section (regex on 'NNN.NNN[.n][(n)]', which covers 'section', '§' and 'RSMo' forms) or family keywords; plus (2) CourtListener REST v4 search "
             "(court=mo moctapp) for every perimeter section citation string incl. subsection forms 'NNN.NNN.n', filed 2018-01-01 onward (older 452 groups unfiltered), "

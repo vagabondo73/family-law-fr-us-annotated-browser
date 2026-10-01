@@ -143,7 +143,7 @@ Source texts always in original language.
 
 ## 7. Delivery
 PUBLIC GitHub repository vagabondo73/family-law-fr-us-annotated-browser (user decision 2026-09-30); GitHub Pages site
-(free plan); GitHub Actions daily source check (hash/version diff) that opens an issue/PR with flagged changes.
+(free plan); GitHub Actions weekly source check (Mondays; reduced from daily on 2026-10-01) (hash/version diff) that opens an issue/PR with flagged changes.
 
 ## 4.5 Independent axis — Comparative civil procedure (CPC ↔ Missouri) (added 2026-09-30, user decision)
 - Purpose: map Missouri civil procedure to the French Code de procédure civile ARTICLE-TO-RULE, on an axis separate

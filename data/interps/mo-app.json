@@ -1,7 +1,1204 @@
 {
   "corpus": "mo-app",
-  "generated": "2026-09-30",
+  "generated": "2026-10-01",
   "interps": [
+    {
+      "id": "mo-app-wd88229",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-09-08",
+      "number": "WD88229",
+      "ecli": null,
+      "citation": "In RE The Marriage of: Andrew John Rottinghaus v. Kelly Ann Rottinghaus, No. WD88229 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=239250",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/385076.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 452.330 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "In distributing marital property, Section 452.330.1 ^2^ instructs the trial court to first “set apart to each spouse such spouse's nonmarital property.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.330",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.property-division"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd39109",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-09-02",
+      "number": "SD39109",
+      "ecli": null,
+      "citation": "E.M., Petitioner-Respondent v. H.M.M., Respondent-Appellant, No. SD39109 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=239189",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/6a9912666b23c9e6b87d5352/amp"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 455.040, § 455.010, 84.13 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Filed: September 2, 2026 Case Number SD39109 Missouri Court of Appeals Southern District APPEAL FROM THE CIRCUIT COURT OF GREENE COUNTY Honorable Daniel R. Wichmer **VACATED AND REMANDED WITH INSTRUCTIONS ** A full order of protection, effective for one year, was entered by the circuit court against Husband, H.M.M. (\"Appellant\"), under § 455.040 of Missouri's Adult Abuse Act (\"the Act\").^1^Appellant raises four points on appeal.",
+        "A person commits battery by \"purposely or knowingly causing physical harm to another with or without a deadly weapon[.]\" § 455.010(1)(c). 5 There must be evidence of physical harm suffered to affirm a finding of battery. ***C.M.M. * ** ***v.",
+        "There exists great potential for abuse of the Act, and real harm can result from its improper use. ***Id.* ** Thus, courts must be certain that sufficient credible evidence supports *all * elements required for a protective order, and to be entitled to relief under the Act, the petitioner must prove allegations in a petition for an order of protection by a preponderance of the evidence. ***Id.* **; ***Mannon* **, 735 S.W.3d at 606. **Analysis ** In Point 1, Appellant requests plain error review under Rule 84.13(c) because he claims he was denied a meaningful hearing and was therefore deprived of procedural due process by the manner in which the trial court conducted the hearing.",
+        "Accordingly, to the extent the trial court's judgment was dependent upon a finding of battery, there is not substantial evidence to support such finding and the judgment is vacated.^3^ *Point 3* Appellant's third point states that a petitioner may prove domestic abuse under § 455.040.1(b) with an abuse by assault theory if the court finds Appellant \"purposely or knowingly placed or attempted to place [Respondent] in fear of physical harm[.]\" In addition to the evidence supporting this finding discussed under Point 2, Respondent testified she did not feel safe around Appellant and had stayed in hotels and Airbnbs to stay away from him."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.040",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse",
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-ed113858",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-09-01",
+      "number": "ED113858",
+      "ecli": null,
+      "citation": "In the interest of: E.S.W., No. ED113858 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=239072",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-fou/366232.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 211.031 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Background On August 15, 2024, the Juvenile Officer (JO) filed a petition for protective custody under section 211.031.1(1) claiming that while in Parents’ custody, Child was without proper care, custody, and support and that Parents were unable to provide him a safe and stable living environment.",
+        "In the INTEREST OF: E.S.W. This is a protective custody case litigated pursuant to section 211.031.^1^ The matter arose when twelve-year-old E.S.W. (Child) ran away from his home in August of 2024 after an argument with his Father that ended with Father telling Child to leave."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-211.031",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-protection.protective-custody"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113585",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-08-25",
+      "number": "ED113585",
+      "ecli": null,
+      "citation": "M.F., Appellant, v. S.B., Respondent., No. ED113585 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=238570",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/342207.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing Form No. 14 (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Introduction M.F. (Father) appeals from the trial court's judgment awarding $310 in monthly child support to S.B. (Mother) for minor children A.F. and J.F. Father raises one point on appeal arguing: the trial court erred in calculating the presumed correct support amount (PCSA) by (1) failing to apply the required split-custody Form 14 methodology and (2) by incorrectly designating Father as the Parent Paying Support for A.F. Because Father failed to preserve this issue for appellate review and did not request plain error review, we affirm.",
+        "First, the trial court must calculate the PCSA pursuant to Form 14, either by accepting one of the parties’ proposed calculations or by rejecting the parties’ Form 14s and substituting its own.",
+        "“A party must have submitted a completed Form 14 in order to preserve for appellate review a claim of error in the determination of child support.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-form-14",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.procedure.child-support-guidelines"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd39296",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-08-19",
+      "number": "SD39296",
+      "ecli": null,
+      "citation": "COLBY L. DAVISON, Appellant v. BOBBIE S. FOLEY f/k/a DAVISON, Respondent, No. SD39296 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=238409",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/329964.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 452.375 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Father timely filed both a Motion to Amend Judgment and a Motion for New Trial, asserting, among other things, that the court failed to sufficiently analyze the statutory custody factors under section 452.375.",
+        "Analysis Point 1 Father's first point argues the trial court's judgment fails to recite the specific factual findings pertaining to the best interest of the child as required under section 452.375.2.^2^ When reviewing a modification of child custody, the judgment of the trial court will be affirmed if it is supported by substantial evidence, is not against the weight of the evidence, and does not erroneously declare or apply the law.",
+        "If the parties have not agreed to a custodial arrangement, section 452.375.6 requires the court to include written findings on “each of the factors listed in subdivisions (1) to (8) of subsection 2 of this section detailing the specific relevant factors that made a particular arrangement in the best interest of the child.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113666",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-08-11",
+      "number": "ED113666",
+      "ecli": null,
+      "citation": "Andrew R. Vollmer, Appellant, v. Kathy D. Vollmer, Respondent., No. ED113666 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=238151",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-fou/306469.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing 84.14, § 452.340, § 452.315, § 452.355, § 452.375, 78.07 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Rule 84.14 allows this Court to “give such judgment as the court ought to give.”",
+        "Section 452.340.1.^2^ “[U]nder Missouri law a party ordered to pay retroactive support is generally entitled to receive a credit for voluntary child support ․” Eichacker v.",
+        "Moreover, this process aligns directly with section 452.315 which provides that temporary orders terminate upon the entry of a final dissolution judgment.",
+        "Section 452.355.1 authorizes the trial court “to award attorney's fees arising out of a dissolution proceeding ․” Wagner v."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.340",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.315",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.355",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.child-support.duration-emancipation",
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.dissolution.attorney-fees",
+        "mo.dissolution.temporary-orders",
+        "mo.procedure.post-trial",
+        "proc.mo.appeals.decision-rehearing",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd39166",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-08-05",
+      "number": "SD39166",
+      "ecli": null,
+      "citation": "IN THE MATTER OF: REAGAN NOELLE DILLARD, an Incapacitated and Disabled Person, SUSAN DILLARD, Appellant v. SHERRY DILLARD, Guardian and Conservator, Respondent, No. SD39166 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=238009",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/297292.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing 84.13 (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Standard of Review Our review of the trial court's judgment in this matter is governed by Rule 84.13(d) and the principles articulated in Murphy v."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd38895",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-07-30",
+      "number": "SD38895",
+      "ecli": null,
+      "citation": "AMY RINKER, Petitioner-Appellant v. CODY RINKER, Respondent-Respondent, No. SD38895 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=237789",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/286517.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing 84.04, 84.13 (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Analysis “Compliance with Rule 84.04 briefing requirements is mandatory in order to ensure that appellate courts do not become advocates by speculating on facts and on arguments that have not been made.”",
+        "As an initial matter, we note that our review of this court-tried case is governed by Rule 84.13(d) and Murphy v.",
+        "“An appellant's failure to adhere to the briefing standards outlined in Rule 84.04 preserves nothing for appeal and is grounds for dismissal.”",
+        "Appellant's Statement of Facts Rule 84.04(a)(3) requires an appellant's brief to contain “[a] statement of facts[.]” This statement of facts “shall be a fair and concise statement of the facts relevant to the questions presented for determination without argument.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113863",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-07-07",
+      "number": "ED113863",
+      "ecli": null,
+      "citation": "S.J.M., Respondent, v. T.J.F., Appellant., No. ED113863 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236952",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-sou-div/196694.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 451.040 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Father argued that, because Missouri law states “[c]ommon–law marriages shall be null and void,” Section 451.040.5, the circuit court lacked jurisdiction to proceed."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-451.040",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.marriage.license"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd88080",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-06-30",
+      "number": "WD88080",
+      "ecli": null,
+      "citation": "State of Missouri v. Joey Everett Jonas, No. WD88080 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236569",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/183573.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 455.085 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Section 455.085.8 sets forth the elements of the criminal offense of violating a full order of protection, and in so states: A violation of the terms and conditions, with regard to domestic violence, stalking, sexual assault, child custody, communication initiated by the respondent or entrance upon the premises of the petitioner's dwelling unit or place of employment or school, or being within a certain distance[6] of the petitioner or a child of the petitioner, of a full order of protection shall be a class A misdemeanor[ ] ․ “The State must prove every element of a crime charged beyond a reasonable doubt.”",
+        "Lastly, Jonas argues that, because the Missouri legislature failed to define how a “certain distance of the petitioner” is to be measured in section 455.085.8, the text of section 455.085.8 is facially ambiguous, and the Court must apply the rule of lenity to reverse his conviction.",
+        "Joey E. Jonas (“Jonas”) appeals the judgment of the Circuit Court of Andrew County, Missouri (“trial court”), convicting him of the class A misdemeanor of violating the terms of a full order of protection issued pursuant to section 455.085.8.^1^ Jonas challenges the sufficiency of the evidence against him, arguing that the State failed to prove beyond a reasonable doubt that Jonas was within 500 feet of the victim (“Victim”)^2^ in violation of the order of protection."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.085",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.enforcement"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113428",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-06-30",
+      "number": "ED113428",
+      "ecli": null,
+      "citation": "G.M., Respondent. v. T.M.G., Appellant, No. ED113428 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236770",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/176040.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 455.007, 84.04 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Id. at 103-04; Section 455.007 (“[T]he public interest exception to the mootness doctrine shall apply to an appeal of a full order of protection which has expired.”).",
+        "Although the present matter falls within the parameters of the first exception considering this case became moot after submission, we exercise our discretion and decline to review because G.M. flagrantly disregards the Rule 84.04 appellate guidelines and procedures within his briefing.",
+        "Similar, but not identical, section 455.007 reminds our court that the public interest exception “shall” apply to an expired full order of protection.",
+        "When we applied the public interest exception, Appellant complicated a meaningful review due to the factual deficiencies within his briefing and his innumerable Rule 84.04 violations."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.007",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse",
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd39159",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-06-18",
+      "number": "SD39159",
+      "ecli": null,
+      "citation": "STATE OF MISSOURI, Respondent v. HAROLD EDWARD LEE, Appellant, No. SD39159 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236309",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/136185.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 455.085 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "As to Count 3, § 455.085, the State was required to prove: (1) the court entered an order prohibiting Lee from coming within 300 feet of TB; (2) Lee knew of the existence of the order; and (3) Lee knowingly violated the terms and conditions of the order by being within 300 feet of TB. See MAI-CR 4th 432.06; State v.",
+        "Harold Edward Lee (“Lee”) appeals his convictions of violating an order of protection under § 455.085, and resisting arrest under § 575.150.^1^ Lee presents two points on appeal, both contending his cross-examination questioning was outside the scope of his direct examination."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.085",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.enforcement"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd39112",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-06-16",
+      "number": "SD39112",
+      "ecli": null,
+      "citation": "JACOB MARSHALL and SAMANTHA MARSHALL, Appellants v. LEIGH MARSHALL and DEANNA NEEDHAM, Respondents, No. SD39112 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=236129",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/126986.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 432.010 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "The Statute of Frauds Appellants’ fourth point challenges the circuit court's judgment on the basis that the statue of frauds bars claim 2, which they characterize again in this point as a claim “for enforcement of an oral land transfer agreement[.]” In pertinent part, the statute of frauds provides: No action shall be brought ․ to charge any person upon any agreement made ․ upon any contract made for the sale of lands, tenements, hereditaments, or an interest in or concerning them ․ unless the agreement upon which the action shall be brought, or some memorandum or note thereof, shall be in writing and signed by the party to be charged therewith ․. Section 432.010, RSMo (2016)."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-432.010",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.contracts.statute-of-frauds",
+        "mo.marriage.marital-agreements"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd88093",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-05-26",
+      "number": "WD88093",
+      "ecli": null,
+      "citation": "Michelle Yetter (F/K/A Speed) vs. Jason Napier, No. WD88093 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=235397",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-wes-dis-wes-dis/57319.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 452.412, § 452.375, 84.13, § 452.413 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Father then moved to set aside and amend the judgment or, in the alternative, for a new trial, specifically raising for the first-time sections 452.412-.413 (“Deployed Serviceperson's Protection Laws”) as a bar to any final order modifying child custody.",
+        "After undertaking a detailed best interest analysis under the relevant factors pursuant to section 452.375, the Commissioner found that Father's proposed relocation of the Children to Virginia would not serve the Children's best interest.",
+        "The fact that a further modification remains available diminishes any claim that the circuit court's judgment resulted in a “manifest injustice or miscarriage of justice” justifying plain error review under Rule 84.13(c).",
+        "Sections 452.412 and 452.413 were enacted by the Missouri General Assembly to protect the parental rights of deployed military service members.^8^ As numerous commentators have noted, “[m]any servicemembers worry, and rightly so, that the temporary changes implemented [in a modification of child custody order] during a servicemember's deployment will become permanent following their return home.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.412",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.413",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.custody.military",
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd87695",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-05-19",
+      "number": "WD87695",
+      "ecli": null,
+      "citation": "In Re the Marriage of: John B. Cadwalader vs. Melissa L. Cadwalader, No. WD87695 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=235034",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/34975.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 452.315, § 452.335, § 452.340 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Section 452.315.5 (referencing section 452.335 on maintenance and section 452.340 on child support).",
+        "Section 452.335 addresses the award of maintenance and, unlike section 452.340 addressing the award of child support, makes no provision for an award of retroactive maintenance.",
+        "However, maintenance awarded for a period preceding the entry of a final decree of dissolution is permitted when a party has moved for temporary maintenance under section 452.315.",
+        "Thus, maintenance awarded retroactive to the date of filing of a pendente lite motion is generally viewed as authorized by section 452.315, even though retroactive maintenance is not contemplated by section 452.335."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.315",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.335",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.340",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.child-support.duration-emancipation",
+        "mo.dissolution.maintenance",
+        "mo.dissolution.temporary-orders"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd38679",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-05-14",
+      "number": "SD38679",
+      "ecli": null,
+      "citation": "STATE OF MISSOURI, Respondent v. ALDO JAVIER MUNGUIA-HERNANDEZ, Appellant, No. SD38679 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=235013",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/19160.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 565.076 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "See RSMo 565.076; 565.252.^1^ In one point, he asserts the trial court abused its discretion by denying his motion for a mistrial after the prosecutor commented in closing argument that “beyond a reasonable doubt wasn't 87 percent probability.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-565.076",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.criminal.domestic-assault"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd88017",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-05-05",
+      "number": "WD88017",
+      "ecli": null,
+      "citation": "In Re the Matter of: David Eade vs. Jennifer Kennedy, No. WD88017 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234773",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118327977.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 452.375, 54.20, 55.27, § 452.410, § 452.745, § 452.400 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "As to all three Children, the court concluded that the eight statutory factors for custody enumerated in § 452.375.2 favored Father.",
+        "The court entered an order granting service by publication, and Father filed an affidavit of service as required by Rule 54.20(e).",
+        "Rule 55.27(a) provides that any defense based on lack of jurisdiction over the person, insufficiency of process, or insufficiency of service of process must be asserted in the responsive pleading or made by motion.",
+        "The court did not address Mother's allegations regarding abuse by Father, but those allegations were raised during the dissolution proceeding and initial custody determination. ^15^ Section 452.410 states in part “the court shall not modify a prior custody decree unless it has jurisdiction under the provisions of section 452.745 and it finds that modification is necessary, upon the basis of facts that have arisen since the prior decree or that were unknown to the court at the time of the prior decree ․” (Emphasis added.) While Mother frequently referenced the abuse allegations during the custody modification/third-party custody proceedings, there were no new allegations of this nature presented to the court."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-54.20",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-55.27",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.410",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.745",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.400",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.355",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-form-14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.376",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.custody.modification",
+        "mo.custody.records-access",
+        "mo.custody.visitation",
+        "mo.dissolution.attorney-fees",
+        "mo.procedure.child-support-guidelines",
+        "mo.procedure.pleadings-motions",
+        "mo.procedure.post-trial",
+        "mo.uccjea.jurisdiction",
+        "proc.mo.commencement-process.summons-service",
+        "proc.mo.pleadings-motions.motions",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd88374",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-04-28",
+      "number": "WD88374",
+      "ecli": null,
+      "citation": "Preston Scott Buckallew, Individually and as Next Friend of B.N.B. and K.L.B., Minors vs. Shelby Hall, No. WD88374 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234498",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118315503.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 88.01, Form No. 14, § 210.845, 84.04, 78.07 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Analysis In his single point on appeal, Father argues that in denying the Motion to Modify, the trial court misapplied the law because “it did not follow Supreme Court Rule 88.01 and the guidelines laid out in the Form 14 when calculating child support.”^5^ Specifically, Father challenges the trial court's conclusion that his Form 14 was incorrect because it included a 34 percent adjustment in accordance with the 181 to 183 overnight visits per year awarded by the Paternity Judgment even though Father actually exercised far fewer overnight visits than were awarded.",
+        "The Motion to Modify argued that the Form 14 originally adopted by the trial court included a monthly credit for child care in the amount of $380 that was no longer required, and that the presumptive child support award should be reduced from $650 to $432 per month.",
+        "The trial court concluded that because Father's Form 14 was not correct, Father had not established a deviation in the presumptive child support award of 20 percent or more from the original child support award as to require the trial court to recalculate child support pursuant to section 210.845.2.^4^ The trial court denied Father's Motion to Modify.",
+        "While compliance with Rule 84.04 is mandatory, we will disregard technical briefing errors in order to reach the merits of an appeal so long as the brief “gives[s] notice to this Court and to the other parties as to the issue presented on appeal.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-88.01",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-form-14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-210.845",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.paternity.judgment-support",
+        "mo.procedure.child-support-guidelines",
+        "mo.procedure.post-trial",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial",
+        "proc.mo.special-actions.domestic-relations"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd87899",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-04-28",
+      "number": "WD87899",
+      "ecli": null,
+      "citation": "In Re: The Marriage of Kristin N. DeGrace vs. Philip A. DeGrace, III, No. WD87899 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234493",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118315229.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 452.330, 84.14, 78.07 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "“That is largely due to the fact that section 452.330.1 ^2^ sets forth a variety of relevant factors a trial court is to consider in fashioning a fair and equitable division of marital property, many of which have nothing to do with the value of the property.”",
+        "“Under Rule 84.14,” this Court “may enter the judgment the trial court should have entered, making any necessary corrections or amendments.”",
+        "Rule 78.07 states in relevant part: (b) Except as otherwise provided in Rule 78.07(c), in cases tried without a jury or with an advisory jury, neither a motion for a new trial nor a motion to amend the judgment or opinion is necessary to preserve any matter for appellate review if the matter was previously presented to the trial court.",
+        "Section 452.330.1 states in relevant part: In a proceeding for dissolution of the marriage ․ the court ․ shall divide the marital property and marital debts in such proportions as the court deems just after considering all relevant factors including: (1) The economic circumstances of each spouse at the time the division of property is to become effective, including the desirability of awarding the family home or the right to live therein for reasonable periods to the spouse having custody of any children; (2) The contribution of each spouse to the acquisition of the marital property, including the contribution of a spouse as homemaker; (3) The value of the nonmarital property set apart to each spouse; (4) The conduct of the parties during the marriage; and (5) Custodial arrangements for minor children."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.330",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.property-division",
+        "mo.procedure.post-trial",
+        "proc.mo.appeals.decision-rehearing",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113707",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-04-28",
+      "number": "ED113707",
+      "ecli": null,
+      "citation": "R.B., Respondent, v. J.B., Appellant., No. ED113707 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234577",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-fou/118315531.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 455.010 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "In M.D.L., this Court reversed a judgment granting a full order of protection on stalking grounds because the record lacked substantial evidence that petitioner feared physical harm from respondent's actions as required by Section 455.010(13)(a).",
+        "Introduction J.B. appeals the trial court's judgment granting a full order of protection against him and in favor of his childhood friend R.B. pursuant to the Adult Abuse Act, Section 455.010.^1^ Because R.B. failed to present sufficient evidence that J.B.’s conduct caused him fear of physical harm, we find the trial court's judgment entering a full order of protection on stalking grounds is not supported by substantial evidence.",
+        "Binggeli, 300 S.W.3d at 624 (emphasis in original); Section 455.010(10)."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd88220",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-04-21",
+      "number": "WD88220",
+      "ecli": null,
+      "citation": "In the interest of: I.J.L. and J.L.G.-G., Juveniles; Juvenile Officer vs. L.M.G., No. WD88220 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234115",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/69e88f434432d9d076adff75"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 211.031 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "W.D. 2025) (citation modified). 3 On June 9, 2025, the Juvenile Officer filed two petitions with the juvenile court describing the events of June 8, 2025, arguing that I.J.L. and J.L.G.-G. required care pursuant to section 211.031.1."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-211.031",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-protection.protective-custody"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-wd87974",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-04-21",
+      "number": "WD87974",
+      "ecli": null,
+      "citation": "M.J.R. vs. E.R., No. WD87974 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234113",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/69e88ec34432d9d076adff73"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 455.007, § 455.040, § 455.020, 78.09, 84.13, § 455.010 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "However, section 455.007 provides: \"Notwithstanding any other provision of law to the contrary, the public interest exception to the mootness doctrine shall apply to an appeal of a full order of protection which has expired.\"",
+        "E.D. 2025) (citing *L.E.C.*, 674 S.W.3d at 104). 3 of M.R. E.R. argues that the trial court's sudden adjournment impermissibly delayed the timely adversarial hearing required by section 455.040^3^and deprived E.R. of due process.",
+        "Regarding the timing of hearings on petitions filed under section 455.020, section 455.040.1(1) provides: \"Not later than fifteen days after the filing of a petition that meets the requirements of section 455.020, a hearing shall be held unless the court deems, for good cause shown, that a continuance should be granted. . . .\" In this matter, a hearing on M.R.'s petition was initially scheduled for December 5, 2024.",
+        "Generally, \"Rule 78.09 requires a party, 'at the time the ruling or order of the court is made or sought, [to make] known to the court the action that the party desires the court to take or objections to the action of the court and the grounds therefore'\" *Brown v."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.007",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.040",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.020",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.09",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.13",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.085",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.post-trial",
+        "mo.protection-orders.adult-abuse",
+        "mo.protection-orders.enforcement",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-ed113508",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-04-21",
+      "number": "ED113508",
+      "ecli": null,
+      "citation": "Colleen L. Malone, Respondent, v. Jason B. Malone, Appellant., No. ED113508 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=234160",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/69e88d044432d9d076adff6c"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 452.355 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Appellant argues that the circuit court did not follow the required considerations in Section 452.355.1 1 All statutory references are to Missouri Revised Statutes (2016).",
+        "In contempt proceedings, such power \"is not reliant on Section 452.355.\""
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.355",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.attorney-fees"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-wd87845",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-03-31",
+      "number": "WD87845",
+      "ecli": null,
+      "citation": "In the Interest of: D.S.G., Individually and by His Next Friend, Laura Jo Fretwell, and Laura Jo Fretwell, Individually vs. Jon Frederick Gue, No. WD87845 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=232775",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/69cd191e70da464fa3ecc0f7/amp"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 84.04, 81.12, § 452.400 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "This Court struck Gue's initial brief for its failure to comply with the appellate briefing requirements of 1 2 Rule 84.04.^1^Because Gue's amended brief still substantially violates Rule 84.04 and because he has not filed the complete trial transcript as required by Rule 81.12, his appeal is dismissed.^2^ **Factual and Procedural Background ** In March 2022, Mother filed a petition for declaration of paternity, order of custody, visitation and support.",
+        "For example, in his argument under point one, Gue continues to contend that three different errors occurred: that the \"trial court abused its discretion and misapplied [section] 452.400.1 . . . by restricting [Gue's] initial contact with [Child] to supervised therapeutic sessions and otherwise prohibiting unsupervised visitation absent further court order,\" and that there also was no evidence to \"support any finding that unsupervised time with [Gue] would harm [Child].\"",
+        "The Statement of Facts substantially lacks specific page references to the legal file or the transcript as required by Rule 84.04(c). 2.",
+        "Rule 81.12 governs the record on appeal which consists of the legal file and the transcript. *Williams v."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.12",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.400",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.domestic-violence",
+        "mo.custody.visitation",
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-ed113253",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-03-24",
+      "number": "ED113253",
+      "ecli": null,
+      "citation": "Ivan S. Ganev, Appellant, v. Dondee D. Ganev, Respondent., No. ED113253 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=232615",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-one/118247557.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing 73.01, § 452.335 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Rule 73.01(c) provides the court “shall render the judgment it thinks proper under the law and the evidence.",
+        "Once the threshold of need is met, the trial court must consider all relevant factors set forth in Section 452.335.2(1-10) to set the amount and duration of the maintenance award.",
+        "Point One –Findings of Fact and Conclusions of Law In his first point, Husband alleges the trial court erred in entering its judgment without including findings of fact and conclusions of law as he requested because Rule 73.01(c)^2^ mandates a court to include findings on controverted material fact issues specified by a party if timely requested.",
+        "Here, the court analyzed the factors set forth in Section 452.335 and found Wife lacked sufficient property to provide for her reasonable needs."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-73.01",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.335",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.maintenance",
+        "proc.mo.pretrial-trial.court-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
     {
       "id": "mo-app-wd88021",
       "authority": "mo-app",
@@ -46,7 +1243,8 @@
         "mo.custody.domestic-violence",
         "mo.custody.modification"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-wd87987",
@@ -114,7 +1312,70 @@
         "proc.mo.discovery.interrogatories-depositions",
         "proc.mo.post-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-wd87984",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-03-10",
+      "number": "WD87984",
+      "ecli": null,
+      "citation": "In RE the Marriage of: Kelly Ann Bennett, Respondent, vs. Travis Warren Bennett, Appellant., No. WD87984 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=232075",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118206898.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 84.14, Form No. 14, § 452.340, 88.01, § 452.330 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Regarding the disposition of cases on appeal, Rule 84.14 provides appellate courts with authority, when appropriate, to “give such judgment as the court ought to give” and provides that, “[u]nless justice otherwise requires, the court shall dispose finally of the case.”",
+        "In particular, Father argues that the trial court failed to apply the proper Line 11 adjustment on the Form 14 child support worksheet based on the number of overnights awarded to Father in the parenting plan set forth in the trial court's judgment.",
+        "Thus, in accordance with section 452.340 and Rule 88.01, the trial court follows a two-step procedure in determining child support: First, the trial court is required to calculate the child support amount pursuant to Civil Procedure Form 14, either by accepting one of the parent's Form 14 calculations or by performing its own Form 14 calculation.",
+        "Rule 88.01 serves to meet this objective and provides that the presumed child support obligation is to be determined by Civil Procedure Form No. 14."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-form-14",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.340",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-88.01",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.330",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.child-support.duration-emancipation",
+        "mo.dissolution.property-division",
+        "mo.procedure.child-support-guidelines",
+        "proc.mo.appeals.decision-rehearing",
+        "proc.mo.special-actions.domestic-relations"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
     },
     {
       "id": "mo-app-ed78591",
@@ -161,7 +1422,103 @@
         "proc.mo.appeals.decision-rehearing",
         "proc.mo.venue-judge.change-of-judge"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-sd38782",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-02-25",
+      "number": "SD38782",
+      "ecli": null,
+      "citation": "STATE OF MISSOURI, Respondent\nv.\nRUSSELL..., No. SD38782 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=231853",
+      "alt_urls": [
+        {
+          "label": "Ott Law Firm mirror (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/state-of-missouri-respondent-v-russell-kenneth-clancy-appellant-d38782"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 565.002 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "§ 565.052.3 provides \"[t]he offense of assault in the second degree is a class D felony, unless the victim of such assault is a special victim, as the term 'special victim' is defined under section 565.002, in which case it is a class B felony.\"",
+        "Included in the definition of special victim in § 565.002(14) is \"[a] law enforcement officer assaulted in the performance of his or her official duties or as a direct result of such official duties[.]\" 7 Conclusion Clancy's point on appeal is denied and we affirm Clancy's conviction for second- degree assault."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-565.002",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.criminal.domestic-assault"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-wd88045",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-02-24",
+      "number": "WD88045",
+      "ecli": null,
+      "citation": "In re the Adoption of: K.L.C.B., N/K/A K.L.C.S.; D.B., Appellant, vs. J.A.S., Respondent, No. WD88045 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=231276",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118179521.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 453.030, § 453.005, § 453.400, § 453.090 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Section 453.030 ^3^ provides that the trial court shall grant or withhold its approval of an adoption “as the welfare of the person sought to be adopted may, in the opinion of the court, demand.”",
+        "Section 453.005.1 provides that the “provisions of section 453.005 to 453.400 shall be construed so as to promote the best interests and welfare of the child in recognition of the entitlement of the child to a permanent and stable home.”",
+        "See § 453.090.3 (“The parent or parents by adoption ․, if such child is a minor, shall be entitled to the services, wages, control and custody of such adopted child.”); see also In re Adoption of R.S., 231 S.W.3d 826, 830 (Mo.",
+        "Even if Grandmother was not attempting to challenge a portion of the judgment that she herself requested, we see little basis to find that the trial court misinterpreted the law regarding the effect of adoption on the unique custodial situation before it, given that the trial court interpreted the law in a manner that we understand as giving effect to the legal consequences of adoption, see § 453.090, while also giving effect to the promotion of the best interests and welfare of Child in a manner consistent with the representations of the parties, the legal standard for adoption proceedings, see § 453.030.1, the intent of the General Assembly regarding the construction of adoption statutes, see § 453.005.1, and the child welfare policy of Missouri as provided by the General Assembly, see § 1.092."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-453.030",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-453.005",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-453.400",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-453.090",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.adoption.consent",
+        "mo.adoption.effects",
+        "mo.adoption.petition-procedure",
+        "mo.child-support.stepparent"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
     },
     {
       "id": "mo-app-ed87026",
@@ -235,7 +1592,47 @@
         "proc.mo.pretrial-trial.court-trial",
         "proc.mo.special-actions.domestic-relations"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-ed113261",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-02-17",
+      "number": "ED113261",
+      "ecli": null,
+      "citation": "Ott Law Firm, No. ED113261 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=231041",
+      "alt_urls": [
+        {
+          "label": "Ott Law Firm mirror (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/state-of-missouri-respondent-v-gerald-r-nytes-appellant-113261"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 455.085 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "In his sole point on appeal, Nytes argues the trial court erred in entering judgment and sentence against him because the State's evidence was insufficient to infer that Nytes had notice, legal or actual, as required by section 455.085. 1 We disagree and affirm the judgment of the trial court.",
+        "The Judgment of the Full Order of Protection denoting Nytes's presence at the contested OP hearing, bolstered by Victim's testimony in response to Nytes's cross examination—that Nytes had pled guilty to prior violations of the OP—suffices to show Nytes had actual notice of the OP. \"To find that a violation of the terms of a full order of protection has occurred, section 455.085 requires notice of the full order of protection either by service or by 'actual communication to the respondent in a manner reasonably likely to advise the respondent.'\" Nytes I , 711 S.W.3d at 904–905 (quoting section 455.085.8(2))."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.085",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.enforcement"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-ed113141",
@@ -296,7 +1693,229 @@
         "proc.mo.appeals.record-briefs",
         "proc.mo.costs"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-sd38949",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-01-30",
+      "number": "SD38949",
+      "ecli": null,
+      "citation": "C.L.H., Respondent v. ARTHUR H. BALDWIN, Appellant, No. SD38949 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230574",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/118127861.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 455.010, § 455.085 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Statutory Provisions Under the Adult Abuse Act, “[a]ny person who has been subject to domestic violence by a present or former family or household member, or who has been the victim of stalking or sexual assault, may seek relief under sections 455.010 to 455.085 by filing a verified petition alleging such domestic violence, stalking, or sexual assault by the respondent.”",
+        "“Alarm” means “to cause fear of danger of physical harm[.]” Section 455.010(15)(a).",
+        "Appellant argues that Respondent C.L.H. (“Respondent”) failed to prove stalking under the Adult Abuse Act, §§ 455.010, et seq., RSMo., because she made no allegations and gave no testimony that she or her children feared physical harm.^1^ For the reasons set forth below, we vacate the judgment and remand the case to the trial court with instructions to deny the petition."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.085",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse",
+        "mo.protection-orders.enforcement"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-sd38942",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2026-01-30",
+      "number": "SD38942",
+      "ecli": null,
+      "citation": "RYLEE HARTWELL, Petitioner-Respondent v. DARYL BAKER, Respondent-Appellant., No. SD38942 (Mo. App. S.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230573",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-sou-dis-in-div/118127790.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 455.010 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "For purposes of this section, alarm is defined as “to cause fear of danger of physical harm[.]” § 455.010(15)(a).",
+        "See L.M.M., 619 S.W.3d at 597 (overturning the grant of a protective order for stalking where the respondent had contacted petitioner's employer trying to get petitioner fired, in part because “the Adult Abuse Act is intended to prevent potential violence, not hurt feelings or harm to reputation”); see also § 455.010(15).",
+        "However, “[c]onduct that meets the definition of ․ ‘harassment,’ as [that] term [is] defined in section[ ] 455.010(1)[ ] and (d) ․ is a form of abuse.”"
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113243",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2026-01-27",
+      "number": "ED113243",
+      "ecli": null,
+      "citation": "Alexander Cooper Komes, Appellant, v. Jason Joseph Grote, Respondent, No. ED113243 (Mo. App. E.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230275",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-fou/118118545.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 452.330 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "There is a long line of Missouri cases affirming disproportionate property divisions as fair and equitable after taking into account the statutory factors in section 452.330.1.",
+        "Additional support lies in section 452.330.1(1)’s factor addressing the “economic circumstances of each spouse at the time the division of property is to become effective.”",
+        "We deny all four points because despite the trial court's ill-advised adoption of Grote's proposed judgment, the record nevertheless buttresses the court's proper application of section 452.330.1's ^1^ property division factors including (1) the source-of-funds factor since Grote's pre-marital assets were the source of nearly all the marital assets and (2) the marital-misconduct factor since Komes broke into Grote's residence and seized property in violation of the court's order issued pursuant to the circuit court's Local Rule 68.3."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-452.330",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.property-division"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd87683",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2026-01-20",
+      "number": "WD87683",
+      "ecli": null,
+      "citation": "Jennifer McKinley vs. Diane K. Hook and Grace & Wisdom, LLC, No. WD87683 (Mo. App. W.D. 2026)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=230035",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/118109834.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 432.010 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "In relevant part, Missouri's statute of frauds, § 432.010, states,No action shall be brought to charge any ․ person ․ upon any agreement that is not to be performed within one year from the making thereof, unless the agreement upon which the action shall be brought, or some memorandum or note thereof, shall be in writing and signed by the party to be charged therewith, or some other person by him thereto lawfully authorized ․ 10."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-432.010",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.contracts.statute-of-frauds",
+        "mo.marriage.marital-agreements"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-wd87907",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2025-12-30",
+      "number": "WD87907",
+      "ecli": null,
+      "citation": "In the Interest of: B.W.R., Juvenile P.W.R.,..., No. WD87907 (Mo. App. W.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=229295",
+      "alt_urls": [
+        {
+          "label": "Ott Law Firm mirror (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/in-the-interest-of-bwr-juvenile-pwr-jr-v-juvenile-officer-d87907"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 211.447, 78.07, 81.16, 81.12 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Father argues the trial court erred in failing to \"consider and make required written findings on all of the statutory factors for the determination of termination of parental rights under [sections] 211.447.5(2), 211.447.5(3)(b), and 211.447.7 RSMo.\" 1 Because Father's sole claim of error was 1 All statutory references are to RSMo (2016), as updated by supplement through the date of the termination of parental rights petition unless otherwise noted. 2 not preserved for our review, in violation of Rule 78.07(c), it is denied. 2 Therefore, we affirm.",
+        "Rule 81.16(a) tasks the appellant with the responsibility of filing exhibits necessary to the determination of any point relied on.",
+        "Rule 81.12(a) directs that \"[t]he record on appeal shall contain all of the record, proceedings and evidence necessary to the determination of all questions to be presented . . . to the appellate court for decision.\"",
+        "Preservation In his sole Point, Father argues the trial court erred by failing to \"consider and make required written findings on all of the statutory factors for the determination of termination of parental rights under [sections] 211.447.5(2), 211.447.5(3)(b), and 211.447.7[.]\" \"We must address the issue of preservation as a threshold matter to appellate review.\""
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-211.447",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.16",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.12",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.post-trial",
+        "mo.tpr.grounds",
+        "mo.tpr.procedure",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-wd87588",
@@ -353,7 +1972,8 @@
         "proc.mo.post-trial",
         "proc.mo.pretrial-trial.court-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-wd87887",
@@ -416,7 +2036,8 @@
         "mo.tpr.procedure",
         "proc.mo.appeals.record-briefs"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-wd87819",
@@ -463,7 +2084,254 @@
         "proc.mo.appeals.record-briefs",
         "proc.mo.post-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-wd87729",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2025-12-02",
+      "number": "WD87729",
+      "ecli": null,
+      "citation": "Betsy L. Reeves vs. Elisabeth M. Sobczak, No. WD87729 (Mo. App. W.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227957",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/117991828.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 73.01, 84.04, § 452.355, § 452.325, 75.01, 81.04 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Point I Sobczak's first point on appeal states, “The trial court erred in awarding counsel fees and denying Appellant's Rule 73.01 motion for findings, because § 452.355(1) requires explicit written findings on need, ability to pay, and reasonableness, in that the November 13, 2024, fee order contains no findings on any of those elements.”",
+        "Pro Se Appellants and Rule 84.04 “Rule 84.04 plainly sets forth the required contents of briefs filed in all appellate courts.”",
+        "Point III Sobczak's third point on appeal states: The trial court erred in enforcing an ambiguous decree provision by motion to enforce rather than by modification under § 452.325, because § 452.325 provides the exclusive procedure for altering a final decree and mandates notice and a hearing on changed circumstances, in that Respondent bypassed that procedure and obtained fee relief via contempt/enforcement.",
+        "Point VI Sobczak's sixth point on appeal states: The trial court erred in granting enforcement relief without first providing ten days’ notice under Rule 74.03 or proceeding by vacatur under Rule 75.01, because those rules guarantee procedural protections for contempt and post-judgment relief, in that on November 13, 2024, the court denied the contempt motion but nonetheless sustained enforcement and awarded fees without any required notice or vacatur motion."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-73.01",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.355",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.325",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-75.01",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-74.03",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-43.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.dissolution.attorney-fees",
+        "mo.dissolution.separation-agreements",
+        "mo.procedure.control-of-judgment",
+        "mo.procedure.judgments",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.appeals.right-time",
+        "proc.mo.general.service-filing-papers",
+        "proc.mo.judgments.control",
+        "proc.mo.judgments.entry-finality",
+        "proc.mo.pretrial-trial.court-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed112541",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2025-12-02",
+      "number": "ED112541",
+      "ecli": null,
+      "citation": "S.W., Respondent, v. K.H., Appellant., No. ED112541 (Mo. App. E.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227973",
+      "alt_urls": [
+        {
+          "label": "casemine republished copy (full text)",
+          "url": "https://www.casemine.com/judgement/us/69678099cf25b6807c3dca68"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing 65.03, § 452.375, 84.04, § 452.410, § 452.340, 78.06 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "\"When a moving party ignores the affidavit or verification requirements of Rule 65.03, no abuse can result in denying the continuance.\"",
+        "The circuit court then applied the section 452.375 best interest factors and determined Child's best interest and the credible evidence required the Consent Judgment be modified.",
+        "This Court is \"generally reluctant to dismiss an appeal solely due to violations of Rule 84.04\" especially when child custody matters are raised.",
+        "The Supreme Court of Missouri explained how the circuit court must apply the section 452.375.2 best interest factors when ruling on a modification motion: On a motion to modify pursuant to section 452.410, if the evidence persuades the [circuit] court that there has been a change in circumstances, the … court must order whatever modifications are in the child's best interest."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-65.03",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.410",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.340",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.06",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-support.determination",
+        "mo.child-support.duration-emancipation",
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.custody.modification",
+        "mo.procedure.post-trial",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial",
+        "proc.mo.pretrial-trial.pretrial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (casemine)"
+    },
+    {
+      "id": "mo-app-wd87625",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2025-11-25",
+      "number": "WD87625",
+      "ecli": null,
+      "citation": "In Re the Marriage of: Elke Gonzales-Flaharty vs. Mathew Flaharty, No. WD87625 (Mo. App. W.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227755",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mo-court-of-appeals/117974335.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 81.12, 84.04, § 452.375, 81.16 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Even if the claim had been properly preserved, we must still dismiss the point because Mother failed to supply this Court with an adequate record under Rule 81.12.",
+        "Discussion Rule 84.04 sets forth the requirements for appellate briefing, and compliance with those requirements is mandatory to ensure that appellate courts do “not become advocates by speculating on facts and on arguments that have not been made.”",
+        "Section 452.375.6 ^3^ requires that the trial court include a written finding based on the public policy in section 452.375.4 and the factors listed in section 452.375.2(1) to (8) when the parties have not agreed to a custodial arrangement.",
+        "Further, Rule 81.16(a) provides that if original exhibits are necessary to the determination of any point relied on, they shall be deposited in the appellate court by the appellant."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-81.12",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.16",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "proc.mo.appeals.record-briefs"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
+    },
+    {
+      "id": "mo-app-ed113307",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Eastern District",
+      "date": "2025-11-25",
+      "number": "ED113307",
+      "ecli": null,
+      "citation": "M.S.C., Respondent, v. S.W., Appellant., No. ED113307 (Mo. App. E.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227782",
+      "alt_urls": [
+        {
+          "label": "FindLaw republished copy (full text)",
+          "url": "https://caselaw.findlaw.com/court/mis-crt-app-eas-dis-div-fou/117974294.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Eastern District opinion applying or construing § 455.010, § 455.040 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "MSC filed a petition on November 15, 2024 under the Adult Abuse Act, sections 455.010 – 455.095,^1^ in which she alleged that her neighbor SW repeatedly threatened and harassed her and her family.",
+        "The court declined to apply the equitable doctrine of clean hands because while the injunctive remedy section 455.040 provides is certainly equitable in nature, it remains a statutory remedy.",
+        "After an evidentiary hearing at which MSC, her husband, and their two sons all testified, the court entered a full order of protection in favor of MSC upon its finding that SW's conduct constituted stalking as defined in section 455.010(15)."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-455.010",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-455.040",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.protection-orders.adult-abuse"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (FindLaw)"
     },
     {
       "id": "mo-app-ed113129",
@@ -515,7 +2383,74 @@
         "proc.mo.post-trial",
         "proc.mo.pretrial-trial.court-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-wd87912",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2025-11-18",
+      "number": "WD87912",
+      "ecli": null,
+      "citation": "In the Interest of: K.M.D. and R.M.D. Juvenile Officer vs. S.M.D, No. WD87912 (Mo. App. W.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227536",
+      "alt_urls": [
+        {
+          "label": "Justia republished copy (full text)",
+          "url": "https://law.justia.com/cases/missouri/court-of-appeals/2025/wd87912.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing 84.04, 81.12, § 211.455, § 211.447, 78.07, 73.01 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "“Rule 84.04 provides the mandatory requirements for briefs filed in all appellate courts.”",
+        "Rule 81.12(a) requires that “the record on appeal shall contain all of the record, proceedings and evidence necessary to the determination of all questions to be presented, . . . to the appellate court for decision.”",
+        "Id. 6 “Section 211.455.3 does not itself authorize the court to use the social report to determine whether one of the statutory grounds of termination exists, and . . . unless another ground for admission exists for all or part of the report, it should be considered by the court only on the issue of whether termination is in the best interests of the child.”",
+        "Section 211.447.5(3) provides that a parent’s parental rights may be terminated if: The child has been under the jurisdiction of the juvenile court for a period of one year, and the court finds that the conditions which led to the assumption of jurisdiction still persist, or conditions of a potentially harmful nature continue to exist, that there is little likelihood that those conditions will be remedied at an early date so that the child can be returned to the parent in the near future, or the continuation of the parentchild relationship greatly diminishes the child’s prospects for early integration into a stable and permanent home. 16 In her point, Mother raises three distinct arguments to the trial court’s conclusion, all of which we reject."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-81.12",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-211.455",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-211.447",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-73.01",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.procedure.post-trial",
+        "mo.tpr.grounds",
+        "mo.tpr.procedure",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial",
+        "proc.mo.pretrial-trial.court-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (Justia)"
     },
     {
       "id": "mo-app-ed113155",
@@ -562,7 +2497,61 @@
         "mo.custody.modification",
         "proc.mo.appeals.record-briefs"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
+    },
+    {
+      "id": "mo-app-sd38801",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2025-10-14",
+      "number": "SD38801",
+      "ecli": null,
+      "citation": "In re: The Marriage of: Kyndall Ryan Phillips and Hailey Elizabeth Stemel KYNDALL RYAN PHILLIPS, Petitioner-Appellant v. HAILEY ELIZABETH STEIMEL, Respondent/Movant-Respondent, No. SD38801 (Mo. App. S.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=226234",
+      "alt_urls": [
+        {
+          "label": "Justia republished copy (full text)",
+          "url": "https://law.justia.com/cases/missouri/court-of-appeals/2025/sd38801.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing 84.04, § 452.375, 78.07 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Because Father’s brief fails to comply with the mandatory rules that govern the content of an appellant’s brief in a manner that substantially impedes impartial review, we dismiss the appeal. 1 “A deficient appellate brief that does not comply with the briefing requirements of Rule 84.04 preserves nothing for appellate review[,]” Ward v.",
+        "The trial court failed to make specific findings regarding each of the factors enumerated in §452.375.2 RSMo as required when modifying custody; 4.",
+        "In addition, Father claims the circuit court failed to hold a hearing on his motion to change counselors, a claim that is not included in Point 1. 1 Unless otherwise indicated, all rule references are to Missouri Court Rules (2025). 3 Father also argues in his first point that the Judgment fails to make specific and required statutory findings on legal custody, but he does not identify which statutory factors the circuit court failed to address, and he failed to file a motion to amend the Judgment as required under Rule 78.07(c).",
+        "E.D. 2021) (multifarious points are those that group together multiple, independent claims rather than one single claim of error, and in general they preserve nothing for appeal); see also Rule 84.04(d)(1)(B). 1 In addition, Father’s points do not set forth the alleged legal errors in the context of the facts of the case."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rules-84.04",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-452.375",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.custody.best-interests",
+        "mo.custody.domestic-violence",
+        "mo.procedure.post-trial",
+        "proc.mo.appeals.record-briefs",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (Justia)"
     },
     {
       "id": "mo-app-cl10698360",
@@ -652,6 +2641,52 @@
         "proc.mo.appeals.record-briefs"
       ],
       "lang": "en"
+    },
+    {
+      "id": "mo-app-sd38913",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Southern District",
+      "date": "2025-09-26",
+      "number": "SD38913",
+      "ecli": null,
+      "citation": "In the Interest of: J.H.B. and J.A.B, minor children, GREENE COUNTY JUVENILE OFFICE, Petitioner-Respondent v. J.E.B., JR., Natural Father, Respondent-Appellant, No. SD38913 (Mo. App. S.D. 2025)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=225253",
+      "alt_urls": [
+        {
+          "label": "Justia republished copy (full text)",
+          "url": "https://law.justia.com/cases/missouri/court-of-appeals/2025/sd38913.html"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Southern District opinion applying or construing § 211.031, 78.07 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "“When a juvenile officer files a petition alleging a child is in need of care and treatment under 5 [s]ection 211.031, the circuit court first conducts an adjudication hearing.”",
+        "Specifically, Juvenile Officer argues that Father failed to comply with Rule 78.07(c), 4 which provides that “[i]n all cases, allegations of error relating to the form or language of the judgment, including the failure to make statutorily required findings, must be raised in a motion to amend the judgment in order to be preserved for appellate review.”",
+        "(“Father”) challenges the judgments of adjudication and disposition entered by the juvenile division of the circuit court (“the juvenile court”) that placed his biological children, J.H.B. and J.A.B. (“the children”), under the care and control of the juvenile court and the Children’s Division of the Department of Social Services 1 (“Children’s Division”). 1 See section 211.031.1(1)(a) and (b)). 2 Father raises three points on appeal that claim: (1) the Juvenile Officer of Greene County (“Juvenile Officer”) did not present substantial evidence to support the judgment; (2) the judgment was against the weight of the evidence; and (3) no substantial evidence supported the proposition that Juvenile Officer made reasonable efforts to prevent or eliminate the need to remove the children from Father’s custody."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-211.031",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rules-78.07",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.child-protection.protective-custody",
+        "mo.procedure.post-trial",
+        "proc.mo.post-trial"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (Justia)"
     },
     {
       "id": "mo-app-cl10698681",
@@ -1156,7 +3191,8 @@
         "proc.mo.judgments.entry-finality",
         "proc.mo.judgments.relief-from-judgment"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10698266",
@@ -1324,7 +3360,8 @@
         "mo.custody.domestic-violence",
         "mo.custody.gal-investigation"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10698414",
@@ -2747,7 +4784,8 @@
         "proc.mo.judgments.relief-from-judgment",
         "proc.mo.pretrial-trial.pretrial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630894",
@@ -4243,7 +6281,8 @@
         "mo.custody.domestic-violence",
         "proc.mo.appeals.decision-rehearing"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10631191",
@@ -4471,7 +6510,8 @@
         "proc.mo.judgments.entry-finality",
         "proc.mo.post-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630333",
@@ -5048,7 +7088,8 @@
         "mo.protection-orders.adult-abuse",
         "proc.mo.appeals.record-briefs"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630871",
@@ -7825,7 +9866,8 @@
         "mo.tpr.procedure",
         "proc.mo.appeals.record-briefs"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630608",
@@ -8656,7 +10698,8 @@
         "mo.tpr.grounds",
         "mo.tpr.procedure"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630981",
@@ -9110,7 +11153,8 @@
         "proc.mo.post-trial",
         "proc.mo.venue-judge.change-of-judge"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630650",
@@ -10505,7 +12549,8 @@
         "mo.tpr.grounds",
         "mo.tpr.procedure"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10630890",
@@ -11979,7 +14024,8 @@
         "mo.tpr.grounds",
         "mo.tpr.procedure"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl10631540",
@@ -13599,7 +15645,8 @@
         "proc.mo.post-trial",
         "proc.mo.special-actions.domestic-relations"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl5297692",
@@ -15949,7 +17996,8 @@
         "proc.mo.post-trial",
         "proc.mo.pretrial-trial.court-trial"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl4839528",
@@ -16107,7 +18155,8 @@
         "mo.tpr.grounds",
         "mo.tpr.procedure"
       ],
-      "lang": "en"
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl4804784",
@@ -16902,6 +18951,50 @@
         "mo.succession.elective-share"
       ],
       "lang": "en"
+    },
+    {
+      "id": "mo-app-wd86680",
+      "authority": "mo-app",
+      "court": "Missouri Court of Appeals, Western District",
+      "date": "2020-06-13",
+      "number": "WD86680",
+      "ecli": null,
+      "citation": "State of Missouri\nvs.\nGreg Hallgrimson (2025), No. WD86680 (Mo. App. W.D. 2020)",
+      "publication": "published",
+      "official_url": "https://www.courts.mo.gov/file.jsp?id=227234",
+      "alt_urls": [
+        {
+          "label": "Ott Law Firm mirror (full text)",
+          "url": "https://ott.law/missouri-courts/opinions/state-of-missouri-v-greg-hallgrimson-d86680"
+        },
+        {
+          "label": "The Missouri Bar weekly case summary",
+          "url": "https://news.mobar.org/"
+        }
+      ],
+      "summary": "Missouri Court of Appeals, Western District opinion applying or construing § 565.072, § 565.002 RSMo (neutral index summary; see excerpts).",
+      "summary_is_official": false,
+      "excerpts": [
+        "Criminal Law Medical Malpractice Civil Litigation Discuss a Similar Criminal Law Matter (314) 710-2740 View Original on courts.mo.gov Opinion STATE OF MISSOURI, ) ) Respondent, ) WD86680 ) v. ) OPINION FILED: ) NOVEMBER 12, 2025 GREG HALLGRIMSON, ) ) Appellant. ) Appeal from the Circuit Court of Clay County, Missouri The Honorable Timothy Flook, Judge Before Division Two: Edward R. Ardini, Jr., Presiding Judge, Alok Ahuja, Judge and Cynthia L. Martin Judge Following a jury trial, Greg Hallgrimson (\"Hallgrimson\") was convicted of first- degree domestic assault in violation of section 565.072. 1 He appeals, claiming the trial court erred by admitting generalized expert testimony about domestic abuse, limiting defense counsel's cross-examination of the victim, and submitting an incomplete definition of \"knowingly\" in the jury instructions.",
+        "Section 565.072.1 provides that \"[a] person commits the offense of domestic assault in the first degree if he or she attempts to kill or knowingly causes or attempts to cause serious physical injury to a domestic victim . . . .\" \"Domestic victim\" is defined in section 565.002(6) to include \"a household or family member.\"",
+        "Because section 565.072 does not define \"knowingly,\" the definition in section 556.061(31) applies. 23 Nor has Hallgrimson established that the submission of Instruction No. 13 so misdirected or failed to instruct the jury that it is apparent on appellate review that the instructional error affected the jury's verdict and caused a manifest injustice or miscarriage of justice."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "mo-rsmo-565.072",
+          "basis": "a"
+        },
+        {
+          "norm": "mo-rsmo-565.002",
+          "basis": "a"
+        }
+      ],
+      "issues": [
+        "mo.criminal.domestic-assault"
+      ],
+      "lang": "en",
+      "text_source": "republished copy (ott.law)"
     },
     {
       "id": "mo-app-cl4759644",

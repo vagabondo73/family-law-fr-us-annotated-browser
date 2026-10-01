@@ -38,6 +38,18 @@ def write_corpus(out, cid, lst, interps, dump):
             continue
         add = {i: interps[i] for i in ids if i not in cur}
         s = sum(jlen(v) for v in add.values())
+        if s > INTERP_BUDGET:  # one norm alone exceeds the budget (e.g. a heavily cited rule): give it several chunks
+            if cur:
+                ichunks.append(cur); cur, cur_size = {}, 0
+            ks, part, psz = [], {}, 0
+            for i in ids:
+                v = jlen(interps[i])
+                if part and psz + v > INTERP_BUDGET:
+                    ks.append(len(ichunks)); ichunks.append(part); part, psz = {}, 0
+                part[i] = interps[i]; psz += v
+            ks.append(len(ichunks)); ichunks.append(part)
+            ic_of[n["id"]] = ks
+            continue
         if cur and cur_size + s > INTERP_BUDGET:
             ichunks.append(cur); cur, cur_size = {}, 0
             add = {i: interps[i] for i in ids}

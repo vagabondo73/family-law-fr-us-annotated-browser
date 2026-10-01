@@ -10,7 +10,8 @@ OTT={}
 for p in glob.glob(ROOT+'/raw/moj/ott/*.txt'):
     if os.path.basename(p).startswith('_'): continue
     m=json.loads(open(p,errors='ignore').readline()[7:])
-    if m.get('docket') and re.search(r'-d?'+re.sub(r'\D','',m['docket'])+r'$',m['url'].rstrip('/')): OTT[m['docket'].lower()]=p
+    if m.get('verified_docket'): OTT[m['docket'].lower()]=p
+    elif m.get('docket') and re.search(r'-d?'+re.sub(r'\D','',m['docket'])+r'$',m['url'].rstrip('/')): OTT[m['docket'].lower()]=p
 def src(iid):
     if '-cap' not in iid and '-cl' not in iid: return open(OTT[iid.split('-',2)[2]],errors='ignore').read()
     if '-cap' in iid: return open(f"{ROOT}/raw/moj/cap/{capid[iid.split('-cap')[1]]}.txt",errors='ignore').read()

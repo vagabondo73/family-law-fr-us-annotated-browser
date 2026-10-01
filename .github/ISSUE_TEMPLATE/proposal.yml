@@ -1,0 +1,72 @@
+name: "Proposer pour inclusion / Propose for inclusion"
+description: "Propose a binding interpretation (decision) for a norm. It will be screened under SCOPE.md §2 (basis a / b) before any inclusion."
+title: "[Proposal] "
+labels: ["proposal", "needs-screening"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **FR** — Proposer une décision trouvée hors du corpus (par ex. via « Rechercher hors du corpus »). Rien n'est ajouté automatiquement : chaque proposition est examinée au regard de la règle temporelle (docs/SCOPE.md §2). Base (a) : décision rendue à compter de D (entrée en vigueur de la rédaction actuelle). Base (b) : décision antérieure, mais texte interprété identique en rédaction et en fonction (justification écrite obligatoire).
+        **EN** — Propose a decision found outside the dataset (for example through "Search outside the dataset"). Nothing is added automatically. Each proposal is screened against the temporal rule (docs/SCOPE.md §2). Basis (a): the decision is dated on or after D (the date the current wording took effect). Basis (b): the decision is earlier, but the interpreted text is identical in wording and function (a written justification is required).
+  - type: input
+    id: norm_id
+    attributes:
+      label: "Norm id / Identifiant de la norme"
+      description: "e.g. fr-cc-371-1, mo-rsmo-452.375, eu-reg-2019-1111-art-10"
+      placeholder: "fr-cc-371-1"
+    validations:
+      required: true
+  - type: input
+    id: norm_page
+    attributes:
+      label: "Norm page / Page de la norme"
+      description: "Static page on the site (pre-filled)"
+    validations:
+      required: false
+  - type: input
+    id: citation
+    attributes:
+      label: "Decision citation / Citation de la décision"
+      description: "Court, date, number (pourvoi / docket), ECLI if any"
+      placeholder: "Cass. 1re civ., 18 mai 2022, n° 22-70.003 — or — In re Marriage of X, 123 S.W.3d 456 (Mo. App. W.D. 2024)"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "Official URL / URL officielle"
+      description: "Official or authoritative full-text source (Légifrance, Judilibre, courts.mo.gov, supremecourt.gov, curia, HUDOC …)"
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: dropdown
+    id: basis
+    attributes:
+      label: "Basis / Base (SCOPE §2)"
+      options:
+        - "(a) decision on or after D(norm) / décision à compter de D(norme)"
+        - "(b) earlier decision, text identical in wording and function / décision antérieure, texte identique"
+        - "Unsure / Incertain"
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: "Why it qualifies / Pourquoi elle remplit les conditions"
+      description: "For (a): the decision date and D(norm). For (b): compare the interpreted wording with the current wording, and state the method (consolidated versions, amending act …)."
+    validations:
+      required: true
+  - type: textarea
+    id: excerpt
+    attributes:
+      label: "Verbatim excerpt (optional) / Extrait verbatim (facultatif)"
+      render: text
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "Checks / Vérifications"
+      options:
+        - label: "The decision is binding (court of the relevant system, published or citable) / La décision a une portée obligatoire"
+          required: true
+        - label: "I have checked the official source myself / J'ai vérifié la source officielle"
+          required: true

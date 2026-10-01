@@ -6,5 +6,4 @@ SINCE=${1:-2025-05-01}
 python3 scripts/mpj_enum.py --since $SINCE && \
 python3 scripts/mpj_text.py && \
 python3 scripts/mpj_scan.py && \
-python3 scripts/mpj_screen.py && \
-python3 scripts/mpj_build.py
+python3 scripts/moo_mpj_feed.py   # gap-fill feed + mpj screen + build (moo_mpj_feed wraps mpj_build.meta_cl)

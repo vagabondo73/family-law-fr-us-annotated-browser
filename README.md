@@ -24,13 +24,13 @@ legal content.
 ## Repository layout
 ```
 docs/      SCOPE.md (perimeter, temporal rule) · SCHEMA.md (JSON records) · PIPELINES.md (ingestion registry)
-           SITE.md (site, build, daily check — details) · AGENT_BRIEF.md (rules for contributing agents)
+           SITE.md (site, build, weekly check — details) · AGENT_BRIEF.md (rules for contributing agents)
 data/      norms/<corpus>.json · interps/*.json (all merged, any file name) · issues/*.json · mapping/*.json
-           sources*.json (all merged) · coverage/*.json · update-report.json (daily check output)
-scripts/   site_build.py + site_shards.py (static site build) · site_make_fixtures.py · daily_check.py · run_pipelines.py
+           sources*.json (all merged) · coverage/*.json · update-report.json (weekly check output)
+scripts/   site_build.py + site_shards.py (static site build) · site_make_fixtures.py · daily_check.py (run weekly) · run_pipelines.py · site_outside.py
            + the ingestion scripts of each pipeline (see docs/PIPELINES.md)
 site/      the static SPA (index.html, assets/), fixtures/ (clearly marked development sample), generated data/ and content/
-.github/workflows/   daily-check.yml (daily source check + manual rebuild) · pages.yml (deploy site/ to Pages)
+.github/workflows/   weekly-check.yml (weekly source check + manual rebuild) · pages.yml (deploy site/ to Pages)
 qa/        Playwright visual QA scripts and screenshots
 raw/       local mirrors of the source repositories (not published)
 ```
@@ -76,8 +76,8 @@ The build shards its output, so no initial fetch is larger than about 1.5 MB:
 - the issue index, split by top-level node;
 - a **prebuilt search index** (`site/data/search/`: posting shards keyed by token prefix, plus doc chunks).
 
-## Daily check
-`.github/workflows/daily-check.yml` runs every day at 05:17 UTC. It calls `scripts/daily_check.py --open-issue`, which:
+## Weekly check
+`.github/workflows/weekly-check.yml` runs every Monday at 05:17 UTC (bi-weekly alternative: cron "17 5 1,15 * *"). It calls `scripts/daily_check.py --open-issue`, which:
 - runs `git ls-remote` on the git mirrors (with Forgejo compare, it maps changed files to norm ids);
 - checks HTTP hash, ETag and Last-Modified on official pages (HTTP 401/403/429 are reported as `blocked`);
 - queries the PISTE Légifrance and Judilibre APIs when the secrets `PISTE_CLIENT_ID` and `PISTE_CLIENT_SECRET` exist.
@@ -85,6 +85,25 @@ The build shards its output, so no initial fetch is larger than about 1.5 MB:
 It writes `data/update-report.json` and opens or updates a GitHub issue (`source-change`, `needs-review`) when a source changed.
 **It never rewrites legal content.** A human, or the responsible pipeline via workflow_dispatch `task=rebuild`, re-ingests.
 That rebuild opens a PR by default, or deploys directly with `publish_mode=direct`. `pages.yml` deploys `site/` on every push to main.
+
+## Search outside the dataset, and proposals
+Each norm page has a block headed "Rechercher hors du corpus / Search outside the dataset", in both the SPA and the static `content/` pages. It holds deep links pre-filled with the norm's citation, and it is labelled as **outside the closed universe and unscreened**. The templates are in `scripts/site_outside.py`, and each one was checked in a browser on 2026-10-01:
+
+| Side | Searches |
+|---|---|
+| Missouri | CourtListener (`court=mo moctapp`) and Justia site search |
+| U.S. federal | CourtListener (`scotus ca8`) and Justia |
+| France | Judilibre, and ArianeWeb (entry link only: ArianeWeb has no query parameter) |
+| EU | InfoCuria, EUR-Lex and Judilibre |
+| International | HUDOC (Council of Europe instruments), INCADAT (HCCH 1980), Judilibre and CourtListener |
+
+Some engines were left out because their links could not be verified:
+- Légifrance: bot wall, and robots.txt disallows automated access;
+- law.justia.com and FindLaw: bot wall;
+- Google Scholar: bot wall;
+- news.mobar.org: its `?s=` parameter is ignored.
+
+The "Proposer pour inclusion / Propose for inclusion" button opens a pre-filled GitHub issue that uses `.github/ISSUE_TEMPLATE/proposal.yml` (labels `proposal` and `needs-screening`). Nothing proposed this way enters the data until it has been screened under SCOPE §2.
 
 ## How an agent should consult the site
 Prefer the **static, JavaScript-free pages** and the **JSON data**. Do not rely on the SPA's rendering:

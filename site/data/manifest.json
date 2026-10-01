@@ -1,6 +1,6 @@
 {
   "title": "Family Law Annotated Browser (FR ↔ US / Missouri)",
-  "generated": "2026-09-30T17:34:00+00:00",
+  "generated": "2026-10-01T07:55:40+00:00",
   "source": "data",
   "fixture": false,
   "base_url": "https://vagabondo73.github.io/family-law-fr-us-annotated-browser/",
@@ -391,8 +391,8 @@
       "interps": 0,
       "generated": "2026-09-30",
       "axes": {
-        "family": 4,
-        "procedure": 1
+        "procedure": 1,
+        "family": 4
       },
       "fixture": false
     },
@@ -404,11 +404,11 @@
       "label_en": "Revised Statutes of Missouri (RSMo)",
       "order": 41,
       "norms": 1219,
-      "interps": 6060,
+      "interps": 6128,
       "generated": "2026-09-30",
       "axes": {
-        "family": 603,
-        "procedure": 620
+        "procedure": 620,
+        "family": 603
       },
       "fixture": false
     },
@@ -420,11 +420,11 @@
       "label_en": "Missouri Supreme Court Rules & Forms",
       "order": 42,
       "norms": 475,
-      "interps": 6890,
+      "interps": 7060,
       "generated": "2026-09-30",
       "axes": {
-        "family": 95,
-        "procedure": 452
+        "procedure": 452,
+        "family": 95
       },
       "fixture": false
     },
@@ -437,7 +437,7 @@
       "order": 43,
       "norms": 22,
       "interps": 54,
-      "generated": "2026-09-30",
+      "generated": "2026-10-01",
       "axes": {
         "family": 22
       },
@@ -479,13 +479,13 @@
       "id": "mo-app",
       "lang": "en",
       "label": "Missouri Court of Appeals",
-      "count": 10177
+      "count": 10360
     },
     {
       "id": "mo-sc",
       "lang": "en",
       "label": "Supreme Court of Missouri",
-      "count": 1397
+      "count": 1409
     },
     {
       "id": "us-ca8",
@@ -549,10 +549,10 @@
     }
   ],
   "search": {
-    "docs": 26690,
-    "shards": 885,
-    "max_shard": 1020605,
-    "total": 19490754
+    "docs": 26885,
+    "shards": 889,
+    "max_shard": 1027867,
+    "total": 19651632
   },
   "classement_ce": 0,
   "mappings": [
@@ -569,15 +569,17 @@
     "cpc": "https://vagabondo73.github.io/cpc-annotated-browser/",
     "frcp": "https://vagabondo73.github.io/frcp-annotated-browser/"
   },
+  "github_repo": "vagabondo73/family-law-fr-us-annotated-browser",
+  "outside_search_verified": "2026-10-01",
   "totals": {
     "norms": 9432,
-    "interps": 17258,
+    "interps": 17453,
     "issues": 1287,
     "sources": 199,
     "coverage": 38
   },
   "build_report": {
     "warn": 109,
-    "info": 71
+    "info": 72
   }
 }

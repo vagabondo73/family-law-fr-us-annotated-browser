@@ -110,3 +110,11 @@ run: python3 scripts/mop_map2.py --workers 12
 run: python3 scripts/mop_build.py
 ```
 
+```pipeline
+id: mo-gapfill
+owner: moo
+corpora: mo-sc, mo-app (gap-fill Oct 2025 ->), feed raw/moo/proc_candidates.jsonl for mo-sc-proc / mo-app-proc
+needs: FLB_LOCAL_RAW, PPLX_SDK_API_KEY
+timeout: 120
+run: python3 scripts/moo_weekly.py
+```

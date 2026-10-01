@@ -118,6 +118,25 @@ function corrPanel(rows, lang, selfId, label) {
     <div class="tscroll"><table class="data corr"><thead><tr><th>CPC</th><th>Missouri</th><th>${en ? 'Equivalence' : 'Équivalence'}</th><th>FRCP</th><th>Note</th></tr></thead><tbody>${body}</tbody></table></div>
     <p class="note">${en ? 'French and federal sides are cross-links to the sibling annotated browsers (no content duplicated).' : 'Côtés français et fédéral : renvois vers les navigateurs annotés (aucune reprise de contenu).'} <a href="#/mapping/${esc(rows[0].map || 'cpc-mo')}">${en ? 'Full correspondence table' : 'Table complète'} →</a></p>`;
 }
+function outsidePanel(n, lang) {
+  const links = n.outside || [];
+  if (!links.length && !n.propose_url) return '';
+  const en = lang === 'en';
+  const L = (x) => (en ? x.label_en : x.label_fr);
+  return `<section class="outside" aria-labelledby="outside-h">
+    <h2 class="s" id="outside-h">${en ? 'Search outside the dataset' : 'Rechercher hors du corpus'} <span class="bil">/ ${en ? 'Rechercher hors du corpus' : 'Search outside the dataset'}</span></h2>
+    <p class="warnline"><strong>${en ? 'Outside the closed universe — unscreened.' : 'Hors de l\u2019univers clos — non filtré.'}</strong>
+      ${en ? 'These external searches are not screened under the temporal rule (SCOPE §2): a decision found there is not a qualifying interpretation until proposed and reviewed.'
+           : 'Ces recherches externes ne sont pas soumises à la règle temporelle (SCOPE §2) : une décision trouvée n\u2019est pas une interprétation retenue tant qu\u2019elle n\u2019a pas été proposée et examinée.'}</p>
+    <p class="note">${en ? 'Pre-filled query' : 'Requête pré-remplie'} : <code>${esc(n.outside_q || '')}</code>
+      <button class="btn sm" type="button" data-copy="${esc(n.outside_q || '')}">${icon.link} ${en ? 'Copy' : 'Copier'}</button></p>
+    <div class="actions">${links.map((x) => `<a class="btn" href="${esc(x.url)}" target="_blank" rel="noopener nofollow" title="${esc(x.manual ? (en ? x.note_en : x.note_fr) : (en ? 'opens an external search' : 'ouvre une recherche externe'))}">${esc(L(x))}${x.manual ? ' *' : ''} ${icon.ext}</a>`).join('')}</div>
+    ${links.some((x) => x.manual) ? `<p class="note">* ${esc(en ? links.find((x) => x.manual).note_en : links.find((x) => x.manual).note_fr)}</p>` : ''}
+    ${n.propose_url ? `<div class="actions"><a class="btn primary" href="${esc(n.propose_url)}" target="_blank" rel="noopener nofollow">${en ? 'Propose for inclusion' : 'Proposer pour inclusion'} <span class="bil">/ ${en ? 'Proposer pour inclusion' : 'Propose for inclusion'}</span> ${icon.ext}</a></div>
+      <p class="note">${en ? 'Opens a pre-filled GitHub issue (labels: proposal, needs-screening). Give the decision citation, its official URL and why it qualifies under basis (a) or (b).'
+                           : 'Ouvre un ticket GitHub pré-rempli (étiquettes : proposal, needs-screening). Indiquer la citation, l\u2019URL officielle et pourquoi la décision relève de la base (a) ou (b).'}</p>` : ''}
+  </section>`;
+}
 function xlinksPanel(n, lang) {
   if (!n.xlinks?.length) return '';
   return `<h2 class="s">${lang === 'en' ? 'External annotated browsers' : 'Navigateurs annotés externes'} <span class="bil">/ cross-links</span></h2>
@@ -209,6 +228,7 @@ export async function viewNorm(id, params) {
       ${state.activeIssue ? `<label><input type="checkbox" data-f="issue"> ${t('onlyIssue', lang)} (${esc(I.nodes.get(state.activeIssue)?.label || state.activeIssue)})</label>` : ''}
       <button class="btn sm" type="button" data-f="expand">${t('expandAll', lang)}</button><button class="btn sm" type="button" data-f="collapse">${t('collapseAll', lang)}</button>
     </div><div id="ilist"></div>` : `<p class="empty-state">${t('noInterps', lang)}</p>`}
+    ${outsidePanel(n, lang)}
   </article>${footer()}`;
 
   const list = $('#ilist');
@@ -458,8 +478,8 @@ export async function viewSources() {
     <td class="ids">${esc(String(s.last_version ?? '—').slice(0, 16))}</td>
     <td>${statusB(s.check_result)}${s.fixture ? ' <span class="badge fx">fixture</span>' : ''}</td></tr>`).join('');
   main().innerHTML = `<h1 class="t">Sources <span class="bil">/ Sources</span></h1>
-    <p class="note">Registre des sources officielles et canaux d’ingestion (data/sources*.json), vérifiés quotidiennement par GitHub Actions ; les changements ouvrent un ticket — aucun texte n’est réécrit automatiquement. /
-    Registry of official sources and ingestion channels, checked daily; detected changes open an issue — legal content is never rewritten automatically.</p>
+    <p class="note">Registre des sources officielles et canaux d’ingestion (data/sources*.json), vérifiés chaque semaine (le lundi) par GitHub Actions ; les changements ouvrent un ticket — aucun texte n’est réécrit automatiquement. /
+    Registry of official sources and ingestion channels, checked weekly (Mondays); detected changes open an issue — legal content is never rewritten automatically.</p>
     ${rep ? `<div class="metarow"><span><span class="k">Dernier contrôle / Last check</span> <strong>${esc(fmtDateTime(rep.generated))}</strong></span><span>${rep.changed_count ?? 0} changed</span><span>${rep.error_count ?? 0} errors</span><span>${rep.blocked_count ?? 0} blocked</span></div>` : '<p class="note">Aucun rapport de contrôle encore / No update report yet (data/update-report.json).</p>'}
     ${d.sources.length ? `<div class="tbl-wrap"><table class="data"><thead><tr><th>Source</th><th>Corpus</th><th>Check / channel</th><th>Official</th><th>Last checked</th><th>Version</th><th>Status</th></tr></thead><tbody>${rows}</tbody></table></div>` : '<p class="empty-state">Registre en préparation / Registry in preparation.</p>'}
     ${footer()}`;

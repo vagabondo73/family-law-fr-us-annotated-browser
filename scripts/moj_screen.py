@@ -166,7 +166,7 @@ def main():
         raw=open(p,errors='ignore').read(); meta=json.loads(raw.split('\n',1)[0][7:])
         dk=re.sub(r'\D','',meta.get('docket') or '')
         slugd=re.search(r'-d?(\d{5,6})$', meta['url'].rstrip('/'))
-        if not dk or not slugd or slugd.group(1)!=dk: C['ott:docket-unverified']+=1; continue
+        if not dk or not (meta.get('verified_docket') or (slugd and slugd.group(1)==dk)): C['ott:docket-unverified']+=1; continue
         if dk in known or not meta.get('dates'): C['ott:dup-or-unparsed']+=1; continue
         known.add(dk)
         import collections as _c
