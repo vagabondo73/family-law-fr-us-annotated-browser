@@ -66,7 +66,11 @@ def legifrance_juri(q, tab="juri"):
         {"tab_selection": tab, "searchField": "ALL", "query": q, "page": "1", "init": "true"}, quote_via=quote)
 
 
-def findlaw(q, court):
+FL_FR = "FindLaw exige une vérification lors de chaque recherche : la page du tribunal s'ouvre, copiez la citation dans le champ « Keyword »"
+FL_EN = "FindLaw requires a verification step on each search: the court page opens; paste the citation into the Keyword field"
+
+
+def findlaw(q, court):  # NOT used: FindLaw rejects pre-filled searches ("Search Verification Failed", user test 2026-10-01)
     # parameters taken from FindLaw's own court-page search form (GET search.html, search_type=text, court=<slug>)
     return "https://caselaw.findlaw.com/search.html?" + urlencode({"search_type": "text", "court": court, "text": q}, quote_via=quote)
 
@@ -165,8 +169,10 @@ def outside_links(n):
             _link("courtlistener", "CourtListener — Cour suprême et cours d'appel du Missouri", "CourtListener — Missouri Supreme Court & Court of Appeals",
                   courtlistener(q, ["mo", "moctapp"])),
             _link("justia", "Justia (recherche générale)", "Justia (site search)", justia(f"{q} Missouri")),
-            _link("findlaw", "FindLaw — Cour d'appel du Missouri", "FindLaw — Missouri Court of Appeals", findlaw(q, "mo-court-of-appeals"), HUMAN_FR, HUMAN_EN),
-            _link("findlaw", "FindLaw — Cour suprême du Missouri", "FindLaw — Supreme Court of Missouri", findlaw(q, "spr-crt-mis-en-ban"), HUMAN_FR, HUMAN_EN),
+            _link("findlaw", "FindLaw — Cour d'appel du Missouri (saisir la citation)", "FindLaw — Missouri Court of Appeals (enter the citation)",
+                  "https://caselaw.findlaw.com/court/mo-court-of-appeals", FL_FR, FL_EN, manual=True),
+            _link("findlaw", "FindLaw — Cour suprême du Missouri (saisir la citation)", "FindLaw — Supreme Court of Missouri (enter the citation)",
+                  "https://caselaw.findlaw.com/court/spr-crt-mis-en-ban", FL_FR, FL_EN, manual=True),
             _link("scholar", "Google Scholar — jurisprudence", "Google Scholar — case law", scholar(f"{q} Missouri"), HUMAN_FR, HUMAN_EN),
         ]
     elif side == "us":
