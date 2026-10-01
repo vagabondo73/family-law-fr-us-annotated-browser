@@ -633,7 +633,7 @@ def outside_html(n, fr):
          + f" {'Requête' if fr else 'Query'} : <code>{esc(n.get('outside_q'))}</code></p>")
     if links:
         h += "<ul>" + "".join(f'<li><a href="{esc(x["url"])}" rel="nofollow noopener">{esc(x["label_fr"] if fr else x["label_en"])}</a>'
-                              + (f" — {esc(x['note_fr'] if fr else x['note_en'])}" if x.get("manual") else "") + "</li>" for x in links) + "</ul>"
+                              + (f" — {esc(x['note_fr'] if fr else x['note_en'])}" if (x.get("manual") or x.get("human")) else "") + "</li>" for x in links) + "</ul>"
     if n.get("propose_url"):
         h += (f'<p><a href="{esc(n["propose_url"])}" rel="nofollow noopener">' + ("Proposer une décision pour inclusion (GitHub)" if fr else "Propose a decision for inclusion (GitHub)")
               + "</a> — " + ("à examiner selon les bases (a)/(b)" if fr else "screened under basis (a)/(b)") + "</p>")

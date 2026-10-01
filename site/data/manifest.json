@@ -1,6 +1,6 @@
 {
   "title": "Family Law Annotated Browser (FR ↔ US / Missouri)",
-  "generated": "2026-10-01T07:55:40+00:00",
+  "generated": "2026-10-01T08:53:34+00:00",
   "source": "data",
   "fixture": false,
   "base_url": "https://vagabondo73.github.io/family-law-fr-us-annotated-browser/",
@@ -391,8 +391,8 @@
       "interps": 0,
       "generated": "2026-09-30",
       "axes": {
-        "procedure": 1,
-        "family": 4
+        "family": 4,
+        "procedure": 1
       },
       "fixture": false
     },
@@ -407,8 +407,8 @@
       "interps": 6128,
       "generated": "2026-09-30",
       "axes": {
-        "procedure": 620,
-        "family": 603
+        "family": 603,
+        "procedure": 620
       },
       "fixture": false
     },
@@ -423,8 +423,8 @@
       "interps": 7060,
       "generated": "2026-09-30",
       "axes": {
-        "procedure": 452,
-        "family": 95
+        "family": 95,
+        "procedure": 452
       },
       "fixture": false
     },

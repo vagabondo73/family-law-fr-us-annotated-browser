@@ -4,7 +4,8 @@ These are links only. Nothing is fetched at build time or at run time, and no AP
 Results found through these links are OUTSIDE the closed universe: they have not been screened against SCOPE.md §2.
 
 Every template below was checked by hand in a real browser on 2026-10-01. Each one opened a result list
-filtered by the pre-filled query. Templates that could not be verified are not shipped:
+filtered by the pre-filled query. Templates on robot-protected sites (Légifrance, FindLaw, Google Scholar) are shipped since 2026-10-01 as
+human-browser links flagged with a note; their parameters come from each site's own search form. Not shipped:
 - Légifrance jurisprudence: Cloudflare challenge, and robots.txt disallows automated access;
 - law.justia.com and FindLaw caselaw: Cloudflare challenge;
 - Google Scholar: bot wall, and the court code could not be confirmed;
@@ -53,6 +54,26 @@ def infocuria(q, lang="FR"):
 
 def hudoc(q):
     return "https://hudoc.echr.coe.int/eng#" + quote('{"fulltext":["%s"]}' % q.replace('"', '\\"'), safe='{}[]:,')
+
+
+HUMAN_FR = "ouvre dans votre navigateur ; site protégé contre les robots (Cloudflare/Google) — non vérifiable automatiquement"
+HUMAN_EN = "opens in your own browser; site blocks robots (Cloudflare/Google) — cannot be machine-verified"
+
+
+def legifrance_juri(q, tab="juri"):
+    # tab: juri (juridictions judiciaires), cetat (juridictions administratives), constit (Conseil constitutionnel)
+    return f"https://www.legifrance.gouv.fr/search/{tab}?" + urlencode(
+        {"tab_selection": tab, "searchField": "ALL", "query": q, "page": "1", "init": "true"}, quote_via=quote)
+
+
+def findlaw(q, court):
+    # parameters taken from FindLaw's own court-page search form (GET search.html, search_type=text, court=<slug>)
+    return "https://caselaw.findlaw.com/search.html?" + urlencode({"search_type": "text", "court": court, "text": q}, quote_via=quote)
+
+
+def scholar(q):
+    # as_sdt=2006 = Google Scholar case-law search (all courts)
+    return "https://scholar.google.com/scholar?" + urlencode({"hl": "en", "as_sdt": "2006", "q": q}, quote_via=quote)
 
 
 def incadat(q):
@@ -132,7 +153,7 @@ def int_queries(n):
 
 def _link(engine, label_fr, label_en, url, note_fr="", note_en="", manual=False):
     return {"engine": engine, "label_fr": label_fr, "label_en": label_en, "url": url,
-            "note_fr": note_fr, "note_en": note_en, "manual": manual}
+            "note_fr": note_fr, "note_en": note_en, "manual": manual, "human": note_fr == HUMAN_FR}
 
 
 def outside_links(n):
@@ -144,16 +165,23 @@ def outside_links(n):
             _link("courtlistener", "CourtListener — Cour suprême et cours d'appel du Missouri", "CourtListener — Missouri Supreme Court & Court of Appeals",
                   courtlistener(q, ["mo", "moctapp"])),
             _link("justia", "Justia (recherche générale)", "Justia (site search)", justia(f"{q} Missouri")),
+            _link("findlaw", "FindLaw — Cour d'appel du Missouri", "FindLaw — Missouri Court of Appeals", findlaw(q, "mo-court-of-appeals"), HUMAN_FR, HUMAN_EN),
+            _link("findlaw", "FindLaw — Cour suprême du Missouri", "FindLaw — Supreme Court of Missouri", findlaw(q, "spr-crt-mis-en-ban"), HUMAN_FR, HUMAN_EN),
+            _link("scholar", "Google Scholar — jurisprudence", "Google Scholar — case law", scholar(f"{q} Missouri"), HUMAN_FR, HUMAN_EN),
         ]
     elif side == "us":
         out += [
             _link("courtlistener", "CourtListener — Cour suprême des États-Unis et 8e circuit", "CourtListener — U.S. Supreme Court & Eighth Circuit",
                   courtlistener(q, ["scotus", "ca8"])),
             _link("justia", "Justia (recherche générale)", "Justia (site search)", justia(q)),
+            _link("scholar", "Google Scholar — jurisprudence", "Google Scholar — case law", scholar(q), HUMAN_FR, HUMAN_EN),
         ]
     elif side == "fr":
         out += [
             _link("judilibre", "Judilibre — Cour de cassation et juridictions judiciaires", "Judilibre — Cour de cassation & judicial courts", judilibre(q)),
+            _link("legifrance", "Légifrance — jurisprudence judiciaire", "Légifrance — judicial case law", legifrance_juri(q, "juri"), HUMAN_FR, HUMAN_EN),
+            _link("legifrance", "Légifrance — jurisprudence administrative", "Légifrance — administrative case law", legifrance_juri(q, "cetat"), HUMAN_FR, HUMAN_EN),
+            _link("legifrance", "Légifrance — Conseil constitutionnel", "Légifrance — Constitutional Council", legifrance_juri(q, "constit"), HUMAN_FR, HUMAN_EN),
             _link("arianeweb", "ArianeWeb — Conseil d'État (saisir la citation)", "ArianeWeb — Conseil d'État (enter the citation)", ARIANE,
                   "pas de pré-remplissage possible : copier la citation", "no pre-fill possible: copy the citation", manual=True),
         ]
@@ -162,6 +190,7 @@ def outside_links(n):
             _link("infocuria", "InfoCuria — Cour de justice de l'UE", "InfoCuria — Court of Justice of the EU", infocuria(q)),
             _link("eurlex", "EUR-Lex (actes et jurisprudence)", "EUR-Lex (acts and case law)", eurlex(q)),
             _link("judilibre", "Judilibre — application en France", "Judilibre — application in France", judilibre(q)),
+            _link("legifrance", "Légifrance — jurisprudence judiciaire", "Légifrance — judicial case law", legifrance_juri(q, "juri"), HUMAN_FR, HUMAN_EN),
         ]
     elif side == "int":
         if c == "int-coe":
@@ -175,6 +204,8 @@ def outside_links(n):
         qfr, qen = int_queries(n)
         out += [
             _link("judilibre", "Judilibre — France", "Judilibre — France", judilibre(qfr)),
+            _link("legifrance", "Légifrance — jurisprudence judiciaire", "Légifrance — judicial case law", legifrance_juri(qfr, "juri"), HUMAN_FR, HUMAN_EN),
+            _link("scholar", "Google Scholar — jurisprudence (États-Unis)", "Google Scholar — case law (U.S.)", scholar(qen), HUMAN_FR, HUMAN_EN),
             _link("courtlistener", "CourtListener — États-Unis (Cour suprême, 8e circuit, Missouri)", "CourtListener — U.S. (Supreme Court, 8th Cir., Missouri)",
                   courtlistener(qen, ["scotus", "ca8", "mo", "moctapp"])),
         ]
