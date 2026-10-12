@@ -57,16 +57,19 @@ Interp corpora: `fr-cc-decisions` is NOT used; use by authority: `fr-cons` (Cons
   "excerpts": ["verbatim key passage 1", "…"],       // 1-4 short verbatim passages (chapeau/attendu, holding)
   "titrage": ["DIVORCE, SEPARATION DE CORPS - Prestation compensatoire - …"],   // official classification if any
   "norms": [
-    {"norm": "fr-cc-270", "basis": "a" | "b",
+    {"norm": "fr-cc-270", "basis": "a" | "b" | "c",
      "cited_version": "LEGIARTI000006422…",           // version actually interpreted, if known
      "b_method": "text-identical" | "functional-review",
-     "b_justification": "…"}                          // required when basis = b
+     "b_justification": "…",                          // required when basis = b
+     "version_status": "texte-modifie" | "redaction-anterieure-visee" | "ancienne-numerotation" | …,   // basis = c
+     "version_note": "Interprétation d'une version antérieure — …",  // basis = c: interpreted version vs current version
+     "cited_version_period": ["2004-01-01", "2016-10-01"]}             // basis = c, when the version is identified
   ],
   "issues": ["fr.divorce.prestation-compensatoire.fixation"],
   "lang": "fr" | "en"
 }
 ```
-An interpretation appears only if ≥1 of its `norms` entries qualifies under SCOPE §2. Non-qualifying links are dropped.
+An interpretation appears only if ≥1 of its `norms` entries qualifies under SCOPE §2 (bases a, b or c). Basis c = interpretation of an earlier version, kept with the interpreted version recorded (2026-10-12).
 
 ## Issue tree (`data/issues/<side>.json`)
 `{"side":"fr","lang":"fr","nodes":[{"id":"fr.divorce","label":"Divorce","children":[{"id":"fr.divorce.consentement-mutuel","label":"…","children":[]}]}]}`

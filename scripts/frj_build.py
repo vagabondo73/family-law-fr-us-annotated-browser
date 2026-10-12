@@ -215,6 +215,11 @@ def main():
                 if L["basis"] == "b":
                     e["b_method"] = L["b_method"]
                     e["b_justification"] = L["b_justification"]
+                elif L["basis"] == "c":
+                    e["version_status"] = L.get("version_status")
+                    e["version_note"] = L.get("version_note")
+                    if L.get("cited_version_period"):
+                        e["cited_version_period"] = L["cited_version_period"]
                 elif L.get("note"):
                     e["note"] = L["note"]
                 if L.get("alineas"):
@@ -374,6 +379,8 @@ def main():
         recs = out[corpus]
         a = sum(1 for r in recs for e in r["norms"] if e["basis"] == "a")
         b = sum(1 for r in recs for e in r["norms"] if e["basis"] == "b")
+        c = sum(1 for r in recs for e in r["norms"] if e["basis"] == "c")
+        cst = dict(collections.Counter(e.get("version_status") for r in recs for e in r["norms"] if e["basis"] == "c"))
         bt = sum(1 for r in recs for e in r["norms"] if e.get("b_method") == "text-identical")
         bf = sum(1 for r in recs for e in r["norms"] if e.get("b_method") == "functional-review")
         normset = {e["norm"] for r in recs for e in r["norms"]}
@@ -387,7 +394,7 @@ def main():
                "perimeter_source": ("data/norms (fichiers de l'agent normes) pour " + ", ".join(nf)) if nf else "définition propre frj_common.in_perimeter (fichiers data/norms absents au moment du calcul)",
                "interps_candidates": st.get("candidates", 0), "interps_screened": st.get("screened", 0),
                "interps_linked": st.get("linked", 0), "interps_included": len(recs),
-               "links": {"included": st.get("link_included", 0), "excluded": st.get("link_excluded", 0), "basis_a": a, "basis_b": b,
+               "links": {"included": st.get("link_included", 0), "excluded": st.get("link_excluded", 0), "basis_a": a, "basis_b": b, "basis_c": c, "basis_c_by_status": cst,
                          "b_text_identical": bt, "b_functional_review": bf, "exclusion_reasons": excl},
                "screened_breakdown": {k[9:]: v for k, v in st.items() if k.startswith("screened_")},
                "decisions_out_of_screen": st.get("hors_champ", 0),

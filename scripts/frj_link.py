@@ -6,6 +6,7 @@ work/frj/links_<src>.jsonl (all evaluated links incl. excluded ones with reason)
 import os, re, sys, json, collections
 sys.path.insert(0, os.path.dirname(__file__))
 from frj_common import *
+from frj_prior import prior_targets, prior_hit
 
 PHASE = next((a.split("=")[1] for a in sys.argv if a.startswith("--phase=")), "1")
 CIV = {"CHAMBRE_CIVILE_1", "CHAMBRE_CIVILE_2", "ASSEMBLEE_PLENIERE", "CHAMBRE_MIXTE", "AVIS", "CHAMBRE_CIVILE", "CHAMBRES_REUNIES"}
@@ -118,12 +119,12 @@ def candidate_links(src, d, cat, per, cat_sorted):
             for f in ("alineas", "redaction", "devenu"):
                 if f in c:
                     L[f] = c[f]
-            if c.get("ancien"):
-                L.update(status="excluded", reason="ancienne-numerotation")
-            elif not strong:
+            if not strong:
                 L.update(status="excluded", reason="mention-faible")
             else:
                 L["status"] = "candidate"
+                if c.get("ancien"):
+                    L["ancien"] = True
             if c.get("devenu"):
                 L["ancien_nums"] = [x["num"] for x in ancien if x["corpus"] == corpus]
             out.append(L)
@@ -198,7 +199,7 @@ def ngrams(words, n=8):
     return {" ".join(words[i:i + n]) for i in range(len(words) - n + 1)}
 
 
-def evaluate(L, date, cat, dec_text_fn, dc=False):
+def _evaluate(L, date, cat, dec_text_fn, dc=False):
     """Return updated L with basis/b_method/b_justification or status excluded."""
     a = cat[L["corpus"]][L["num"]]
     D = a["debut"]
@@ -344,6 +345,58 @@ def evaluate(L, date, cat, dec_text_fn, dc=False):
     return L
 
 
+# Basis (c) — user decision 2026-10-12: decisions interpreting an earlier wording (or the former numbering) of a
+# perimeter norm are KEPT as historical interpretations; the interpreted version is recorded. The current version
+# remains the applicable law; whether the older reasoning still helps depends on the matter interpreted.
+VERSION_REASONS = {"texte-modifie", "alinea-vise-modifie", "devenu-texte-different", "devenu-version-inconnue",
+                   "aucune-version-a-la-date", "historique-indisponible"}
+
+
+def _period(v):
+    return f"{v['id']}, en vigueur du {fr_date(v.get('debut'))} au {fr_date(v.get('fin'))}" if v else ""
+
+
+def mark_c(L, a, date, status, why="", vid=None):
+    cur = get_ver(a["legiarti"])
+    vers = (cur or {}).get("versions") or []
+    v = next((x for x in vers if x.get("id") == vid), None) if vid else None
+    if v is None and status not in ("ancienne-numerotation",):
+        red = L.get("redaction") or {}
+        rd = red.get("date") if red.get("kind", "").startswith("anterieure") else None
+        v = version_at(vers, rd) if rd else version_at(vers, date)
+        if v and v.get("id") == a["legiarti"]:
+            v = None
+    L.update(status="included", basis="c", version_status=status)
+    L.pop("reason", None)
+    if v:
+        L["cited_version"] = v["id"]
+        L["cited_version_period"] = [v.get("debut"), v.get("fin")]
+    labels = {"ancienne-numerotation": "ancienne numérotation (l'article actuel portant ce numéro peut avoir un objet différent)",
+              "redaction-anterieure-visee": "rédaction antérieure expressément visée par la décision",
+              "texte-modifie": "version antérieure, texte modifié depuis",
+              "alinea-vise-modifie": "version antérieure, alinéa interprété modifié depuis",
+              "devenu-texte-different": "ancien article devenu l'article actuel, texte différent",
+              "devenu-version-inconnue": "ancien article devenu l'article actuel, version d'origine non identifiée",
+              "aucune-version-a-la-date": "version antérieure non identifiée à la date de la décision",
+              "historique-indisponible": "historique des versions indisponible"}
+    L["version_note"] = ("Interprétation d'une version antérieure — " + labels.get(status, status)
+                         + (f" ; version interprétée : {_period(v)}" if v else "")
+                         + (f" ; {why}" if why else "")
+                         + f". Version en vigueur : {a['legiarti']} depuis le {fr_date(a['debut'])}.")
+    return L
+
+
+def evaluate(L, date, cat, dec_text_fn, dc=False):
+    a = cat[L["corpus"]][L["num"]]
+    if L.get("ancien"):
+        return mark_c(L, a, date, "ancienne-numerotation", f"la décision vise l'ancien article {L['num']}")
+    _evaluate(L, date, cat, dec_text_fn, dc)
+    if L["status"] == "excluded" and L.get("reason") in VERSION_REASONS:
+        red = L.get("redaction") or {}
+        mark_c(L, a, date, L["reason"], (f"rédaction visée : {red['text']}" if red.get("text") else ""))
+    return L
+
+
 def dec_fulltext(src, d):
     p = f"{RAW}/{d['path']}"
     try:
@@ -396,9 +449,17 @@ def main():
                                 need.add(cat[L["corpus"]][on]["legiarti"])
                 else:
                     evaluate(L, date, cat, txt, dc=(src == "constit" and d.get("nature") == "DC"))
+                    if L["status"] == "included" and L["basis"] in ("a", "b"):
+                        if "pw" not in cache:
+                            cache["pw"] = prior_targets(txt())
+                        ph = prior_hit(L["norm"], cache["pw"])
+                        if ph:
+                            for k in ("b_method", "b_justification", "note", "cited_version"):
+                                L.pop(k, None)
+                            mark_c(L, a, date, "redaction-anterieure-visee", ph)
             if PHASE == "2":
                 inc = [L for L in links if L["status"] == "included"]
-                weak = ("mention-faible", "chambre-hors-perimetre-matiere", "ancienne-numerotation")
+                weak = ("mention-faible", "chambre-hors-perimetre-matiere")
                 st["linked"] += 1 if any(L["status"] == "included" or L.get("reason") not in weak for L in links) else 0
                 for L in links:
                     st[f"link_{L['status']}"] += 1

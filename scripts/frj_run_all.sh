@@ -10,4 +10,5 @@ python3 frj_link.py --phase=1
 python3 frj_versions.py
 python3 frj_link.py --phase=2
 python3 frj_build.py
+python3 frj_postfix.py
 echo PIPELINE_DONE

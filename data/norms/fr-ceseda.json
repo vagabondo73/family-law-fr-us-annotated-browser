@@ -1,6 +1,6 @@
 {
   "corpus": "fr-ceseda",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "source": {
     "legitext": "LEGITEXT000006070158",
     "mirror": "https://git.tricoteuses.fr/codes/code_de_l_entree_et_du_sejour_des_etrangers_et_du_droit_d_asile.git",
@@ -68,7 +68,8 @@
         "fr.code.ceseda.partie-legislative.livre-i.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777599)"
     },
     {
       "id": "fr-ceseda-l123-1",
@@ -123,7 +124,8 @@
         "fr.code.ceseda.partie-legislative.livre-i.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049048925)"
     },
     {
       "id": "fr-ceseda-l200-1",
@@ -174,7 +176,8 @@
         "fr-ceseda-l200-4",
         "fr-ceseda-l200-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777432)"
     },
     {
       "id": "fr-ceseda-l200-2",
@@ -220,7 +223,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777430)"
     },
     {
       "id": "fr-ceseda-l200-3",
@@ -266,7 +270,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777428)"
     },
     {
       "id": "fr-ceseda-l200-4",
@@ -312,7 +317,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777426)"
     },
     {
       "id": "fr-ceseda-l200-5",
@@ -358,7 +364,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777424)"
     },
     {
       "id": "fr-ceseda-l200-6",
@@ -404,7 +411,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777422)"
     },
     {
       "id": "fr-ceseda-l210-1",
@@ -454,7 +462,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-i"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777418)"
     },
     {
       "id": "fr-ceseda-l221-1",
@@ -508,7 +517,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777412)"
     },
     {
       "id": "fr-ceseda-l221-2",
@@ -562,7 +572,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777410)"
     },
     {
       "id": "fr-ceseda-l222-1",
@@ -616,7 +627,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777406)"
     },
     {
       "id": "fr-ceseda-l222-2",
@@ -670,7 +682,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777404)"
     },
     {
       "id": "fr-ceseda-l223-1",
@@ -724,7 +737,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777400)"
     },
     {
       "id": "fr-ceseda-l231-1",
@@ -778,7 +792,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777394)"
     },
     {
       "id": "fr-ceseda-l231-2",
@@ -832,7 +847,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777392)"
     },
     {
       "id": "fr-ceseda-l231-3",
@@ -886,7 +902,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777390)"
     },
     {
       "id": "fr-ceseda-l232-1",
@@ -942,7 +959,8 @@
       "xrefs": [
         "fr-ceseda-l200-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777386)"
     },
     {
       "id": "fr-ceseda-l233-1",
@@ -996,7 +1014,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777382)"
     },
     {
       "id": "fr-ceseda-l233-2",
@@ -1052,7 +1071,8 @@
       "xrefs": [
         "fr-ceseda-l233-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777380)"
     },
     {
       "id": "fr-ceseda-l233-3",
@@ -1108,7 +1128,8 @@
       "xrefs": [
         "fr-ceseda-l233-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777378)"
     },
     {
       "id": "fr-ceseda-l233-4",
@@ -1162,7 +1183,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777376)"
     },
     {
       "id": "fr-ceseda-l233-5",
@@ -1216,7 +1238,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777374)"
     },
     {
       "id": "fr-ceseda-l233-6",
@@ -1270,7 +1293,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777372)"
     },
     {
       "id": "fr-ceseda-l234-1",
@@ -1324,7 +1348,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777368)"
     },
     {
       "id": "fr-ceseda-l234-2",
@@ -1378,7 +1403,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777366)"
     },
     {
       "id": "fr-ceseda-l234-3",
@@ -1434,7 +1460,8 @@
       "xrefs": [
         "fr-ceseda-l234-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777364)"
     },
     {
       "id": "fr-ceseda-l235-1",
@@ -1488,7 +1515,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777360)"
     },
     {
       "id": "fr-ceseda-l236-1",
@@ -1544,7 +1572,8 @@
       "xrefs": [
         "fr-ceseda-l233-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777356)"
     },
     {
       "id": "fr-ceseda-l237-1",
@@ -1601,7 +1630,8 @@
         "fr-ceseda-l424-7",
         "fr-ceseda-l424-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777352)"
     },
     {
       "id": "fr-ceseda-l240-1",
@@ -1655,7 +1685,8 @@
         "fr-ceseda-l200-4",
         "fr-ceseda-l200-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777348)"
     },
     {
       "id": "fr-ceseda-l251-1",
@@ -1717,7 +1748,8 @@
         "fr-ceseda-l233-1",
         "fr-ceseda-l233-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777340)"
     },
     {
       "id": "fr-ceseda-l251-2",
@@ -1777,7 +1809,8 @@
       "xrefs": [
         "fr-ceseda-l234-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777338)"
     },
     {
       "id": "fr-ceseda-l251-3",
@@ -1839,7 +1872,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777332)"
     },
     {
       "id": "fr-ceseda-l251-4",
@@ -1901,7 +1935,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777328)"
     },
     {
       "id": "fr-ceseda-l251-5",
@@ -1965,7 +2000,8 @@
       "xrefs": [
         "fr-ceseda-l262-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777326)"
     },
     {
       "id": "fr-ceseda-l251-6",
@@ -2031,7 +2067,8 @@
         "fr-ceseda-l251-7",
         "fr-ceseda-l261-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777324)"
     },
     {
       "id": "fr-ceseda-l251-7",
@@ -2089,7 +2126,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049056365)"
     },
     {
       "id": "fr-ceseda-l251-8",
@@ -2149,7 +2187,8 @@
       "xrefs": [
         "fr-ceseda-l251-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777318)"
     },
     {
       "id": "fr-ceseda-l252-1",
@@ -2203,7 +2242,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777314)"
     },
     {
       "id": "fr-ceseda-l252-2",
@@ -2259,7 +2299,8 @@
       "xrefs": [
         "fr-ceseda-l631-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050684)"
     },
     {
       "id": "fr-ceseda-l253-1",
@@ -2313,7 +2354,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049056355)"
     },
     {
       "id": "fr-ceseda-l261-1",
@@ -2367,7 +2409,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777302)"
     },
     {
       "id": "fr-ceseda-l262-1",
@@ -2424,7 +2467,8 @@
         "fr-ceseda-l251-1",
         "fr-ceseda-l251-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777298)"
     },
     {
       "id": "fr-ceseda-l263-1",
@@ -2478,7 +2522,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777294)"
     },
     {
       "id": "fr-ceseda-l264-1",
@@ -2532,7 +2577,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777290)"
     },
     {
       "id": "fr-ceseda-l270-1",
@@ -2585,7 +2631,8 @@
         "fr-ceseda-l823-11",
         "fr-ceseda-l823-17"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777286)"
     },
     {
       "id": "fr-ceseda-l271-1",
@@ -2635,7 +2682,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-vii-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050355)"
     },
     {
       "id": "fr-ceseda-l281-1",
@@ -2689,7 +2737,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777280)"
     },
     {
       "id": "fr-ceseda-l281-2",
@@ -2745,7 +2794,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777278)"
     },
     {
       "id": "fr-ceseda-l281-3",
@@ -2801,7 +2851,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777276)"
     },
     {
       "id": "fr-ceseda-l281-4",
@@ -2857,7 +2908,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050051)"
     },
     {
       "id": "fr-ceseda-l281-5",
@@ -2913,7 +2965,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050045)"
     },
     {
       "id": "fr-ceseda-l281-6",
@@ -2969,7 +3022,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777270)"
     },
     {
       "id": "fr-ceseda-l281-7",
@@ -3025,7 +3079,8 @@
       "xrefs": [
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050039)"
     },
     {
       "id": "fr-ceseda-l282-1",
@@ -3079,7 +3134,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913306)"
     },
     {
       "id": "fr-ceseda-l282-2",
@@ -3136,7 +3192,8 @@
         "fr-ceseda-l223-1",
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777262)"
     },
     {
       "id": "fr-ceseda-l283-1",
@@ -3190,7 +3247,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913278)"
     },
     {
       "id": "fr-ceseda-l283-2",
@@ -3247,7 +3305,8 @@
         "fr-ceseda-l223-1",
         "fr-ceseda-l264-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777256)"
     },
     {
       "id": "fr-ceseda-l284-1",
@@ -3301,7 +3360,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913217)"
     },
     {
       "id": "fr-ceseda-l284-2",
@@ -3362,7 +3422,8 @@
         "fr-ceseda-l264-1",
         "fr-ceseda-l270-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913370)"
     },
     {
       "id": "fr-ceseda-l285-1",
@@ -3416,7 +3477,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913246)"
     },
     {
       "id": "fr-ceseda-l285-2",
@@ -3476,7 +3538,8 @@
         "fr-ceseda-l264-1",
         "fr-ceseda-l270-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913352)"
     },
     {
       "id": "fr-ceseda-l286-1",
@@ -3530,7 +3593,8 @@
         "fr.code.ceseda.partie-legislative.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913241)"
     },
     {
       "id": "fr-ceseda-l286-2",
@@ -3590,7 +3654,8 @@
         "fr-ceseda-l264-1",
         "fr-ceseda-l270-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051913334)"
     },
     {
       "id": "fr-ceseda-l312-3",
@@ -3649,7 +3714,8 @@
         "fr.code.ceseda.partie-legislative.livre-iii.titre-i"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042777209)"
     },
     {
       "id": "fr-ceseda-l423-1",
@@ -3709,7 +3775,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982327)"
     },
     {
       "id": "fr-ceseda-l423-2",
@@ -3767,7 +3834,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982330)"
     },
     {
       "id": "fr-ceseda-l423-3",
@@ -3826,7 +3894,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776643)"
     },
     {
       "id": "fr-ceseda-l423-4",
@@ -3884,7 +3953,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776641)"
     },
     {
       "id": "fr-ceseda-l423-5",
@@ -3944,7 +4014,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982336)"
     },
     {
       "id": "fr-ceseda-l423-6",
@@ -4006,7 +4077,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776637)"
     },
     {
       "id": "fr-ceseda-l423-7",
@@ -4064,7 +4136,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982324)"
     },
     {
       "id": "fr-ceseda-l423-8",
@@ -4125,7 +4198,8 @@
       "xrefs": [
         "fr-ceseda-l423-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776631)"
     },
     {
       "id": "fr-ceseda-l423-9",
@@ -4185,7 +4259,8 @@
       "xrefs": [
         "fr-ceseda-l423-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776629)"
     },
     {
       "id": "fr-ceseda-l423-10",
@@ -4249,7 +4324,8 @@
         "fr-ceseda-l423-7",
         "fr-ceseda-l423-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982321)"
     },
     {
       "id": "fr-ceseda-l423-11",
@@ -4307,7 +4383,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776625)"
     },
     {
       "id": "fr-ceseda-l423-12",
@@ -4367,7 +4444,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776621)"
     },
     {
       "id": "fr-ceseda-l423-13",
@@ -4425,7 +4503,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776617)"
     },
     {
       "id": "fr-ceseda-l423-14",
@@ -4484,7 +4563,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776613)"
     },
     {
       "id": "fr-ceseda-l423-15",
@@ -4543,7 +4623,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776611)"
     },
     {
       "id": "fr-ceseda-l423-16",
@@ -4602,7 +4683,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776609)"
     },
     {
       "id": "fr-ceseda-l423-17",
@@ -4661,7 +4743,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776607)"
     },
     {
       "id": "fr-ceseda-l423-18",
@@ -4722,7 +4805,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776605)"
     },
     {
       "id": "fr-ceseda-l423-19",
@@ -4784,7 +4868,8 @@
         "fr-ceseda-l631-2",
         "fr-ceseda-l631-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776603)"
     },
     {
       "id": "fr-ceseda-l423-20",
@@ -4843,7 +4928,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776601)"
     },
     {
       "id": "fr-ceseda-l423-21",
@@ -4903,7 +4989,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776597)"
     },
     {
       "id": "fr-ceseda-l423-22",
@@ -4961,7 +5048,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137531)"
     },
     {
       "id": "fr-ceseda-l423-23",
@@ -5027,7 +5115,8 @@
         "fr-ceseda-l423-21",
         "fr-ceseda-l423-22"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043982318)"
     },
     {
       "id": "fr-ceseda-l424-3",
@@ -5092,7 +5181,8 @@
         "fr-ceseda-l561-2",
         "fr-ceseda-l561-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776576)"
     },
     {
       "id": "fr-ceseda-l424-7",
@@ -5151,7 +5241,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776568)"
     },
     {
       "id": "fr-ceseda-l424-11",
@@ -5214,7 +5305,8 @@
         "fr-ceseda-l561-2",
         "fr-ceseda-l561-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776558)"
     },
     {
       "id": "fr-ceseda-l424-16",
@@ -5273,7 +5365,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776548)"
     },
     {
       "id": "fr-ceseda-l424-19",
@@ -5337,7 +5430,8 @@
         "fr-ceseda-l561-2",
         "fr-ceseda-l561-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776540)"
     },
     {
       "id": "fr-ceseda-l424-20",
@@ -5396,7 +5490,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776538)"
     },
     {
       "id": "fr-ceseda-l425-6",
@@ -5456,7 +5551,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776518)"
     },
     {
       "id": "fr-ceseda-l425-7",
@@ -5516,7 +5612,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776516)"
     },
     {
       "id": "fr-ceseda-l425-8",
@@ -5576,7 +5673,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776514)"
     },
     {
       "id": "fr-ceseda-l425-10",
@@ -5635,7 +5733,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776508)"
     },
     {
       "id": "fr-ceseda-l426-17",
@@ -5695,7 +5794,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776450)"
     },
     {
       "id": "fr-ceseda-l434-1",
@@ -5756,7 +5856,8 @@
         "fr-ceseda-l434-2",
         "fr-ceseda-l434-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776340)"
     },
     {
       "id": "fr-ceseda-l434-2",
@@ -5814,7 +5915,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776338)"
     },
     {
       "id": "fr-ceseda-l434-3",
@@ -5873,7 +5975,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776336)"
     },
     {
       "id": "fr-ceseda-l434-4",
@@ -5932,7 +6035,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776334)"
     },
     {
       "id": "fr-ceseda-l434-5",
@@ -5992,7 +6096,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776332)"
     },
     {
       "id": "fr-ceseda-l434-6",
@@ -6050,7 +6155,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776330)"
     },
     {
       "id": "fr-ceseda-l434-7",
@@ -6108,7 +6214,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776326)"
     },
     {
       "id": "fr-ceseda-l434-8",
@@ -6167,7 +6274,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776324)"
     },
     {
       "id": "fr-ceseda-l434-9",
@@ -6225,7 +6333,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776322)"
     },
     {
       "id": "fr-ceseda-l434-10",
@@ -6285,7 +6394,8 @@
       "xrefs": [
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776318)"
     },
     {
       "id": "fr-ceseda-l434-11",
@@ -6343,7 +6453,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776316)"
     },
     {
       "id": "fr-ceseda-l434-12",
@@ -6401,7 +6512,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776314)"
     },
     {
       "id": "fr-ceseda-l441-7",
@@ -6469,7 +6581,8 @@
         "fr-ceseda-l434-7"
       ],
       "interps": [],
-      "in_force_until": "2028-01-01"
+      "in_force_until": "2028-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052092121)"
     },
     {
       "id": "fr-ceseda-l441-8",
@@ -6533,7 +6646,8 @@
         "fr-ceseda-l424-11"
       ],
       "interps": [],
-      "in_force_until": "2030-01-01"
+      "in_force_until": "2030-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042776256)"
     },
     {
       "id": "fr-ceseda-l441-9",
@@ -6591,7 +6705,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049048304)"
     },
     {
       "id": "fr-ceseda-l441-10",
@@ -6650,7 +6765,8 @@
         "fr.code.ceseda.partie-legislative.livre-iv.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052080236)"
     },
     {
       "id": "fr-ceseda-l444-2",
@@ -6711,7 +6827,8 @@
         "fr-ceseda-l425-10",
         "fr-ceseda-l434-10"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051918708)"
     },
     {
       "id": "fr-ceseda-l445-2",
@@ -6771,7 +6888,8 @@
         "fr-ceseda-l425-10",
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051918733)"
     },
     {
       "id": "fr-ceseda-l446-2",
@@ -6831,7 +6949,8 @@
         "fr-ceseda-l425-10",
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051918758)"
     },
     {
       "id": "fr-ceseda-l561-2",
@@ -6891,7 +7010,8 @@
         "fr.code.ceseda.partie-legislative.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775786)"
     },
     {
       "id": "fr-ceseda-l561-3",
@@ -6949,7 +7069,8 @@
         "fr.code.ceseda.partie-legislative.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775784)"
     },
     {
       "id": "fr-ceseda-l561-4",
@@ -7011,7 +7132,8 @@
         "fr-ceseda-l434-3",
         "fr-ceseda-l434-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775782)"
     },
     {
       "id": "fr-ceseda-l561-5",
@@ -7069,7 +7191,8 @@
         "fr.code.ceseda.partie-legislative.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775780)"
     },
     {
       "id": "fr-ceseda-l561-8",
@@ -7128,7 +7251,8 @@
         "fr.code.ceseda.partie-legislative.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775772)"
     },
     {
       "id": "fr-ceseda-l582-5",
@@ -7189,7 +7313,8 @@
         "fr-ceseda-l561-2",
         "fr-ceseda-l561-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042775648)"
     },
     {
       "id": "fr-ceseda-l631-2",
@@ -7246,7 +7371,8 @@
         "fr.code.ceseda.partie-legislative.livre-vi.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050678)"
     },
     {
       "id": "fr-ceseda-l631-3",
@@ -7303,7 +7429,8 @@
         "fr.code.ceseda.partie-legislative.livre-vi.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050672)"
     },
     {
       "id": "fr-ceseda-l823-11",
@@ -7367,7 +7494,8 @@
         "fr.code.ceseda.partie-legislative.livre-viii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052092142)"
     },
     {
       "id": "fr-ceseda-l823-12",
@@ -7430,7 +7558,8 @@
         "fr.code.ceseda.partie-legislative.livre-viii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774487)"
     },
     {
       "id": "fr-ceseda-l823-13",
@@ -7497,7 +7626,8 @@
         "fr.code.ceseda.partie-legislative.livre-viii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774481)"
     },
     {
       "id": "fr-ceseda-l823-14",
@@ -7566,7 +7696,8 @@
       "xrefs": [
         "fr-ceseda-l823-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774479)"
     },
     {
       "id": "fr-ceseda-l823-15",
@@ -7636,7 +7767,8 @@
         "fr-ceseda-l823-11",
         "fr-ceseda-l823-12"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774477)"
     },
     {
       "id": "fr-ceseda-l823-16",
@@ -7703,7 +7835,8 @@
         "fr.code.ceseda.partie-legislative.livre-viii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774473)"
     },
     {
       "id": "fr-ceseda-l823-17",
@@ -7770,7 +7903,8 @@
         "fr.code.ceseda.partie-legislative.livre-viii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042774471)"
     },
     {
       "id": "fr-ceseda-annexe-3",
@@ -7820,7 +7954,8 @@
         "fr.code.ceseda.partie-reglementaire.annexes"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049774215)"
     },
     {
       "id": "fr-ceseda-annexe-10",
@@ -7887,7 +8022,8 @@
         "fr-ceseda-l561-5",
         "fr-ceseda-r434-29"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049820920)"
     },
     {
       "id": "fr-ceseda-annexe-11",
@@ -7933,7 +8069,8 @@
         "fr.code.ceseda.partie-reglementaire.annexes"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049991119)"
     },
     {
       "id": "fr-ceseda-d414-1",
@@ -7996,7 +8133,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-i"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807418)"
     },
     {
       "id": "fr-ceseda-d553-3",
@@ -8055,7 +8193,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054227098)"
     },
     {
       "id": "fr-ceseda-r210-1",
@@ -8105,7 +8244,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-i"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808102)"
     },
     {
       "id": "fr-ceseda-r221-1",
@@ -8159,7 +8299,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808096)"
     },
     {
       "id": "fr-ceseda-r221-2",
@@ -8215,7 +8356,8 @@
       "xrefs": [
         "fr-ceseda-l200-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808094)"
     },
     {
       "id": "fr-ceseda-r223-1",
@@ -8269,7 +8411,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808086)"
     },
     {
       "id": "fr-ceseda-r231-1",
@@ -8325,7 +8468,8 @@
       "xrefs": [
         "fr-ceseda-l231-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808080)"
     },
     {
       "id": "fr-ceseda-r231-2",
@@ -8381,7 +8525,8 @@
       "xrefs": [
         "fr-ceseda-l233-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808078)"
     },
     {
       "id": "fr-ceseda-r231-3",
@@ -8435,7 +8580,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808076)"
     },
     {
       "id": "fr-ceseda-r233-1",
@@ -8493,7 +8639,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808066)"
     },
     {
       "id": "fr-ceseda-r233-2",
@@ -8555,7 +8702,8 @@
         "fr-ceseda-r233-7",
         "fr-ceseda-r233-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808064)"
     },
     {
       "id": "fr-ceseda-r233-3",
@@ -8613,7 +8761,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808062)"
     },
     {
       "id": "fr-ceseda-r233-4",
@@ -8674,7 +8823,8 @@
         "fr-ceseda-l233-4",
         "fr-ceseda-r233-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808060)"
     },
     {
       "id": "fr-ceseda-r233-5",
@@ -8734,7 +8884,8 @@
       "xrefs": [
         "fr-ceseda-r233-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808058)"
     },
     {
       "id": "fr-ceseda-r233-6",
@@ -8792,7 +8943,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808056)"
     },
     {
       "id": "fr-ceseda-r233-7",
@@ -8850,7 +9002,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808052)"
     },
     {
       "id": "fr-ceseda-r233-8",
@@ -8913,7 +9066,8 @@
         "fr-ceseda-l234-1",
         "fr-ceseda-l233-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808050)"
     },
     {
       "id": "fr-ceseda-r233-9",
@@ -8979,7 +9133,8 @@
         "fr-ceseda-l234-1",
         "fr-ceseda-l233-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808048)"
     },
     {
       "id": "fr-ceseda-r233-10",
@@ -9037,7 +9192,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808046)"
     },
     {
       "id": "fr-ceseda-r233-11",
@@ -9095,7 +9251,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808042)"
     },
     {
       "id": "fr-ceseda-r233-12",
@@ -9153,7 +9310,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808040)"
     },
     {
       "id": "fr-ceseda-r233-13",
@@ -9211,7 +9369,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808038)"
     },
     {
       "id": "fr-ceseda-r233-14",
@@ -9269,7 +9428,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808036)"
     },
     {
       "id": "fr-ceseda-r233-15",
@@ -9327,7 +9487,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808034)"
     },
     {
       "id": "fr-ceseda-r233-16",
@@ -9385,7 +9546,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808032)"
     },
     {
       "id": "fr-ceseda-r233-17",
@@ -9443,7 +9605,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808030)"
     },
     {
       "id": "fr-ceseda-r233-18",
@@ -9504,7 +9667,8 @@
         "fr-ceseda-r233-11",
         "fr-ceseda-r233-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808028)"
     },
     {
       "id": "fr-ceseda-r234-1",
@@ -9558,7 +9722,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808024)"
     },
     {
       "id": "fr-ceseda-r234-2",
@@ -9612,7 +9777,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808022)"
     },
     {
       "id": "fr-ceseda-r234-3",
@@ -9666,7 +9832,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808020)"
     },
     {
       "id": "fr-ceseda-r234-4",
@@ -9722,7 +9889,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808018)"
     },
     {
       "id": "fr-ceseda-r234-5",
@@ -9776,7 +9944,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808016)"
     },
     {
       "id": "fr-ceseda-r234-6",
@@ -9832,7 +10001,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808014)"
     },
     {
       "id": "fr-ceseda-r237-1",
@@ -9888,7 +10058,8 @@
       "xrefs": [
         "fr-ceseda-d414-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042808002)"
     },
     {
       "id": "fr-ceseda-r240-1",
@@ -9942,7 +10113,8 @@
         "fr-ceseda-l200-4",
         "fr-ceseda-l200-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807998)"
     },
     {
       "id": "fr-ceseda-r251-1",
@@ -10004,7 +10176,8 @@
         "fr-ceseda-l251-3",
         "fr-ceseda-l251-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807990)"
     },
     {
       "id": "fr-ceseda-r251-2",
@@ -10062,7 +10235,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807988)"
     },
     {
       "id": "fr-ceseda-r251-3",
@@ -10120,7 +10294,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807984)"
     },
     {
       "id": "fr-ceseda-r252-1",
@@ -10174,7 +10349,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807980)"
     },
     {
       "id": "fr-ceseda-r253-1",
@@ -10228,7 +10404,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052006891)"
     },
     {
       "id": "fr-ceseda-r264-1",
@@ -10282,7 +10459,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052006864)"
     },
     {
       "id": "fr-ceseda-r270-1",
@@ -10332,7 +10510,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807954)"
     },
     {
       "id": "fr-ceseda-r270-2",
@@ -10382,7 +10561,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807952)"
     },
     {
       "id": "fr-ceseda-r270-3",
@@ -10432,7 +10612,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807950)"
     },
     {
       "id": "fr-ceseda-r270-4",
@@ -10482,7 +10663,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807948)"
     },
     {
       "id": "fr-ceseda-r271-1",
@@ -10532,7 +10714,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-vii-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049975759)"
     },
     {
       "id": "fr-ceseda-r281-1",
@@ -10586,7 +10769,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807942)"
     },
     {
       "id": "fr-ceseda-r281-2",
@@ -10643,7 +10827,8 @@
         "fr-ceseda-r237-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807940)"
     },
     {
       "id": "fr-ceseda-r281-3",
@@ -10699,7 +10884,8 @@
       "xrefs": [
         "fr-ceseda-r253-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807938)"
     },
     {
       "id": "fr-ceseda-r281-4",
@@ -10755,7 +10941,8 @@
       "xrefs": [
         "fr-ceseda-r253-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807936)"
     },
     {
       "id": "fr-ceseda-r281-5",
@@ -10812,7 +10999,8 @@
         "fr-ceseda-r253-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054241812)"
     },
     {
       "id": "fr-ceseda-r282-1",
@@ -10866,7 +11054,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807930)"
     },
     {
       "id": "fr-ceseda-r282-2",
@@ -10927,7 +11116,8 @@
         "fr-ceseda-r264-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807928)"
     },
     {
       "id": "fr-ceseda-r283-1",
@@ -10981,7 +11171,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807924)"
     },
     {
       "id": "fr-ceseda-r283-2",
@@ -11042,7 +11233,8 @@
         "fr-ceseda-r264-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807922)"
     },
     {
       "id": "fr-ceseda-r284-1",
@@ -11096,7 +11288,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807918)"
     },
     {
       "id": "fr-ceseda-r284-2",
@@ -11165,7 +11358,8 @@
         "fr-ceseda-r264-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807916)"
     },
     {
       "id": "fr-ceseda-r285-1",
@@ -11219,7 +11413,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807912)"
     },
     {
       "id": "fr-ceseda-r285-2",
@@ -11286,7 +11481,8 @@
         "fr-ceseda-r264-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807910)"
     },
     {
       "id": "fr-ceseda-r286-1",
@@ -11340,7 +11536,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-ii.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807906)"
     },
     {
       "id": "fr-ceseda-r286-2",
@@ -11408,7 +11605,8 @@
         "fr-ceseda-r264-1",
         "fr-ceseda-r270-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807904)"
     },
     {
       "id": "fr-ceseda-r343-30",
@@ -11475,7 +11673,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iii.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807606)"
     },
     {
       "id": "fr-ceseda-r423-1",
@@ -11533,7 +11732,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807174)"
     },
     {
       "id": "fr-ceseda-r423-2",
@@ -11592,7 +11792,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807172)"
     },
     {
       "id": "fr-ceseda-r423-3",
@@ -11653,7 +11854,8 @@
         "fr-ceseda-l423-1",
         "fr-ceseda-l423-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807168)"
     },
     {
       "id": "fr-ceseda-r423-4",
@@ -11712,7 +11914,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042807164)"
     },
     {
       "id": "fr-ceseda-r423-5",
@@ -11772,7 +11975,8 @@
       "xrefs": [
         "fr-ceseda-l423-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049998825)"
     },
     {
       "id": "fr-ceseda-r432-3",
@@ -11833,7 +12037,8 @@
         "fr-ceseda-l434-1",
         "fr-ceseda-l434-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051747501)"
     },
     {
       "id": "fr-ceseda-r432-4",
@@ -11896,7 +12101,8 @@
         "fr-ceseda-l631-2",
         "fr-ceseda-l631-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806938)"
     },
     {
       "id": "fr-ceseda-r434-1",
@@ -11954,7 +12160,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806886)"
     },
     {
       "id": "fr-ceseda-r434-2",
@@ -12012,7 +12219,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806884)"
     },
     {
       "id": "fr-ceseda-r434-3",
@@ -12070,7 +12278,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806878)"
     },
     {
       "id": "fr-ceseda-r434-4",
@@ -12130,7 +12339,8 @@
       "xrefs": [
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806876)"
     },
     {
       "id": "fr-ceseda-r434-5",
@@ -12190,7 +12400,8 @@
       "xrefs": [
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806874)"
     },
     {
       "id": "fr-ceseda-r434-6",
@@ -12251,7 +12462,8 @@
       "xrefs": [
         "fr-ceseda-l434-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806872)"
     },
     {
       "id": "fr-ceseda-r434-7",
@@ -12309,7 +12521,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806868)"
     },
     {
       "id": "fr-ceseda-r434-8",
@@ -12369,7 +12582,8 @@
       "xrefs": [
         "fr-ceseda-r434-35"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806866)"
     },
     {
       "id": "fr-ceseda-r434-9",
@@ -12431,7 +12645,8 @@
         "fr-ceseda-l434-3",
         "fr-ceseda-l434-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806864)"
     },
     {
       "id": "fr-ceseda-r434-10",
@@ -12489,7 +12704,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806862)"
     },
     {
       "id": "fr-ceseda-r434-11",
@@ -12547,7 +12763,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806860)"
     },
     {
       "id": "fr-ceseda-r434-12",
@@ -12609,7 +12826,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806854)"
     },
     {
       "id": "fr-ceseda-r434-13",
@@ -12671,7 +12889,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806852)"
     },
     {
       "id": "fr-ceseda-r434-14",
@@ -12733,7 +12952,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806850)"
     },
     {
       "id": "fr-ceseda-r434-15",
@@ -12795,7 +13015,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806846)"
     },
     {
       "id": "fr-ceseda-r434-16",
@@ -12860,7 +13081,8 @@
         "fr-ceseda-r434-4",
         "fr-ceseda-r434-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806844)"
     },
     {
       "id": "fr-ceseda-r434-17",
@@ -12922,7 +13144,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806842)"
     },
     {
       "id": "fr-ceseda-r434-18",
@@ -12987,7 +13210,8 @@
         "fr-ceseda-r434-5",
         "fr-ceseda-r434-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806838)"
     },
     {
       "id": "fr-ceseda-r434-19",
@@ -13049,7 +13273,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806836)"
     },
     {
       "id": "fr-ceseda-r434-20",
@@ -13113,7 +13338,8 @@
       "xrefs": [
         "fr-ceseda-r434-19"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806834)"
     },
     {
       "id": "fr-ceseda-r434-21",
@@ -13175,7 +13401,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806832)"
     },
     {
       "id": "fr-ceseda-r434-22",
@@ -13239,7 +13466,8 @@
       "xrefs": [
         "fr-ceseda-r434-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806830)"
     },
     {
       "id": "fr-ceseda-r434-23",
@@ -13301,7 +13529,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806826)"
     },
     {
       "id": "fr-ceseda-r434-24",
@@ -13363,7 +13592,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806824)"
     },
     {
       "id": "fr-ceseda-r434-25",
@@ -13427,7 +13657,8 @@
       "xrefs": [
         "fr-ceseda-r434-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806820)"
     },
     {
       "id": "fr-ceseda-r434-26",
@@ -13485,7 +13716,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806816)"
     },
     {
       "id": "fr-ceseda-r434-27",
@@ -13543,7 +13775,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806814)"
     },
     {
       "id": "fr-ceseda-r434-28",
@@ -13601,7 +13834,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806812)"
     },
     {
       "id": "fr-ceseda-r434-29",
@@ -13659,7 +13893,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806810)"
     },
     {
       "id": "fr-ceseda-r434-30",
@@ -13717,7 +13952,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806808)"
     },
     {
       "id": "fr-ceseda-r434-31",
@@ -13775,7 +14011,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806804)"
     },
     {
       "id": "fr-ceseda-r434-32",
@@ -13833,7 +14070,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806802)"
     },
     {
       "id": "fr-ceseda-r434-33",
@@ -13893,7 +14131,8 @@
       "xrefs": [
         "fr-ceseda-r434-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806798)"
     },
     {
       "id": "fr-ceseda-r434-34",
@@ -13951,7 +14190,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806796)"
     },
     {
       "id": "fr-ceseda-r434-35",
@@ -14011,7 +14251,8 @@
       "xrefs": [
         "fr-ceseda-r434-33"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806794)"
     },
     {
       "id": "fr-ceseda-r434-36",
@@ -14069,7 +14310,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-iv.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806790)"
     },
     {
       "id": "fr-ceseda-r444-3",
@@ -14136,7 +14378,8 @@
         "fr-ceseda-r434-36",
         "fr-ceseda-r434-31"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054303055)"
     },
     {
       "id": "fr-ceseda-r445-3",
@@ -14207,7 +14450,8 @@
         "fr-ceseda-r434-36",
         "fr-ceseda-r434-31"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054303052)"
     },
     {
       "id": "fr-ceseda-r446-3",
@@ -14276,7 +14520,8 @@
         "fr-ceseda-r434-36",
         "fr-ceseda-r434-31"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054303049)"
     },
     {
       "id": "fr-ceseda-r561-1",
@@ -14336,7 +14581,8 @@
       "xrefs": [
         "fr-ceseda-l561-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806068)"
     },
     {
       "id": "fr-ceseda-r561-2",
@@ -14394,7 +14640,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049998479)"
     },
     {
       "id": "fr-ceseda-r561-3",
@@ -14452,7 +14699,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042806064)"
     },
     {
       "id": "fr-ceseda-r581-8",
@@ -14514,7 +14762,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805984)"
     },
     {
       "id": "fr-ceseda-r581-9",
@@ -14576,7 +14825,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805982)"
     },
     {
       "id": "fr-ceseda-r581-10",
@@ -14638,7 +14888,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805980)"
     },
     {
       "id": "fr-ceseda-r581-11",
@@ -14700,7 +14951,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805978)"
     },
     {
       "id": "fr-ceseda-r581-12",
@@ -14765,7 +15017,8 @@
         "fr-ceseda-r581-8",
         "fr-ceseda-r581-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805976)"
     },
     {
       "id": "fr-ceseda-r581-13",
@@ -14827,7 +15080,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805972)"
     },
     {
       "id": "fr-ceseda-r581-14",
@@ -14889,7 +15143,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805970)"
     },
     {
       "id": "fr-ceseda-r581-15",
@@ -14951,7 +15206,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805968)"
     },
     {
       "id": "fr-ceseda-r581-16",
@@ -15013,7 +15269,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805964)"
     },
     {
       "id": "fr-ceseda-r581-17",
@@ -15075,7 +15332,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805962)"
     },
     {
       "id": "fr-ceseda-r582-4",
@@ -15137,7 +15395,8 @@
         "fr-ceseda-r561-1",
         "fr-ceseda-r561-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805942)"
     },
     {
       "id": "fr-ceseda-r744-38",
@@ -15204,7 +15463,8 @@
         "fr.code.ceseda.partie-reglementaire.livre-vii.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042805238)"
     }
   ]
 }

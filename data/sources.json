@@ -1,5 +1,44 @@
 [
   {
+    "id": "dila-cass",
+    "label": "Cour de cassation — arrêts publiés (DILA CASS, miroir Tricoteuses)",
+    "official": "https://www.legifrance.gouv.fr/liste/juri",
+    "channel": "git:https://git.tricoteuses.fr/dila/cass.git",
+    "check": "git-head",
+    "corpora": [
+      "fr-cass"
+    ],
+    "last_checked": "2026-10-12",
+    "last_version": "635a0305ef23476ad5e70883c72aad2a7a8811bf",
+    "note": "Lot CASS_20260930 intégré le 2026-10-12."
+  },
+  {
+    "id": "dila-jade",
+    "label": "Conseil d'État — décisions publiées (DILA JADE, miroir Tricoteuses)",
+    "official": "https://www.legifrance.gouv.fr/liste/ceta",
+    "channel": "git:https://git.tricoteuses.fr/dila/jade.git",
+    "check": "git-head",
+    "corpora": [
+      "fr-ce"
+    ],
+    "last_checked": "2026-10-12",
+    "last_version": "a2c1f641c48b27b4573f0b1992289fcae605aae1",
+    "note": "Lot JADE_20261010 intégré le 2026-10-12."
+  },
+  {
+    "id": "dila-constit",
+    "label": "Conseil constitutionnel — décisions (DILA CONSTIT, miroir Tricoteuses)",
+    "official": "https://www.conseil-constitutionnel.fr/decisions",
+    "channel": "git:https://git.tricoteuses.fr/dila/constit.git",
+    "check": "git-head",
+    "corpora": [
+      "fr-cons"
+    ],
+    "last_checked": "2026-10-12",
+    "last_version": "fcc718be4858cad4ed6e1e8e5c239f5b96e6b9dc",
+    "note": "Lot CONSTIT_20261005 intégré le 2026-10-12."
+  },
+  {
     "id": "legi-code-civil",
     "label": "Code civil (LEGI, miroir Tricoteuses)",
     "official": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721",
@@ -8,8 +47,8 @@
     "corpora": [
       "fr-cc"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "df37fb220cea125bdecae7a161fb4c22dff421d6"
+    "last_checked": "2026-10-12",
+    "last_version": "d5927ef416387686265f66a24ee3135a3703e081"
   },
   {
     "id": "legi-code-de-procedure-civile",
@@ -20,8 +59,8 @@
     "corpora": [
       "fr-cpc"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "64a5dcbbf517c334b068f5820510519288f778b8"
+    "last_checked": "2026-10-12",
+    "last_version": "456cdf4a0ccf4c9dcc12c7b7ae300c5beb35c8fe"
   },
   {
     "id": "legi-code-de-l-organisation-judiciaire",
@@ -32,8 +71,8 @@
     "corpora": [
       "fr-coj"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "523b0a4b3546812118a792fc9ad7d2da77fb75d3"
+    "last_checked": "2026-10-12",
+    "last_version": "06af2c2c057912e79adc9f17ba0cd0e274ec4a46"
   },
   {
     "id": "legi-code-de-l-action-sociale-et-des-familles",
@@ -44,8 +83,8 @@
     "corpora": [
       "fr-casf"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "9f64b63114005701371e012b32be532ab732b64e"
+    "last_checked": "2026-10-12",
+    "last_version": "3c7fafebe130df94330aaa9df4781749851f40b0"
   },
   {
     "id": "legi-code-de-la-sante-publique",
@@ -56,8 +95,8 @@
     "corpora": [
       "fr-csp"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "75eabdee9911578f1f4a205a1914c0d8a774f88c"
+    "last_checked": "2026-10-12",
+    "last_version": "b7d8f7b55e83516390c123d5e506db68a5a2cf5b"
   },
   {
     "id": "legi-code-penal",
@@ -68,7 +107,7 @@
     "corpora": [
       "fr-cp"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "dc4b088173f9939e97c53668900ac9af4758eb57"
   },
   {
@@ -80,8 +119,8 @@
     "corpora": [
       "fr-cpp"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "39ee3d4a8258737c644dcd7548c1b59194bc7b7b"
+    "last_checked": "2026-10-12",
+    "last_version": "4f52cd5a9df8f2fec3c98019851c93cdcaa432ff"
   },
   {
     "id": "legi-code-general-des-impots",
@@ -92,7 +131,7 @@
     "corpora": [
       "fr-cgi"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "4b9e66d88df809b54d2ab7f61bcb4c7252a33f43"
   },
   {
@@ -104,8 +143,8 @@
     "corpora": [
       "fr-css"
     ],
-    "last_checked": "2026-09-30",
-    "last_version": "b18fd5980d767c2690807e45fcc8bda81f11a505"
+    "last_checked": "2026-10-12",
+    "last_version": "ce4eeaa939dfd5bcaedd3dcfeeb2858e28045fe6"
   },
   {
     "id": "legi-code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile",
@@ -116,7 +155,7 @@
     "corpora": [
       "fr-ceseda"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "36981f1d83367359c14172328f07ad30959c2917"
   },
   {
@@ -128,7 +167,7 @@
     "corpora": [
       "fr-cpce"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "bb94cf88f9f9bf7c66fdfe7c031cafa763d22aef"
   },
   {
@@ -140,7 +179,7 @@
     "corpora": [
       "fr-const"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "696e96dfa26a913ed36d47e270c1d7fc4019a4ec"
   },
   {
@@ -152,7 +191,7 @@
     "corpora": [
       "fr-textes"
     ],
-    "last_checked": "2026-09-30",
+    "last_checked": "2026-10-12",
     "last_version": "8680af59aca80eb45b2eb24ec0bcaf95304e170d",
     "texts": [
       "LEGITEXT000005615997",

@@ -1,10 +1,10 @@
 {
   "corpus": "fr-casf",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "source": {
     "legitext": "LEGITEXT000006074069",
     "mirror": "https://git.tricoteuses.fr/codes/code_de_l_action_sociale_et_des_familles.git",
-    "head": "9f64b63114005701371e012b32be532ab732b64e"
+    "head": "3c7fafebe130df94330aaa9df4781749851f40b0"
   },
   "norms": [
     {
@@ -59,7 +59,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796578)"
     },
     {
       "id": "fr-casf-l132-2",
@@ -115,7 +116,8 @@
       "xrefs": [
         "fr-casf-l132-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047796720)"
     },
     {
       "id": "fr-casf-l132-3",
@@ -169,7 +171,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047770100)"
     },
     {
       "id": "fr-casf-l132-4",
@@ -223,7 +226,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796581)"
     },
     {
       "id": "fr-casf-l132-5",
@@ -277,7 +281,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796582)"
     },
     {
       "id": "fr-casf-l132-6",
@@ -331,7 +336,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049391874)"
     },
     {
       "id": "fr-casf-l132-7",
@@ -385,7 +391,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027573088)"
     },
     {
       "id": "fr-casf-l132-8",
@@ -440,7 +447,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031728913)"
     },
     {
       "id": "fr-casf-l132-9",
@@ -496,7 +504,8 @@
       "xrefs": [
         "fr-casf-l132-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027573082)"
     },
     {
       "id": "fr-casf-l132-10",
@@ -550,7 +559,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796598)"
     },
     {
       "id": "fr-casf-l132-11",
@@ -604,7 +614,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796599)"
     },
     {
       "id": "fr-casf-l132-12",
@@ -663,7 +674,8 @@
         "fr-casf-l132-8",
         "fr-casf-l132-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796600)"
     },
     {
       "id": "fr-casf-l147-1",
@@ -725,7 +737,8 @@
         "fr-casf-l147-5",
         "fr-casf-l222-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137432)"
     },
     {
       "id": "fr-casf-l147-2",
@@ -784,7 +797,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137423)"
     },
     {
       "id": "fr-casf-l147-3",
@@ -843,7 +857,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137419)"
     },
     {
       "id": "fr-casf-l147-4",
@@ -904,7 +919,8 @@
       "xrefs": [
         "fr-casf-l147-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137413)"
     },
     {
       "id": "fr-casf-l147-5",
@@ -964,7 +980,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137405)"
     },
     {
       "id": "fr-casf-l147-6",
@@ -1025,7 +1042,8 @@
       "xrefs": [
         "fr-casf-l147-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137394)"
     },
     {
       "id": "fr-casf-l147-7",
@@ -1085,7 +1103,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137387)"
     },
     {
       "id": "fr-casf-l147-8",
@@ -1144,7 +1163,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137376)"
     },
     {
       "id": "fr-casf-l147-9",
@@ -1203,7 +1223,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137358)"
     },
     {
       "id": "fr-casf-l147-10",
@@ -1262,7 +1283,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137337)"
     },
     {
       "id": "fr-casf-l147-11",
@@ -1323,7 +1345,8 @@
       "xrefs": [
         "fr-casf-l147-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137327)"
     },
     {
       "id": "fr-casf-l147-12",
@@ -1383,7 +1406,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135827)"
     },
     {
       "id": "fr-casf-l147-13",
@@ -1442,7 +1466,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135879)"
     },
     {
       "id": "fr-casf-l147-14",
@@ -1508,7 +1533,8 @@
         "fr-casf-l225-15",
         "fr-casf-l226-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135883)"
     },
     {
       "id": "fr-casf-l147-15",
@@ -1569,7 +1595,8 @@
       "xrefs": [
         "fr-casf-l147-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135885)"
     },
     {
       "id": "fr-casf-l147-16",
@@ -1628,7 +1655,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135887)"
     },
     {
       "id": "fr-casf-l147-17",
@@ -1691,7 +1719,8 @@
         "fr-casf-l147-12",
         "fr-casf-l147-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135891)"
     },
     {
       "id": "fr-casf-l148-1",
@@ -1745,7 +1774,8 @@
         "fr.code.casf.partie-legislative.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137463)"
     },
     {
       "id": "fr-casf-l211-1",
@@ -1804,7 +1834,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027432077)"
     },
     {
       "id": "fr-casf-l211-2",
@@ -1861,7 +1892,8 @@
         "fr-casf-l211-4",
         "fr-casf-l211-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796729)"
     },
     {
       "id": "fr-casf-l211-3",
@@ -1915,7 +1947,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000035032488)"
     },
     {
       "id": "fr-casf-l211-4",
@@ -1971,7 +2004,8 @@
       "xrefs": [
         "fr-casf-l211-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027432072)"
     },
     {
       "id": "fr-casf-l211-5",
@@ -2025,7 +2059,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796732)"
     },
     {
       "id": "fr-casf-l211-6",
@@ -2081,7 +2116,8 @@
       "xrefs": [
         "fr-casf-l211-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796733)"
     },
     {
       "id": "fr-casf-l211-7",
@@ -2135,7 +2171,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796741)"
     },
     {
       "id": "fr-casf-l211-8",
@@ -2191,7 +2228,8 @@
       "xrefs": [
         "fr-casf-l211-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796742)"
     },
     {
       "id": "fr-casf-l211-9",
@@ -2248,7 +2286,8 @@
       "xrefs": [
         "fr-casf-l211-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796743)"
     },
     {
       "id": "fr-casf-l211-10",
@@ -2303,7 +2342,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031688351)"
     },
     {
       "id": "fr-casf-l211-11",
@@ -2357,7 +2397,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022335780)"
     },
     {
       "id": "fr-casf-l211-12",
@@ -2411,7 +2452,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796748)"
     },
     {
       "id": "fr-casf-l211-13",
@@ -2467,7 +2509,8 @@
       "xrefs": [
         "fr-casf-l211-10"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796749)"
     },
     {
       "id": "fr-casf-l211-14",
@@ -2521,7 +2564,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796750)"
     },
     {
       "id": "fr-casf-l212-1",
@@ -2575,7 +2619,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796751)"
     },
     {
       "id": "fr-casf-l212-2",
@@ -2631,7 +2676,8 @@
       "xrefs": [
         "fr-casf-l212-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796756)"
     },
     {
       "id": "fr-casf-l213-1",
@@ -2685,7 +2731,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796757)"
     },
     {
       "id": "fr-casf-l213-2",
@@ -2740,7 +2787,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796758)"
     },
     {
       "id": "fr-casf-l214-1",
@@ -2794,7 +2842,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043520114)"
     },
     {
       "id": "fr-casf-l214-1-1",
@@ -2849,7 +2898,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050505410)"
     },
     {
       "id": "fr-casf-l214-1-2",
@@ -2903,7 +2953,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043513794)"
     },
     {
       "id": "fr-casf-l214-1-3",
@@ -2960,7 +3011,8 @@
         "fr-casf-l214-2",
         "fr-casf-l214-2-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048589263)"
     },
     {
       "id": "fr-casf-l214-2",
@@ -3017,7 +3069,8 @@
       "xrefs": [
         "fr-casf-l214-1-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048599884)"
     },
     {
       "id": "fr-casf-l214-2-1",
@@ -3073,7 +3126,8 @@
       "xrefs": [
         "fr-casf-l214-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048599879)"
     },
     {
       "id": "fr-casf-l214-2-2",
@@ -3127,7 +3181,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048589970)"
     },
     {
       "id": "fr-casf-l214-4",
@@ -3181,7 +3236,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796764)"
     },
     {
       "id": "fr-casf-l214-5",
@@ -3235,7 +3291,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043520139)"
     },
     {
       "id": "fr-casf-l214-6",
@@ -3289,7 +3346,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043520132)"
     },
     {
       "id": "fr-casf-l214-7",
@@ -3343,7 +3401,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048589952)"
     },
     {
       "id": "fr-casf-l214-7-1",
@@ -3397,7 +3456,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048589851)"
     },
     {
       "id": "fr-casf-l214-8",
@@ -3452,7 +3512,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242722)"
     },
     {
       "id": "fr-casf-l214-9",
@@ -3508,7 +3569,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242726)"
     },
     {
       "id": "fr-casf-l214-10",
@@ -3564,7 +3626,8 @@
       "xrefs": [
         "fr-casf-l214-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242730)"
     },
     {
       "id": "fr-casf-l214-10-1",
@@ -3618,7 +3681,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048805924)"
     },
     {
       "id": "fr-casf-l214-11",
@@ -3672,7 +3736,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242737)"
     },
     {
       "id": "fr-casf-l214-12",
@@ -3729,7 +3794,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048850289)"
     },
     {
       "id": "fr-casf-l214-13",
@@ -3783,7 +3849,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242745)"
     },
     {
       "id": "fr-casf-l214-14",
@@ -3837,7 +3904,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048964415)"
     },
     {
       "id": "fr-casf-l214-15",
@@ -3891,7 +3959,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242765)"
     },
     {
       "id": "fr-casf-l214-16",
@@ -3945,7 +4014,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048850284)"
     },
     {
       "id": "fr-casf-l214-17",
@@ -3999,7 +4069,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242773)"
     },
     {
       "id": "fr-casf-l215-2",
@@ -4054,7 +4125,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796772)"
     },
     {
       "id": "fr-casf-l215-3",
@@ -4108,7 +4180,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796773)"
     },
     {
       "id": "fr-casf-l215-4",
@@ -4162,7 +4235,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796774)"
     },
     {
       "id": "fr-casf-l221-1",
@@ -4219,7 +4293,8 @@
       "xrefs": [
         "fr-casf-l226-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136891)"
     },
     {
       "id": "fr-casf-l221-2",
@@ -4273,7 +4348,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032207365)"
     },
     {
       "id": "fr-casf-l221-2-1",
@@ -4329,7 +4405,8 @@
       "xrefs": [
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206163)"
     },
     {
       "id": "fr-casf-l221-2-2",
@@ -4383,7 +4460,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137518)"
     },
     {
       "id": "fr-casf-l221-2-3",
@@ -4437,7 +4515,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045134574)"
     },
     {
       "id": "fr-casf-l221-2-4",
@@ -4491,7 +4570,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135184)"
     },
     {
       "id": "fr-casf-l221-2-5",
@@ -4545,7 +4625,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135163)"
     },
     {
       "id": "fr-casf-l221-2-6",
@@ -4602,7 +4683,8 @@
       "xrefs": [
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045134717)"
     },
     {
       "id": "fr-casf-l221-3",
@@ -4658,7 +4740,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047293631)"
     },
     {
       "id": "fr-casf-l221-4",
@@ -4715,7 +4798,8 @@
       "xrefs": [
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136604)"
     },
     {
       "id": "fr-casf-l221-6",
@@ -4769,7 +4853,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027573021)"
     },
     {
       "id": "fr-casf-l221-7",
@@ -4824,7 +4909,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796790)"
     },
     {
       "id": "fr-casf-l221-8",
@@ -4879,7 +4965,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796791)"
     },
     {
       "id": "fr-casf-l221-9",
@@ -4933,7 +5020,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796792)"
     },
     {
       "id": "fr-casf-l222-1",
@@ -4987,7 +5075,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027573017)"
     },
     {
       "id": "fr-casf-l222-2",
@@ -5041,7 +5130,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796794)"
     },
     {
       "id": "fr-casf-l222-3",
@@ -5095,7 +5185,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796796)"
     },
     {
       "id": "fr-casf-l222-4",
@@ -5149,7 +5240,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796798)"
     },
     {
       "id": "fr-casf-l222-4-2",
@@ -5203,7 +5295,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027573012)"
     },
     {
       "id": "fr-casf-l222-5",
@@ -5263,7 +5356,8 @@
         "fr-casf-l224-6",
         "fr-casf-l224-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049050913)"
     },
     {
       "id": "fr-casf-l222-5-1",
@@ -5319,7 +5413,8 @@
       "xrefs": [
         "fr-casf-l222-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136761)"
     },
     {
       "id": "fr-casf-l222-5-2",
@@ -5373,7 +5468,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206211)"
     },
     {
       "id": "fr-casf-l222-5-2-1",
@@ -5430,7 +5526,8 @@
         "fr-casf-l222-5",
         "fr-casf-l223-1-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135080)"
     },
     {
       "id": "fr-casf-l222-5-3",
@@ -5484,7 +5581,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206316)"
     },
     {
       "id": "fr-casf-l222-6",
@@ -5542,7 +5640,8 @@
       "xrefs": [
         "fr-casf-l147-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796805)"
     },
     {
       "id": "fr-casf-l222-7",
@@ -5596,7 +5695,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796806)"
     },
     {
       "id": "fr-casf-l223-1",
@@ -5655,7 +5755,8 @@
         "fr-casf-l223-5",
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205212)"
     },
     {
       "id": "fr-casf-l223-1-1",
@@ -5713,7 +5814,8 @@
         "fr-casf-l223-1-3",
         "fr-casf-l223-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136789)"
     },
     {
       "id": "fr-casf-l223-1-2",
@@ -5768,7 +5870,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206377)"
     },
     {
       "id": "fr-casf-l223-1-3",
@@ -5824,7 +5927,8 @@
       "xrefs": [
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135092)"
     },
     {
       "id": "fr-casf-l223-2",
@@ -5879,7 +5983,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796811)"
     },
     {
       "id": "fr-casf-l223-3",
@@ -5933,7 +6038,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051786068)"
     },
     {
       "id": "fr-casf-l223-3-1",
@@ -5987,7 +6093,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032207428)"
     },
     {
       "id": "fr-casf-l223-3-2",
@@ -6041,7 +6148,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206219)"
     },
     {
       "id": "fr-casf-l223-4",
@@ -6095,7 +6203,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796815)"
     },
     {
       "id": "fr-casf-l223-5",
@@ -6150,7 +6259,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205199)"
     },
     {
       "id": "fr-casf-l223-6",
@@ -6210,7 +6320,8 @@
         "fr-casf-l223-1",
         "fr-casf-l223-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796818)"
     },
     {
       "id": "fr-casf-l223-7",
@@ -6269,7 +6380,8 @@
         "fr-casf-l222-6",
         "fr-casf-l222-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136880)"
     },
     {
       "id": "fr-casf-l223-8",
@@ -6323,7 +6435,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796821)"
     },
     {
       "id": "fr-casf-l224-1",
@@ -6384,7 +6497,8 @@
       "xrefs": [
         "fr-casf-l223-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033463356)"
     },
     {
       "id": "fr-casf-l224-1-1",
@@ -6443,7 +6557,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045200686)"
     },
     {
       "id": "fr-casf-l224-2",
@@ -6502,7 +6617,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205182)"
     },
     {
       "id": "fr-casf-l224-3",
@@ -6561,7 +6677,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205175)"
     },
     {
       "id": "fr-casf-l224-3-1",
@@ -6622,7 +6739,8 @@
       "xrefs": [
         "fr-casf-l224-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205171)"
     },
     {
       "id": "fr-casf-l224-4",
@@ -6683,7 +6801,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032207612)"
     },
     {
       "id": "fr-casf-l224-5",
@@ -6746,7 +6865,8 @@
         "fr-casf-l224-4",
         "fr-casf-l224-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046372149)"
     },
     {
       "id": "fr-casf-l224-6",
@@ -6807,7 +6927,8 @@
       "xrefs": [
         "fr-casf-l224-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046372141)"
     },
     {
       "id": "fr-casf-l224-7",
@@ -6869,7 +6990,8 @@
         "fr-casf-l222-6",
         "fr-casf-l147-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000041721267)"
     },
     {
       "id": "fr-casf-l224-8",
@@ -6931,7 +7053,8 @@
       "xrefs": [
         "fr-casf-l224-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046372138)"
     },
     {
       "id": "fr-casf-l224-9",
@@ -6991,7 +7114,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044073154)"
     },
     {
       "id": "fr-casf-l224-10",
@@ -7051,7 +7175,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572975)"
     },
     {
       "id": "fr-casf-l224-11",
@@ -7110,7 +7235,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046372134)"
     },
     {
       "id": "fr-casf-l224-12",
@@ -7172,7 +7298,8 @@
         "fr-casf-l224-2",
         "fr-casf-l224-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796838)"
     },
     {
       "id": "fr-casf-l225-1",
@@ -7233,7 +7360,8 @@
       "xrefs": [
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205069)"
     },
     {
       "id": "fr-casf-l225-2",
@@ -7292,7 +7420,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205063)"
     },
     {
       "id": "fr-casf-l225-3",
@@ -7353,7 +7482,8 @@
       "xrefs": [
         "fr-casf-l223-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205055)"
     },
     {
       "id": "fr-casf-l225-4",
@@ -7412,7 +7542,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796847)"
     },
     {
       "id": "fr-casf-l225-5",
@@ -7471,7 +7602,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796848)"
     },
     {
       "id": "fr-casf-l225-6",
@@ -7530,7 +7662,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572967)"
     },
     {
       "id": "fr-casf-l225-8",
@@ -7593,7 +7726,8 @@
         "fr-casf-l211-3",
         "fr-casf-l224-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051446528)"
     },
     {
       "id": "fr-casf-l225-9",
@@ -7652,7 +7786,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796852)"
     },
     {
       "id": "fr-casf-l225-10",
@@ -7711,7 +7846,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796853)"
     },
     {
       "id": "fr-casf-l225-11",
@@ -7770,7 +7906,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205115)"
     },
     {
       "id": "fr-casf-l225-12",
@@ -7829,7 +7966,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205108)"
     },
     {
       "id": "fr-casf-l225-12-1",
@@ -7888,7 +8026,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045200368)"
     },
     {
       "id": "fr-casf-l225-13",
@@ -7947,7 +8086,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205102)"
     },
     {
       "id": "fr-casf-l225-14-1",
@@ -8006,7 +8146,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033140261)"
     },
     {
       "id": "fr-casf-l225-14-2",
@@ -8065,7 +8206,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572952)"
     },
     {
       "id": "fr-casf-l225-14-3",
@@ -8124,7 +8266,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045200502)"
     },
     {
       "id": "fr-casf-l225-15",
@@ -8186,7 +8329,8 @@
         "fr-casf-l147-14",
         "fr-casf-l225-12"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205146)"
     },
     {
       "id": "fr-casf-l225-15-1",
@@ -8245,7 +8389,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045135960)"
     },
     {
       "id": "fr-casf-l225-16",
@@ -8304,7 +8449,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137300)"
     },
     {
       "id": "fr-casf-l225-17",
@@ -8365,7 +8511,8 @@
       "xrefs": [
         "fr-casf-l225-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796871)"
     },
     {
       "id": "fr-casf-l225-18",
@@ -8427,7 +8574,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205136)"
     },
     {
       "id": "fr-casf-l225-19",
@@ -8486,7 +8634,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045205090)"
     },
     {
       "id": "fr-casf-l225-20",
@@ -8547,7 +8696,8 @@
       "xrefs": [
         "fr-casf-l225-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796875)"
     },
     {
       "id": "fr-casf-l226-1",
@@ -8601,7 +8751,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796879)"
     },
     {
       "id": "fr-casf-l226-2",
@@ -8657,7 +8808,8 @@
       "xrefs": [
         "fr-casf-l226-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572935)"
     },
     {
       "id": "fr-casf-l226-2-1",
@@ -8715,7 +8867,8 @@
         "fr-casf-l226-4",
         "fr-casf-l226-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572899)"
     },
     {
       "id": "fr-casf-l226-2-2",
@@ -8770,7 +8923,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796908)"
     },
     {
       "id": "fr-casf-l226-3",
@@ -8826,7 +8980,8 @@
       "xrefs": [
         "fr-casf-l221-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137055)"
     },
     {
       "id": "fr-casf-l226-3-1",
@@ -8882,7 +9037,8 @@
       "xrefs": [
         "fr-casf-l226-3-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045136739)"
     },
     {
       "id": "fr-casf-l226-3-1-1",
@@ -8936,7 +9092,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033463387)"
     },
     {
       "id": "fr-casf-l226-3-2",
@@ -8992,7 +9149,8 @@
       "xrefs": [
         "fr-casf-l226-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032207399)"
     },
     {
       "id": "fr-casf-l226-3-3",
@@ -9052,7 +9210,8 @@
         "fr-casf-l222-5",
         "fr-casf-l223-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137287)"
     },
     {
       "id": "fr-casf-l226-4",
@@ -9110,7 +9269,8 @@
         "fr-casf-l222-5"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032207374)"
     },
     {
       "id": "fr-casf-l226-5",
@@ -9164,7 +9324,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137051)"
     },
     {
       "id": "fr-casf-l226-6",
@@ -9222,7 +9383,8 @@
         "fr-casf-l226-3",
         "fr-casf-l147-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137278)"
     },
     {
       "id": "fr-casf-l226-8",
@@ -9276,7 +9438,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796894)"
     },
     {
       "id": "fr-casf-l226-9",
@@ -9330,7 +9493,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045137262)"
     },
     {
       "id": "fr-casf-l226-11",
@@ -9384,7 +9548,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796902)"
     },
     {
       "id": "fr-casf-l226-12",
@@ -9438,7 +9603,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796904)"
     },
     {
       "id": "fr-casf-l226-12-1",
@@ -9492,7 +9658,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572887)"
     },
     {
       "id": "fr-casf-l227-1",
@@ -9549,7 +9716,8 @@
         "fr-casf-l227-2",
         "fr-casf-l227-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572882)"
     },
     {
       "id": "fr-casf-l227-2",
@@ -9603,7 +9771,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572876)"
     },
     {
       "id": "fr-casf-l227-2-1",
@@ -9657,7 +9826,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032206557)"
     },
     {
       "id": "fr-casf-l227-3",
@@ -9716,7 +9886,8 @@
         "fr-casf-l227-4",
         "fr-casf-l227-12"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796916)"
     },
     {
       "id": "fr-casf-l227-4",
@@ -9770,7 +9941,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796918)"
     },
     {
       "id": "fr-casf-l227-5",
@@ -9826,7 +9998,8 @@
       "xrefs": [
         "fr-casf-l227-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796928)"
     },
     {
       "id": "fr-casf-l227-6",
@@ -9882,7 +10055,8 @@
       "xrefs": [
         "fr-casf-l227-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038591220)"
     },
     {
       "id": "fr-casf-l227-8",
@@ -9942,7 +10116,8 @@
         "fr-casf-l227-10",
         "fr-casf-l227-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020632042)"
     },
     {
       "id": "fr-casf-l227-9",
@@ -9998,7 +10173,8 @@
       "xrefs": [
         "fr-casf-l227-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039280109)"
     },
     {
       "id": "fr-casf-l227-10",
@@ -10054,7 +10230,8 @@
       "xrefs": [
         "fr-casf-l227-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796940)"
     },
     {
       "id": "fr-casf-l227-11",
@@ -10113,7 +10290,8 @@
         "fr-casf-l227-10",
         "fr-casf-l227-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796943)"
     },
     {
       "id": "fr-casf-l227-12",
@@ -10167,7 +10345,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796944)"
     },
     {
       "id": "fr-casf-l228-1",
@@ -10222,7 +10401,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796945)"
     },
     {
       "id": "fr-casf-l228-2",
@@ -10276,7 +10456,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039099531)"
     },
     {
       "id": "fr-casf-l228-3",
@@ -10333,7 +10514,8 @@
       "xrefs": [
         "fr-casf-l222-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796947)"
     },
     {
       "id": "fr-casf-l228-4",
@@ -10387,7 +10569,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033460019)"
     },
     {
       "id": "fr-casf-l228-5",
@@ -10441,7 +10624,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027572865)"
     },
     {
       "id": "fr-casf-l228-6",
@@ -10495,7 +10679,8 @@
         "fr.code.casf.partie-legislative.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006796950)"
     },
     {
       "id": "fr-casf-d147-11",
@@ -10560,7 +10745,8 @@
       "xrefs": [
         "fr-casf-l223-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881579)"
     },
     {
       "id": "fr-casf-d147-34",
@@ -10620,7 +10806,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881642)"
     },
     {
       "id": "fr-casf-d147-35",
@@ -10679,7 +10866,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046859247)"
     },
     {
       "id": "fr-casf-d147-36",
@@ -10738,7 +10926,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481378)"
     },
     {
       "id": "fr-casf-d147-37",
@@ -10797,7 +10986,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046859251)"
     },
     {
       "id": "fr-casf-d147-38",
@@ -10856,7 +11046,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046859267)"
     },
     {
       "id": "fr-casf-d147-39",
@@ -10915,7 +11106,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046859269)"
     },
     {
       "id": "fr-casf-d147-40",
@@ -10974,7 +11166,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046859271)"
     },
     {
       "id": "fr-casf-d214-1",
@@ -11036,7 +11229,8 @@
         "fr-casf-l214-1-1",
         "fr-casf-l214-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044495954)"
     },
     {
       "id": "fr-casf-d214-2",
@@ -11098,7 +11292,8 @@
         "fr-casf-l214-2",
         "fr-casf-d214-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053376468)"
     },
     {
       "id": "fr-casf-d214-2-1",
@@ -11159,7 +11354,8 @@
       "xrefs": [
         "fr-casf-d214-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044492029)"
     },
     {
       "id": "fr-casf-d214-3",
@@ -11218,7 +11414,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051537344)"
     },
     {
       "id": "fr-casf-d214-4",
@@ -11276,7 +11473,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044495952)"
     },
     {
       "id": "fr-casf-d214-6",
@@ -11335,7 +11533,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044495950)"
     },
     {
       "id": "fr-casf-d214-7",
@@ -11393,7 +11592,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051010439)"
     },
     {
       "id": "fr-casf-d214-7-1",
@@ -11453,7 +11653,8 @@
       "xrefs": [
         "fr-casf-d214-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020529450)"
     },
     {
       "id": "fr-casf-d214-8",
@@ -11513,7 +11714,8 @@
       "xrefs": [
         "fr-casf-l214-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020529447)"
     },
     {
       "id": "fr-casf-d214-9",
@@ -11576,7 +11778,8 @@
         "fr-casf-l214-1",
         "fr-casf-l214-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043972610)"
     },
     {
       "id": "fr-casf-d214-10",
@@ -11634,7 +11837,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043972616)"
     },
     {
       "id": "fr-casf-d214-10-1",
@@ -11696,7 +11900,8 @@
         "fr-casf-l214-1-3",
         "fr-casf-l214-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051358479)"
     },
     {
       "id": "fr-casf-d214-11",
@@ -11759,7 +11964,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463319)"
     },
     {
       "id": "fr-casf-d214-12",
@@ -11821,7 +12027,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463332)"
     },
     {
       "id": "fr-casf-d214-13",
@@ -11885,7 +12092,8 @@
       "xrefs": [
         "fr-casf-d214-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463344)"
     },
     {
       "id": "fr-casf-d214-14",
@@ -11950,7 +12158,8 @@
         "fr-casf-d214-16",
         "fr-casf-d214-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463358)"
     },
     {
       "id": "fr-casf-d214-15",
@@ -12013,7 +12222,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463362)"
     },
     {
       "id": "fr-casf-d214-16",
@@ -12076,7 +12286,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463367)"
     },
     {
       "id": "fr-casf-d214-17",
@@ -12138,7 +12349,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463375)"
     },
     {
       "id": "fr-casf-d214-18",
@@ -12204,7 +12416,8 @@
       "xrefs": [
         "fr-casf-l214-12"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463406)"
     },
     {
       "id": "fr-casf-d214-19",
@@ -12266,7 +12479,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463413)"
     },
     {
       "id": "fr-casf-d214-20",
@@ -12328,7 +12542,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463420)"
     },
     {
       "id": "fr-casf-d214-21",
@@ -12393,7 +12608,74 @@
       "xrefs": [
         "fr-casf-l214-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463438)"
+    },
+    {
+      "id": "fr-casf-d214-21-1",
+      "corpus": "fr-casf",
+      "side": "fr",
+      "lang": "fr",
+      "kind": "article",
+      "num": "D214-21-1",
+      "heading": "Remboursement du prêt",
+      "path": [
+        {
+          "label": "Partie réglementaire",
+          "id": "partie_reglementaire"
+        },
+        {
+          "label": "Livre II : Différentes formes d'aide et d'action sociales",
+          "id": "livre_ii"
+        },
+        {
+          "label": "Titre Ier : Famille",
+          "id": "titre_ier"
+        },
+        {
+          "label": "Chapitre IV bis : Aide universelle d'urgence pour les personnes victimes de violences conjugales",
+          "id": "chapitre_iv_bis"
+        },
+        {
+          "label": "Section 2 : Attribution et service de l'aide",
+          "id": "section_2"
+        },
+        {
+          "label": "Sous-section 3 : Remboursement du prêt",
+          "id": "sous-section_3"
+        }
+      ],
+      "text": "Les organismes débiteurs des prestations familiales conservent des informations mentionnées au II de l'article L. 214-12 :\n\n1° En l'absence d'une procédure pénale, pour un délai maximal de vingt-quatre mois à compter du premier paiement, lequel délai peut être prorogé :\n\na) En cas d'un incident de paiement, jusqu'à la date de recouvrement total du prêt ;\n\nb) En cas d'un recours dirigé contre le recouvrement de la créance auprès de la victime, jusqu'à ce qu'il ait été définitivement statué sur ce recours ;\n\nc) En cas de remise ou de réduction de créance en application du III de l'article L. 214-12, ou d'exonération en application du IV du même article, pour un délai maximal de trois ans ;\n\nd) En cas d'une information communiquée à l'organisme débiteur des prestations familiales, pendant ce délai, relative à l'existence d'une procédure pénale liée aux faits de violence, dans les conditions prévues au 2° ;\n\n2° A compter de la réception d'une information indiquant l'existence d'une procédure pénale en cours, pour une durée courant jusqu'à la réception de l'information sur la fin de cette procédure, à laquelle s'ajoute :\n\na) En cas d'information sur l'existence d'une décision définitive mentionnée au 2° de l'article D. 214-21, un délai maximal de trois ans ;\n\nb) En cas d'information sur l'existence d'une décision définitive ne relevant pas des cas mentionnés au 2° de l'article D. 214-21, le délai mentionné au 1°.",
+      "in_force_since": "2026-10-03",
+      "status": "en vigueur",
+      "applies_to": [
+        "FR"
+      ],
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054939695",
+      "alt_urls": [
+        {
+          "label": "Tricoteuses",
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054939695"
+        },
+        {
+          "label": "Tricoteuses git",
+          "url": "https://git.tricoteuses.fr/codes/code_de_l_action_sociale_et_des_familles/src/branch/main/partie_reglementaire/livre_ii/titre_ier/chapitre_iv_bis/section_2/sous-section_3/article_d214-21-1.md"
+        }
+      ],
+      "source_ids": {
+        "legiarti": "LEGIARTI000054939695",
+        "legitext": "LEGITEXT000006074069"
+      },
+      "issues": [
+        "fr.politique-familiale",
+        "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
+      ],
+      "xrefs": [
+        "fr-casf-l214-12",
+        "fr-casf-d214-21"
+      ],
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054939695)"
     },
     {
       "id": "fr-casf-d214-22",
@@ -12457,7 +12739,8 @@
       "xrefs": [
         "fr-casf-l214-12"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463442)"
     },
     {
       "id": "fr-casf-d214-23",
@@ -12515,7 +12798,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463451)"
     },
     {
       "id": "fr-casf-d214-24",
@@ -12573,7 +12857,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463465)"
     },
     {
       "id": "fr-casf-d214-25",
@@ -12631,7 +12916,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048463474)"
     },
     {
       "id": "fr-casf-d215-2",
@@ -12689,7 +12975,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905391)"
     },
     {
       "id": "fr-casf-d215-7",
@@ -12748,7 +13035,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194155)"
     },
     {
       "id": "fr-casf-d215-8",
@@ -12806,7 +13094,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194160)"
     },
     {
       "id": "fr-casf-d215-10",
@@ -12866,7 +13155,8 @@
       "xrefs": [
         "fr-casf-d215-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194165)"
     },
     {
       "id": "fr-casf-d215-11",
@@ -12924,7 +13214,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194187)"
     },
     {
       "id": "fr-casf-d215-12",
@@ -12982,7 +13273,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194180)"
     },
     {
       "id": "fr-casf-d215-13",
@@ -13040,7 +13332,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045194173)"
     },
     {
       "id": "fr-casf-d216-1",
@@ -13094,7 +13387,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051011552)"
     },
     {
       "id": "fr-casf-d216-3",
@@ -13149,7 +13443,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502020)"
     },
     {
       "id": "fr-casf-d216-4",
@@ -13205,7 +13500,8 @@
       "xrefs": [
         "fr-casf-d216-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502022)"
     },
     {
       "id": "fr-casf-d216-5",
@@ -13259,7 +13555,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502025)"
     },
     {
       "id": "fr-casf-d216-6",
@@ -13313,7 +13610,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502027)"
     },
     {
       "id": "fr-casf-d216-7",
@@ -13367,7 +13665,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502029)"
     },
     {
       "id": "fr-casf-d217-1",
@@ -13425,7 +13724,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650487)"
     },
     {
       "id": "fr-casf-d217-2",
@@ -13483,7 +13783,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650482)"
     },
     {
       "id": "fr-casf-d217-3",
@@ -13541,7 +13842,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650476)"
     },
     {
       "id": "fr-casf-d217-5",
@@ -13599,7 +13901,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650470)"
     },
     {
       "id": "fr-casf-d217-6",
@@ -13657,7 +13960,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031693809)"
     },
     {
       "id": "fr-casf-d217-8",
@@ -13715,7 +14019,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650465)"
     },
     {
       "id": "fr-casf-d217-10",
@@ -13773,7 +14078,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650459)"
     },
     {
       "id": "fr-casf-d221-10-1",
@@ -13831,7 +14137,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158162)"
     },
     {
       "id": "fr-casf-d221-10-2",
@@ -13891,7 +14198,8 @@
       "xrefs": [
         "fr-casf-l221-2-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158164)"
     },
     {
       "id": "fr-casf-d221-10-3",
@@ -13949,7 +14257,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158166)"
     },
     {
       "id": "fr-casf-d221-16",
@@ -14010,7 +14319,8 @@
         "fr-casf-l221-2-1",
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225715)"
     },
     {
       "id": "fr-casf-d221-17",
@@ -14071,7 +14381,8 @@
         "fr-casf-l221-2-1",
         "fr-casf-l221-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225717)"
     },
     {
       "id": "fr-casf-d221-18",
@@ -14130,7 +14441,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225719)"
     },
     {
       "id": "fr-casf-d221-19",
@@ -14191,7 +14503,8 @@
         "fr-casf-d221-18",
         "fr-casf-l221-2-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225721)"
     },
     {
       "id": "fr-casf-d221-20",
@@ -14253,7 +14566,8 @@
       "xrefs": [
         "fr-casf-l223-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225727)"
     },
     {
       "id": "fr-casf-d221-21",
@@ -14311,7 +14625,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225729)"
     },
     {
       "id": "fr-casf-d221-22",
@@ -14369,7 +14684,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048008256)"
     },
     {
       "id": "fr-casf-d221-23",
@@ -14429,7 +14745,8 @@
       "xrefs": [
         "fr-casf-l223-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225733)"
     },
     {
       "id": "fr-casf-d221-24",
@@ -14490,7 +14807,8 @@
         "fr-casf-l221-2-1",
         "fr-casf-d221-19"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033225735)"
     },
     {
       "id": "fr-casf-d221-24-2",
@@ -14548,7 +14866,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048007811)"
     },
     {
       "id": "fr-casf-d221-24-3",
@@ -14606,7 +14925,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048007813)"
     },
     {
       "id": "fr-casf-d221-24-4",
@@ -14667,7 +14987,8 @@
         "fr-casf-r228-3",
         "fr-casf-l228-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048007815)"
     },
     {
       "id": "fr-casf-d221-25",
@@ -14725,7 +15046,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033359815)"
     },
     {
       "id": "fr-casf-d221-26",
@@ -14785,7 +15107,8 @@
       "xrefs": [
         "fr-casf-d221-25"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033359817)"
     },
     {
       "id": "fr-casf-d221-27",
@@ -14844,7 +15167,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050720851)"
     },
     {
       "id": "fr-casf-d221-28",
@@ -14904,7 +15228,8 @@
       "xrefs": [
         "fr-casf-l222-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158069)"
     },
     {
       "id": "fr-casf-d221-29",
@@ -14968,7 +15293,8 @@
         "fr-casf-l224-1",
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158071)"
     },
     {
       "id": "fr-casf-d221-30",
@@ -15028,7 +15354,8 @@
       "xrefs": [
         "fr-casf-l221-2-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158073)"
     },
     {
       "id": "fr-casf-d221-31",
@@ -15089,7 +15416,8 @@
         "fr-casf-l222-5-1",
         "fr-casf-l221-2-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158075)"
     },
     {
       "id": "fr-casf-d221-32",
@@ -15147,7 +15475,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158077)"
     },
     {
       "id": "fr-casf-d221-33",
@@ -15205,7 +15534,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049158079)"
     },
     {
       "id": "fr-casf-d221-34",
@@ -15266,7 +15596,8 @@
         "fr-casf-l221-2-6",
         "fr-casf-l222-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157971)"
     },
     {
       "id": "fr-casf-d221-35",
@@ -15329,7 +15660,8 @@
         "fr-casf-d221-36",
         "fr-casf-l224-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157973)"
     },
     {
       "id": "fr-casf-d221-36",
@@ -15387,7 +15719,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157975)"
     },
     {
       "id": "fr-casf-d221-37",
@@ -15445,7 +15778,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157977)"
     },
     {
       "id": "fr-casf-d221-38",
@@ -15506,7 +15840,8 @@
         "fr-casf-d221-36",
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157979)"
     },
     {
       "id": "fr-casf-d221-39",
@@ -15564,7 +15899,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157981)"
     },
     {
       "id": "fr-casf-d221-40",
@@ -15622,7 +15958,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049157983)"
     },
     {
       "id": "fr-casf-d223-11-1",
@@ -15682,7 +16019,8 @@
       "xrefs": [
         "fr-casf-l223-1-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048007818)"
     },
     {
       "id": "fr-casf-d223-12",
@@ -15742,7 +16080,8 @@
       "xrefs": [
         "fr-casf-l221-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167650)"
     },
     {
       "id": "fr-casf-d223-13",
@@ -15804,7 +16143,8 @@
         "fr-casf-l223-1",
         "fr-casf-l223-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167652)"
     },
     {
       "id": "fr-casf-d223-14",
@@ -15863,7 +16203,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167654)"
     },
     {
       "id": "fr-casf-d223-15",
@@ -15924,7 +16265,8 @@
       "xrefs": [
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167656)"
     },
     {
       "id": "fr-casf-d223-16",
@@ -15983,7 +16325,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167658)"
     },
     {
       "id": "fr-casf-d223-17",
@@ -16042,7 +16385,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033167660)"
     },
     {
       "id": "fr-casf-d223-26",
@@ -16101,7 +16445,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033514037)"
     },
     {
       "id": "fr-casf-d223-27",
@@ -16162,7 +16507,8 @@
         "fr-casf-l223-5",
         "fr-casf-l226-3-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033514039)"
     },
     {
       "id": "fr-casf-d223-28",
@@ -16220,7 +16566,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033514167)"
     },
     {
       "id": "fr-casf-d224-5-1",
@@ -16285,7 +16632,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049623663)"
     },
     {
       "id": "fr-casf-d225-6",
@@ -16348,7 +16696,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051010472)"
     },
     {
       "id": "fr-casf-d226-1",
@@ -16406,7 +16755,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905534)"
     },
     {
       "id": "fr-casf-d226-1-1",
@@ -16466,7 +16816,8 @@
       "xrefs": [
         "fr-casf-l226-12-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051011502)"
     },
     {
       "id": "fr-casf-d226-1-2",
@@ -16524,7 +16875,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019282504)"
     },
     {
       "id": "fr-casf-d226-1-3",
@@ -16584,7 +16936,8 @@
       "xrefs": [
         "fr-casf-d226-1-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019282501)"
     },
     {
       "id": "fr-casf-d226-2-3",
@@ -16643,7 +16996,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881353)"
     },
     {
       "id": "fr-casf-d226-2-4",
@@ -16705,7 +17059,8 @@
         "fr-casf-l226-3",
         "fr-casf-l226-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033336311)"
     },
     {
       "id": "fr-casf-d226-2-5",
@@ -16766,7 +17121,8 @@
         "fr-casf-l226-3",
         "fr-casf-l226-2-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033336313)"
     },
     {
       "id": "fr-casf-d226-2-6",
@@ -16825,7 +17181,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033336315)"
     },
     {
       "id": "fr-casf-d226-2-7",
@@ -16884,7 +17241,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033336317)"
     },
     {
       "id": "fr-casf-d226-2-8",
@@ -16944,7 +17302,8 @@
       "xrefs": [
         "fr-casf-l226-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046838190)"
     },
     {
       "id": "fr-casf-d226-3-1",
@@ -17004,7 +17363,8 @@
       "xrefs": [
         "fr-casf-l226-3-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170752)"
     },
     {
       "id": "fr-casf-d226-3-2",
@@ -17064,7 +17424,8 @@
       "xrefs": [
         "fr-casf-l211-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048490059)"
     },
     {
       "id": "fr-casf-d226-3-3",
@@ -17125,7 +17486,8 @@
         "fr-casf-d226-3-5",
         "fr-casf-l226-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481473)"
     },
     {
       "id": "fr-casf-d226-3-4",
@@ -17183,7 +17545,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043791715)"
     },
     {
       "id": "fr-casf-d226-3-5",
@@ -17241,7 +17604,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043791721)"
     },
     {
       "id": "fr-casf-d226-3-6",
@@ -17301,7 +17665,8 @@
       "xrefs": [
         "fr-casf-d226-3-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043791727)"
     },
     {
       "id": "fr-casf-d226-3-7",
@@ -17361,7 +17726,8 @@
       "xrefs": [
         "fr-casf-d226-3-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043791939)"
     },
     {
       "id": "fr-casf-d226-3-8",
@@ -17419,7 +17785,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043791741)"
     },
     {
       "id": "fr-casf-d226-3-9",
@@ -17477,7 +17844,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033824972)"
     },
     {
       "id": "fr-casf-d226-3-10",
@@ -17535,7 +17903,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033822764)"
     },
     {
       "id": "fr-casf-r132-1",
@@ -17595,7 +17964,8 @@
       "xrefs": [
         "fr-casf-l132-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905072)"
     },
     {
       "id": "fr-casf-r132-2",
@@ -17655,7 +18025,8 @@
       "xrefs": [
         "fr-casf-l132-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905073)"
     },
     {
       "id": "fr-casf-r132-3",
@@ -17715,7 +18086,8 @@
       "xrefs": [
         "fr-casf-l132-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043588349)"
     },
     {
       "id": "fr-casf-r132-4",
@@ -17773,7 +18145,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252148)"
     },
     {
       "id": "fr-casf-r132-5",
@@ -17831,7 +18204,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905076)"
     },
     {
       "id": "fr-casf-r132-6",
@@ -17889,7 +18263,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905077)"
     },
     {
       "id": "fr-casf-r132-7",
@@ -17947,7 +18322,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252143)"
     },
     {
       "id": "fr-casf-r132-8",
@@ -18005,7 +18381,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252138)"
     },
     {
       "id": "fr-casf-r132-9",
@@ -18065,7 +18442,8 @@
       "xrefs": [
         "fr-casf-l132-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905081)"
     },
     {
       "id": "fr-casf-r132-10",
@@ -18123,7 +18501,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039344441)"
     },
     {
       "id": "fr-casf-r132-11",
@@ -18184,7 +18563,8 @@
       "xrefs": [
         "fr-casf-l132-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252133)"
     },
     {
       "id": "fr-casf-r132-12",
@@ -18245,7 +18625,8 @@
       "xrefs": [
         "fr-casf-l132-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905085)"
     },
     {
       "id": "fr-casf-r132-13",
@@ -18303,7 +18684,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905087)"
     },
     {
       "id": "fr-casf-r132-14",
@@ -18361,7 +18743,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905088)"
     },
     {
       "id": "fr-casf-r132-15",
@@ -18419,7 +18802,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905089)"
     },
     {
       "id": "fr-casf-r132-16",
@@ -18481,7 +18865,8 @@
         "fr-casf-r132-15",
         "fr-casf-r132-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252128)"
     },
     {
       "id": "fr-casf-r147-1",
@@ -18544,7 +18929,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881633)"
     },
     {
       "id": "fr-casf-r147-2",
@@ -18607,7 +18993,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881631)"
     },
     {
       "id": "fr-casf-r147-3",
@@ -18670,7 +19057,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881626)"
     },
     {
       "id": "fr-casf-r147-4",
@@ -18733,7 +19121,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881621)"
     },
     {
       "id": "fr-casf-r147-5",
@@ -18796,7 +19185,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481456)"
     },
     {
       "id": "fr-casf-r147-6",
@@ -18861,7 +19251,8 @@
       "xrefs": [
         "fr-casf-l223-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481448)"
     },
     {
       "id": "fr-casf-r147-7",
@@ -18924,7 +19315,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481443)"
     },
     {
       "id": "fr-casf-r147-8",
@@ -18989,7 +19381,8 @@
       "xrefs": [
         "fr-casf-l147-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481436)"
     },
     {
       "id": "fr-casf-r147-9",
@@ -19052,7 +19445,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881593)"
     },
     {
       "id": "fr-casf-r147-10",
@@ -19117,7 +19511,8 @@
       "xrefs": [
         "fr-casf-l147-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481424)"
     },
     {
       "id": "fr-casf-r147-12",
@@ -19180,7 +19575,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481417)"
     },
     {
       "id": "fr-casf-r147-13",
@@ -19243,7 +19639,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881562)"
     },
     {
       "id": "fr-casf-r147-14",
@@ -19306,7 +19703,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881558)"
     },
     {
       "id": "fr-casf-r147-15",
@@ -19371,7 +19769,8 @@
       "xrefs": [
         "fr-casf-l222-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481407)"
     },
     {
       "id": "fr-casf-r147-16",
@@ -19436,7 +19835,8 @@
       "xrefs": [
         "fr-casf-r147-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481399)"
     },
     {
       "id": "fr-casf-r147-17",
@@ -19499,7 +19899,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881536)"
     },
     {
       "id": "fr-casf-r147-18",
@@ -19562,7 +19963,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881532)"
     },
     {
       "id": "fr-casf-r147-19",
@@ -19625,7 +20027,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881528)"
     },
     {
       "id": "fr-casf-r147-20",
@@ -19688,7 +20091,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881524)"
     },
     {
       "id": "fr-casf-r147-20-1",
@@ -19754,7 +20158,8 @@
         "fr-casf-l147-3",
         "fr-casf-r147-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881514)"
     },
     {
       "id": "fr-casf-r147-20-2",
@@ -19824,7 +20229,8 @@
         "fr-casf-l147-8",
         "fr-casf-l147-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881488)"
     },
     {
       "id": "fr-casf-r147-21",
@@ -19887,7 +20293,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881798)"
     },
     {
       "id": "fr-casf-r147-22",
@@ -19954,7 +20361,8 @@
         "fr-casf-l224-5",
         "fr-casf-l147-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048870500)"
     },
     {
       "id": "fr-casf-r147-23",
@@ -20020,7 +20428,8 @@
         "fr-casf-l223-7",
         "fr-casf-l224-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971833)"
     },
     {
       "id": "fr-casf-r147-24",
@@ -20085,7 +20494,8 @@
       "xrefs": [
         "fr-casf-r147-21"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881762)"
     },
     {
       "id": "fr-casf-r147-25",
@@ -20152,7 +20562,8 @@
         "fr-casf-l147-8",
         "fr-casf-l147-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881751)"
     },
     {
       "id": "fr-casf-r147-26",
@@ -20223,7 +20634,8 @@
         "fr-casf-r147-23",
         "fr-casf-r147-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881726)"
     },
     {
       "id": "fr-casf-r147-27",
@@ -20295,7 +20707,8 @@
         "fr-casf-l147-6",
         "fr-casf-r147-17"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881703)"
     },
     {
       "id": "fr-casf-r147-28",
@@ -20360,7 +20773,8 @@
       "xrefs": [
         "fr-casf-r147-24"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881691)"
     },
     {
       "id": "fr-casf-r147-29",
@@ -20429,7 +20843,8 @@
         "fr-casf-l147-8",
         "fr-casf-l147-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481381)"
     },
     {
       "id": "fr-casf-r147-30",
@@ -20492,7 +20907,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881669)"
     },
     {
       "id": "fr-casf-r147-31",
@@ -20555,7 +20971,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881662)"
     },
     {
       "id": "fr-casf-r147-32",
@@ -20618,7 +21035,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046881657)"
     },
     {
       "id": "fr-casf-r147-33-1",
@@ -20681,7 +21099,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048863557)"
     },
     {
       "id": "fr-casf-r147-33-2",
@@ -20746,7 +21165,8 @@
       "xrefs": [
         "fr-casf-r147-25"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048863559)"
     },
     {
       "id": "fr-casf-r147-33-3",
@@ -20809,7 +21229,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048863561)"
     },
     {
       "id": "fr-casf-r148-4",
@@ -20867,7 +21288,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971879)"
     },
     {
       "id": "fr-casf-r148-5",
@@ -20925,7 +21347,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971870)"
     },
     {
       "id": "fr-casf-r148-6",
@@ -20983,7 +21406,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971867)"
     },
     {
       "id": "fr-casf-r148-7",
@@ -21041,7 +21465,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481366)"
     },
     {
       "id": "fr-casf-r148-8",
@@ -21099,7 +21524,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020524529)"
     },
     {
       "id": "fr-casf-r148-9",
@@ -21157,7 +21583,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481348)"
     },
     {
       "id": "fr-casf-r148-10",
@@ -21218,7 +21645,8 @@
         "fr-casf-l225-12",
         "fr-casf-l225-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481355)"
     },
     {
       "id": "fr-casf-r148-11",
@@ -21276,7 +21704,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020524522)"
     },
     {
       "id": "fr-casf-r148-11-1",
@@ -21334,7 +21763,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481345)"
     },
     {
       "id": "fr-casf-r148-11-2",
@@ -21392,7 +21822,8 @@
         "fr.code.casf.partie-reglementaire.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971864)"
     },
     {
       "id": "fr-casf-r211-1",
@@ -21446,7 +21877,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905359)"
     },
     {
       "id": "fr-casf-r211-2",
@@ -21503,7 +21935,8 @@
         "fr-casf-r211-2-1",
         "fr-casf-r211-2-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025843711)"
     },
     {
       "id": "fr-casf-r211-2-1",
@@ -21557,7 +21990,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841911)"
     },
     {
       "id": "fr-casf-r211-2-2",
@@ -21611,7 +22045,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841913)"
     },
     {
       "id": "fr-casf-r211-2-3",
@@ -21665,7 +22100,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841915)"
     },
     {
       "id": "fr-casf-r211-2-4",
@@ -21721,7 +22157,8 @@
       "xrefs": [
         "fr-casf-l211-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841918)"
     },
     {
       "id": "fr-casf-r211-2-5",
@@ -21775,7 +22212,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841920)"
     },
     {
       "id": "fr-casf-r211-2-6",
@@ -21829,7 +22267,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841922)"
     },
     {
       "id": "fr-casf-r211-2-7",
@@ -21883,7 +22322,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841924)"
     },
     {
       "id": "fr-casf-r211-2-8",
@@ -21939,7 +22379,8 @@
       "xrefs": [
         "fr-casf-r211-2-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841926)"
     },
     {
       "id": "fr-casf-r211-2-9",
@@ -21993,7 +22434,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841928)"
     },
     {
       "id": "fr-casf-r211-2-10",
@@ -22047,7 +22489,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841930)"
     },
     {
       "id": "fr-casf-r211-2-11",
@@ -22101,7 +22544,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025841932)"
     },
     {
       "id": "fr-casf-r211-3",
@@ -22155,7 +22599,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025843708)"
     },
     {
       "id": "fr-casf-r211-4",
@@ -22211,7 +22656,8 @@
       "xrefs": [
         "fr-casf-l211-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905363)"
     },
     {
       "id": "fr-casf-r211-5",
@@ -22265,7 +22711,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905364)"
     },
     {
       "id": "fr-casf-r211-6",
@@ -22319,7 +22766,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905365)"
     },
     {
       "id": "fr-casf-r211-7",
@@ -22375,7 +22823,8 @@
       "xrefs": [
         "fr-casf-l211-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905366)"
     },
     {
       "id": "fr-casf-r211-8",
@@ -22429,7 +22878,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020063054)"
     },
     {
       "id": "fr-casf-r211-9",
@@ -22483,7 +22933,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905368)"
     },
     {
       "id": "fr-casf-r211-10",
@@ -22537,7 +22988,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905369)"
     },
     {
       "id": "fr-casf-r211-11",
@@ -22591,7 +23043,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905370)"
     },
     {
       "id": "fr-casf-r211-12",
@@ -22648,7 +23101,8 @@
         "fr-casf-l211-10",
         "fr-casf-l211-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020063073)"
     },
     {
       "id": "fr-casf-r211-13",
@@ -22708,7 +23162,8 @@
         "fr-casf-l211-4",
         "fr-casf-l211-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020063065)"
     },
     {
       "id": "fr-casf-r211-14",
@@ -22765,7 +23220,8 @@
         "fr-casf-l211-10",
         "fr-casf-r211-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905374)"
     },
     {
       "id": "fr-casf-r211-15",
@@ -22823,7 +23279,8 @@
         "fr-casf-r211-16",
         "fr-casf-r211-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020063058)"
     },
     {
       "id": "fr-casf-r211-16",
@@ -22879,7 +23336,8 @@
       "xrefs": [
         "fr-casf-r211-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905376)"
     },
     {
       "id": "fr-casf-r213-1",
@@ -22933,7 +23391,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905377)"
     },
     {
       "id": "fr-casf-r214-10-2",
@@ -22993,7 +23452,8 @@
       "xrefs": [
         "fr-casf-l214-1-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051936149)"
     },
     {
       "id": "fr-casf-r214-10-3",
@@ -23053,7 +23513,8 @@
       "xrefs": [
         "fr-casf-r214-10-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051936151)"
     },
     {
       "id": "fr-casf-r214-10-4",
@@ -23111,7 +23572,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051936153)"
     },
     {
       "id": "fr-casf-r214-10-5",
@@ -23169,7 +23631,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051936155)"
     },
     {
       "id": "fr-casf-r215-1",
@@ -23227,7 +23690,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905392)"
     },
     {
       "id": "fr-casf-r215-3",
@@ -23285,7 +23749,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905403)"
     },
     {
       "id": "fr-casf-r215-4",
@@ -23345,7 +23810,8 @@
       "xrefs": [
         "fr-casf-r215-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905404)"
     },
     {
       "id": "fr-casf-r215-5",
@@ -23403,7 +23869,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905405)"
     },
     {
       "id": "fr-casf-r215-6",
@@ -23464,7 +23931,8 @@
         "fr-casf-r215-3",
         "fr-casf-r215-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905407)"
     },
     {
       "id": "fr-casf-r215-14",
@@ -23524,7 +23992,8 @@
       "xrefs": [
         "fr-casf-l215-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039066209)"
     },
     {
       "id": "fr-casf-r215-15",
@@ -23582,7 +24051,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077542)"
     },
     {
       "id": "fr-casf-r215-16",
@@ -23642,7 +24112,8 @@
       "xrefs": [
         "fr-casf-r215-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077538)"
     },
     {
       "id": "fr-casf-r215-17",
@@ -23700,7 +24171,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077532)"
     },
     {
       "id": "fr-casf-r215-18",
@@ -23758,7 +24230,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077556)"
     },
     {
       "id": "fr-casf-r215-19",
@@ -23816,7 +24289,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077553)"
     },
     {
       "id": "fr-casf-r215-20",
@@ -23874,7 +24348,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020077551)"
     },
     {
       "id": "fr-casf-r216-2",
@@ -23928,7 +24403,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026502018)"
     },
     {
       "id": "fr-casf-r217-4",
@@ -23986,7 +24462,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650473)"
     },
     {
       "id": "fr-casf-r217-7",
@@ -24046,7 +24523,8 @@
       "xrefs": [
         "fr-casf-r217-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031693813)"
     },
     {
       "id": "fr-casf-r217-9",
@@ -24104,7 +24582,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039650462)"
     },
     {
       "id": "fr-casf-r221-1",
@@ -24162,7 +24641,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252085)"
     },
     {
       "id": "fr-casf-r221-2",
@@ -24220,7 +24700,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252081)"
     },
     {
       "id": "fr-casf-r221-3",
@@ -24280,7 +24761,8 @@
       "xrefs": [
         "fr-casf-r221-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905414)"
     },
     {
       "id": "fr-casf-r221-4",
@@ -24339,7 +24821,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252077)"
     },
     {
       "id": "fr-casf-r221-5",
@@ -24402,7 +24885,8 @@
         "fr-casf-r221-5-2",
         "fr-casf-r221-5-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251424)"
     },
     {
       "id": "fr-casf-r221-5-1",
@@ -24460,7 +24944,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251422)"
     },
     {
       "id": "fr-casf-r221-5-2",
@@ -24518,7 +25003,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251418)"
     },
     {
       "id": "fr-casf-r221-5-3",
@@ -24578,7 +25064,8 @@
       "xrefs": [
         "fr-casf-l228-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251415)"
     },
     {
       "id": "fr-casf-r221-6",
@@ -24641,7 +25128,8 @@
         "fr-casf-l223-5",
         "fr-casf-l221-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251413)"
     },
     {
       "id": "fr-casf-r221-7",
@@ -24699,7 +25187,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251407)"
     },
     {
       "id": "fr-casf-r221-8",
@@ -24757,7 +25246,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251405)"
     },
     {
       "id": "fr-casf-r221-9",
@@ -24815,7 +25305,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028173282)"
     },
     {
       "id": "fr-casf-r221-10",
@@ -24873,7 +25364,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251402)"
     },
     {
       "id": "fr-casf-r221-11",
@@ -24939,7 +25431,8 @@
         "fr-casf-r221-15-1",
         "fr-casf-r221-15-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048666202)"
     },
     {
       "id": "fr-casf-r221-12",
@@ -25004,7 +25497,8 @@
         "fr-casf-r221-11",
         "fr-casf-l221-2-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048666195)"
     },
     {
       "id": "fr-casf-r221-13",
@@ -25068,7 +25562,8 @@
       "xrefs": [
         "fr-casf-l221-2-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048685270)"
     },
     {
       "id": "fr-casf-r221-14",
@@ -25130,7 +25625,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048685273)"
     },
     {
       "id": "fr-casf-r221-15",
@@ -25195,7 +25691,8 @@
         "fr-casf-r221-12",
         "fr-casf-r221-11"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038748481)"
     },
     {
       "id": "fr-casf-r221-15-1",
@@ -25257,7 +25754,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080280)"
     },
     {
       "id": "fr-casf-r221-15-2",
@@ -25320,7 +25818,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080282)"
     },
     {
       "id": "fr-casf-r221-15-3",
@@ -25384,7 +25883,8 @@
       "xrefs": [
         "fr-casf-r221-15-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080284)"
     },
     {
       "id": "fr-casf-r221-15-4",
@@ -25448,7 +25948,8 @@
       "xrefs": [
         "fr-casf-r221-15-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080286)"
     },
     {
       "id": "fr-casf-r221-15-5",
@@ -25512,7 +26013,8 @@
       "xrefs": [
         "fr-casf-l221-2-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042946407)"
     },
     {
       "id": "fr-casf-r221-15-6",
@@ -25574,7 +26076,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080290)"
     },
     {
       "id": "fr-casf-r221-15-7",
@@ -25636,7 +26139,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080292)"
     },
     {
       "id": "fr-casf-r221-15-8",
@@ -25700,7 +26204,8 @@
       "xrefs": [
         "fr-casf-r221-15-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042946404)"
     },
     {
       "id": "fr-casf-r221-15-9",
@@ -25762,7 +26267,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038080296)"
     },
     {
       "id": "fr-casf-r222-1",
@@ -25820,7 +26326,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905416)"
     },
     {
       "id": "fr-casf-r222-2",
@@ -25878,7 +26385,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252073)"
     },
     {
       "id": "fr-casf-r222-3",
@@ -25936,7 +26444,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905418)"
     },
     {
       "id": "fr-casf-r222-4",
@@ -25994,7 +26503,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905419)"
     },
     {
       "id": "fr-casf-r222-5",
@@ -26054,7 +26564,8 @@
       "xrefs": [
         "fr-casf-r147-22"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905426)"
     },
     {
       "id": "fr-casf-r222-6",
@@ -26114,7 +26625,8 @@
       "xrefs": [
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046153495)"
     },
     {
       "id": "fr-casf-r222-7",
@@ -26174,7 +26686,8 @@
       "xrefs": [
         "fr-casf-l222-5-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046153497)"
     },
     {
       "id": "fr-casf-r222-8",
@@ -26234,7 +26747,8 @@
       "xrefs": [
         "fr-casf-l222-5-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046153499)"
     },
     {
       "id": "fr-casf-r222-9",
@@ -26292,7 +26806,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046153501)"
     },
     {
       "id": "fr-casf-r223-1",
@@ -26353,7 +26868,8 @@
       "xrefs": [
         "fr-casf-l223-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170613)"
     },
     {
       "id": "fr-casf-r223-2",
@@ -26411,7 +26927,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170608)"
     },
     {
       "id": "fr-casf-r223-3",
@@ -26469,7 +26986,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170603)"
     },
     {
       "id": "fr-casf-r223-4",
@@ -26527,7 +27045,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170595)"
     },
     {
       "id": "fr-casf-r223-5",
@@ -26585,7 +27104,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170587)"
     },
     {
       "id": "fr-casf-r223-6",
@@ -26643,7 +27163,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170581)"
     },
     {
       "id": "fr-casf-r223-7",
@@ -26701,7 +27222,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170569)"
     },
     {
       "id": "fr-casf-r223-8",
@@ -26761,7 +27283,8 @@
       "xrefs": [
         "fr-casf-l223-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170560)"
     },
     {
       "id": "fr-casf-r223-9",
@@ -26819,7 +27342,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170553)"
     },
     {
       "id": "fr-casf-r223-10",
@@ -26880,7 +27404,8 @@
         "fr-casf-r223-1",
         "fr-casf-r223-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170538)"
     },
     {
       "id": "fr-casf-r223-11",
@@ -26940,7 +27465,8 @@
       "xrefs": [
         "fr-casf-r147-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033170530)"
     },
     {
       "id": "fr-casf-r223-18",
@@ -26998,7 +27524,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033443483)"
     },
     {
       "id": "fr-casf-r223-19",
@@ -27059,7 +27586,8 @@
         "fr-casf-l223-5",
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033443485)"
     },
     {
       "id": "fr-casf-r223-20",
@@ -27120,7 +27648,8 @@
         "fr-casf-l222-5-1",
         "fr-casf-l223-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033443487)"
     },
     {
       "id": "fr-casf-r223-21",
@@ -27179,7 +27708,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033443489)"
     },
     {
       "id": "fr-casf-r223-29",
@@ -27237,7 +27767,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036034339)"
     },
     {
       "id": "fr-casf-r223-30",
@@ -27295,7 +27826,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036034342)"
     },
     {
       "id": "fr-casf-r223-31",
@@ -27353,7 +27885,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036034344)"
     },
     {
       "id": "fr-casf-r224-1",
@@ -27416,7 +27949,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905440)"
     },
     {
       "id": "fr-casf-r224-4",
@@ -27479,7 +28013,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624712)"
     },
     {
       "id": "fr-casf-r224-5",
@@ -27542,7 +28077,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028252047)"
     },
     {
       "id": "fr-casf-r224-6",
@@ -27607,7 +28143,8 @@
       "xrefs": [
         "fr-casf-l224-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624705)"
     },
     {
       "id": "fr-casf-r224-7",
@@ -27672,7 +28209,8 @@
       "xrefs": [
         "fr-casf-l224-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624646)"
     },
     {
       "id": "fr-casf-r224-8",
@@ -27737,7 +28275,8 @@
       "xrefs": [
         "fr-casf-r224-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624642)"
     },
     {
       "id": "fr-casf-r224-9",
@@ -27802,7 +28341,8 @@
       "xrefs": [
         "fr-casf-r224-13-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624632)"
     },
     {
       "id": "fr-casf-r224-9-1",
@@ -27868,7 +28408,8 @@
         "fr-casf-r224-9",
         "fr-casf-l222-5-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049623750)"
     },
     {
       "id": "fr-casf-r224-10",
@@ -27940,7 +28481,8 @@
         "fr-casf-r224-17",
         "fr-casf-r224-20"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624604)"
     },
     {
       "id": "fr-casf-r224-10-1",
@@ -28005,7 +28547,8 @@
       "xrefs": [
         "fr-casf-l224-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049623865)"
     },
     {
       "id": "fr-casf-r224-11",
@@ -28068,7 +28611,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624629)"
     },
     {
       "id": "fr-casf-r224-12",
@@ -28133,7 +28677,8 @@
       "xrefs": [
         "fr-casf-l224-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905452)"
     },
     {
       "id": "fr-casf-r224-13",
@@ -28196,7 +28741,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624698)"
     },
     {
       "id": "fr-casf-r224-13-1",
@@ -28261,7 +28807,8 @@
       "xrefs": [
         "fr-casf-l224-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624131)"
     },
     {
       "id": "fr-casf-r224-14",
@@ -28324,7 +28871,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905454)"
     },
     {
       "id": "fr-casf-r224-15",
@@ -28389,7 +28937,8 @@
       "xrefs": [
         "fr-casf-r224-13-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624691)"
     },
     {
       "id": "fr-casf-r224-16",
@@ -28454,7 +29003,8 @@
       "xrefs": [
         "fr-casf-r224-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624684)"
     },
     {
       "id": "fr-casf-r224-17",
@@ -28517,7 +29067,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624677)"
     },
     {
       "id": "fr-casf-r224-18",
@@ -28580,7 +29131,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624671)"
     },
     {
       "id": "fr-casf-r224-19",
@@ -28643,7 +29195,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057141)"
     },
     {
       "id": "fr-casf-r224-20",
@@ -28708,7 +29261,8 @@
       "xrefs": [
         "fr-casf-r224-19"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905461)"
     },
     {
       "id": "fr-casf-r224-21",
@@ -28773,7 +29327,8 @@
       "xrefs": [
         "fr-casf-l224-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905462)"
     },
     {
       "id": "fr-casf-r224-22",
@@ -28836,7 +29391,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624663)"
     },
     {
       "id": "fr-casf-r224-23",
@@ -28902,7 +29458,8 @@
         "fr-casf-l224-8",
         "fr-casf-r224-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905464)"
     },
     {
       "id": "fr-casf-r224-25",
@@ -28967,7 +29524,8 @@
       "xrefs": [
         "fr-casf-l224-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624655)"
     },
     {
       "id": "fr-casf-r224-26",
@@ -29026,7 +29584,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049624063)"
     },
     {
       "id": "fr-casf-r225-1",
@@ -29089,7 +29648,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057136)"
     },
     {
       "id": "fr-casf-r225-2",
@@ -29156,7 +29716,8 @@
         "fr-casf-l225-3",
         "fr-casf-l225-15-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057125)"
     },
     {
       "id": "fr-casf-r225-3",
@@ -29221,7 +29782,8 @@
       "xrefs": [
         "fr-casf-l225-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057120)"
     },
     {
       "id": "fr-casf-r225-4",
@@ -29286,7 +29848,8 @@
       "xrefs": [
         "fr-casf-r225-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057115)"
     },
     {
       "id": "fr-casf-r225-5",
@@ -29352,7 +29915,8 @@
         "fr-casf-r225-9",
         "fr-casf-l223-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057105)"
     },
     {
       "id": "fr-casf-r225-7",
@@ -29417,7 +29981,8 @@
       "xrefs": [
         "fr-casf-r225-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057101)"
     },
     {
       "id": "fr-casf-r225-7-1",
@@ -29482,7 +30047,8 @@
       "xrefs": [
         "fr-casf-r225-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053054205)"
     },
     {
       "id": "fr-casf-r225-8",
@@ -29545,7 +30111,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057090)"
     },
     {
       "id": "fr-casf-r225-9",
@@ -29608,7 +30175,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057096)"
     },
     {
       "id": "fr-casf-r225-10",
@@ -29671,7 +30239,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057093)"
     },
     {
       "id": "fr-casf-r225-11",
@@ -29734,7 +30303,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905486)"
     },
     {
       "id": "fr-casf-r225-12",
@@ -29799,7 +30369,8 @@
       "xrefs": [
         "fr-casf-l225-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971816)"
     },
     {
       "id": "fr-casf-r225-13",
@@ -29862,7 +30433,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971809)"
     },
     {
       "id": "fr-casf-r225-14",
@@ -29925,7 +30497,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971798)"
     },
     {
       "id": "fr-casf-r225-15",
@@ -29992,7 +30565,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971638)"
     },
     {
       "id": "fr-casf-r225-17",
@@ -30061,7 +30635,8 @@
       "xrefs": [
         "fr-casf-r225-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971786)"
     },
     {
       "id": "fr-casf-r225-18",
@@ -30130,7 +30705,8 @@
       "xrefs": [
         "fr-casf-r225-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971778)"
     },
     {
       "id": "fr-casf-r225-19",
@@ -30199,7 +30775,8 @@
       "xrefs": [
         "fr-casf-l225-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971773)"
     },
     {
       "id": "fr-casf-r225-19-1",
@@ -30266,7 +30843,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047970391)"
     },
     {
       "id": "fr-casf-r225-20",
@@ -30339,7 +30917,8 @@
         "fr-casf-r225-18",
         "fr-casf-l225-19"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971755)"
     },
     {
       "id": "fr-casf-r225-21",
@@ -30411,7 +30990,8 @@
         "fr-casf-r225-18",
         "fr-casf-r225-22"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971742)"
     },
     {
       "id": "fr-casf-r225-22",
@@ -30481,7 +31061,8 @@
         "fr-casf-r225-15",
         "fr-casf-r225-21"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971730)"
     },
     {
       "id": "fr-casf-r225-23",
@@ -30548,7 +31129,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971727)"
     },
     {
       "id": "fr-casf-r225-30",
@@ -30619,7 +31201,8 @@
         "fr-casf-r225-20",
         "fr-casf-r225-41"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971720)"
     },
     {
       "id": "fr-casf-r225-31",
@@ -30686,7 +31269,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971703)"
     },
     {
       "id": "fr-casf-r225-32",
@@ -30753,7 +31337,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971699)"
     },
     {
       "id": "fr-casf-r225-33",
@@ -30818,7 +31403,8 @@
       "xrefs": [
         "fr-casf-r225-22"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971690)"
     },
     {
       "id": "fr-casf-r225-33-1",
@@ -30881,7 +31467,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047970492)"
     },
     {
       "id": "fr-casf-r225-33-2",
@@ -30946,7 +31533,8 @@
       "xrefs": [
         "fr-casf-r225-20"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047970494)"
     },
     {
       "id": "fr-casf-r225-34",
@@ -31009,7 +31597,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481351)"
     },
     {
       "id": "fr-casf-r225-35",
@@ -31074,7 +31663,8 @@
       "xrefs": [
         "fr-casf-r225-33"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971683)"
     },
     {
       "id": "fr-casf-r225-36",
@@ -31137,7 +31727,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905515)"
     },
     {
       "id": "fr-casf-r225-37",
@@ -31200,7 +31791,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971680)"
     },
     {
       "id": "fr-casf-r225-38",
@@ -31267,7 +31859,8 @@
         "fr-casf-r225-35",
         "fr-casf-r225-33-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971671)"
     },
     {
       "id": "fr-casf-r225-39",
@@ -31330,7 +31923,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971666)"
     },
     {
       "id": "fr-casf-r225-40",
@@ -31393,7 +31987,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971661)"
     },
     {
       "id": "fr-casf-r225-41",
@@ -31458,7 +32053,8 @@
       "xrefs": [
         "fr-casf-l225-17"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971653)"
     },
     {
       "id": "fr-casf-r225-42",
@@ -31522,7 +32118,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971650)"
     },
     {
       "id": "fr-casf-r225-43",
@@ -31585,7 +32182,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971647)"
     },
     {
       "id": "fr-casf-r225-44",
@@ -31648,7 +32246,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047971644)"
     },
     {
       "id": "fr-casf-r225-45",
@@ -31713,7 +32312,8 @@
       "xrefs": [
         "fr-casf-r225-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028249773)"
     },
     {
       "id": "fr-casf-r225-47",
@@ -31775,7 +32375,8 @@
         "fr-casf-r225-13",
         "fr-casf-l225-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481309)"
     },
     {
       "id": "fr-casf-r225-48",
@@ -31837,7 +32438,8 @@
         "fr-casf-l225-12",
         "fr-casf-r225-33"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481293)"
     },
     {
       "id": "fr-casf-r225-49",
@@ -31898,7 +32500,8 @@
       "xrefs": [
         "fr-casf-l225-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481302)"
     },
     {
       "id": "fr-casf-r225-50",
@@ -31962,7 +32565,8 @@
         "fr-casf-r225-38",
         "fr-casf-l147-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481330)"
     },
     {
       "id": "fr-casf-r225-51",
@@ -32021,7 +32625,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481320)"
     },
     {
       "id": "fr-casf-r225-52",
@@ -32082,7 +32687,8 @@
       "xrefs": [
         "fr-casf-l225-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057155)"
     },
     {
       "id": "fr-casf-r225-53",
@@ -32150,7 +32756,8 @@
         "fr-casf-l225-5",
         "fr-casf-l225-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057153)"
     },
     {
       "id": "fr-casf-r225-54",
@@ -32213,7 +32820,8 @@
         "fr-casf-r148-7",
         "fr-casf-l226-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057165)"
     },
     {
       "id": "fr-casf-r225-55",
@@ -32272,7 +32880,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057163)"
     },
     {
       "id": "fr-casf-r225-56",
@@ -32333,7 +32942,8 @@
       "xrefs": [
         "fr-casf-r225-52"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053057160)"
     },
     {
       "id": "fr-casf-r226-2",
@@ -32393,7 +33003,8 @@
       "xrefs": [
         "fr-casf-l226-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481489)"
     },
     {
       "id": "fr-casf-r226-2-1",
@@ -32451,7 +33062,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047481481)"
     },
     {
       "id": "fr-casf-r226-2-2",
@@ -32509,7 +33121,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000028251430)"
     },
     {
       "id": "fr-casf-r227-1",
@@ -32573,7 +33186,8 @@
       "xrefs": [
         "fr-casf-r227-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042174469)"
     },
     {
       "id": "fr-casf-r227-2",
@@ -32636,7 +33250,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905540)"
     },
     {
       "id": "fr-casf-r227-3",
@@ -32698,7 +33313,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905541)"
     },
     {
       "id": "fr-casf-r227-4",
@@ -32760,7 +33376,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905543)"
     },
     {
       "id": "fr-casf-r227-5",
@@ -32826,7 +33443,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905545)"
     },
     {
       "id": "fr-casf-r227-6",
@@ -32892,7 +33510,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905548)"
     },
     {
       "id": "fr-casf-r227-7",
@@ -32958,7 +33577,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036548732)"
     },
     {
       "id": "fr-casf-r227-8",
@@ -33024,7 +33644,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905551)"
     },
     {
       "id": "fr-casf-r227-9",
@@ -33090,7 +33711,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905553)"
     },
     {
       "id": "fr-casf-r227-10",
@@ -33156,7 +33778,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905554)"
     },
     {
       "id": "fr-casf-r227-11",
@@ -33222,7 +33845,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905555)"
     },
     {
       "id": "fr-casf-r227-12",
@@ -33288,7 +33912,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033253193)"
     },
     {
       "id": "fr-casf-r227-13",
@@ -33359,7 +33984,8 @@
         "fr-casf-r227-16",
         "fr-casf-r227-19"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026384905)"
     },
     {
       "id": "fr-casf-r227-14",
@@ -33425,7 +34051,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033253201)"
     },
     {
       "id": "fr-casf-r227-15",
@@ -33493,7 +34120,8 @@
       "xrefs": [
         "fr-casf-r227-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905565)"
     },
     {
       "id": "fr-casf-r227-16",
@@ -33561,7 +34189,8 @@
       "xrefs": [
         "fr-casf-l227-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000037247312)"
     },
     {
       "id": "fr-casf-r227-17",
@@ -33630,7 +34259,8 @@
         "fr-casf-r227-1",
         "fr-casf-r227-15"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020739867)"
     },
     {
       "id": "fr-casf-r227-18",
@@ -33698,7 +34328,8 @@
       "xrefs": [
         "fr-casf-r227-14"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905571)"
     },
     {
       "id": "fr-casf-r227-19",
@@ -33770,7 +34401,8 @@
         "fr-casf-r227-15",
         "fr-casf-r227-13"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042174457)"
     },
     {
       "id": "fr-casf-r227-20",
@@ -33841,7 +34473,8 @@
         "fr-casf-r227-12",
         "fr-casf-r227-16"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032962475)"
     },
     {
       "id": "fr-casf-r227-21",
@@ -33907,7 +34540,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042666674)"
     },
     {
       "id": "fr-casf-r227-22",
@@ -33973,7 +34607,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042666670)"
     },
     {
       "id": "fr-casf-r227-23",
@@ -34033,7 +34668,8 @@
       "xrefs": [
         "fr-casf-r227-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905581)"
     },
     {
       "id": "fr-casf-r227-24",
@@ -34091,7 +34727,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905584)"
     },
     {
       "id": "fr-casf-r227-25",
@@ -34149,7 +34786,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042174449)"
     },
     {
       "id": "fr-casf-r227-26",
@@ -34207,7 +34845,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905588)"
     },
     {
       "id": "fr-casf-r227-27",
@@ -34267,7 +34906,8 @@
       "xrefs": [
         "fr-casf-l227-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905589)"
     },
     {
       "id": "fr-casf-r227-28",
@@ -34325,7 +34965,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905590)"
     },
     {
       "id": "fr-casf-r227-29",
@@ -34383,7 +35024,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905591)"
     },
     {
       "id": "fr-casf-r227-30",
@@ -34443,7 +35085,8 @@
       "xrefs": [
         "fr-casf-r227-29"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905592)"
     },
     {
       "id": "fr-casf-r228-1",
@@ -34501,7 +35144,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905594)"
     },
     {
       "id": "fr-casf-r228-2",
@@ -34559,7 +35203,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905595)"
     },
     {
       "id": "fr-casf-r228-3",
@@ -34617,7 +35262,8 @@
         "fr.code.casf.partie-reglementaire.livre-ii.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006905596)"
     }
   ]
 }

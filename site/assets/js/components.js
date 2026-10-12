@@ -36,6 +36,7 @@ export function pubBadge(p) {
 export function basisBadge(link, lang) {
   if (!link) return '';
   if (link.basis === 'a') return `<span class="badge ok" title="${esc(t('basisATip', lang))}">${t('basisA', lang)}</span>`;
+  if (link.basis === 'c') return `<span class="badge" title="${esc(t('basisCTip', lang))}">${t('basisC', lang)}</span>`;
   return `<span class="badge warn" title="${esc(t('basisBTip', lang))}">${t('basisB', lang)}${link.b_method ? ' · ' + esc(t('bMethod', lang, link.b_method)) : ''}</span>`;
 }
 
@@ -85,6 +86,8 @@ export function interpCard(it, { normId = null, open = false, terms = [], showNo
   const link = normId ? it.norms?.find((l) => l.norm === normId) : null;
   const bBlocks = (link ? [link] : it.norms || []).filter((l) => l.basis === 'b').map((l) =>
     `<div class="bjust"><b>${t('bJust', lang)}${normId ? '' : ' — ' + esc(normLabel(l.norm))}</b>${l.b_method ? ` <span class="badge warn">${esc(t('bMethod', lang, l.b_method))}</span>` : ''}<br>${esc(l.b_justification)}${l.cited_version ? `<div class="ids">${esc(l.cited_version)}</div>` : ''}</div>`).join('');
+  const cBlocks = (link ? [link] : it.norms || []).filter((l) => l.basis === 'c').map((l) =>
+    `<div class="bjust"><b>${t('cVersion', lang)}${normId ? '' : ' — ' + esc(normLabel(l.norm))}</b><br>${esc(l.version_note || '')}${l.cited_version ? `<div class="ids">${esc(l.cited_version)}</div>` : ''}</div>`).join('');
   const summ = it.summary ? `<div class="lab">${it.summary_is_official ? t('officialSummary', lang) : t('summary', lang)}</div><p class="summ">${highlight(it.summary, terms)}</p>` : '';
   const tit = it.titrage?.length ? `<div class="lab">${t('titrage', lang)}</div>${it.titrage.map((x) => `<div class="titrage">${esc(x)}</div>`).join('')}` : '';
   const ceHtml = it.classement_ce?.length ? `<div class="lab">Classement CE</div>${it.classement_ce.map((x) => `<div class="titrage">${esc(x)}</div>`).join('')}` : '';
@@ -95,7 +98,7 @@ export function interpCard(it, { normId = null, open = false, terms = [], showNo
   return `<details class="interp" id="i-${esc(it.id)}" data-id="${esc(it.id)}" ${open ? 'open' : ''}>
   <summary><div class="cit">${highlight(it.citation || it.id, terms)}</div>
     <div class="cmeta"><span>${esc(it.court || '')}</span><span>${fmtDate(it.date, lang)}</span>${pubBadge(it.publication)}${basisBadge(link, lang)}${fixtureBadges(it, lang)}</div></summary>
-  <div class="ib">${ids ? `<div class="ids" style="margin-top:10px">${ids}</div>` : ''}${bBlocks ? `<div class="lab">${t('bJust', lang)}</div>${bBlocks}` : ''}${tit}${ceHtml}${summ}${ex}${norms}
+  <div class="ib">${ids ? `<div class="ids" style="margin-top:10px">${ids}</div>` : ''}${bBlocks ? `<div class="lab">${t('bJust', lang)}</div>${bBlocks}` : ''}${cBlocks}${tit}${ceHtml}${summ}${ex}${norms}
     ${linksRow(it, lang, `<a class="btn sm" href="#/interp/${esc(it.id)}">${icon.link} Permalink</a>`)}</div>
 </details>`;
 }
