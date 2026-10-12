@@ -18,4 +18,5 @@ python3 frj_link.py --phase=1
 python3 frj_versions.py                   # cached; fetches only new LEGIARTI ids / versions
 python3 frj_link.py --phase=2
 python3 frj_build.py
+python3 frj_postfix.py
 echo UPDATE_DONE

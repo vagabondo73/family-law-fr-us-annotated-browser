@@ -65,6 +65,7 @@ export async function viewHome() {
   <div class="cards">
     <div class="card"><h3><span class="badge ok">${t('basisA', 'fr')}</span></h3><p>Décision rendue à compter de la date D de la version en vigueur. <span lang="en">Decided on or after D(norm), the date the current wording took effect.</span></p></div>
     <div class="card"><h3><span class="badge warn">${t('basisB', 'fr')}</span></h3><p>Décision antérieure à D, mais texte interprété identique en lettre et en fonction — justification écrite. <span lang="en">Earlier decision on wording identical in text and function — written justification shown.</span></p></div>
+    <div class="card"><h3><span class="badge">${t('basisC', 'fr')}</span></h3><p>Décision interprétant une version antérieure (texte modifié depuis, rédaction antérieure visée ou ancienne numérotation) : conservée comme interprétation historique, avec la version interprétée. La version en vigueur reste le droit applicable ; l’utilité de la décision dépend de l’objet de l’interprétation. <span lang="en">Decision on an earlier version (text since amended, earlier wording expressly applied, or former numbering): kept as a historical interpretation with the version interpreted. The current version remains the applicable law; usefulness depends on the point interpreted.</span></p></div>
     <div class="card"><h3>${M.totals.norms} · ${M.totals.interps}</h3><p>dispositions · interprétations <span class="bil">/ provisions · interpretations</span><br>${M.totals.issues} questions · ${M.totals.sources} sources</p></div>
   </div>
   <h2 class="s">Accès <span class="bil">/ Access</span></h2>
@@ -225,7 +226,7 @@ export async function viewNorm(id, params) {
     <h2 class="s" id="interps">${t('interps', lang)} <span class="cnt">${otherIts.length}</span></h2>
     ${otherIts.length ? `<div class="toolbar">
       <label>${t('sort', lang)} <select data-f="sort"><option value="desc">${t('newest', lang)}</option><option value="asc">${t('oldest', lang)}</option></select></label>
-      <select data-f="basis" aria-label="basis"><option value="all">${t('allBasis', lang)}</option><option value="a">${t('basisA', lang)}</option><option value="b">${t('basisB', lang)}</option></select>
+      <select data-f="basis" aria-label="basis"><option value="all">${t('allBasis', lang)}</option><option value="a">${t('basisA', lang)}</option><option value="b">${t('basisB', lang)}</option><option value="c">${t('basisC', lang)}</option></select>
       ${state.activeIssue ? `<label><input type="checkbox" data-f="issue"> ${t('onlyIssue', lang)} (${esc(I.nodes.get(state.activeIssue)?.label || state.activeIssue)})</label>` : ''}
       <button class="btn sm" type="button" data-f="expand">${t('expandAll', lang)}</button><button class="btn sm" type="button" data-f="collapse">${t('collapseAll', lang)}</button>
     </div><div id="ilist"></div>` : `<p class="empty-state">${t('noInterps', lang)}</p>`}
