@@ -1,15 +1,15 @@
 {
   "corpus": "fr-ce",
-  "updated": "2026-09-30",
+  "updated": "2026-10-12",
   "source": "Tricoteuses/DILA JADE, sous-ensemble global/publie https://git.tricoteuses.fr/dila/jade",
-  "source_head": "82efcb4d8f2add9cee3a76e0780b0ca17a8d6592 2026-09-29T21:34:57+02:00",
-  "norms_expected": 6029,
+  "source_head": "a2c1f641c48b27b4573f0b1992289fcae605aae1 2026-10-10T21:16:41+02:00",
+  "norms_expected": 5346,
   "norms_with_interps": 435,
   "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
   "interps_candidates": 2878,
   "interps_screened": 51663,
   "interps_linked": 1778,
-  "interps_included": 596,
+  "interps_included": 594,
   "links": {
     "included": 1163,
     "excluded": 3347,
@@ -33,6 +33,16 @@
   "method": "Conseil d'État uniquement (JURIDICTION = Conseil d'État), décisions publiées au Lebon (A) ou mentionnées aux tables (B), dont avis contentieux ; mêmes règles de liaison (LIENS, sommaire, titrage, motifs « Aux termes de l'article… ») et règle temporelle.",
   "gaps": [
     "Seul le sous-ensemble « publie » de JADE est utilisé ; décisions CE inédites exclues par construction.",
-    "Le visa CE (« Vu le code civil ») ne désigne pas d'article : liaison par LIENS, sommaire, titrage et motifs."
+    "Le visa CE (« Vu le code civil ») ne désigne pas d'article : liaison par LIENS, sommaire, titrage et motifs.",
+    "Rédactions antérieures : le liage automatique ne tenait pas compte de « dans sa/leur rédaction antérieure à… » ni de « ancien article » placés après le visa ; les liens concernés ont été retirés le 2026-10-12 (voir data/coverage/fr-prior-wording-review.json). Contrôle fait sur les extraits stockés pour les décisions antérieures : un nouveau passage sur le texte intégral reste à faire.",
+    "Extraits manquants complétés le 2026-10-12 depuis le XML DILA lorsque le texte cite l'article lié ou contient le dispositif (excerpts_note)."
+  ],
+  "updates": [
+    {
+      "date": "2026-10-12",
+      "delta": "JADE 2026-09-29 → 2026-10-10 : 25 fichiers examinés (23 publiés), aucune décision retenue",
+      "prior_wording_removed_links": 2,
+      "prior_wording_removed_interps": 2
+    }
   ]
 }

@@ -126,13 +126,18 @@ def in_force(a, today=TODAY):
 
 
 def status_of(a, today=TODAY):
+    """Human status label. DILA keeps *_DIFF states after the deferred date has passed and uses
+    2222-02-22 as a sentinel for 'date not fixed' — both are normalised here (audit 2026-10-12)."""
     e = a["etat"]
-    if a.get("debut", "") > today or e in ("VIGUEUR_DIFF", "MODIFIE_DIFF"):
-        return "en vigueur différée (à compter du %s)" % a.get("debut")
+    debut, fin = a.get("debut") or "", a.get("fin") or "2999-01-01"
+    if debut > today:
+        return "en vigueur différée (à compter du %s)" % debut
     if e == "ABROGE_DIFF":
-        return "en vigueur (abrogation différée au %s)" % a.get("fin")
-    if e == "MODIFIE" and a.get("fin", "2999") < "2999":
-        return "en vigueur (modification différée au %s)" % a.get("fin")
+        if fin >= "2222-01-01":
+            return "en vigueur (abrogation différée, date non fixée)"
+        return "en vigueur (abrogation différée au %s)" % fin
+    if e in ("MODIFIE", "MODIFIE_DIFF") and fin < "2222-01-01":
+        return "en vigueur (modification différée au %s)" % fin
     return "en vigueur"
 
 

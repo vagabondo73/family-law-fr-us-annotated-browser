@@ -1,7 +1,267 @@
 {
   "corpus": "fr-cons",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "interps": [
+    {
+      "id": "cons-constext000054952966",
+      "authority": "fr-cons",
+      "lang": "fr",
+      "date": "2026-10-01",
+      "court": "Conseil constitutionnel",
+      "number": "2026-1223 QPC",
+      "ecli": "ECLI:FR:CC:2026:2026.1223.QPC",
+      "citation": "Cons. const., déc. n° 2026-1223 QPC du 1er octobre 2026",
+      "publication": "JORF n°0230 du 2 octobre 2026, texte n° 119",
+      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054952966",
+      "alt_urls": [
+        {
+          "label": "Conseil constitutionnel",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261223QPC.htm"
+        }
+      ],
+      "title": "M. Magomed S. [Composition du tribunal pour enfants II]",
+      "summary": "M. Magomed S. [Composition du tribunal pour enfants II].",
+      "summary_is_official": false,
+      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
+      "excerpts": [
+        "Elle est relative à la conformité aux droits et libertés que la Constitution garantit de l'article&nbsp;L."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "fr-coj-l251-4",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006572159"
+        },
+        {
+          "norm": "fr-coj-l251-3",
+          "basis": "a",
+          "cited_version": "LEGIARTI000045072372",
+          "alineas": [
+            2
+          ]
+        },
+        {
+          "norm": "fr-const-ddhc-16",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527443"
+        },
+        {
+          "norm": "fr-cc-375",
+          "basis": "a",
+          "cited_version": "LEGIARTI000045136798"
+        },
+        {
+          "norm": "fr-cpp-668",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006577220"
+        }
+      ],
+      "issues": [
+        "fr.protection-enfance.juridictions-mineurs",
+        "fr.autorite-parentale.assistance-educative",
+        "fr.constitution.droits-fondamentaux",
+        "fr.organisation-judiciaire.competences-specialisees",
+        "fr.violences-familiales.procedure-penale",
+        "fr.divorce"
+      ]
+    },
+    {
+      "id": "cons-constext000054952965",
+      "authority": "fr-cons",
+      "lang": "fr",
+      "date": "2026-10-01",
+      "court": "Conseil constitutionnel",
+      "number": "2026-1222 QPC",
+      "ecli": "ECLI:FR:CC:2026:2026.1222.QPC",
+      "citation": "Cons. const., déc. n° 2026-1222 QPC du 1er octobre 2026",
+      "publication": "JORF n°0230 du 2 octobre 2026, texte n° 118",
+      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054952965",
+      "alt_urls": [
+        {
+          "label": "Conseil constitutionnel",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261222QPC.htm"
+        }
+      ],
+      "title": "M. Moussa T. [Absence de prestation de serment des personnes entendues en vertu du pouvoir discrétionnaire du président de la cour d’assises]",
+      "summary": "M. Moussa T. [Absence de prestation de serment des personnes entendues en vertu du pouvoir discrétionnaire du président de la cour d’assises].",
+      "summary_is_official": false,
+      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
+      "excerpts": [
+        "Elle est relative à la conformité aux droits et libertés que la Constitution garantit du dernier alinéa de l'article&nbsp;310 du code de procédure pénale.",
+        "8. Il résulte des articles 329, 330, 331 et 335 du code de procédure pénale, tels qu'interprétés par la Cour de cassation, que tout témoin cité par les parties, dont le nom a été régulièrement dénoncé entre elles, est acquis aux débats devant la cour d'assises et doit, sauf s'il se trouve dans un cas d'empêchement ou d'incapacité prévu par la loi ou si les parties ont renoncé à son audition, déposer après avoir prêté serment."
+      ],
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "fr-const-ddhc-16",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527443"
+        },
+        {
+          "norm": "fr-cpp-335",
+          "basis": "a",
+          "cited_version": "LEGIARTI000044568831"
+        },
+        {
+          "norm": "fr-const-ddhc-6",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527432"
+        }
+      ],
+      "issues": [
+        "fr.constitution.droits-fondamentaux",
+        "fr.violences-familiales.procedure-penale",
+        "fr.divorce",
+        "fr.pacs-concubinage"
+      ]
+    },
+    {
+      "id": "cons-constext000054952976",
+      "authority": "fr-cons",
+      "lang": "fr",
+      "date": "2026-08-14",
+      "court": "Conseil constitutionnel",
+      "number": "2026-910 DC",
+      "ecli": "ECLI:FR:CC:2026:2026.910.DC",
+      "citation": "Cons. const., déc. n° 2026-910 DC du 14 août 2026",
+      "publication": "JORF n°0192 du 19 août 2026, texte n° 6",
+      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054952976",
+      "alt_urls": [
+        {
+          "label": "Conseil constitutionnel",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm"
+        }
+      ],
+      "title": "Loi relative au droit à l’aide à mourir",
+      "summary": "Loi relative au droit à l’aide à mourir.",
+      "summary_is_official": false,
+      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "fr-const-34",
+          "basis": "a",
+          "cited_version": "LEGIARTI000049255019"
+        },
+        {
+          "norm": "fr-const-ddhc-1",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527426"
+        },
+        {
+          "norm": "fr-const-ddhc-2",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527427"
+        },
+        {
+          "norm": "fr-const-ddhc-4",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527429"
+        },
+        {
+          "norm": "fr-const-ddhc-6",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527432"
+        },
+        {
+          "norm": "fr-const-ddhc-16",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527443"
+        },
+        {
+          "norm": "fr-const-88-1",
+          "basis": "a",
+          "cited_version": "LEGIARTI000018077095"
+        }
+      ],
+      "issues": [
+        "fr.constitution.droits-fondamentaux",
+        "fr.constitution.domaine-loi",
+        "fr.constitution.traites",
+        "fr.regimes-matrimoniaux",
+        "fr.successions"
+      ],
+      "excerpts": [
+        "15. En particulier, le président du Sénat, les sénateurs auteurs de la deuxième saisine ainsi que les députés auteurs de la quatrième saisine critiquent l'imprécision des critères tenant à l'état de santé de la personne, prévus par le 3° de l'article&nbsp;L.&nbsp;1111-12-2 du code de la santé publique, qui permettrait des appréciations variables en fonction des pathologies et des professionnels de santé. À&nbsp;cet égard, ils contestent notamment la notion de «&nbsp;phase avancée&nbsp;» ainsi que sa définition par le législateur, qui ne fait pas référence au terme prévisible du décès. Les séna",
+        "16. Les sénateurs auteurs de la deuxième saisine ainsi que les députés auteurs des quatrième et cinquième saisines critiquent également les critères déterminés par le 4° de l'article L. 1111-12-2, qui subordonne l'accès à la procédure d'aide à mourir à l'existence d'une souffrance liée à l'affection. Selon eux, en faisant reposer le droit à l'aide à mourir sur l'appréciation subjective de la souffrance ressentie par la personne, sans encadrer les conditions de son recueil et de sa prise en considération, ces dispositions méconnaîtraient l'article&nbsp;34 de la Constitution ainsi que, pour les ",
+        "Article 1er.&nbsp;–&nbsp;Sous les réserves énoncées ci-dessous, sont conformes à la Constitution les dispositions suivantes de la loi relative au droit à l'aide à mourir&nbsp;:"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
+    },
+    {
+      "id": "cons-constext000054952973",
+      "authority": "fr-cons",
+      "lang": "fr",
+      "date": "2026-08-06",
+      "court": "Conseil constitutionnel",
+      "number": "2026-907 DC",
+      "ecli": "ECLI:FR:CC:2026:2026.907.DC",
+      "citation": "Cons. const., déc. n° 2026-907 DC du 6 août 2026",
+      "publication": "JORF n°0191 du 18 août 2026, texte n° 2",
+      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054952973",
+      "alt_urls": [
+        {
+          "label": "Conseil constitutionnel",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026907DC.htm"
+        }
+      ],
+      "title": "Loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "summary": "Loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.",
+      "summary_is_official": false,
+      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
+      "titrage": [],
+      "norms": [
+        {
+          "norm": "fr-const-34",
+          "basis": "a",
+          "cited_version": "LEGIARTI000049255019"
+        },
+        {
+          "norm": "fr-cp-413-13",
+          "basis": "a",
+          "cited_version": "LEGIARTI000030940120"
+        },
+        {
+          "norm": "fr-const-ddhc-4",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527429"
+        },
+        {
+          "norm": "fr-const-ddhc-6",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527432"
+        },
+        {
+          "norm": "fr-const-ddhc-16",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527443"
+        },
+        {
+          "norm": "fr-const-ddhc-2",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527427"
+        },
+        {
+          "norm": "fr-const-ddhc-17",
+          "basis": "a",
+          "cited_version": "LEGIARTI000006527444"
+        }
+      ],
+      "issues": [
+        "fr.constitution.droits-fondamentaux",
+        "fr.constitution.domaine-loi",
+        "fr.violences-familiales.penal",
+        "fr.pacs-concubinage",
+        "fr.regimes-matrimoniaux",
+        "fr.successions"
+      ],
+      "excerpts": [
+        "21. Aux termes de l'article 34 de la Constitution : « La loi fixe les règles concernant ... les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ». Sur ce fondement, il est loisible au législateur d'édicter des règles de nature à concilier les exigences constitutionnelles inhérentes à la sauvegarde des intérêts fondamentaux de la Nation avec l'exercice du droit de libre communication et de la liberté de parler, écrire et imprimer. Cependant, la liberté d'expression et de communication est d'autant plus précieuse que son exercice est u",
+        "34. Au regard de la nature des comportements réprimés, le législateur n'a pas institué des peines manifestement disproportionnées."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
+    },
     {
       "id": "cons-constext000054617307",
       "authority": "fr-cons",
@@ -94,7 +354,6 @@
       "summary": "Loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -160,7 +419,13 @@
         "fr.constitution.domaine-loi",
         "fr.regimes-matrimoniaux",
         "fr.successions"
-      ]
+      ],
+      "excerpts": [
+        "20. Aux termes de l'article&nbsp;66 de la Constitution&nbsp;: «&nbsp;Nul ne peut être arbitrairement détenu.&nbsp;/ L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi&nbsp;». La liberté individuelle, dont la protection est confiée à l'autorité judiciaire, ne saurait être entravée par une rigueur qui ne soit nécessaire.",
+        "32. En outre, si les motifs exigés pour prononcer l'injonction d'examen psychiatrique sont de nature à justifier, en cas d'inexécution, une mesure de contrainte restreignant la liberté d'aller et de venir, ils ne peuvent autoriser une privation de liberté. Dès lors, les dispositions contestées ne sauraient, sans méconnaître l'article&nbsp;66 de la Constitution, avoir pour effet de permettre à l'autorité administrative de soumettre la personne à une contrainte pendant plus de douze heures.",
+        "Article 1er.&nbsp;–&nbsp;Sous les réserves énoncées ci-dessus, sont conformes à la Constitution les dispositions suivantes :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000054300059",
@@ -12014,7 +12279,6 @@
       "summary": "Loi pour la sécurité intérieure.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12041,7 +12305,13 @@
       "issues": [
         "fr.constitution.droits-fondamentaux",
         "fr.constitution.autorite-judiciaire"
-      ]
+      ],
+      "excerpts": [
+        "Vu la loi du 12 avril 1906 modifiant les articles 66, 67 du code pénal, 340 du code d'instruction criminelle et fixant la majorité pénale à l'âge de dix-huit ans ;",
+        "7. Considérant qu'aux termes de l'article 2 de la Déclaration des droits de l'homme et du citoyen de 1789 : \" Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression \" ; que son article 4 proclame que \" La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits. Ces bornes ne peuvent être ",
+        "Article premier : Ne sont pas contraires à la Constitution, sous les réserves énoncées aux considérants 26, 34, 35, 38, 43, 57, 63, 73, 77, 84, 85, 86 et 104, les dispositions de la loi pour la sécurité intérieure critiquées par l'une ou l'autre saisine."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017664594",
@@ -12064,7 +12334,6 @@
       "summary": "Loi de financement de la sécurité sociale pour 2003.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12088,7 +12357,13 @@
         "fr.constitution.droits-fondamentaux",
         "fr.regimes-matrimoniaux",
         "fr.successions"
-      ]
+      ],
+      "excerpts": [
+        "32. Considérant qu'aux termes du dix-neuvième alinéa de l'article 34 de la Constitution : \"Les lois de financement de la sécurité sociale déterminent les conditions générales de son équilibre financier et, compte tenu de leurs prévisions de recettes, fixent ses objectifs de dépenses, dans les conditions et sous les réserves prévues par une loi organique\" ; que le premier alinéa de l'article 47-1 dispose : \"Le Parlement vote les projets de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique\" ;",
+        "33. Considérant qu'aux termes du I de l'article L.O. 111-3 du code de la sécurité sociale, dans sa rédaction issue de la loi du 22 juillet 1996 susvisée, qui constitue la loi organique prévue par les articles 34 et 47-1 de la Constitution :",
+        "Article premier : Sont déclarés contraires à la Constitution les articles 28, 30 et 32 de la loi de financement de la sécurité sociale pour 2003, ainsi que le second alinéa de son article 31 et les I, II et III de son article 56."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017664593",
@@ -12111,7 +12386,6 @@
       "summary": "Loi d'orientation et de programmation pour la justice.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12143,7 +12417,13 @@
       "issues": [
         "fr.constitution.droits-fondamentaux",
         "fr.constitution.autorite-judiciaire"
-      ]
+      ],
+      "excerpts": [
+        "Vu la loi du 12 avril 1906 modifiant les articles 66, 67 du code pénal, 340 du code d'instruction criminelle et fixant la majorité pénale à l'âge de dix-huit ans ;",
+        "18. Considérant que, selon les requérants, l'attribution à la juridiction de proximité de compétences pénales serait contraire à l'article 66 de la Constitution qui, en cette matière, réserverait aux magistrats de carrière \" l'exclusivité de la compétence de juger \" ; qu'en outre, ils reprochent au législateur d'être resté en deçà de sa compétence en renvoyant au pouvoir réglementaire le soin de fixer la liste des infractions ressortissant à la compétence de la juridiction de proximité ;",
+        "Article premier : Est déclaré contraire à la Constitution l'article 6 de la loi d'orientation et de programmation pour la justice."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017664589",
@@ -12166,7 +12446,6 @@
       "summary": "Loi de modernisation sociale.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12228,7 +12507,6 @@
       "summary": "Loi relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12242,7 +12520,11 @@
       ],
       "issues": [
         "fr.constitution.droits-fondamentaux"
-      ]
+      ],
+      "excerpts": [
+        "Article premier : Sont déclarés conformes à la Constitution, sous les réserves énoncées ci-dessus, les dispositions des articles L. 232-12, L. 232-19 et L. 232-21 du code de l'action sociale et des familles dans leur rédaction issue de l'article 1er de la loi relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie, ainsi que les articles 8 et 9 de cette loi."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017664388",
@@ -12265,7 +12547,6 @@
       "summary": "Loi relative à l'interruption volontaire de grossesse et à la contraception.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12287,84 +12568,12 @@
       "issues": [
         "fr.constitution.droits-fondamentaux",
         "fr.droits-civils-personne"
-      ]
-    },
-    {
-      "id": "cons-constext000052372181",
-      "authority": "fr-cons",
-      "lang": "fr",
-      "date": "1999-11-09",
-      "court": "Conseil constitutionnel",
-      "number": "99-419 DC",
-      "ecli": "ECLI:FR:CC:1999:1999.419.DC",
-      "citation": "Cons. const., déc. n° 99-419 DC du 9 novembre 1999",
-      "publication": "Journal officiel du 16 novembre 1999, page 16962",
-      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372181",
-      "alt_urls": [
-        {
-          "label": "Conseil constitutionnel",
-          "url": "https://www.conseil-constitutionnel.fr/decision/1999/99419DC.htm"
-        }
       ],
-      "title": "Loi relative au pacte civil de solidarité",
-      "summary": "Loi relative au pacte civil de solidarité.",
-      "summary_is_official": false,
-      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
-      "titrage": [],
-      "norms": [
-        {
-          "norm": "fr-cc-515-1",
-          "basis": "b",
-          "cited_version": "LEGIARTI000006428462",
-          "b_method": "text-identical",
-          "b_justification": "Version interprétée : LEGIARTI000006428462, en vigueur du 16 novembre 1999 au 1er janvier 2009 (rédaction issue de la loi déférée, entrée en vigueur après la décision). Comparaison automatisée : texte identique, après normalisation (casse, accents, espaces, ponctuation), à la version actuelle LEGIARTI000006428463 en vigueur depuis le 1er janvier 2009."
-        },
-        {
-          "norm": "fr-cc-515-2",
-          "basis": "b",
-          "cited_version": "LEGIARTI000006428472",
-          "b_method": "text-identical",
-          "b_justification": "Version interprétée : LEGIARTI000006428472, en vigueur du 16 novembre 1999 au 1er janvier 2009 (rédaction issue de la loi déférée, entrée en vigueur après la décision). Comparaison automatisée : texte identique, après normalisation (casse, accents, espaces, ponctuation), à la version actuelle LEGIARTI000006428473 en vigueur depuis le 1er janvier 2009."
-        },
-        {
-          "norm": "fr-cc-1873-1",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006444494"
-        },
-        {
-          "norm": "fr-const-ddhc-4",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006527429"
-        },
-        {
-          "norm": "fr-cc-147",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006421995"
-        },
-        {
-          "norm": "fr-cc-515-8",
-          "basis": "b",
-          "cited_version": "LEGIARTI000006428570",
-          "b_method": "text-identical",
-          "b_justification": "Version interprétée : LEGIARTI000006428570, en vigueur du 16 novembre 1999 au 1er janvier 2009 (rédaction issue de la loi déférée, entrée en vigueur après la décision). Comparaison automatisée : texte identique, après normalisation (casse, accents, espaces, ponctuation), à la version actuelle LEGIARTI000006428571 en vigueur depuis le 1er janvier 2009."
-        },
-        {
-          "norm": "fr-cc-815-17",
-          "basis": "b",
-          "cited_version": "LEGIARTI000006432500",
-          "b_method": "text-identical",
-          "b_justification": "Version interprétée : LEGIARTI000006432500, en vigueur du 1er juillet 1977 au 1er janvier 2007 (version en vigueur à la date de la décision). Comparaison automatisée : texte identique, après normalisation (casse, accents, espaces, ponctuation), à la version actuelle LEGIARTI000006432501 en vigueur depuis le 1er janvier 2007."
-        }
+      "excerpts": [
+        "5. Considérant qu'en portant de dix à douze semaines le délai pendant lequel peut être pratiquée une interruption volontaire de grossesse lorsque la femme enceinte se trouve, du fait de son état, dans une situation de détresse, la loi n'a pas, en l'état des connaissances et des techniques, rompu l'équilibre que le respect de la Constitution impose entre, d'une part, la sauvegarde de la dignité de la personne humaine contre toute forme de dégradation et, d'autre part, la liberté de la femme qui découle de l'article 2 de la Déclaration des droits de l'homme et du citoyen ; qu'il ressort du deuxi",
+        "Article premier : Sont déclarés conformes à la Constitution les articles 2, 4, 5, 8 ainsi que le V de l'article 19 de la loi relative à l'interruption volontaire de grossesse et à la contraception."
       ],
-      "issues": [
-        "fr.pacs-concubinage.pacs",
-        "fr.constitution.droits-fondamentaux",
-        "fr.mariage.conditions",
-        "fr.pacs-concubinage.concubinage",
-        "fr.successions.indivision-partage",
-        "fr.indivision"
-      ]
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667969",
@@ -12381,13 +12590,16 @@
         {
           "label": "Conseil constitutionnel",
           "url": "https://www.conseil-constitutionnel.fr/decision/1999/99419DC.htm"
+        },
+        {
+          "label": "Légifrance (republication DILA, même décision)",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372181"
         }
       ],
       "title": "Loi relative au pacte civil de solidarité",
       "summary": "Loi relative au pacte civil de solidarité.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12435,47 +12647,19 @@
         }
       ],
       "issues": [
-        "fr.pacs-concubinage.pacs",
         "fr.constitution.droits-fondamentaux",
+        "fr.indivision",
         "fr.mariage.conditions",
         "fr.pacs-concubinage.concubinage",
-        "fr.successions.indivision-partage",
-        "fr.indivision"
-      ]
-    },
-    {
-      "id": "cons-constext000052372180",
-      "authority": "fr-cons",
-      "lang": "fr",
-      "date": "1999-07-23",
-      "court": "Conseil constitutionnel",
-      "number": "99-416 DC",
-      "ecli": "ECLI:FR:CC:1999:1999.416.DC",
-      "citation": "Cons. const., déc. n° 99-416 DC du 23 juillet 1999",
-      "publication": "Journal officiel du 28 juillet 1999, page 11250",
-      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372180",
-      "alt_urls": [
-        {
-          "label": "Conseil constitutionnel",
-          "url": "https://www.conseil-constitutionnel.fr/decision/1999/99416DC.htm"
-        }
+        "fr.pacs-concubinage.pacs",
+        "fr.successions.indivision-partage"
       ],
-      "title": "Loi portant création d'une couverture maladie universelle",
-      "summary": "Loi portant création d'une couverture maladie universelle.",
-      "summary_is_official": false,
-      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
-      "titrage": [],
-      "norms": [
-        {
-          "norm": "fr-const-ddhc-6",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006527432"
-        }
+      "excerpts": [
+        "22. Considérant que les députés auteurs de la première saisine et les sénateurs auteurs de la seconde saisine soutiennent qu'à plusieurs titres le législateur n'aurait pas exercé la compétence qu'il tient de l'article 34 de la Constitution en renvoyant à l'autorité réglementaire ou à l'autorité judiciaire \" le soin de combler les lacunes et imprécisions \" de la loi ; qu'ils font ainsi valoir que l'article 515-1 nouveau du code civil, introduit par l'article 1er de la loi déférée, ne précise pas le contenu de la notion de vie commune que le pacte civil de solidarité a vocation à organiser ; que",
+        "24. Considérant que l'article 1er de la loi déférée insère dans le livre Ier du code civil, relatif aux personnes, un titre XII intitulé : \" Du pacte civil de solidarité et du concubinage \" ; que ce titre comprend deux chapitres dont le chapitre Ier relatif au pacte civil de solidarité, composé des articles 515-1 à 515-7 ;",
+        "Article premier : Est déclaré irrecevable le mémoire de Monsieur Claude GOASGUEN, député."
       ],
-      "issues": [
-        "fr.constitution.droits-fondamentaux"
-      ]
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667968",
@@ -12492,13 +12676,16 @@
         {
           "label": "Conseil constitutionnel",
           "url": "https://www.conseil-constitutionnel.fr/decision/1999/99416DC.htm"
+        },
+        {
+          "label": "Légifrance (republication DILA, même décision)",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372180"
         }
       ],
       "title": "Loi portant création d'une couverture maladie universelle",
       "summary": "Loi portant création d'une couverture maladie universelle.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12509,44 +12696,11 @@
       ],
       "issues": [
         "fr.constitution.droits-fondamentaux"
-      ]
-    },
-    {
-      "id": "cons-constext000052372177",
-      "authority": "fr-cons",
-      "lang": "fr",
-      "date": "1998-12-29",
-      "court": "Conseil constitutionnel",
-      "number": "98-405 DC",
-      "ecli": "ECLI:FR:CC:1998:1998.405.DC",
-      "citation": "Cons. const., déc. n° 98-405 DC du 29 décembre 1998",
-      "publication": "Journal officiel du 31 décembre 1998, page 20138",
-      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372177",
-      "alt_urls": [
-        {
-          "label": "Conseil constitutionnel",
-          "url": "https://www.conseil-constitutionnel.fr/decision/1998/98405DC.htm"
-        }
       ],
-      "title": "Loi de finances pour 1999",
-      "summary": "Loi de finances pour 1999.",
-      "summary_is_official": false,
-      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
-      "titrage": [],
-      "norms": [
-        {
-          "norm": "fr-const-preambule-1946-preambule",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006527445",
-          "alineas": [
-            10
-          ]
-        }
+      "excerpts": [
+        "Article premier : L'article 42 est déclaré contraire à la Constitution."
       ],
-      "issues": [
-        "fr.constitution.droits-fondamentaux"
-      ]
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667929",
@@ -12563,13 +12717,16 @@
         {
           "label": "Conseil constitutionnel",
           "url": "https://www.conseil-constitutionnel.fr/decision/1998/98405DC.htm"
+        },
+        {
+          "label": "Légifrance (republication DILA, même décision)",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000052372177"
         }
       ],
       "title": "Loi de finances pour 1999",
       "summary": "Loi de finances pour 1999.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12583,7 +12740,11 @@
       ],
       "issues": [
         "fr.constitution.droits-fondamentaux"
-      ]
+      ],
+      "excerpts": [
+        "Article premier : Le 2° du I de l'article 2, les articles 7, 13, 18, 19, 23, 24, 29, 38, 41, 44, 51, 52, 64, 77 et 136, ainsi que l'article 107 sous les réserves ci-dessus indiquées, sont déclarés conformes à la Constitution."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667928",
@@ -12606,7 +12767,6 @@
       "summary": "Loi de financement de la sécurité sociale pour 1999.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12638,7 +12798,13 @@
         "fr.constitution.domaine-loi",
         "fr.regimes-matrimoniaux",
         "fr.successions"
-      ]
+      ],
+      "excerpts": [
+        "1. Considérant que les auteurs des saisines demandent au Conseil constitutionnel de déclarer non conforme à la Constitution la loi de financement de la sécurité sociale pour 1999 ; que les députés requérants contestent les articles 10, 22, 24, 26, 27, 28, 30, 31 et 38 ; que, pour leur part, les sénateurs requérants contestent les articles 10, 22, 26, 27, 30, 31, 32 et 34 ;",
+        "4. Considérant que les auteurs des deux requêtes critiquent le caractère rétroactif de cet article, qui, selon les députés, \"va bien au-delà des textes habituels en matière de rétroactivité fiscale\", puisqu'il \"modifie l'assiette d'un impôt déjà versé par les sociétés, et bouleverse une situation déjà soldée\" ; que cette disposition méconnaîtrait les exigences constitutionnelles relatives aux validations législatives et à la rétroactivité des lois fiscales ; qu'elle serait contraire aux principes de sécurité juridique et de confiance légitime garantis selon eux par les articles 2 et 16 de la D",
+        "Article premier : Sont déclarés contraires à la Constitution les articles 10, 26, 27, le I de l'article 28, l'article 32 et le second alinéa de l'article 43 de la loi de financement de la sécurité sociale pour 1999."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017666559",
@@ -12661,7 +12827,6 @@
       "summary": "Loi tendant à renforcer la répression du terrorisme et des atteintes aux personnes dépositaires de l'autorité publique ou chargées d'une mission de service public et comportant des dispositions relatives à la police judiciaire.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12677,7 +12842,13 @@
       ],
       "issues": [
         "fr.nationalite"
-      ]
+      ],
+      "excerpts": [
+        "1. Considérant que les sénateurs et les députés auteurs respectivement de la première et de la seconde saisines défèrent au Conseil constitutionnel la loi tendant à renforcer la répression du terrorisme et des atteintes aux personnes dépositaires de l'autorité publique ou chargées d'une mission de service public et comportant des dispositions relatives à la police judiciaire, en contestant la conformité à la Constitution des dispositions des articles 1er, 10, 15, 16, 17 et 25 ; que les sénateurs contestent par ailleurs la conformité à la Constitution de l'article 21 de l'ordonnance du 2 novemb",
+        "3. Considérant qu'aux termes de l'article 21 de cette ordonnance : \" I. Toute personne qui, alors qu'elle se trouvait en France, aura, par aide directe ou indirecte, facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger en France sera punie d'un emprisonnement de cinq ans et d'une amende de 200 000 francs... \" ; qu'en application de l'article 25 de la loi déférée, l'article 21 est complété par un III ainsi rédigé : \" III. Sans préjudice de l'article 19, ne peut donner lieu à des poursuites pénales sur le fondement du présent article l'aide au séjour irr",
+        "Article premier : Sont déclarés contraires à la Constitution :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017666666",
@@ -12700,7 +12871,6 @@
       "summary": "Loi d'orientation et de programmation relative à la sécurité.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12711,7 +12881,13 @@
       ],
       "issues": [
         "fr.constitution.autorite-judiciaire"
-      ]
+      ],
+      "excerpts": [
+        "2. Considérant que les auteurs des saisines font grief à cet article, qui fixe un régime d'autorisation et d'utilisation des installations de systèmes de vidéosurveillance, de méconnaître l'exercice de plusieurs libertés et droits fondamentaux constitutionnellement protégés ; qu'au nombre de ceux-ci figureraient, selon eux, la liberté individuelle dont l'autorité judiciaire doit assurer la garantie en vertu de l'article 66 de la Constitution, la liberté d'aller et venir sans surveillance arbitraire et généralisée et le droit au respect de la vie privée qui impliquerait un droit à l'anonymat ; ",
+        "19. Considérant en second lieu qu'en ce qui concerne les opérations de fouille de véhicules afin d'y découvrir et de saisir des armes au sens de l'article 132-75 du code pénal, celles-ci, dans la mesure où elles comportent le constat d'infractions et entraînent la poursuite de leurs auteurs, relèvent de la police judiciaire ; que s'agissant de telles opérations qui mettent en cause la liberté individuelle, l'autorisation d'y procéder doit être donnée par l'autorité judiciaire, gardienne de cette liberté en vertu de l'article 66 de la Constitution ;",
+        "Article premier : Sont déclarés contraires à la Constitution :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017666369",
@@ -12734,7 +12910,6 @@
       "summary": "Loi relative à la maîtrise de l'immigration et aux conditions d'entrée, d'accueil et de séjour des étrangers en France.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12760,7 +12935,13 @@
         "fr.constitution.autorite-judiciaire",
         "fr.constitution.droits-fondamentaux",
         "fr.constitution.traites"
-      ]
+      ],
+      "excerpts": [
+        "51. Considérant que les sénateurs, auteurs de la première saisine, font valoir qu'en ne liant plus la décision de l'autorité administrative à l'avis de cette commission, le législateur a privé de garanties légales les droits de la défense des étrangers concernés ; que les députés, auteurs de la seconde saisine, soutiennent que les dispositions de ces articles méconnaissent l'article 66 de la Constitution ;",
+        "55. Considérant en premier lieu qu'au regard de leurs attaches avec la France les étrangers qui n'ont résidé sur le territoire français que pour y effectuer des études ne sont pas dans la même situation que ceux qui y ont résidé pendant la même durée pour d'autres motifs ; que, dès lors, compte tenu du but que s'est assigné le législateur, la réserve qu'il a prévue concernant certains étudiants ne méconnaît pas le principe d'égalité ;",
+        "Article premier : Sont contraires à la Constitution :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017665990",
@@ -12783,7 +12964,6 @@
       "summary": "Loi réformant le code de la nationalité.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12794,7 +12974,13 @@
       ],
       "issues": [
         "fr.constitution.traites"
-      ]
+      ],
+      "excerpts": [
+        ". En ce qui concerne l'article 55 de la Constitution et la règle Pacta sunt servanda :",
+        "36. Considérant que les députés auteurs de la seconde saisine font grief à cette disposition de méconnaître la règle de supériorité des traités sur les lois posée par l'article 55 de la Constitution ainsi que la règle Pacta sunt servanda, résultant du quatorzième alinéa du Préambule de la Constitution de 1946, dès lors que celle-ci est contraire à une convention franco-algérienne de 1983 ouvrant aux personnes ayant la qualité de national des deux pays le libre choix du pays où ils doivent s'acquitter de leurs obligations militaires ;",
+        "Article premier : Ne sont pas conformes à la Constitution les dispositions suivantes de la loi tendant à réformer le droit de la nationalité :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017665988",
@@ -12817,7 +13003,6 @@
       "summary": "Loi autorisant la ratification de la Convention internationale n° 139 concernant la prévention et le contrôle des risques professionnels causés par les substances et agents cancérogènes, adoptée à Genève le 24 juin 1974..",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12828,7 +13013,13 @@
       ],
       "issues": [
         "fr.constitution.traites"
-      ]
+      ],
+      "excerpts": [
+        "4. Considérant d'une part, qu'aux termes de l'article 53 de la Constitution : \"Les traités de paix, les traités de commerce, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de l'État, ceux qui modifient des dispositions de nature législative, ceux qui comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi. Ils ne prennent effet qu'après avoir été ratifiés ou approuvés...\" ;",
+        "6. Considérant que la modification ainsi apportée par la loi constitutionnelle du 25 juin 1992 n'a eu ni pour objet, ni pour effet, de modifier l'article 53 précité de la Constitution relatif aux engagements internationaux de l'État qui, quelle que soit l'étendue de leur champ d'application territorial déterminée par leurs stipulations ou les règles statutaires de l'organisation internationale sous l'égide de laquelle ils sont conclus, subordonne à une autorisation donnée par une loi ordinaire la ratification ou l'approbation de certains d'entre eux ;",
+        "Article premier : La loi autorisant la ratification de la convention internationale n° 139 concernant la prévention et le contrôle des risques professionnels causés par les substances et agents cancérogènes, adoptée à Genève le 24 juin 1974, n'est pas contraire à la Constitution."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017666969",
@@ -12887,7 +13078,6 @@
       "summary": "Loi portant diverses dispositions d'ordre économique et financier.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12904,7 +13094,13 @@
       "issues": [
         "fr.constitution.traites",
         "fr.lois-generalites"
-      ]
+      ],
+      "excerpts": [
+        "Maurice Lombard, Paul Masson, Michel Maurice-Bokanowski, Jacques de Menou, Mme Hélène Missoffe, MM Geoffroy de Montalembert, Paul Moreau, Jean Natali, Lucien Neuwirth, Paul d'Ornano, Jacques Oudin, Soséfo Makapé Papilio, Alain Pluchet, Roger Rigaudière, Jean-Jacques Robert, Mme Nelly Rodi, MM Josselin de Rohan, Roger Romani, Jean Simonin, Jacques Sourdille, Louis Souvet, René Trégouët, Jacques Valade, Serge Vincon, Désiré Debavelaere, Lucien Lanier, Michel Rufin, Claude Prouvoyeur, sénateurs, dans les conditions prévues à l'article 61, alinéa 2, de la Constitution, de la conformité à celle-ci ",
+        "Vu l'ordonnance n° 59-2 du 2 janvier 1959 modifiée portant loi organique relative aux lois de finances ;",
+        "Article premier : La loi portant diverses dispositions d'ordre économique et financier n'est pas contraire à la Constitution."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667723",
@@ -12927,7 +13123,6 @@
       "summary": "Loi portant diverses dispositions relatives à la sécurité sociale et à la santé.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12941,7 +13136,11 @@
       ],
       "issues": [
         "fr.constitution.droits-fondamentaux"
-      ]
+      ],
+      "excerpts": [
+        "Article premier : Sont déclarés contraires à la Constitution dans le texte de la loi portant diverses dispositions relatives à la sécurité sociale et à la santé :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667605",
@@ -12964,7 +13163,6 @@
       "summary": "Loi de finances pour 1990.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -12993,7 +13191,13 @@
         "fr.constitution.droits-fondamentaux",
         "fr.constitution.traites",
         "fr.lois-generalites"
-      ]
+      ],
+      "excerpts": [
+        "et en dernier lieu, par MM Jacques Barrot, Georges Chavanes, Michel Jacquemin, Jean-Marie Daillet, Gérard Vignoble, Edmond Alphandéry, Germain Gengenwin, Adrien Zeller, Francis Geng, Jean-Jacques Jegou, Jean-Pierre Foucher, Dominique Baudis, Jean-Paul Fuchs, Mme Bernardette Isaac-Sibille, MM Henry Jean-Baptiste, Ambroise Guellec, François Bayrou, Edouard Landrain, Pierre Méhaignerie, Jean-Jacques Weber, Michel Voisin, Yves Fréville, Bruno Durieux, François Rochebloine, Jean Briane, Mmes Monique Papon, Christine Boutin, MM René Couanau, Jean-Yves Cozan, Adrien Durand, Bernard Stasi, Jean-Jacque",
+        "Vu l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances ;",
+        "Article premier : Sont déclarés contraires à la Constitution dans le texte de la loi de finances pour 1990 :"
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667409",
@@ -13016,7 +13220,6 @@
       "summary": "Loi de finances rectificative pour 1988.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -13027,7 +13230,13 @@
       ],
       "issues": [
         "fr.lois-generalites"
-      ]
+      ],
+      "excerpts": [
+        "Vu l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances ;",
+        "2. Considérant que le paragraphe I de l'article 21 autorise le représentant de l'Etat dans le département à déléguer le pouvoir de rendre exécutoires les rôles des impôts directs et des taxes y assimilées, tant au directeur des services fiscaux, ainsi que cela résultait de la législation antérieure, qu'aux collaborateurs de celui-ci ayant au moins le grade de directeur divisionnaire ; que le même paragraphe définit le mode de publicité des arrêtés de délégation ; que le paragraphe II de l'article 21 rend applicable le régime de délégation prévu au paragraphe précédent à la fixation de la date ",
+        "Article premier : Les articles 30 et 31 de la loi de finances rectificative pour 1988 sont déclarés contraires à la Constitution."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017667440",
@@ -13050,7 +13259,6 @@
       "summary": "Loi de finances rectificative pour 1986.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -13061,47 +13269,13 @@
       ],
       "issues": [
         "fr.lois-generalites"
-      ]
-    },
-    {
-      "id": "cons-constext000049184150",
-      "authority": "fr-cons",
-      "lang": "fr",
-      "date": "1975-01-15",
-      "court": "Conseil constitutionnel",
-      "number": "74-54 DC",
-      "ecli": "ECLI:FR:CC:1975:1974.54.DC",
-      "citation": "Cons. const., déc. n° 74-54 DC du 15 janvier 1975",
-      "publication": "Journal officiel du 16 janvier 1975, page 671",
-      "official_url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000049184150",
-      "alt_urls": [
-        {
-          "label": "Conseil constitutionnel",
-          "url": "https://www.conseil-constitutionnel.fr/decision/1975/7454DC.htm"
-        }
       ],
-      "title": "Loi relative à l'interruption volontaire de la grossesse",
-      "summary": "Loi relative à l'interruption volontaire de la grossesse.",
-      "summary_is_official": false,
-      "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
-      "titrage": [],
-      "norms": [
-        {
-          "norm": "fr-const-55",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006527541"
-        },
-        {
-          "norm": "fr-const-preambule-1946-preambule",
-          "basis": "a",
-          "cited_version": "LEGIARTI000006527445"
-        }
+      "excerpts": [
+        "Vu l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances ;",
+        "2. Considérant que, selon les auteurs de la saisine, le fait pour la loi déférée de valider rétroactivement des impositions irrégulières sous la seule réserve des décisions de justice passées en force de chose jugée a pour effet de rompre l'égalité devant la loi ou devant les charges publiques entre les contribuables dont les recours ont déjà été examinés et ceux pour lesquels ils sont toujours en instance ; que, de plus, il n'entre pas dans la compétence du législateur de porter atteinte à des droits acquis au profit de particuliers lorsque de tels droits n'ont pas été créés en méconnaissance",
+        "Article premier : Sont déclarées non conformes à la Constitution les dispositions du deuxième alinéa de l'article 41 de la loi de finances rectificative pour 1986."
       ],
-      "issues": [
-        "fr.constitution.droits-fondamentaux",
-        "fr.constitution.traites"
-      ]
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     },
     {
       "id": "cons-constext000017665674",
@@ -13118,13 +13292,16 @@
         {
           "label": "Conseil constitutionnel",
           "url": "https://www.conseil-constitutionnel.fr/decision/1975/7454DC.htm"
+        },
+        {
+          "label": "Légifrance (republication DILA, même décision)",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000049184150"
         }
       ],
       "title": "Loi relative à l'interruption volontaire de la grossesse",
       "summary": "Loi relative à l'interruption volontaire de la grossesse.",
       "summary_is_official": false,
       "summary_note": "Pas de sommaire officiel dans la base DILA ; titre et/ou passage verbatim de la décision.",
-      "excerpts": [],
       "titrage": [],
       "norms": [
         {
@@ -13141,7 +13318,13 @@
       "issues": [
         "fr.constitution.droits-fondamentaux",
         "fr.constitution.traites"
-      ]
+      ],
+      "excerpts": [
+        "2. Considérant, en premier lieu, qu'aux termes de l'article 55 de la Constitution : \"Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.\" ;",
+        "4. Considérant, en effet, que les décisions prises en application de l'article 61 de la Constitution revêtent un caractère absolu et définitif, ainsi qu'il résulte de l'article 62 qui fait obstacle à la promulgation et à la mise en application de toute disposition déclarée inconstitutionnelle ; qu'au contraire, la supériorité des traités sur les lois, dont le principe est posé à l'article 55 précité, présente un caractère à la fois relatif et contingent, tenant, d'une part, à ce qu'elle est limitée au champ d'application du traité et, d'autre part, à ce qu'elle est subordonnée à une condition ",
+        "Article premier : Les dispositions de la loi relative à l'interruption volontaire de la grossesse, déférée au Conseil constitutionnel, ne sont pas contraires à la Constitution."
+      ],
+      "excerpts_note": "Extraits verbatim ajoutés le 2026-10-12 depuis le XML DILA (miroir Tricoteuses)"
     }
   ]
 }

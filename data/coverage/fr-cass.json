@@ -1,15 +1,15 @@
 {
   "corpus": "fr-cass",
-  "updated": "2026-09-30",
+  "updated": "2026-10-12",
   "source": "Tricoteuses/DILA CASS (arrêts publiés de la Cour de cassation) https://git.tricoteuses.fr/dila/cass",
-  "source_head": "1c9dc65f6454cf4350ed878733d036eae52699ad 2026-09-21T22:01:49+02:00",
-  "norms_expected": 6029,
+  "source_head": "635a0305ef23476ad5e70883c72aad2a7a8811bf 2026-09-30T21:54:13+02:00",
+  "norms_expected": 5346,
   "norms_with_interps": 1039,
   "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
   "interps_candidates": 42638,
   "interps_screened": 144244,
   "interps_linked": 16580,
-  "interps_included": 3977,
+  "interps_included": 3931,
   "links": {
     "included": 5568,
     "excluded": 62661,
@@ -42,7 +42,16 @@
     "Arrêts inédits exclus par construction (SCOPE §3) ; Lettre/Rapport non distingués (publication = B).",
     "Citations sans le mot « article » (ex. « et 1075-1 du code de procédure civile ») non détectées.",
     "Anciennes numérotations (« ancien article », « devenu ») : seules les correspondances à texte identique sont retenues.",
-    "fr-textes : liaison par « article N de la loi/du décret/de l'ordonnance/de l'arrêté n° … du … » et LIENS DILA (« Loi 85-1372 1985-12-23 art. 55 ») ; aucun identifiant LEGIARTI/JORFTEXT n'est présent dans les LIENS CASS/JADE, la résolution se fait par nature + numéro (ou date) + article ; textes cités sans numéro d'article non liés."
+    "fr-textes : liaison par « article N de la loi/du décret/de l'ordonnance/de l'arrêté n° … du … » et LIENS DILA (« Loi 85-1372 1985-12-23 art. 55 ») ; aucun identifiant LEGIARTI/JORFTEXT n'est présent dans les LIENS CASS/JADE, la résolution se fait par nature + numéro (ou date) + article ; textes cités sans numéro d'article non liés.",
+    "Rédactions antérieures : le liage automatique ne tenait pas compte de « dans sa/leur rédaction antérieure à… » ni de « ancien article » placés après le visa ; les liens concernés ont été retirés le 2026-10-12 (voir data/coverage/fr-prior-wording-review.json). Contrôle fait sur les extraits stockés pour les décisions antérieures : un nouveau passage sur le texte intégral reste à faire."
   ],
-  "avis_note": "Les avis de la Cour de cassation figurent dans CASS (FORMATION = AVIS : 303 avis) ; ils sont tous criblés (kind = avis). Les avis rendus par la chambre criminelle apparaissent sous FORMATION = CHAMBRE_CRIMINELLE (SOLUTION « Avis sur saisine »)."
+  "avis_note": "Les avis de la Cour de cassation figurent dans CASS (FORMATION = AVIS : 303 avis) ; ils sont tous criblés (kind = avis). Les avis rendus par la chambre criminelle apparaissent sous FORMATION = CHAMBRE_CRIMINELLE (SOLUTION « Avis sur saisine »).",
+  "updates": [
+    {
+      "date": "2026-10-12",
+      "delta": "CASS_20260930 : 62 fichiers examinés, 12 décisions retenues (8 nouvelles, 4 mises à jour)",
+      "prior_wording_removed_links": 90,
+      "prior_wording_removed_interps": 54
+    }
+  ]
 }

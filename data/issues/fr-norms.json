@@ -1,7 +1,7 @@
 {
   "side": "fr",
   "lang": "fr",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "note": "Arbre des questions (FR) : nœuds thématiques 'fr.<thème>…' et plan des codes 'fr.code.<code>.<livre>.<titre>.<chapitre>' / 'fr.textes.<texte>'.",
   "nodes": [
     {
@@ -1419,7 +1419,7 @@
                 },
                 {
                   "id": "fr.code.cpc.livre-ier.titre-xvii",
-                  "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+                  "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
                   "children": [
                     {
                       "id": "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii",

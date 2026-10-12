@@ -1,0 +1,599 @@
+{
+  "generated": "2026-10-12",
+  "source": "DILA OPENDATA LEGI (Freemium 2025-07-13 + incréments quotidiens jusqu'au LEGI_20261011) ; textes des nouvelles versions : dila/donnees_juridiques (miroir Tricoteuses)",
+  "reason": "Le miroir dila/textes_juridiques est figé au 2026-07-25 et conserve des versions périmées ; ces corrections s'appliquent tant que le miroir renvoie encore l'ancienne version (stale_legiarti).",
+  "items": {
+    "fr-textes-arrete-12-mars-2020-art-1": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000041742177",
+      "abrogated_on": "2026-01-01"
+    },
+    "fr-textes-arrete-12-mars-2020-art-2": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000041742175",
+      "abrogated_on": "2026-01-01"
+    },
+    "fr-textes-decret-2017-890-art-2": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708088",
+      "legiarti": "LEGIARTI000039343200",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Les officiers de l'état civil sont placés sous le contrôle du procureur de la République du lieu où est située la commune où ils exercent.\n\nLes autorités diplomatiques et consulaires françaises agissant en qualité d'officier de l'état civil et les officiers de l'état civil du service central d'état civil exercent leurs fonctions sous le contrôle du procureur de la République du lieu où est établi ce service.\n\nLes personnes habilitées auprès de l'Office français de protection des réfugiés et apatrides à exercer les fonctions d'officier de l'état civil sont, dans le cadre de ces activités, placées sous le contrôle du procureur de la République près le tribunal judiciaire de Paris.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-7": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708162",
+      "legiarti": "LEGIARTI000039343172",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Les pièces ayant permis d'établir un acte de l'état civil, les pièces constituant le dossier de mariage ainsi que les procurations qui doivent demeurer annexées aux actes de l'état civil sont déposées en fin d'année, selon le cas, au greffe du tribunal judiciaire dans le ressort duquel est située la commune ou aux archives dépendant du ministère des affaires étrangères.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-10": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708166",
+      "legiarti": "LEGIARTI000039343168",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Sous réserve de la dispense prévue à l'article 12, les registres sont établis en double exemplaire.\n\nChaque année, l'officier de l'état civil dresse un procès-verbal d'ouverture pour chaque exemplaire de registres. Les actes de l'état civil sont tenus dans un registre unique ou dans plusieurs registres selon les catégories d'actes ou, pour les autorités diplomatiques ou consulaires, selon le pays de survenance de l'événement.\n\nLes registres sont clos et arrêtés par l'officier de l'état civil à la fin de chaque année. Sauf dispense d'élaboration des registres en double exemplaire et sous réserve des dispositions spécifiques pour les actes établis par le service central d'état civil et les autorités diplomatiques et consulaires, un des exemplaires des registres est déposé aux archives de la commune, l'autre versé au greffe du tribunal judiciaire, dans le mois de leur clôture.\n\nL'exemplaire déposé aux archives de la commune est conservé dans les conditions prévues aux articles L. 212-11 et L. 212-12 du code du patrimoine. L'exemplaire déposé au greffe est conservé pendant un délai de soixante-quinze ans avant versement aux archives départementales.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-14": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708174",
+      "legiarti": "LEGIARTI000039343166",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "La reconstitution des actes et des registres de l'état civil relève de la compétence du tribunal judiciaire dans le ressort duquel l'acte ou le registre a été établi.\n\nSont toutefois seuls compétents :\n\n1° Le tribunal judiciaire du lieu d'établissement du service central d'état civil du ministère des affaires étrangères, pour les actes détenus par ce service et ceux détenus par les autorités diplomatiques ou consulaires ;\n\n2° Le tribunal judiciaire de Paris, pour les certificats tenant lieu d'acte de l'état civil à un réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-15": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708176",
+      "legiarti": "LEGIARTI000039343163",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "En cas de destruction ou perte d'une feuille vierge, l'officier de l'état civil indique, sur le procès-verbal de clôture du registre, le numéro de la feuille ainsi que les circonstances de l'incident. Les actes de l'état civil sont établis sur les feuilles portant les numéros qui suivent.\n\nAu cas où une feuille contenant un ou plusieurs actes a été perdue, détruite ou rendue inexploitable, l'officier de l'état civil en avertit sans délai le procureur de la République territorialement compétent. Ce dernier autorise la reconstitution du ou des actes et donne toutes instructions utiles à cet effet.\n\nEn cas de destruction d'un registre, le procureur de la République sollicite du garde des sceaux, ministre de la justice, l'autorisation de reconstitution et l'engagement des dépenses.\n\nS'agissant des actes ou des registres détenus par les autorités diplomatiques ou consulaires, le chef de poste avise sans délai le service central d'état civil qui en informe immédiatement le procureur la République compétent. Ce dernier autorise leur reconstitution et donne à ce service toutes instructions utiles à cet effet. S'agissant des actes ou des registres de l'état civil détenus par le service central d'état civil, ce dernier avertit sans délai le procureur de la République territorialement compétent afin qu'il autorise leur reconstitution et donne toutes instructions utiles à cet effet.\n\nLa reconstitution des actes ou des registres est réalisée par l'officier de l'état civil à partir du second exemplaire de ceux-ci ou des données contenues dans les traitements automatisés.\n\nLe procureur de la République saisit par requête le tribunal judiciaire afin qu'il confère force probante aux actes ou registres reconstitués. Mention du jugement est portée en marge des actes reconstitués et copie de celui-ci est versée aux pièces annexes. Lorsque la reconstitution porte sur l'entier registre, copie du jugement donnant force probante aux actes est insérée en début de celui-ci et mention en est portée en marge de l'acte reconstitué, lorsqu'il est demandé une copie intégrale de celui-ci.\n\nLorsque la reconstitution de l'acte ou du registre ne peut être effectuée dans les conditions prévues au cinquième alinéa, celle-ci ne peut être opérée qu'en vertu d'un jugement supplétif rendu en application de l'article 46 du code civil, à la demande du procureur de la République ou de l'intéressé lui-même.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-20": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708090",
+      "legiarti": "LEGIARTI000039343196",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Lorsque les registres de l'état civil sont tenus en double exemplaire, les tables annuelles le sont également. Chaque exemplaire est certifié par l'officier de l'état civil chargé de son établissement. Un exemplaire est conservé par la commune ; l'autre déposé au greffe du tribunal judiciaire en même temps que le registre qu'il accompagne, dans les conditions prévues à l'article 10.\n\nLorsque la commune est dispensée d'établir un double du registre d'état civil en application de l'article 13, les tables annuelles sont établies en un exemplaire conservé par la commune dans les conditions prévues aux articles L. 212-11 et L. 212-12 du code du patrimoine.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-22": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708092",
+      "legiarti": "LEGIARTI000039343192",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Lorsque les registres de l'état civil sont tenus en double exemplaire, les tables décennales le sont également. Chaque exemplaire est certifié par l'officier de l'état civil chargé de son établissement. Un exemplaire est conservé par la commune ; l'autre versé au greffe du tribunal judiciaire, dès l'expiration du délai de six mois prévu à l'article 21, pour une durée de soixante-quinze ans avant versement aux archives départementales.\n\nLorsque la commune est dispensée d'établir un double du registre d'état civil en application de l'article 13, les tables décennales sont établies en un exemplaire conservé par la commune dans les conditions prévues aux articles L. 212-11 et L. 212-12 du code du patrimoine.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-30": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708124",
+      "legiarti": "LEGIARTI000053192130",
+      "in_force_since": "2025-12-27",
+      "status": "en vigueur",
+      "text": "Les copies intégrales des actes de naissance et des actes de mariage peuvent être délivrées à la personne à laquelle l'acte se rapporte à la condition qu'elle soit majeure ou émancipée ainsi qu'à ses ascendants, ses descendants, son conjoint, son partenaire lié par un pacte civil de solidarité, son représentant légal et aux personnes justifiant d'un mandat écrit ou du dispositif de la décision d'habilitation familiale prise en application de l'article 494-1 du code civil.\n\nLes copies intégrales des actes de reconnaissance peuvent en outre être délivrées aux héritiers de l'enfant.\n\nL'avocat peut obtenir la copie intégrale des actes de l'état civil que son client est légalement fondé à requérir.\n\nLes copies intégrales peuvent être aussi délivrées au procureur de la République, à l'officier de l'état civil, aux autorités mentionnées aux articles 26-1 et 31 du code civil compétentes pour enregistrer les déclarations d'acquisition de la nationalité française et délivrer les certificats de nationalité française, au notaire et, dans les cas où les lois et règlements les y autorisent et en référence expresse à ceux-ci, aux administrations publiques.\n\nLes généalogistes qui procèdent à des recherches en application de l'article 36 de la loi n° 2006-728 du 23 juin 2006 portant réforme des successions et des libéralités ou des dispositions de la loi n° 2014-617 du 13 juin 2014 relative aux comptes bancaires inactifs et aux contrats d'assurance vie en déshérence peuvent également obtenir une copie intégrale des actes de l'état civil, sous réserve qu'ils justifient de l'autorisation de consultation des actes de l'état civil délivrée par l'administration des archives et qu'ils soient porteurs d'un mandat ou d'une demande émanant d'un notaire, d'un organisme d'assurance ou de toute autre personne ayant un intérêt direct et légitime.\n\nLes copies intégrales des actes de décès et des actes d'enfant sans vie peuvent être délivrées à toute personne. Toutefois, lorsque la communication des informations figurant dans l'acte de décès est de nature à porter atteinte, compte tenu des circonstances du décès, à la sécurité des personnes désignées dans l'acte, le procureur de la République peut limiter la délivrance des copies intégrales de l'acte aux personnes mentionnées aux alinéas précédents ainsi qu'aux ayants droit du défunt, à la condition qu'ils justifient des nom et prénoms usuels des parents de celui-ci.\n\nLes autres personnes ainsi que les généalogistes intervenant hors les cas prévus au cinquième alinéa, ne peuvent obtenir la copie intégrale d'un acte de naissance, d'un acte de reconnaissance, d'un acte de mariage et d'un acte de décès qu'en vertu d'une autorisation du procureur de la République. En cas de refus de celui-ci, ils peuvent saisir le président du tribunal judiciaire qui statue selon la procédure accélérée au fond.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-32": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708128",
+      "legiarti": "LEGIARTI000053192122",
+      "in_force_since": "2025-12-27",
+      "status": "en vigueur",
+      "text": "Les extraits, avec indication de la filiation, des actes de naissance précisent les nom, prénoms, date et lieu de naissance des parents de la personne à laquelle l'acte se rapporte. Les extraits, avec indication de la filiation, des actes de mariage précisent les nom et prénom des parents des époux.\n\nLes extraits mentionnés à l'alinéa précédent peuvent être délivrés à la personne à laquelle ils se rapportent si elle est majeure ou émancipée ainsi qu'à ses ascendants, ses descendants, son conjoint, son partenaire lié par un pacte civil de solidarité, son représentant légal et aux personnes justifiant d'un mandat écrit ou du dispositif de la décision d'habilitation familiale prévue à l'article 494-1 du code civil.\n\nL'avocat peut obtenir l'extrait, avec indication de la filiation, des actes de l'état civil que son client est légalement fondé à requérir.\n\nCes extraits peuvent être aussi délivrés au procureur de la République, à l'officier de l'état civil, aux autorités mentionnées aux articles 26-1 et 31 du code civil compétentes pour enregistrer les déclarations d'acquisition de la nationalité française et délivrer les certificats de nationalité française, au notaire et, dans les cas où les lois et règlements les y autorisent et en référence expresse à ceux-ci, aux administrations publiques.\n\nLes généalogistes qui procèdent à des recherches en application de l'article 36 de la loi n° 2006-728 du 23 juin 2006 portant réforme des successions et des libéralités ou de la loi n° 2014-617 du 13 juin 2014 relative aux comptes bancaires inactifs et aux contrats d'assurance vie en déshérence peuvent également obtenir un extrait, avec indication de la filiation, des actes de naissance et des actes de mariage sous réserve qu'ils justifient de l'autorisation de consultation des actes de l'état civil délivrée par l'administration des archives et qu'ils soient porteurs d'un mandat ou d'une demande émanant d'un notaire, d'un organisme d'assurance ou de toute autre personne ayant un intérêt direct et légitime.\n\nLes autres personnes ainsi que les généalogistes intervenant hors le cas prévu au quatrième alinéa ne peuvent se voir délivrer ces extraits que dans les conditions prévues au septième alinéa de l'article 30.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-38": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708136",
+      "legiarti": "LEGIARTI000045282168",
+      "in_force_since": "2022-03-03",
+      "status": "en vigueur",
+      "text": "En cas de mention de rectification d'une erreur ou d'une omission relative au sexe de la personne à laquelle l'acte se rapporte, et, le cas échéant, à son ou ses prénoms, les copies intégrales délivrées ne font apparaître la mention de cette erreur ou de cette omission ainsi que sa rectification que sur autorisation du procureur de la République.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-45": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708082",
+      "legiarti": "LEGIARTI000053192119",
+      "in_force_since": "2025-12-27",
+      "status": "en vigueur",
+      "text": "Pour l'application du XVII de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016 susvisée, l'Etat s'engage pendant une période de sept ans à verser annuellement une aide aux communes qui mettent en œuvre la procédure de vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil par l'intermédiaire de la plateforme de routage dédiée aux échanges de données de l'état civil prévue à l'article 43.\n\nLe montant de cette aide, versée par l'agence nationale des titres sécurisée, est calculé au prorata des vérifications effectuées au profit des notaires et à partir d'un seuil minimal. Les modalités de calcul et de versement de cette aide sont précisées par un arrêté du garde des sceaux, ministre de la justice.\n\nPour l'application du premier alinéa du présent article, la période de sept ans court à compter d'une date fixée par un arrêté du garde des sceaux, ministre de la justice pour les communes déjà raccordées à la plateforme mentionnée au même alinéa, et à compter de la date de leur raccordement pour celles qui ne le sont pas encore.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-2017-890-art-54": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000034708144",
+      "status": "non encore en vigueur (date d'entrée en vigueur non fixée)",
+      "note": "Article jamais entré en vigueur (DILA : date de début 2999-01-01) — retiré du corpus des normes en vigueur"
+    },
+    "fr-textes-decret-2023-463-art-1": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000047690039",
+      "abrogated_on": "2024-12-06"
+    },
+    "fr-textes-decret-2023-463-art-2": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000047690040",
+      "abrogated_on": "2024-12-06"
+    },
+    "fr-textes-decret-2023-463-art-3": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000047690041",
+      "abrogated_on": "2024-12-06"
+    },
+    "fr-textes-decret-2023-463-art-4": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000047690042",
+      "abrogated_on": "2024-12-06"
+    },
+    "fr-textes-decret-2025-47-art-10": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000050981249",
+      "status": "non encore en vigueur (date d'entrée en vigueur non fixée)",
+      "note": "Article jamais entré en vigueur (DILA : date de début 2999-01-01) — retiré du corpus des normes en vigueur"
+    },
+    "fr-textes-decret-75-1339-art-24": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000039347040",
+      "legiarti": "LEGIARTI000039789013",
+      "in_force_since": "2020-01-01",
+      "status": "en vigueur",
+      "text": "Le présent décret est applicable dans les territoires d'outre-mer. Il est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019. Dans ces territoires, les attributions dévolues aux magistrats du siège et du parquet appartenant aux tribunaux de grande instance ou aux cours d'appel sont exercées par les magistrats du siège et du parquet en fonction dans les tribunaux de première instance ou dans leurs sections détachées et dans les juridictions d'appel.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-14": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000041422074",
+      "legiarti": "LEGIARTI000051906758",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Pour l'application de l'article 21-2 du code civil, tout déclarant doit justifier d'une connaissance de la langue française à l'oral et à l'écrit au moins égale au niveau B2 du Cadre européen commun de référence pour les langues, tel qu'adopté par le comité des ministres du Conseil de l'Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008.\n\nUn arrêté du ministre chargé des naturalisations définit les diplômes permettant de justifier d'un niveau égal ou supérieur au niveau requis.\n\nA défaut d'un tel diplôme, le déclarant peut justifier de la possession du niveau requis par la production d'une attestation délivrée depuis moins de deux ans à l'issue d'un test linguistique certifié ou reconnu au niveau international, comportant des épreuves distinctes évaluant son niveau de compréhension et d'expression orales et écrites. Le niveau d'expression orale du déclarant est évalué par l'organisme délivrant l'attestation dans le cadre d'un entretien.\n\nLes modalités de passation du test linguistique mentionné à l'alinéa précédent sont définies par un arrêté du ministre chargé des naturalisations. Les conditions d'inscription sont fixées par un arrêté du ministre chargé des naturalisations.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-14-1": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000047096151",
+      "legiarti": "LEGIARTI000051906761",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Pour souscrire la déclaration prévue à l'article 21-2 du code civil, le déclarant fournit :\n\n1° Un formulaire de souscription en deux exemplaires dûment renseignés, datés et signés ; toutefois, si la déclaration est déposée au moyen du téléservice mentionné à l'article 5, le formulaire est rempli en ligne ;\n\n2° Son acte de naissance ;\n\n2° bis La copie d'un document officiel d'identité, ainsi qu'une photographie d'identité récente ;\n\n3° Son acte de mariage ou sa transcription sur les registres consulaires français quand le mariage a été célébré à l'étranger, dont la copie a été délivrée depuis moins de trois mois et justifiant d'un mariage contracté depuis au moins quatre ans ;\n\n4° Tous documents corroborant que la communauté de vie tant affective que matérielle n'a pas cessé entre les deux époux depuis leur mariage ;\n\n4° bis Les actes de naissance de tous ses enfants nés avant ou après le mariage ;\n\n5° Tous documents mentionnés à l'article 11 établissant que son conjoint avait la nationalité française au jour du mariage et l'a conservée ;\n\n6° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ;\n\n7° Le cas échéant, tous documents justifiant de sa résidence régulière et ininterrompue en France pendant au moins trois ans à compter du mariage ou un certificat d'inscription du conjoint français au registre des Français établis hors de France pendant la durée de leur communauté de vie à l'étranger ;\n\n8° Le cas échéant, au titre de l'acquisition de plein droit de la nationalité française prévue à l'article 22-1 du code civil, les pièces mentionnées à l'article 12 ;\n\n9° Le cas échéant, en cas d'unions antérieures, les actes de mariage et tous documents justifiant leur dissolution ;\n\n10° Un diplôme ou une attestation, délivrée depuis moins de deux ans, justifiant d'un niveau de langue égal ou supérieur à celui exigé en application de l'article 14 et délivré dans les conditions définies par cet article. Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes dont le handicap ou l'état de santé déficient chronique rend impossible leur évaluation linguistique.\n\nLes modalités de dispense pour raison de handicap ou d'état de santé déficient chronique sont définies par arrêté conjoint du ministre des affaires étrangères, du ministre chargé des naturalisations et du ministre de la santé.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-15-1": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000041422088",
+      "legiarti": "LEGIARTI000054031977",
+      "in_force_since": "2026-05-06",
+      "status": "en vigueur",
+      "text": "I. - Pour souscrire la déclaration prévue au premier alinéa de l'article 21-11 du code civil, le déclarant fournit :\n\n1° Son acte de naissance ;\n\n2° Un document officiel d'identité, ainsi qu'une photographie d'identité récente ;\n\n3° Le titre de séjour des parents étrangers ou, à défaut, un document officiel d'identité étranger ;\n\n4° Tous documents prouvant qu'il réside en France à la date de la déclaration et qu'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans, depuis l'âge de onze ans ;\n\n5° Le cas échéant, au titre de l'acquisition de plein droit de la nationalité française prévue à l'article 22-1 du code civil, les pièces mentionnées à l'article 12 ;\n\n6° Le cas échéant, le certificat médical mentionné à l'article 17-3 du code civil attestant qu'il est empêché d'exprimer sa volonté, tous documents prouvant que son ou ses représentants légaux exercent à son égard l'autorité parentale et leur document officiel d'identité.\n\nII. - S'il est né à Mayotte, le déclarant produit en outre :\n\n1° Une des pièces mentionnées par arrêté du garde des sceaux, ministre de la justice, justifiant que depuis plus d'un an à la date de sa naissance, ses deux parents résidaient en France de manière régulière ;\n\n2° Tous documents permettant de justifier que ses deux parents résidaient en France de manière ininterrompue depuis plus d'un an à la date de sa naissance.\n\nSi la filiation n'est établie qu'à l'égard d'un seul parent, les pièces visées aux 1° et 2° ne concernent que ce seul parent.\n\nLe déclarant est dispensé de produire ces pièces lorsque figure sur son acte de naissance la mention portée en application des dispositions de l'article 2495 du code civil.\n\nIII. - S'il est né à Mayotte avant l'entrée en vigueur de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie, le déclarant produit soit les pièces mentionnées aux 1° et 2° du II du présent article, soit son acte de naissance portant la mention prévue à l'article 2495 du code civil, soit une des pièces mentionnées par arrêté du garde des sceaux, ministre de la justice, justifiant que l'un de ses parents a résidé en France de manière régulière pendant la période de cinq ans mentionnée au premier alinéa de l'article 21-11 du même code.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-15-2": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000041422083",
+      "legiarti": "LEGIARTI000054031964",
+      "in_force_since": "2026-05-06",
+      "status": "en vigueur",
+      "text": "I. ‒ Pour souscrire la déclaration prévue au second alinéa de l'article 21-11 du code civil, le déclarant fournit :\n\n1° Son acte de naissance ;\n\n2° Un document officiel d'identité, ainsi qu'une photographie d'identité récente ;\n\n3° Le titre de séjour des parents étrangers ou, à défaut, un document officiel d'identité étranger ;\n\n4° Tous documents prouvant qu'il réside en France à la date de la déclaration et qu'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans, depuis l'âge de huit ans ;\n\n5° Tous documents prouvant que son ou ses représentants légaux exercent à son égard l'autorité parentale et leur document officiel d'identité ;\n\n6° Le cas échéant, au titre de l'acquisition de plein droit de la nationalité française prévue à l'article 22-1 du code civil, les pièces mentionnées à l'article 12 ;\n\n7° Le cas échéant, le certificat médical mentionné à l'article 17-3 du code civil, attestant qu'il est empêché d'exprimer sa volonté.\n\nII. - S'il est né à Mayotte, le déclarant produit en outre :\n\n1° Une des pièces mentionnées par arrêté du garde des sceaux, ministre de la justice, justifiant que depuis plus d'un an à la date de sa naissance, ses deux parents résidaient en France de manière régulière ;\n\n2° Tous documents permettant de justifier que ses deux parents résidaient en France de manière ininterrompue depuis plus d'un an à la date de la naissance.\n\nSi la filiation n'est établie qu'à l'égard d'un seul parent, les pièces visées aux 1° et 2° ne concernent que ce seul parent.\n\nLe déclarant est dispensé de produire ces pièces lorsque figure sur son acte de naissance du mineur la mention portée en application des dispositions de l'article 2495 du code civil.\n\nIII. - S'l est né à Mayotte avant l'entrée en vigueur de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie, le déclarant produit soit les pièces mentionnées aux 1° et 2° du II du présent article, son acte de naissance du mineur comportant la mention prévue à l'article 2495 du code civil, soit une des pièces mentionnées par arrêté du garde des sceaux, ministre de la justice, justifiant que l'un de ses parents a résidé en France de manière régulière pendant la période de cinq ans mentionnée au second alinéa de l'article 21-11 du même code.\n\nLe directeur des services de greffe judiciaires recueille au cours d'un entretien dont il est dressé procès-verbal le consentement personnel du déclarant.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-30": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000049147345",
+      "legiarti": "LEGIARTI000051906766",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Lorsque la nationalité française est réclamée en France au titre de l'article 21-2,21-13-1 ou 21-13-2 du code civil, le préfet qui a reçu la déclaration enregistre la déclaration si toutes les conditions légales sont réunies. Si elles ne sont pas remplies ou s'il y a lieu de s'opposer à l'acquisition de la nationalité française pour indignité ou défaut d'assimilation autre que linguistique, le dossier, assorti de son avis motivé, est transmis au ministre chargé des naturalisations dans les six mois suivant la souscription de la déclaration.\n\nLorsque la nationalité française est réclamée à l'étranger au titre de l'article 21-2 du code civil, l'autorité compétente transmet l'entier dossier, assorti de son avis motivé, au ministre chargé des naturalisations, dans les six mois suivant la souscription de la déclaration.\n\nLe ministre chargé des naturalisations peut faire procéder à toute enquête complémentaire qu'il estime utile quant à la situation du déclarant au regard des motifs permettant de s'opposer à ce qu'il acquière la nationalité française.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-37": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000041422360",
+      "legiarti": "LEGIARTI000051906771",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Pour l'application de l'article 21-24 du code civil :\n\n1° Tout demandeur doit justifier d'une connaissance de la langue française à l'oral et à l'écrit au moins égale au niveau B2 du Cadre européen commun de référence pour les langues, tel qu'adopté par le comité des ministres du Conseil de l'Europe dans sa recommandation CM/ Rec (2008) du 2 juillet 2008.\n\nUn arrêté du ministre chargé des naturalisations définit les diplômes permettant de justifier d'un niveau égal ou supérieur au niveau requis.\n\nA défaut d'un tel diplôme, le demandeur peut justifier de la possession du niveau requis par la production d'une attestation délivrée depuis moins de deux ans à l'issue d'un test linguistique certifié ou reconnu au niveau international, comportant des épreuves distinctes évaluant son niveau de compréhension et d'expression orales et écrites. Le niveau d'expression orale du demandeur est évalué par l'organisme délivrant l'attestation dans le cadre d'un entretien.\n\nLes modalités de passation du test linguistique mentionné à l'alinéa précédent sont définies par un arrêté du ministre chargé des naturalisations.Les conditions d'inscription sont fixées par un arrêté du ministre chargé des naturalisations.\n\n2° Le demandeur doit justifier d'un niveau de connaissance de l'histoire, de la culture et de la société françaises correspondant aux éléments fondamentaux relatifs :\n\na) Aux grands repères de l'histoire de France : il est attendu que le demandeur ait une connaissance élémentaire de la construction historique de la France qui lui permette de connaître et de situer les principaux événements ou personnages auxquels il est fait référence dans la vie sociale ;\n\nb) Aux principes, symboles et institutions de la République : il est attendu du demandeur qu'il connaisse les règles de vie en société, notamment en ce qui concerne le respect des lois, des libertés fondamentales, de l'égalité, notamment entre les hommes et les femmes, de la laïcité, ainsi que les principaux éléments de l'organisation politique et administrative de la France au niveau national et territorial ;\n\nc) A l'exercice de la citoyenneté française : il est attendu du demandeur qu'il connaisse les principaux droits et devoirs qui lui incomberaient en cas d'acquisition de la nationalité, tels qu'ils sont mentionnés dans la charte des droits et devoirs du citoyen français ;\n\nd) A la place de la France dans l'Europe et dans le monde : il est attendu du demandeur une connaissance élémentaire des caractéristiques de la France, la situant dans un environnement mondial, et des principes fondamentaux de l'Union européenne.\n\nLes domaines et le niveau des connaissances attendues sont illustrés d'une part, dans un livret du citoyen, et d'autre part, dans un référentiel, disponibles en ligne, dont le contenu est approuvé par arrêté du ministre chargé des naturalisations. Ils sont élaborés par référence aux compétences correspondantes du socle commun de connaissances, de compétences et de culture mentionné au premier alinéa de l'article L. 122-1-1 du code de l'éducation.\n\nLe niveau des connaissances attendues est évalué à l'occasion d'un examen civique.\n\nLes modalités d'organisation de l'examen civique et la procédure d'agrément des organismes qui mettent en œuvre cet examen sont fixés par arrêté du ministre chargé des naturalisations et de l'accueil et de l'intégration des étrangers.\n\nLe seuil de réussite de l'examen civique est fixé par arrêté du ministre chargé des naturalisations.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-37-1": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000047096216",
+      "legiarti": "LEGIARTI000051906775",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Le demandeur fournit, selon les mêmes conditions de recevabilité que celles prévues par l'article 9 :\n\n1° Son acte de naissance ;\n\n1° bis La copie d'un document officiel d'identité, ainsi qu'une photographie d'identité récente ;\n\n2° La justification par tous moyens de sa résidence habituelle en France pendant les cinq années qui précèdent le dépôt de la demande, sous réserve des réductions ou dispenses de stage prévues aux articles 21-18 à 21-20 du code civil et, lorsque la demande est présentée au nom d'un mineur, la justification de la résidence habituelle de ce dernier pendant les cinq années qui précèdent le dépôt de la demande avec le parent qui a acquis la nationalité française ;\n\n3° Tous documents justifiant qu'il a sa résidence en France à la date de la demande, notamment des justificatifs de domicile, de ressources et de situation fiscale ;\n\n4° S'il entend bénéficier de l'assimilation de résidence prévue à l'article 21-26 du code civil, tous documents justifiant qu'il remplit les conditions posées par cet article ;\n\n5° Le cas échéant, les actes de naissance de tous ses enfants mineurs, ainsi que les pièces de nature à établir leur résidence ;\n\n6° Le cas échéant, son ou ses actes de mariage ainsi que les pièces de nature à justifier la dissolution de ses unions antérieures ;\n\n7° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ;\n\n8° Le cas échéant, au titre de l'acquisition de plein droit de la nationalité française prévue à l'article 22-1 du code civil, les pièces mentionnées à l'article 12 ;\n\n8° bis Le cas échéant, un état des services, pour les anciens combattants et les légionnaires, et les décorations et citations obtenues ;\n\n9° Un diplôme ou une attestation, délivrée depuis moins de deux ans, justifiant d'un niveau de langue égal ou supérieur à celui exigé en application de l'article 37 et délivré dans les conditions définies par cet article. Sont toutefois dispensées de la production de ce diplôme ou de cette attestation les personnes dont le handicap ou l'état de santé déficient chronique rend impossible leur évaluation linguistique.\n\nLes modalités de dispense pour raison de handicap ou d'état de santé déficient chronique sont définies par arrêté conjoint du ministre des affaires étrangères, du ministre chargé des naturalisations et du ministre de la santé.\n\n10° Une attestation justifiant de la réussite à l'examen civique mentionné à l'article 37. Sont toutefois dispensées de la production de cette attestation les personnes dont le handicap ou l'état de santé déficient chronique rend impossible leur évaluation de connaissance de l'histoire, de la culture et de la société françaises, selon les mêmes modalités de dispense que celles prévues au deuxième alinéa du 9°.\n\nDès la remise des pièces prévues ci-dessus, l'autorité auprès de laquelle la demande a été déposée délivre le récépissé prévu à l'article 21-25-1 du code civil.\n\nAprès la délivrance du récépissé et jusqu'à la décision du ministre chargé des naturalisations, le demandeur doit signaler à l'autorité qui a reçu sa demande tout changement de résidence et toute modification intervenue dans sa situation, notamment familiale et professionnelle, soit en transmettant à cette autorité le document prévu à cet effet joint au formulaire d'acquisition de la nationalité française, soit en utilisant le téléservice mentionné à l'article 5. Il sera délivré récépissé du dépôt de ce document.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-41": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000047096222",
+      "legiarti": "LEGIARTI000051906783",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Le demandeur se présente en personne devant un agent désigné nominativement par l'autorité administrative chargée de recevoir la demande et justifie de son identité par la production de l'original de son document officiel d'identité mentionné au 1° bis de l'article 37-1. Il produit également lors de cet entretien les originaux des pièces nécessaires à l'examen de sa demande. En l'absence de comparution personnelle à l'entretien sans motif légitime, l'autorité compétente peut classer sans suite sa demande sans qu'il soit besoin de fixer une nouvelle date d'entretien.\n\nLors de cet entretien individuel, conduit après réception des enquêtes prévues à l'article 36, l'agent vérifie l'assimilation du demandeur à la communauté française, selon les critères prévus par l'article 21-24 du code civil, notamment par sa connaissance suffisante des droits et devoirs conférés par la nationalité française ainsi que par son adhésion aux principes et aux valeurs essentiels de la République. L'agent établit un compte rendu de cet entretien.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-43": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000049147352",
+      "legiarti": "LEGIARTI000051907212",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Le préfet désigné par arrêté du ministre chargé des naturalisations en application de l'article 35 ou, à Paris, le préfet de police déclare la demande irrecevable sans qu'il soit besoin de procéder à l'entretien prévu à l'article 41, dès lors qu'il constate, au vu des pièces fournies en application de l'article 37-1, que les conditions requises par les articles 21-15,21-16,21-17,21-22,21-23,21-24 ou 21-27 du code civil ne sont pas remplies.\n\nLa décision de l'autorité mentionnée au premier alinéa est transmise sans délai au ministre chargé des naturalisations.\n\nSi les motifs de l'irrecevabilité disparaissent, l'intéressé peut déposer une nouvelle demande.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-93-1362-art-45": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000022414617",
+      "legiarti": "LEGIARTI000051906788",
+      "in_force_since": "2025-07-18",
+      "status": "en vigueur",
+      "text": "Dans les deux mois suivant leur notification, les décisions prises en application des articles 43 et 44 peuvent faire l'objet d'un recours auprès du ministre chargé des naturalisations, à l'exclusion de tout autre recours administratif.\n\nCe recours, pour lequel le demandeur peut se faire assister ou être représenté par toute personne de son choix, doit exposer les raisons pour lesquelles le réexamen de la demande est sollicité. Il constitue un préalable obligatoire à l'exercice d'un recours contentieux, à peine d'irrecevabilité de ce dernier, sauf pour les décisions de classement sans suite.\n\nLe silence gardé par le ministre chargé des naturalisations sur ce recours pendant plus de quatre mois vaut décision de rejet du recours.\n\nLorsque la demande en vue d'obtenir la naturalisation ou la réintégration a été présentée au moyen du téléservice mentionné à l'article 5, le recours prévu au présent article doit être formé via ce même téléservice. A défaut et sauf impossibilité technique dûment justifiée, celui-ci pourra être rejeté comme irrecevable.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-decret-94-52-art-7": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000006285836",
+      "legiarti": "LEGIARTI000051869397",
+      "in_force_since": "2025-09-01",
+      "status": "en vigueur",
+      "text": "La mention prévue à l'article 61-4 du code civil est portée en marge des actes de l'état civil des intéressés à la demande du bénéficiaire du changement de nom, adressée ou remise à l'officier de l'état civil de son lieu de naissance au vu d'une ampliation du décret autorisant le changement de nom et d'un certificat de non-opposition ou, le cas échéant, d'une copie certifiée conforme de la décision rejetant l'opposition.",
+      "text_identical_to_stale": false
+    },
+    "fr-textes-loi-2014-873-art-27": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000029333414",
+      "abrogated_on": "2026-04-01"
+    },
+    "fr-textes-loi-2016-1547-art-76": {
+      "action": "remove",
+      "stale_legiarti": "LEGIARTI000033423766",
+      "abrogated_on": "2025-05-03"
+    },
+    "fr-textes-decret-2017-890-art-1": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708108",
+      "legiarti": "LEGIARTI000034708108",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "L'établissement, la conservation, la mise à jour et la délivrance des actes de l'état civil sont assurés par les officiers de l'état civil.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-3": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708072",
+      "legiarti": "LEGIARTI000034708072",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de l'état civil établis par les officiers de l'état civil, les autorités diplomatiques et consulaires et le service central d'état civil sont inscrits, sauf opposition, selon le cas, du procureur de la République ou du ministre des affaires étrangères, sur des feuilles mobiles tenues en double exemplaire qui sont ensuite reliées en registre. Ils peuvent également être inscrits directement sur des registres déjà reliés, établis en double exemplaire.\n\nLes règles relatives à l'inscription des actes de l'état civil sur les feuilles mobiles sont déterminées par arrêté du garde des sceaux, ministre de la justice, et par arrêté conjoint de celui-ci et du ministre des affaires étrangères pour les actes établis par les autorités diplomatiques et consulaires et le service central de l'état civil. Ces arrêtés fixent les conditions de sécurité permettant de garantir l'intégrité des registres et des actes de l'état civil.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-4": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708158",
+      "legiarti": "LEGIARTI000034708158",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les feuilles destinées à l'inscription des actes de l'état civil sont numérotées.\n\nElles sont utilisées dans l'ordre de leur numérotation.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-5": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708160",
+      "legiarti": "LEGIARTI000034708160",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de l'état civil sont établis selon des procédés manuels ou informatisés. Toutefois, la signature de ces actes est toujours manuscrite.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-6": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708074",
+      "legiarti": "LEGIARTI000034708074",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de l'état civil sont numérotés et dressés sans délai, à la suite les uns des autres. Des espaces suffisants sont réservés pour l'apposition ultérieure des mentions. Lorsqu'il n'existe plus d'espaces suffisants, la mention est apposée sur les pages laissées vierges en fin de registres et réservées à cet effet ; dans ce cas, une inscription sommaire est opérée sur l'acte.\n\nLes ratures et les renvois faits au moment de l'établissement de l'acte et avant toute signature de celui-ci sont approuvés et signés de la même manière que le corps de l'acte.\n\nLes abréviations et acronymes ne sont pas autorisés hors les cas où la loi ou les règlements en admettent le principe. Le jour, le mois, l'année et l'heure de la naissance, de la reconnaissance, du mariage, du décès ou de l'accouchement d'un enfant sans vie, que l'acte constate, sont écrits en lettres. Le jour et l'année de naissance des personnes mentionnées dans les actes sont écrits en chiffres.\n\nLe nom de la commune déléguée et celui de la commune nouvelle sont, le cas échéant, précisés pour chaque lieu et domicile figurant dans les actes.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-8": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708076",
+      "legiarti": "LEGIARTI000034708076",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les mentions des actes de l'état civil apposées en marge d'autres actes de l'état civil énoncent la nature, la date et le lieu de l'événement qui a fait l'objet de l'acte mentionné ainsi que les principales énonciations de celui-ci. Elles énoncent également la date et le lieu de transcription ainsi que les références de l'acte lorsque celui-ci est détenu par le service central d'état civil du ministère des affaires étrangères.\n\nLes mentions marginales relatives à un acte reçu, enregistré ou déposé par un notaire comprennent, en outre, le nom, la qualité de l'auteur de l'acte, le lieu et le numéro « CRPCEN » de l'office notarial.\n\nLes mentions marginales des décisions judiciaires et administratives énoncent la nature, l'objet et la date de la décision ainsi que la désignation de l'autorité dont elle émane.\n\nToute mention marginale énonce, en outre, la date de son apposition ainsi que la qualité de l'officier de l'état civil qui a procédé à la mise à jour et, lorsqu'elle est manuscrite, signé la mention. La mention apposée en marge des actes détenus par les autorités diplomatiques et consulaires françaises et par le service central d'état civil énonce également le lieu d'apposition.\n\nLes mentions et les instructions aux fins de mention sont transmises à l'officier de l'état civil par courrier ou par voie dématérialisée par l'intermédiaire de la plate-forme de routage dédiée aux échanges de données de l'état civil prévue à l'article 43 et dans des conditions fixées par arrêté du garde des sceaux, ministre de la justice.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-9": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708164",
+      "legiarti": "LEGIARTI000034708164",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "L'officier de l'état civil qui recueille le consentement d'un enfant majeur à la modification de son nom par suite du changement de sa filiation en dresse un acte inscrit à sa date dans le registre des naissances. Mention en est portée en marge des actes de l'état civil de l'intéressé et, le cas échéant, de ses enfants.\n\nPareille mention est portée lorsque le consentement est recueilli par un notaire.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-11": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708168",
+      "legiarti": "LEGIARTI000034708168",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Un traitement automatisé, hébergé par la commune ou, le cas échéant, par la commune déléguée peut être utilisé pour l'établissement des actes de l'état civil et pour les mises à jour résultant de l'apposition des mentions en marge de ces actes. Les données des actes de l'état civil établis par un procédé manuel peuvent être enregistrées ultérieurement par le traitement automatisé de la commune ou, le cas échéant, de la commune déléguée.\n\nLe traitement automatisé mis en œuvre par la commune déléguée peut être hébergé par la commune nouvelle.\n\nLa commune peut déléguer l'hébergement du traitement automatisé de ses données de l'état civil ou d'une sauvegarde de ces données au département, à la région, à un établissement public de coopération intercommunale ou à toute personne morale de droit public de son choix.\n\nLa commune nouvelle peut déléguer, dans les mêmes conditions, l'hébergement du traitement automatisé des données de l'état civil de ses communes déléguées.\n\nToute utilisation mutualisée de traitement automatisé garantit que chaque commune n'a accès qu'aux données des actes de l'état civil dont elle est dépositaire. Toutefois cette disposition n'est pas applicable au sein des communes nouvelles, des communes fusionnées et des communes comportant des divisions administratives.\n\nLa commune ou le délégataire avec l'accord de la commune, peut confier l'hébergement du traitement automatisé à une personne morale de droit privé à la condition que celle-ci soit établie en France et que l'hébergement et la sauvegarde des données de l'état civil soient réalisés sur le territoire national. Dans ce cas, seule la commune ou son délégataire ont accès aux traitements automatisés, aux données de l'état civil associées et à leurs infrastructures techniques d'hébergement.\n\nLes conditions techniques de sécurité, d'intégrité et de confidentialité des traitements automatisés des données de l'état civil et de leur hébergement sont fixées par arrêté du garde des sceaux, ministre de la justice.\n\nLes données contenues dans les actes de l'état civil établis par les autorités diplomatiques et consulaires et par le service central d'état civil sont enregistrées dans un traitement automatisé hébergé par ce service.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-12": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708170",
+      "legiarti": "LEGIARTI000034708170",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les données de l'état civil gérées dans les conditions prévues à l'article 11 peuvent servir à mettre en œuvre la procédure de vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil ainsi qu'à délivrer des copies intégrales et extraits de ces actes.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-13": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708172",
+      "legiarti": "LEGIARTI000034708172",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La commune, les autorités diplomatiques et consulaires et le service central d'état civil sont dispensés, en application de l'article 40 du code civil, d'établir le registre des actes de l'état civil en double exemplaire et, en conséquence, d'envoyer des avis de mention au greffe de la juridiction, s'ils disposent d'un traitement automatisé des données de l'état civil tenu conformément aux prescriptions de l'article 11 et répondant, en outre, aux conditions suivantes :\n\n1° Permettre un délai de mise à jour des données inférieur à vingt-quatre heures ;\n\n2° Etre hébergé sur un site distinct de celui où sont tenus les registres des actes de l'état civil ;\n\n3° Etre mis en œuvre sur des infrastructures conservées dans des locaux répondant à des conditions de sécurité et de sûreté adaptées ;\n\n4° Permettre le transfert du registre au service d'archives compétent.\n\nLa dispense légale d'élaboration des registres en double exemplaire prend effet au 1er janvier de l'année qui suit celle de la demande.\n\nDans un délai de deux mois précédant l'année de sa mise en œuvre, le maire de la commune, pris en sa qualité d'officier de l'état civil, atteste auprès du procureur de la République que le traitement automatisé répond aux exigences de sécurité requises et en informe le directeur des archives compétent. Le procureur de la République peut, à tout moment, avec le concours des services de sécurité des systèmes d'information du ministère de la justice et, le cas échéant, du directeur des archives compétent, procéder à un contrôle de conformité du dispositif de traitement et de son hébergement. En cas de non-respect des conditions requises, le procureur de la République adresse une demande de mise en conformité assortie d'un délai de mise en œuvre qui ne peut excéder trois mois. A défaut de mise en conformité, le procureur de la République avise sans délai le maire que les conditions de la dispense légale d'élaboration en double exemplaire des registres ne sont pas remplies. La reconstitution du second registre de l'état civil est alors opérée dans les conditions et suivant la procédure décrite aux articles 14 et 15.\n\nS'agissant des traitements automatisés des données des actes de l'état civil du ministère des affaires étrangères, le chef du service central d'état civil atteste, dans les mêmes conditions, du respect des exigences de sécurité requises auprès du procureur de la République du lieu où est établi ce service. Ce dernier peut, à tout moment, avec le concours des services de sécurité des systèmes d'information du ministère des affaires étrangères, effectuer un contrôle de conformité selon les modalités décrites à l'alinéa précédent dont les dispositions sont, pour le surplus, applicables.\n\nLorsqu'une mention doit être apposée en marge d'un acte de l'état civil dont les données ne sont pas enregistrées dans le traitement automatisé, l'officier de l'état civil peut soit procéder à l'enregistrement des données de l'acte et de ses mentions soit enregistrer l'avis de mention dans le traitement automatisé.\n\nLes conditions techniques requises par le présent article ainsi que le modèle d'attestation de conformité du maire sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre des affaires étrangères et du ministre chargé de la culture.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-16": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708178",
+      "legiarti": "LEGIARTI000034708178",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de mariage reçus en France par les autorités diplomatiques ou consulaires étrangères et concernant des étrangers dont l'un au moins est devenu français après le mariage sont transcrits d'office ou à la demande des intéressés, sur les registres de l'état civil du lieu où le mariage a été célébré. Mention de la transcription est portée en marge de l'acte de naissance de chaque époux s'il est conservé sur un registre de l'état civil français. Le cas échéant, l'acte est préalablement transcrit dans les conditions prévues au premier alinéa de l'article 24.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-17": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708110",
+      "legiarti": "LEGIARTI000034708110",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Il est établi, tous les ans, dans chaque commune, une table alphabétique des actes de l'état civil.\n\nIl est établi tous les dix ans, à partir des tables annuelles, une table alphabétique pour chaque commune.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-18": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708112",
+      "legiarti": "LEGIARTI000034708112",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les tables annuelles sont établies soit à partir de fiches rédigées d'après les actes de l'état civil et classées par ordre alphabétique, soit à partir des données de l'état civil enregistrées dans le traitement automatisé.\n\nElles sont dressées par les officiers de l'état civil dans le mois qui suit la clôture du registre de l'année précédente et sont établies dans un ou plusieurs registres distincts.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-19": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708114",
+      "legiarti": "LEGIARTI000034708114",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Lorsque les tables annuelles sont établies dans un registre, elles recensent séparément, les unes à la suite des autres :\n\n1° Les naissances, les reconnaissances, les adoptions ;\n\n2° Les mariages ;\n\n3° Les décès et les actes d'enfant sans vie.\n\nElles ne doivent comporter qu'un nom par ligne.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-21": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708116",
+      "legiarti": "LEGIARTI000034708116",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les tables décennales sont dressées par les officiers de l'état civil dans les six premiers mois de l'année suivant l'expiration de la période décennale.\n\nElles sont établies séparément les unes à la suite des autres :\n\n1° Pour les naissances, les reconnaissances, les adoptions ;\n\n2° Pour les mariages ;\n\n3° Pour les décès et les actes d'enfants sans vie.\n\nElles ne doivent comporter qu'un nom par ligne.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-23": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708094",
+      "legiarti": "LEGIARTI000034708094",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La naissance d'un enfant qui a lieu dans une commune ou un arrondissement d'une commune autre que celle ou celui du domicile du ou des parents est inscrite sur la table annuelle et la table décennale des actes de la commune ou de l'arrondissement de ce domicile.\n\nA cet effet, l'officier de l'état civil qui a reçu l'acte de naissance ou de reconnaissance en avise, dans les trois jours, l'officier de l'état civil du lieu du domicile. Les avis indiquent les prénoms, nom, date et lieu de naissance de l'enfant, domicile du ou des parents et sont conservés jusqu'à l'établissement de la table annuelle. Ils sont alors réunis aux fiches mentionnées à l'article 18 ou enregistrés dans le traitement automatisé et font l'objet, en même temps, d'un classement unique alphabétique, en vue de la rédaction de la table.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-24": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708118",
+      "legiarti": "LEGIARTI000034708118",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de l'état civil des personnes de nationalité française dressés en pays étranger par les autorités locales sont transcrits d'office ou à la demande des intéressés sur les registres de l'état civil de l'année courante tenus par les autorités diplomatiques ou consulaires territorialement compétentes. Cette transcription est mentionnée sommairement dans les fichiers tenus au ministère des affaires étrangères et dans les postes diplomatiques et consulaires.\n\nSeules sont transcrites les énonciations qui sont portées dans les actes de l'état civil français correspondant.\n\nLorsque par suite de la rupture des relations diplomatiques ou de la fermeture du poste territorialement compétent, la transcription de l'acte de l'état civil étranger dans les registres de l'état civil français ne peut être faite dans les conditions prévues aux alinéas précédents, celle-ci est opérée par le service central d'état civil qui procède à sa mise à jour. Ce dernier peut délivrer des copies ou des extraits d'acte ou mettre en œuvre la procédure de vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil conformément aux dispositions du titre II. Les actes pris en dépôt par le ministère des affaires étrangères conformément aux dispositions antérieures à l'entrée en vigueur du décret n° 97-852 du 16 septembre 1997 sont transcrits selon les mêmes modalités à la demande des intéressés. Dès que les circonstances le permettent, le service central d'état civil adresse l'original des actes transcrits et les pièces annexes au représentant français à l'étranger ainsi que les actes restés en dépôt aux fins de transcription dans les conditions précitées.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-25": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708084",
+      "legiarti": "LEGIARTI000034708084",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La publicité des actes de l'état civil prévue à l'article 101-1 du code civil est déterminée par les dispositions du présent titre. Elle est assurée par la délivrance de copies intégrales et d'extraits d'actes de l'état civil ainsi que par la vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil, faite par les officiers de l'état civil des actes qu'ils détiennent.\n\nAu sein d'une même commune comprenant des divisions administratives où sont détenus les registres de l'état civil de leur ressort ou au sein d'une commune nouvelle, les officiers de l'état civil peuvent délivrer, chacun dans leur circonscription ou dans leur commune déléguée, des copies intégrales et extraits des actes de l'état civil dressés ou transcrits dans l'ensemble de la commune ou de la commune nouvelle. Ces dispositions sont également applicables aux communes fusionnées avant l'entrée en vigueur de la loi n° 2010-1563 du 16 décembre 2010 portant réforme des collectivités territoriales.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-26": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708086",
+      "legiarti": "LEGIARTI000034708086",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de naissance, les actes de reconnaissance et les actes de mariage ainsi que les registres de l'état civil qui les contiennent, datant de moins de soixante-quinze ans, ne peuvent être directement consultés que par les agents de l'Etat habilités à cet effet et les personnes munies d'une autorisation écrite de l'administration des archives, conformément à l'article L. 213-3 du code du patrimoine. Au-delà de ce délai, l'accès de toute personne à ces actes et registres est régi par les dispositions du chapitre III du titre Ier du livre II du même code.\n\nA l'exception des actes de décès dont la communication est de nature à porter atteinte, compte tenu des circonstances du décès, à la sécurité des personnes qui y sont désignées et qui est opérée conformément aux dispositions du 3° du I de l'article L. 213-2 du même code, les actes de décès sont librement communicables conformément à l'article L. 213-1 du code du patrimoine.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-27": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708120",
+      "legiarti": "LEGIARTI000034708120",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les copies intégrales et les extraits des actes de l'état civil portant la date de leur délivrance et revêtus de la signature et du sceau de l'autorité qui les a délivrés, font foi jusqu'à inscription de faux.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-28": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708122",
+      "legiarti": "LEGIARTI000034708122",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "A moins qu'il n'en soit disposé autrement, la durée de la validité des copies intégrales et extraits des actes de l'état civil n'est pas limitée.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-29": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708096",
+      "legiarti": "LEGIARTI000034708096",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La délivrance des copies intégrales et des extraits des actes de l'état civil est gratuite.\n\nLes demandes de copie intégrale ou d'extrait d'acte sont faites sur place, par courrier ou par télé-service mis en place par l'Etat ou les communes.\n\nLes demandes d'actes sont conservées pendant une durée d'un an. Celles-ci font l'objet d'un enregistrement lorsque la commune dispose d'un traitement automatisé.\n\nLa demande d'extrait sans indication de la filiation des actes de naissance ou de mariage indique les date et lieu de naissance ou de mariage ainsi que les nom et prénoms du ou des personnes auxquelles l'acte se rapporte.\n\nLa demande de copie intégrale ou d'extrait avec indication de la filiation d'un acte de naissance indique les nom, prénoms, date et lieu de naissance de la personne à laquelle l'acte se rapporte ainsi que les nom et prénom usuel de ses parents. La demande de copie intégrale ou d'extrait avec indication de la filiation d'un acte de mariage précise, en outre, la date et le lieu du mariage.\n\nLa demande de copie intégrale d'un acte de reconnaissance indique les nom, prénoms du déclarant ainsi que la date et le lieu de la reconnaissance.\n\nLa demande de copie intégrale d'un acte de décès ou d'un acte d'enfant sans vie indique les nom et prénoms du défunt ou de la mère ainsi que la date et le lieu du décès ou de l'accouchement.\n\nEn cas de doute sur l'identité ou la qualité du demandeur, l'officier de l'état civil est fondé à solliciter toutes pièces justificatives.\n\nLes copies intégrales et les extraits d'acte sont remis ou adressés directement par courrier au demandeur par l'officier de l'état civil dépositaire des actes.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-31": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708126",
+      "legiarti": "LEGIARTI000034708126",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les actes de naissance et les actes de mariage peuvent être délivrés sous la forme d'extrait avec ou sans indication de la filiation.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-33": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708130",
+      "legiarti": "LEGIARTI000034708130",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les dépositaires des registres sont tenus de délivrer à tout requérant les extraits des actes de naissance et des actes de mariage sans indication de la filiation.\n\nLes extraits d'acte de naissance sans indication de la filiation mentionnent, sans autres renseignements, le jour, le mois, l'année, l'heure et le lieu de naissance, le sexe, les prénoms et le nom de l'enfant et, le cas échéant, la déclaration conjointe relative au nom de celui-ci, tels que ces éléments résultent des énonciations de l'acte de naissance et des mentions portées en marge de celui-ci. Ils reproduisent, en outre, les mentions de mariage, de divorce, de séparation de corps à moins que celle-ci ne soit suivie d'une reprise de la vie commune, de conclusion, modification ou dissolution d'un pacte civil de solidarité et de décès ; à la demande du requérant, l'extrait peut comporter l'ensemble de ces mentions. Les mentions relatives à la nationalité française qui ont été portées en marge de l'acte de naissance sont reproduites sur l'extrait de l'acte dans les conditions prévues à l'article 28-1 du code civil.\n\nLes extraits d'acte de mariage indiquent, sans autres renseignements, le jour, le mois et l'année du mariage ainsi que les noms et prénoms, dates et lieux de naissance des époux, tels qu'ils résultent des énonciations de l'acte de mariage et des mentions portées en marge de celui-ci. Ils reproduisent les énonciations et mentions relatives au régime matrimonial ainsi que les mentions de divorce ou de séparation de corps ainsi que de reprise de la vie commune.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-34": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708098",
+      "legiarti": "LEGIARTI000034708098",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Les copies intégrales et extraits, avec ou sans indication de la filiation, d'actes de l'état civil peuvent être demandés directement à l'officier de l'état civil dépositaire de l'acte par une administration, un service, un établissement public, un organisme, une caisse contrôlée par l'Etat ou un autre officier de l'état civil, en charge de l'instruction d'un dossier administratif, dès lors que celui-ci ou celle-ci est légalement fondé à requérir ces actes des usagers et sous réserve que ces derniers en aient été préalablement informés.\n\nCes dispositions ne sont pas applicables lorsque la procédure de vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil prévue au chapitre II du présent titre peut être mise en œuvre par voie électronique.\n\nLes copies et extraits, avec ou sans indication de la filiation, d'actes de l'état civil régulièrement détenus par une administration, un service, un établissement public, ou par une entreprise, un organisme ou une caisse contrôlés par l'Etat sont communicables, sur leur demande, à l'un quelconque de ces organismes dans les cas où celui-ci est légalement fondé à les requérir des usagers.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-35": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708132",
+      "legiarti": "LEGIARTI000034708132",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Lorsqu'en marge d'un acte de naissance figure une mention « RC », les copies intégrales et les extraits de l'acte indiquent qu'une inscription a été prise au répertoire civil et reproduisent son numéro.\n\nLorsque ces mentions sont radiées, elles ne sont indiquées sur les copies intégrales et les extraits de l'acte que sur autorisation du procureur de la République.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-36": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708134",
+      "legiarti": "LEGIARTI000034708134",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Lorsqu'une mention a été apposée à tort en marge d'un acte de l'état civil, les copies intégrales et les extraits de l'acte n'y font référence que sur autorisation du procureur de la République.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-37": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708100",
+      "legiarti": "LEGIARTI000034708100",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Lorsqu'un enfant a fait l'objet d'une adoption plénière, d'une légitimation adoptive ou de toute autre adoption comportant rupture des liens avec la famille d'origine, les extraits d'acte de naissance le concernant, avec indication de la filiation, indiquent comme parents les adoptants sans aucune référence au jugement d'adoption.\n\nEn cas d'adoption simple, les extraits d'acte de naissance avec indication de la filiation mentionnent, outre les parents d'origine, les parents adoptifs et font référence au jugement d'adoption.\n\nEn cas de légitimation adoptive ou d'adoption comportant rupture des liens avec la famille d'origine, la copie intégrale de l'acte de naissance délivrée ne contient que les indications prévues au troisième alinéa de l'article 354 du code civil. Une copie intégrale de l'acte portant mention de l'adoption n'est délivrée qu'à la demande de l'adopté ou de l'adoptant et sur autorisation du procureur de la République.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-39": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708078",
+      "legiarti": "LEGIARTI000034708078",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Pour l'instruction de leurs dossiers et dès lors qu'ils sont fondés à requérir des actes de l'état civil, les administrations, services et établissements publics de l'Etat ou des collectivités territoriales, les caisses et organismes gérant des régimes de protection sociale peuvent faire procéder à la vérification des données de l'état civil fournies par l'usager auprès des officiers de l'état civil dépositaires de ces actes.\n\nLa procédure de vérification peut également, aux mêmes conditions, être mise en œuvre par les notaires, les officiers de l'état civil ainsi que par les personnes habilitées à exercer les fonctions d'officier de l'état civil auprès de l'Office français de protection des réfugiés et apatrides.\n\nLorsqu'elle est mise en œuvre, la procédure de vérification dispense la personne intéressée de la production de la copie intégrale ou de l'extrait d'acte de l'état civil.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-40": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708180",
+      "legiarti": "LEGIARTI000034708180",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La demande de vérification est formée par l'administration, l'organisme instructeur, l'officier de l'état civil ou le notaire à partir des informations recueillies auprès de l'usager ou du client, sous réserve que celui-ci en ait été préalablement informé.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-41": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708182",
+      "legiarti": "LEGIARTI000034708182",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "L'officier de l'état civil saisi vérifie la conformité des informations reçues à celles contenues dans l'acte de l'état civil qu'il détient. Il peut, le cas échéant, les compléter ou les rectifier dans les limites de la demande qui lui est adressée.\n\nIl atteste, par l'apposition de sa signature manuscrite ou électronique sécurisée selon le type d'échanges retenu, de la conformité des informations vérifiées à celles contenues dans l'acte de l'état civil.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-42": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708184",
+      "legiarti": "LEGIARTI000034708184",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "La demande de vérification et la réponse qu'elle appelle peuvent être communiquées à leur destinataire par lettre simple ou par voie électronique.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-43": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708080",
+      "legiarti": "LEGIARTI000034708080",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Lorsqu'elles sont échangées par voie électronique, les demandes de vérification et les réponses qu'elles appellent sont réalisées dans des conditions qui garantissent l'intégrité des informations échangées, la sécurité et la confidentialité de la transmission, l'identité et la fonction de l'expéditeur et celles du destinataire.\n\nLes demandes de vérification et les réponses à ces demandes sont transmises par l'intermédiaire d'une plate-forme sécurisée de routage dédiée aux échanges de données de l'état civil exploitée par l'agence nationale des titres sécurisés sous la maîtrise d'ouvrage du garde des sceaux, ministre de la justice.\n\nL'utilisation de la plate-forme d'échange est gratuite pour les communes. Les certificats électroniques qualifiés sont fournis par l'agence dans les mêmes conditions de gratuité.\n\nLes caractéristiques techniques de la procédure de communication électronique des données de l'état civil sont définies par arrêté du garde des sceaux, ministre de la justice.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-46": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708102",
+      "legiarti": "LEGIARTI000034708102",
+      "in_force_since": "2017-05-11",
+      "status": "en vigueur",
+      "text": "Le code de procédure civile est modifié conformément aux articles 47 à 59 du présent titre.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-59": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708070",
+      "legiarti": "LEGIARTI000034708070",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Est abrogé :\n\nLe décret n° 60-833 du 6 août 1960 relatif à la vérification des registres de l'état civil.\n\nA abrogé les dispositions suivantes :\n\n- Décret n°51-284 du 3 mars 1951\n\nArt. 1, Art. 2, Art. 3, Art. 4, Art. 5, Art. 6, Art. 7, Art. 7 bis, Art. 8, Art. 9, Art. 10\n\nA abrogé les dispositions suivantes :\n\n- Décret n° 62-921 du 3 août 1962\n\nArt. 16, Sct. Titre I : Dispositions concernant la tenue des registres., Art. 1, Art. 2, Art. 3, Art. 4, Art. 5, Art. 7, Art. 7-1, Art. 7-2, Sct. Titre II : Dispositions concernant la publicité des actes., Art. 8, Art. 9, Art. 10, Art. 11, Art. 11-1, Art. 11-2, Art. 12, Art. 13, Art. 13-1, Sct. Titre III : Dispositions concernant la vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil, Art. 13-2, Art. 13-3, Art. 13-4, Art. 13-5, Sct. Titre IV : Dispositions diverses, Art. 14, Art. 15\n\nA abrogé les dispositions suivantes :\n\n- Ordonnance du Roi du 26 novembre 1823\n\nArt. 1, Art. 3, Art. 4, Art. 5",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-60": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708154",
+      "legiarti": "LEGIARTI000034708154",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "A l'exception de celles du titre III, les dispositions du présent décret entrent en vigueur le 1er novembre 2017.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    },
+    "fr-textes-decret-2017-890-art-61": {
+      "action": "replace",
+      "stale_legiarti": "LEGIARTI000034708156",
+      "legiarti": "LEGIARTI000034708156",
+      "in_force_since": "2017-11-01",
+      "status": "en vigueur",
+      "text": "Le ministre des affaires étrangères et du développement international, le ministre de l'économie et des finances, le garde des sceaux, ministre de la justice, le ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales, le ministre de l'intérieur, la ministre de la culture et de la communication et la ministre des outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.",
+      "note": "Texte absent du miroir (« en cours de traitement ») — texte DILA LEGI"
+    }
+  }
+}

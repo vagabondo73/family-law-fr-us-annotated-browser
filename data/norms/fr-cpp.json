@@ -1,10 +1,10 @@
 {
   "corpus": "fr-cpp",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "source": {
     "legitext": "LEGITEXT000006071154",
     "mirror": "https://git.tricoteuses.fr/codes/code_de_procedure_penale.git",
-    "head": "39ee3d4a8258737c644dcd7548c1b59194bc7b7b"
+    "head": "4f52cd5a9df8f2fec3c98019851c93cdcaa432ff"
   },
   "norms": [
     {
@@ -57,7 +57,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048442148)"
     },
     {
       "id": "fr-cpp-2-6",
@@ -109,7 +110,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049532044)"
     },
     {
       "id": "fr-cpp-2-12",
@@ -161,7 +163,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033460553)"
     },
     {
       "id": "fr-cpp-2-18",
@@ -213,7 +216,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033460469)"
     },
     {
       "id": "fr-cpp-2-19",
@@ -266,7 +270,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047055092)"
     },
     {
       "id": "fr-cpp-15-3",
@@ -327,7 +332,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054725475)"
     },
     {
       "id": "fr-cpp-15-3-2",
@@ -389,7 +395,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039776502)"
     },
     {
       "id": "fr-cpp-15-3-2-1",
@@ -450,7 +457,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047242883)"
     },
     {
       "id": "fr-cpp-15-4",
@@ -510,7 +518,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047860960)"
     },
     {
       "id": "fr-cpp-15-5",
@@ -572,7 +581,8 @@
         "fr-cpp-28-3"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054478185)"
     },
     {
       "id": "fr-cpp-15-6",
@@ -632,7 +642,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051740793)"
     },
     {
       "id": "fr-cpp-21",
@@ -693,7 +704,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054725485)"
     },
     {
       "id": "fr-cpp-28-3",
@@ -757,7 +769,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042751075)"
     },
     {
       "id": "fr-cpp-41-1",
@@ -818,7 +831,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047244643)"
     },
     {
       "id": "fr-cpp-41-2",
@@ -879,7 +893,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048442054)"
     },
     {
       "id": "fr-cpp-41-3-1",
@@ -942,7 +957,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049715103)"
     },
     {
       "id": "fr-cpp-78-2-6",
@@ -996,7 +1012,8 @@
         "fr.code.cpp.partie-legislative.livre-ier.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054725020)"
     },
     {
       "id": "fr-cpp-138",
@@ -1063,7 +1080,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049571599)"
     },
     {
       "id": "fr-cpp-138-3",
@@ -1128,7 +1146,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039776179)"
     },
     {
       "id": "fr-cpp-142-12-1",
@@ -1193,7 +1212,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022469774)"
     },
     {
       "id": "fr-cpp-145-5",
@@ -1257,7 +1277,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006575337)"
     },
     {
       "id": "fr-cpp-157-2",
@@ -1317,7 +1338,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038270341)"
     },
     {
       "id": "fr-cpp-157-3",
@@ -1377,7 +1399,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049527186)"
     },
     {
       "id": "fr-cpp-230-28",
@@ -1434,7 +1457,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054478307)"
     },
     {
       "id": "fr-cpp-289",
@@ -1498,7 +1522,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044569164)"
     },
     {
       "id": "fr-cpp-291",
@@ -1564,7 +1589,8 @@
         "fr-cpp-289"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044569130)"
     },
     {
       "id": "fr-cpp-335",
@@ -1630,7 +1656,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044568831)"
     },
     {
       "id": "fr-cpp-382",
@@ -1694,7 +1721,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039279442)"
     },
     {
       "id": "fr-cpp-398-1",
@@ -1759,7 +1787,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054724190)"
     },
     {
       "id": "fr-cpp-399",
@@ -1823,7 +1852,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039279422)"
     },
     {
       "id": "fr-cpp-511",
@@ -1883,7 +1913,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006576777)"
     },
     {
       "id": "fr-cpp-529-10",
@@ -1943,7 +1974,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043375922)"
     },
     {
       "id": "fr-cpp-550",
@@ -1995,7 +2027,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006576933)"
     },
     {
       "id": "fr-cpp-622-2",
@@ -2052,7 +2085,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029112834)"
     },
     {
       "id": "fr-cpp-668",
@@ -2106,7 +2140,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577220)"
     },
     {
       "id": "fr-cpp-695-9-31-1",
@@ -2170,7 +2205,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049460049)"
     },
     {
       "id": "fr-cpp-696-90",
@@ -2227,7 +2263,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050261)"
     },
     {
       "id": "fr-cpp-696-91",
@@ -2289,7 +2326,8 @@
         "fr-cpp-696-90"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039278986)"
     },
     {
       "id": "fr-cpp-696-92",
@@ -2350,7 +2388,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050266)"
     },
     {
       "id": "fr-cpp-696-93",
@@ -2410,7 +2449,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050268)"
     },
     {
       "id": "fr-cpp-696-94",
@@ -2470,7 +2510,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050270)"
     },
     {
       "id": "fr-cpp-696-95",
@@ -2530,7 +2571,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050272)"
     },
     {
       "id": "fr-cpp-696-96",
@@ -2591,7 +2633,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050290)"
     },
     {
       "id": "fr-cpp-696-97",
@@ -2651,7 +2694,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039278984)"
     },
     {
       "id": "fr-cpp-696-98",
@@ -2711,7 +2755,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050296)"
     },
     {
       "id": "fr-cpp-696-99",
@@ -2773,7 +2818,8 @@
         "fr-cpp-696-98"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050299)"
     },
     {
       "id": "fr-cpp-696-100",
@@ -2833,7 +2879,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050302)"
     },
     {
       "id": "fr-cpp-696-101",
@@ -2893,7 +2940,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050304)"
     },
     {
       "id": "fr-cpp-696-102",
@@ -2954,7 +3002,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050319)"
     },
     {
       "id": "fr-cpp-696-103",
@@ -3015,7 +3064,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050322)"
     },
     {
       "id": "fr-cpp-696-104",
@@ -3075,7 +3125,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050324)"
     },
     {
       "id": "fr-cpp-696-105",
@@ -3135,7 +3186,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050329)"
     },
     {
       "id": "fr-cpp-696-106",
@@ -3197,7 +3249,8 @@
         "fr-cpp-696-90"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050333)"
     },
     {
       "id": "fr-cpp-696-107",
@@ -3257,7 +3310,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031050335)"
     },
     {
       "id": "fr-cpp-697",
@@ -3317,7 +3371,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039279350)"
     },
     {
       "id": "fr-cpp-706-3",
@@ -3371,7 +3426,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048442345)"
     },
     {
       "id": "fr-cpp-706-15-2",
@@ -3423,7 +3479,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039279112)"
     },
     {
       "id": "fr-cpp-706-47-1",
@@ -3479,7 +3536,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053550522)"
     },
     {
       "id": "fr-cpp-706-47-2",
@@ -3538,7 +3596,8 @@
         "fr-cpp-706-50"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577701)"
     },
     {
       "id": "fr-cpp-706-47-4",
@@ -3596,7 +3655,8 @@
         "fr-cpp-138"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032403162)"
     },
     {
       "id": "fr-cpp-706-48",
@@ -3652,7 +3712,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577688)"
     },
     {
       "id": "fr-cpp-706-49",
@@ -3708,7 +3769,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577690)"
     },
     {
       "id": "fr-cpp-706-50",
@@ -3765,7 +3827,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027811160)"
     },
     {
       "id": "fr-cpp-706-51",
@@ -3822,7 +3885,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577692)"
     },
     {
       "id": "fr-cpp-706-51-1",
@@ -3879,7 +3943,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577693)"
     },
     {
       "id": "fr-cpp-706-52",
@@ -3935,7 +4000,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045292604)"
     },
     {
       "id": "fr-cpp-706-53",
@@ -3992,7 +4058,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000037289502)"
     },
     {
       "id": "fr-cpp-706-63-1",
@@ -4048,7 +4115,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051742546)"
     },
     {
       "id": "fr-cpp-706-74-1",
@@ -4102,7 +4170,8 @@
         "fr-cpp-15-4"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051740933)"
     },
     {
       "id": "fr-cpp-706-74-4",
@@ -4156,7 +4225,8 @@
         "fr.code.cpp.partie-legislative.livre-iv.titre-xxv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051751541)"
     },
     {
       "id": "fr-cpp-706-84",
@@ -4216,7 +4286,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006577797)"
     },
     {
       "id": "fr-cpp-706-159",
@@ -4272,7 +4343,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022470146)"
     },
     {
       "id": "fr-cpp-720-1",
@@ -4332,7 +4404,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054725181)"
     },
     {
       "id": "fr-cpp-728-23",
@@ -4396,7 +4469,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027808338)"
     },
     {
       "id": "fr-cpp-729-3",
@@ -4448,7 +4522,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029370717)"
     },
     {
       "id": "fr-cpp-768",
@@ -4474,7 +4549,7 @@
       ],
       "text": "Le casier judiciaire national automatisé, qui peut comporter un ou plusieurs centres de traitement, est tenu sous l'autorité du ministre de la justice. Il reçoit, en ce qui concerne les personnes nées en France et après contrôle de leur identité au moyen du répertoire national d'identification des personnes physiques, le numéro d'identification ne pouvant en aucun cas servir de base à la vérification de l'identité :\n\n1° Les condamnations contradictoires ainsi que les condamnations par défaut, non frappées d'opposition, prononcées pour crime, délit ou contravention de la cinquième classe, ainsi que les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de la peine sauf si la mention de la décision au bulletin n° 1 a été expressément exclue en application de l'article 132-59 du code pénal ;\n\n2° Les condamnations contradictoires ou par défaut, non frappées d'opposition, pour les contraventions des quatre premières classes dès lors qu'est prise, à titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou d'incapacité ;\n\n3° Les décisions prononçant à l'égard d'un mineur une mesure éducative, une dispense de mesure éducative ou une déclaration de réussite éducative en application du titre Ier du livre Ier du code de la justice pénale des mineurs ;\n\n4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une autorité administrative lorsqu'elles entraînent ou édictent des incapacités ;\n\n5° Les jugements prononçant la faillite personnelle ou l'interdiction prévue par l'article L. 653-8 du code de commerce ;\n\n6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits y attachés ;\n\n7° Les arrêtés d'expulsion pris contre les étrangers ;\n\n8° Les condamnations prononcées par les juridictions étrangères qui, en application d'une convention ou d'un accord internationaux, ont fait l'objet d'un avis aux autorités françaises ou ont été exécutées en France à la suite du transfèrement des personnes condamnées ;\n\n9° Les compositions pénales, dont l'exécution a été constatée par le procureur de la République ;\n\n10° Les jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause de trouble mental, lorsqu'une hospitalisation d'office a été ordonnée en application de l'article 706-135 ou lorsqu'une ou plusieurs des mesures de sûreté prévues par l'article 706-136 ont été prononcées ;\n\n11° Les amendes forfaitaires pour les délits et pour les contraventions de la cinquième classe ayant fait l'objet d'un paiement ou à l'expiration des délais mentionnés au second alinéa de l'article 495-19 et au deuxième alinéa de l'article 530.\n\nSe reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.\n\nConformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.\n\nConformément au 34° de l'article 58 de l'ordonnance n° 2025-1091 du 19 novembre 2025, l'abrogation du premier alinéa de l'article 768 du code de procédure pénale en vigueur le 31 décembre 2028 ne prend effet qu'à compter de la date d'entrée en vigueur des dispositions règlementaires correspondantes qui seront prises pour l'application du code de procédure pénale annexé à l'ordonnance précitée.",
       "in_force_since": "2021-09-30",
-      "status": "en vigueur (abrogation différée au 2222-02-22)",
+      "status": "en vigueur (abrogation différée, date non fixée)",
       "applies_to": [
         "FR"
       ],
@@ -4500,7 +4575,7 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2222-02-22"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043211610)"
     },
     {
       "id": "fr-cpp-775",
@@ -4526,7 +4601,7 @@
       ],
       "text": "Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles concernant les décisions suivantes :\n\n1° Les condamnations, les déclarations de culpabilité assorties d'une dispense de peine ou d'une dispense de mesure éducative ou d'une déclaration de réussite éducative, les compositions pénales et les mesures éducatives prononcées au stade de la sanction à l'égard d'un mineur ;\n\n2° Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ;\n\n3° Les condamnations prononcées pour contraventions de police ;\n\n4° Les condamnations assorties du bénéfice du sursis, avec ou sans probation, lorsqu'elles doivent être considérées comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la décision continue de figurer au bulletin n° 2 pendant la durée de la mesure. Il en va de même des interdictions, incapacités ou déchéances prononcées, comme peine complémentaire, à titre définitif ainsi que de la peine complémentaire d'inéligibilité prévue au 2° de l'article 131-26 et aux articles 131-26-1 et 131-26-2 du même code, pendant la durée de la mesure ;\n\n5° Les condamnations ayant fait l'objet d'une réhabilitation de plein droit ou judiciaire ;\n\n6° Les condamnations auxquelles sont applicables les dispositions de l'article L. 263-4 du code de justice militaire ;\n\n7° et 8° (Abrogés) ;\n\n9° Les dispositions prononçant la déchéance de l'autorité parentale ;\n\n10° Les arrêtés d'expulsion abrogés ou rapportés ;\n\n11° Les condamnations prononcées sans sursis en application des articles 131-5 à 131-11 du code pénal, à l'expiration d'un délai de cinq ans à compter du jour où elles sont devenues définitives. Le délai est de trois ans s'il s'agit d'une condamnation à une peine de jours-amende.\n\nToutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application des articles 131-10 et 131-11, est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;\n\n12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ;\n\n13° Les condamnations prononcées par des juridictions étrangères concernant un mineur ou dont l'utilisation à des fins autres qu'une procédure pénale a été expressément exclue par la juridiction de condamnation ;\n\n14° Les compositions pénales mentionnées à l'article 768 ;\n\n15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du livre IV du code de commerce ;\n\n16° Les amendes forfaitaires contraventionnelles mentionnées au 11° de l'article 768 du présent code ;\n\n17° Les amendes forfaitaires délictuelles à l'expiration d'un délai de trois ans à compter de leur paiement ou à l'expiration du délai mentionné au second alinéa de l'article 495-19.\n\nLes bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les décisions entraînant des incapacités en matière d'exercice du droit de vote.\n\nLorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte la mention \" Néant \".",
       "in_force_since": "2026-08-20",
-      "status": "en vigueur (abrogation différée au 2222-02-22)",
+      "status": "en vigueur (abrogation différée, date non fixée)",
       "applies_to": [
         "FR"
       ],
@@ -4554,7 +4629,7 @@
         "fr-cpp-768"
       ],
       "interps": [],
-      "in_force_until": "2222-02-22"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054724764)"
     },
     {
       "id": "fr-cpp-785",
@@ -4610,7 +4685,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006578351)"
     },
     {
       "id": "fr-cpp-885",
@@ -4666,7 +4742,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000041684182)"
     },
     {
       "id": "fr-cpp-d1-11-1",
@@ -4722,7 +4799,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.titre-preliminaire.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044360387)"
     },
     {
       "id": "fr-cpp-d1-11-2",
@@ -4776,7 +4854,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.titre-preliminaire.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045660790)"
     },
     {
       "id": "fr-cpp-d1-12",
@@ -4831,7 +4910,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.titre-preliminaire.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044360617)"
     },
     {
       "id": "fr-cpp-d15-6",
@@ -4889,7 +4969,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-ier.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043616962)"
     },
     {
       "id": "fr-cpp-d17",
@@ -4951,7 +5032,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038313760)"
     },
     {
       "id": "fr-cpp-d32-25-1",
@@ -5017,7 +5099,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044629997)"
     },
     {
       "id": "fr-cpp-d32-29",
@@ -5082,7 +5165,8 @@
       "xrefs": [
         "fr-cpp-138"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022072434)"
     },
     {
       "id": "fr-cpp-d43",
@@ -5142,7 +5226,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006514902)"
     },
     {
       "id": "fr-cpp-d47-6-15",
@@ -5194,7 +5279,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044360619)"
     },
     {
       "id": "fr-cpp-d47-6-15-5",
@@ -5248,7 +5334,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xiv-ter"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052216130)"
     },
     {
       "id": "fr-cpp-d47-6-15-6",
@@ -5302,7 +5389,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xiv-ter"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052216134)"
     },
     {
       "id": "fr-cpp-d47-9-1",
@@ -5358,7 +5446,8 @@
       "xrefs": [
         "fr-cpp-706-47-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000041445941)"
     },
     {
       "id": "fr-cpp-d47-10",
@@ -5412,7 +5501,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006514953)"
     },
     {
       "id": "fr-cpp-d47-11",
@@ -5466,7 +5556,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006514954)"
     },
     {
       "id": "fr-cpp-d47-11-1",
@@ -5526,7 +5617,8 @@
         "fr-cpp-706-52",
         "fr-cpp-706-53"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032130474)"
     },
     {
       "id": "fr-cpp-d47-11-2",
@@ -5580,7 +5672,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033101755)"
     },
     {
       "id": "fr-cpp-d47-11-3",
@@ -5637,7 +5730,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044360471)"
     },
     {
       "id": "fr-cpp-d47-11-4",
@@ -5692,7 +5786,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044630005)"
     },
     {
       "id": "fr-cpp-d48-5-4",
@@ -5746,7 +5841,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043616954)"
     },
     {
       "id": "fr-cpp-d48-31",
@@ -5812,7 +5908,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029026541)"
     },
     {
       "id": "fr-cpp-d48-35",
@@ -5878,7 +5975,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029026546)"
     },
     {
       "id": "fr-cpp-d49-17-2",
@@ -5940,7 +6038,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039345068)"
     },
     {
       "id": "fr-cpp-d49-41",
@@ -6002,7 +6101,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044637218)"
     },
     {
       "id": "fr-cpp-d51",
@@ -6054,7 +6154,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045883318)"
     },
     {
       "id": "fr-cpp-d57",
@@ -6112,7 +6213,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053415232)"
     },
     {
       "id": "fr-cpp-d142",
@@ -6178,7 +6280,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042726279)"
     },
     {
       "id": "fr-cpp-d147-31",
@@ -6237,7 +6340,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033328567)"
     },
     {
       "id": "fr-cpp-d158",
@@ -6298,7 +6402,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045883097)"
     },
     {
       "id": "fr-cpp-d539",
@@ -6357,7 +6462,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045882725)"
     },
     {
       "id": "fr-cpp-d571-4",
@@ -6407,7 +6513,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-simples.livre-v.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043324809)"
     },
     {
       "id": "fr-cpp-r2-5",
@@ -6470,7 +6577,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.titre-preliminaire.sous-titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024664512)"
     },
     {
       "id": "fr-cpp-r3",
@@ -6532,7 +6640,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048366749)"
     },
     {
       "id": "fr-cpp-r5",
@@ -6594,7 +6703,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047527769)"
     },
     {
       "id": "fr-cpp-r9",
@@ -6656,7 +6766,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032348444)"
     },
     {
       "id": "fr-cpp-r10",
@@ -6720,7 +6831,8 @@
       "xrefs": [
         "fr-cpp-r3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032348436)"
     },
     {
       "id": "fr-cpp-r15-2-3",
@@ -6786,7 +6898,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046139615)"
     },
     {
       "id": "fr-cpp-r15-6-3",
@@ -6852,7 +6965,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046139700)"
     },
     {
       "id": "fr-cpp-r15-17",
@@ -6910,7 +7024,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048366755)"
     },
     {
       "id": "fr-cpp-r15-17-1",
@@ -6968,7 +7083,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046142352)"
     },
     {
       "id": "fr-cpp-r15-17-2",
@@ -7026,7 +7142,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047957527)"
     },
     {
       "id": "fr-cpp-r15-26",
@@ -7088,7 +7205,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051282200)"
     },
     {
       "id": "fr-cpp-r15-30",
@@ -7150,7 +7268,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048366769)"
     },
     {
       "id": "fr-cpp-r15-33-2",
@@ -7212,7 +7331,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006516968)"
     },
     {
       "id": "fr-cpp-r15-33-3",
@@ -7274,7 +7394,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006516970)"
     },
     {
       "id": "fr-cpp-r15-33-5",
@@ -7336,7 +7457,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006516972)"
     },
     {
       "id": "fr-cpp-r15-33-6",
@@ -7400,7 +7522,8 @@
       "xrefs": [
         "fr-cpp-r15-33-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006516974)"
     },
     {
       "id": "fr-cpp-r15-33-26",
@@ -7462,7 +7585,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517001)"
     },
     {
       "id": "fr-cpp-r15-33-27-1",
@@ -7524,7 +7648,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517003)"
     },
     {
       "id": "fr-cpp-r15-33-29-6",
@@ -7586,7 +7711,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022671297)"
     },
     {
       "id": "fr-cpp-r15-33-29-7",
@@ -7648,7 +7774,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038488362)"
     },
     {
       "id": "fr-cpp-r15-33-29-9",
@@ -7710,7 +7837,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022671288)"
     },
     {
       "id": "fr-cpp-r15-33-29-20",
@@ -7772,7 +7900,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047320696)"
     },
     {
       "id": "fr-cpp-r15-33-29-21",
@@ -7834,7 +7963,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047320698)"
     },
     {
       "id": "fr-cpp-r15-33-29-23",
@@ -7898,7 +8028,8 @@
       "xrefs": [
         "fr-cpp-r15-33-29-21"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047320702)"
     },
     {
       "id": "fr-cpp-r15-33-29-32",
@@ -7960,7 +8091,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049363452)"
     },
     {
       "id": "fr-cpp-r15-33-29-33",
@@ -8024,7 +8156,8 @@
       "xrefs": [
         "fr-cpp-r15-33-29-32"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049363450)"
     },
     {
       "id": "fr-cpp-r15-33-33",
@@ -8083,7 +8216,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517018)"
     },
     {
       "id": "fr-cpp-r15-33-66-6",
@@ -8142,7 +8276,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031876918)"
     },
     {
       "id": "fr-cpp-r24-14",
@@ -8211,7 +8346,8 @@
         "fr-cpp-138-3",
         "fr-cpp-r24-18"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358266)"
     },
     {
       "id": "fr-cpp-r24-15",
@@ -8279,7 +8415,8 @@
       "xrefs": [
         "fr-cpp-138"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358268)"
     },
     {
       "id": "fr-cpp-r24-16",
@@ -8347,7 +8484,8 @@
       "xrefs": [
         "fr-cpp-138-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358270)"
     },
     {
       "id": "fr-cpp-r24-17",
@@ -8413,7 +8551,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358272)"
     },
     {
       "id": "fr-cpp-r24-18",
@@ -8479,7 +8618,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358274)"
     },
     {
       "id": "fr-cpp-r24-19",
@@ -8547,7 +8687,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358292)"
     },
     {
       "id": "fr-cpp-r24-20",
@@ -8613,7 +8754,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358278)"
     },
     {
       "id": "fr-cpp-r24-21",
@@ -8679,7 +8821,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358280)"
     },
     {
       "id": "fr-cpp-r24-22",
@@ -8745,7 +8888,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358294)"
     },
     {
       "id": "fr-cpp-r24-23",
@@ -8811,7 +8955,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510118)"
     },
     {
       "id": "fr-cpp-r24-24",
@@ -8880,7 +9025,8 @@
         "fr-cpp-r24-14",
         "fr-cpp-r24-23"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510116)"
     },
     {
       "id": "fr-cpp-r40-27",
@@ -8938,7 +9084,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043601340)"
     },
     {
       "id": "fr-cpp-r40-34",
@@ -8996,7 +9143,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ier.titre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025818652)"
     },
     {
       "id": "fr-cpp-r49-8-4-1",
@@ -9050,7 +9198,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-ii.titre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042596262)"
     },
     {
       "id": "fr-cpp-r49-16-1",
@@ -9106,7 +9255,8 @@
       "xrefs": [
         "fr-cpp-529-10"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043734919)"
     },
     {
       "id": "fr-cpp-r49-41",
@@ -9164,7 +9314,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043970385)"
     },
     {
       "id": "fr-cpp-r53",
@@ -9223,7 +9374,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039346904)"
     },
     {
       "id": "fr-cpp-r53-1",
@@ -9282,7 +9434,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000041604691)"
     },
     {
       "id": "fr-cpp-r53-2",
@@ -9341,7 +9494,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517512)"
     },
     {
       "id": "fr-cpp-r53-3",
@@ -9400,7 +9554,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039345023)"
     },
     {
       "id": "fr-cpp-r53-4",
@@ -9462,7 +9617,8 @@
         "fr-cpp-r53-3",
         "fr-cpp-r53-8"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517518)"
     },
     {
       "id": "fr-cpp-r53-5",
@@ -9521,7 +9677,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517521)"
     },
     {
       "id": "fr-cpp-r53-6",
@@ -9580,7 +9737,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517524)"
     },
     {
       "id": "fr-cpp-r53-7",
@@ -9641,7 +9799,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517528)"
     },
     {
       "id": "fr-cpp-r53-8",
@@ -9702,7 +9861,8 @@
       "xrefs": [
         "fr-cpp-706-50"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006517532)"
     },
     {
       "id": "fr-cpp-r53-8-62",
@@ -9765,7 +9925,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000053415235)"
     },
     {
       "id": "fr-cpp-r53-20-2",
@@ -9816,7 +9977,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xx"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044275380)"
     },
     {
       "id": "fr-cpp-r53-38",
@@ -9866,7 +10028,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-iv.titre-xxiii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050332968)"
     },
     {
       "id": "fr-cpp-r55-4",
@@ -9924,7 +10087,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029007313)"
     },
     {
       "id": "fr-cpp-r55-5",
@@ -9984,7 +10148,8 @@
       "xrefs": [
         "fr-cpp-r55-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029007308)"
     },
     {
       "id": "fr-cpp-r60-1",
@@ -10042,7 +10207,8 @@
         "fr-cpp-r24-23",
         "fr-cpp-r24-20"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510302)"
     },
     {
       "id": "fr-cpp-r61-8",
@@ -10096,7 +10262,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-vii-ter"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039344982)"
     },
     {
       "id": "fr-cpp-r61-43",
@@ -10150,7 +10317,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-vii-quater"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510288)"
     },
     {
       "id": "fr-cpp-r93",
@@ -10208,7 +10376,8 @@
       "xrefs": [
         "fr-cpp-r53"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049403781)"
     },
     {
       "id": "fr-cpp-r97",
@@ -10266,7 +10435,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027907272)"
     },
     {
       "id": "fr-cpp-r121",
@@ -10328,7 +10498,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045942752)"
     },
     {
       "id": "fr-cpp-r122",
@@ -10390,7 +10561,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019282287)"
     },
     {
       "id": "fr-cpp-r216",
@@ -10458,7 +10630,8 @@
         "fr-cpp-r53-8"
       ],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000043601269)"
     },
     {
       "id": "fr-cpp-r221",
@@ -10522,7 +10695,8 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2029-01-01"
+      "in_force_until": "2029-01-01",
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000029007397)"
     },
     {
       "id": "fr-cpp-r221-1",
@@ -10584,7 +10758,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-v.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664487)"
     },
     {
       "id": "fr-cpp-r225",
@@ -10648,7 +10823,8 @@
       "xrefs": [
         "fr-cpp-r93"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032431736)"
     },
     {
       "id": "fr-cpp-r260",
@@ -10702,7 +10878,8 @@
         "fr.code.cpp.partie-reglementaire-decrets-en-conseil-d-etat.livre-vi.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039790666)"
     },
     {
       "id": "fr-cpp-a35",
@@ -10764,7 +10941,8 @@
         "fr.code.cpp.partie-arretes.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049058881)"
     },
     {
       "id": "fr-cpp-a36-10-1",
@@ -10822,7 +11000,8 @@
         "fr.code.cpp.partie-arretes.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038494336)"
     },
     {
       "id": "fr-cpp-a36-10-4",
@@ -10880,7 +11059,8 @@
         "fr.code.cpp.partie-arretes.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038494330)"
     },
     {
       "id": "fr-cpp-a36-10-5",
@@ -10938,7 +11118,8 @@
         "fr.code.cpp.partie-arretes.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038494327)"
     },
     {
       "id": "fr-cpp-a36-10-6",
@@ -10996,7 +11177,8 @@
         "fr.code.cpp.partie-arretes.livre-ier.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038494324)"
     },
     {
       "id": "fr-cpp-a43-5-1",
@@ -11049,7 +11231,8 @@
         "fr-cpp-41-1",
         "fr-cpp-41-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049856804)"
     },
     {
       "id": "fr-cpp-a43-17",
@@ -11099,7 +11282,8 @@
         "fr.code.cpp.partie-arretes.livre-v.titre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033579644)"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "corpus": "fr-cons",
-  "updated": "2026-09-30",
+  "updated": "2026-10-12",
   "source": "Tricoteuses/DILA CONSTIT https://git.tricoteuses.fr/dila/constit",
-  "source_head": "b846d6b6975319a7235588255fe81a9c972a85c5 2026-08-04T22:02:19+02:00",
-  "norms_expected": 6029,
+  "source_head": "fcc718be4858cad4ed6e1e8e5c239f5b96e6b9dc 2026-10-05T21:45:39+02:00",
+  "norms_expected": 5346,
   "norms_with_interps": 300,
   "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
   "interps_candidates": 1569,
@@ -36,6 +36,16 @@
     "Pas de sommaire officiel (tables analytiques) dans CONSTIT : résumé = titre officiel + dispositif verbatim (summary_is_official false).",
     "Décisions DC : liaison aux articles codifiés approximative (lois déférées) ; seuil de 3 mentions.",
     "Filtre thématique des normes fr-const par mots-clés du titre : quelques décisions périphériques peuvent subsister (bruit résiduel) ; exclusions comptées sous « hors-perimetre-matiere ».",
-    "Articles abrogés ou codes anciens (ex. code de la nationalité, art. 222-31-1 C. pén. abrogé) : non liables à une norme actuelle."
+    "Articles abrogés ou codes anciens (ex. code de la nationalité, art. 222-31-1 C. pén. abrogé) : non liables à une norme actuelle.",
+    "Rédactions antérieures : le liage automatique ne tenait pas compte de « dans sa/leur rédaction antérieure à… » ni de « ancien article » placés après le visa ; les liens concernés ont été retirés le 2026-10-12 (voir data/coverage/fr-prior-wording-review.json). Contrôle fait sur les extraits stockés pour les décisions antérieures : un nouveau passage sur le texte intégral reste à faire.",
+    "Extraits manquants complétés le 2026-10-12 depuis le XML DILA lorsque le texte cite l'article lié ou contient le dispositif (excerpts_note)."
+  ],
+  "updates": [
+    {
+      "date": "2026-10-12",
+      "delta": "CONSTIT 2026-08-04 → 2026-10-05 : 22 fichiers examinés, 4 décisions retenues",
+      "prior_wording_removed_links": 0,
+      "prior_wording_removed_interps": 0
+    }
   ]
 }
