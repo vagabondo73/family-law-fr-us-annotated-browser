@@ -1,10 +1,10 @@
 {
   "corpus": "fr-cpc",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "source": {
     "legitext": "LEGITEXT000006070716",
     "mirror": "https://git.tricoteuses.fr/codes/code_de_procedure_civile.git",
-    "head": "64a5dcbbf517c334b068f5820510519288f778b8"
+    "head": "456cdf4a0ccf4c9dcc12c7b7ae300c5beb35c8fe"
   },
   "norms": [
     {
@@ -52,7 +52,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051928777)"
     },
     {
       "id": "fr-cpc-338-2",
@@ -99,7 +100,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664474)"
     },
     {
       "id": "fr-cpc-338-3",
@@ -146,7 +148,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664472)"
     },
     {
       "id": "fr-cpc-338-4",
@@ -193,7 +196,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664470)"
     },
     {
       "id": "fr-cpc-338-5",
@@ -240,7 +244,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664467)"
     },
     {
       "id": "fr-cpc-338-6",
@@ -287,7 +292,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664464)"
     },
     {
       "id": "fr-cpc-338-7",
@@ -334,7 +340,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664462)"
     },
     {
       "id": "fr-cpc-338-8",
@@ -381,7 +388,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664460)"
     },
     {
       "id": "fr-cpc-338-9",
@@ -428,7 +436,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664458)"
     },
     {
       "id": "fr-cpc-338-10",
@@ -475,7 +484,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664456)"
     },
     {
       "id": "fr-cpc-338-11",
@@ -522,7 +532,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664454)"
     },
     {
       "id": "fr-cpc-338-12",
@@ -569,7 +580,8 @@
         "fr.code.cpc.livre-ier.titre-ix-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020664452)"
     },
     {
       "id": "fr-cpc-509",
@@ -620,7 +632,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006410785)"
     },
     {
       "id": "fr-cpc-509-1",
@@ -675,7 +688,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053153)"
     },
     {
       "id": "fr-cpc-509-2",
@@ -729,7 +743,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053151)"
     },
     {
       "id": "fr-cpc-509-3",
@@ -787,7 +802,8 @@
         "fr-cpc-509-2",
         "fr-cpc-509-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053259)"
     },
     {
       "id": "fr-cpc-509-4",
@@ -838,7 +854,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006410794)"
     },
     {
       "id": "fr-cpc-509-5",
@@ -889,7 +906,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006410795)"
     },
     {
       "id": "fr-cpc-509-6",
@@ -942,7 +960,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000037934002)"
     },
     {
       "id": "fr-cpc-509-7",
@@ -993,7 +1012,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039376570)"
     },
     {
       "id": "fr-cpc-509-8",
@@ -1044,7 +1064,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725886)"
     },
     {
       "id": "fr-cpc-509-9",
@@ -1097,7 +1118,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390968)"
     },
     {
       "id": "fr-cpc-509-10",
@@ -1149,7 +1171,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047048207)"
     },
     {
       "id": "fr-cpc-509-11",
@@ -1201,7 +1224,8 @@
         "fr.code.cpc.livre-ier.titre-xv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047048209)"
     },
     {
       "id": "fr-cpc-683",
@@ -1217,7 +1241,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1256,7 +1280,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747126)"
     },
     {
       "id": "fr-cpc-684",
@@ -1272,7 +1297,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1315,7 +1340,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039389942)"
     },
     {
       "id": "fr-cpc-684-1",
@@ -1331,7 +1357,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1374,7 +1400,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025526693)"
     },
     {
       "id": "fr-cpc-685",
@@ -1390,7 +1417,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1433,7 +1460,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747142)"
     },
     {
       "id": "fr-cpc-686",
@@ -1449,7 +1477,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1492,7 +1520,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025529150)"
     },
     {
       "id": "fr-cpc-687",
@@ -1508,7 +1537,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1551,7 +1580,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411083)"
     },
     {
       "id": "fr-cpc-687-1",
@@ -1567,7 +1597,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1610,7 +1640,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747153)"
     },
     {
       "id": "fr-cpc-687-2",
@@ -1626,7 +1657,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1671,7 +1702,8 @@
       "xrefs": [
         "fr-cpc-687-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038439235)"
     },
     {
       "id": "fr-cpc-688",
@@ -1687,7 +1719,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1734,7 +1766,8 @@
         "fr-cpc-684",
         "fr-cpc-687"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747131)"
     },
     {
       "id": "fr-cpc-688-1",
@@ -1750,7 +1783,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1793,7 +1826,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411086)"
     },
     {
       "id": "fr-cpc-688-2",
@@ -1809,7 +1843,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1852,7 +1886,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039386726)"
     },
     {
       "id": "fr-cpc-688-3",
@@ -1868,7 +1903,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1911,7 +1946,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747159)"
     },
     {
       "id": "fr-cpc-688-4",
@@ -1927,7 +1963,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -1970,7 +2006,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411090)"
     },
     {
       "id": "fr-cpc-688-5",
@@ -1986,7 +2023,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -2029,7 +2066,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411091)"
     },
     {
       "id": "fr-cpc-688-6",
@@ -2045,7 +2083,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -2088,7 +2126,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747162)"
     },
     {
       "id": "fr-cpc-688-7",
@@ -2104,7 +2143,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -2147,7 +2186,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411093)"
     },
     {
       "id": "fr-cpc-688-8",
@@ -2163,7 +2203,7 @@
           "id": "livre_ier"
         },
         {
-          "label": "Titre XVII : Délais, actes d'huissier de justice et notifications.",
+          "label": "Titre XVII : Délais, actes de commissaires de justice et notifications",
           "id": "titre_xvii"
         },
         {
@@ -2206,7 +2246,8 @@
         "fr.code.cpc.livre-ier.titre-xvii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411094)"
     },
     {
       "id": "fr-cpc-734",
@@ -2261,7 +2302,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764511)"
     },
     {
       "id": "fr-cpc-734-1",
@@ -2316,7 +2358,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034687514)"
     },
     {
       "id": "fr-cpc-734-2",
@@ -2371,7 +2414,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034687540)"
     },
     {
       "id": "fr-cpc-735",
@@ -2430,7 +2474,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390732)"
     },
     {
       "id": "fr-cpc-736",
@@ -2489,7 +2534,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390702)"
     },
     {
       "id": "fr-cpc-737",
@@ -2548,7 +2594,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390674)"
     },
     {
       "id": "fr-cpc-738",
@@ -2607,7 +2654,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390641)"
     },
     {
       "id": "fr-cpc-739",
@@ -2666,7 +2714,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764487)"
     },
     {
       "id": "fr-cpc-740",
@@ -2725,7 +2774,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764483)"
     },
     {
       "id": "fr-cpc-741",
@@ -2784,7 +2834,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764479)"
     },
     {
       "id": "fr-cpc-742",
@@ -2843,7 +2894,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764475)"
     },
     {
       "id": "fr-cpc-743",
@@ -2902,7 +2954,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764471)"
     },
     {
       "id": "fr-cpc-744",
@@ -2961,7 +3014,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764467)"
     },
     {
       "id": "fr-cpc-745",
@@ -3020,7 +3074,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764463)"
     },
     {
       "id": "fr-cpc-746",
@@ -3079,7 +3134,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764459)"
     },
     {
       "id": "fr-cpc-747",
@@ -3138,7 +3194,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764455)"
     },
     {
       "id": "fr-cpc-747-1",
@@ -3197,7 +3254,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034688026)"
     },
     {
       "id": "fr-cpc-747-2",
@@ -3256,7 +3314,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039389657)"
     },
     {
       "id": "fr-cpc-748",
@@ -3315,7 +3374,8 @@
         "fr.code.cpc.livre-ier.titre-xx.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034764435)"
     },
     {
       "id": "fr-cpc-1038",
@@ -3370,7 +3430,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937607)"
     },
     {
       "id": "fr-cpc-1039",
@@ -3425,7 +3486,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937605)"
     },
     {
       "id": "fr-cpc-1040",
@@ -3453,17 +3515,17 @@
           "id": "section_1"
         }
       ],
-      "text": "Dans toutes les instances où s'élève à titre principal ou incident une contestation sur la nationalité ou sur le refus de délivrance d'un certificat de nationalité française, une copie de l'assignation ou de la requête ou, le cas échéant, une copie des conclusions soulevant la contestation sont déposées au ministère de la justice qui en délivre récépissé. Le dépôt des pièces peut être remplacé par l'envoi de ces pièces par lettre recommandée avec demande d'avis de réception.\n\nLa juridiction civile ne peut statuer sur la nationalité ou sur le refus de délivrance d'un certificat de nationalité française avant l'expiration d'un délai d'un mois à compter de la délivrance du récépissé ou de l'avis de réception. Toutefois, ce délai est de dix jours lorsque la contestation sur la nationalité a fait l'objet d'une question préjudicielle devant une juridiction statuant en matière électorale.\n\nL'acte introductif d'instance est caduc et les conclusions soulevant une question de nationalité irrecevables, s'il n'est pas justifié des diligences prévues aux alinéas qui précèdent.\n\nLes dispositions du présent article sont applicables aux voies de recours.\n\nSe reporter aux conditions d'application prévues à l'article 3 du décret n° 2022-899 du 17 juin 2022.",
-      "in_force_since": "2022-09-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "Dans toutes les instances où s'élève à titre principal ou incident une contestation sur la nationalité ou sur le refus de délivrance d'un certificat de nationalité française, une copie de l'assignation ou de la requête ou, le cas échéant, une copie des conclusions soulevant la contestation sont communiquées au ministère de la justice par le ministère public par courrier électronique dans des conditions assurant la confidentialité des informations transmises.\n\nLes dispositions du présent article sont applicables aux voies de recours.\n\nConformément au 1° et au b) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 8 du décret précité, entrent en vigueur le 1er octobre 2026 et sont applicables aux instances introduites à compter de la date d'entrée en vigueur du décret.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045937629",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054560786",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000045937629"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054560786"
         },
         {
           "label": "Tricoteuses git",
@@ -3471,9 +3533,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000045937629",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054560786",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.nationalite",
@@ -3482,7 +3543,7 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054560786)"
     },
     {
       "id": "fr-cpc-1041",
@@ -3537,7 +3598,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937634)"
     },
     {
       "id": "fr-cpc-1042",
@@ -3592,7 +3654,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937614)"
     },
     {
       "id": "fr-cpc-1043",
@@ -3647,7 +3710,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937610)"
     },
     {
       "id": "fr-cpc-1044",
@@ -3702,7 +3766,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937621)"
     },
     {
       "id": "fr-cpc-1045",
@@ -3759,7 +3824,8 @@
       "xrefs": [
         "fr-cpc-1044"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045937617)"
     },
     {
       "id": "fr-cpc-1045-1",
@@ -3814,7 +3880,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050431952)"
     },
     {
       "id": "fr-cpc-1045-2",
@@ -3872,7 +3939,8 @@
         "fr-cpc-1045-1",
         "fr-cpc-1040"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045933985)"
     },
     {
       "id": "fr-cpc-1046",
@@ -3931,7 +3999,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039389696)"
     },
     {
       "id": "fr-cpc-1046-1",
@@ -3990,7 +4059,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034714454)"
     },
     {
       "id": "fr-cpc-1047",
@@ -4050,7 +4120,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723899)"
     },
     {
       "id": "fr-cpc-1048",
@@ -4109,7 +4180,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039389860)"
     },
     {
       "id": "fr-cpc-1049",
@@ -4168,7 +4240,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411791)"
     },
     {
       "id": "fr-cpc-1050",
@@ -4227,7 +4300,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411794)"
     },
     {
       "id": "fr-cpc-1051",
@@ -4286,7 +4360,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723889)"
     },
     {
       "id": "fr-cpc-1052",
@@ -4345,7 +4420,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624788)"
     },
     {
       "id": "fr-cpc-1053",
@@ -4404,7 +4480,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723884)"
     },
     {
       "id": "fr-cpc-1054",
@@ -4463,7 +4540,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723879)"
     },
     {
       "id": "fr-cpc-1054-1",
@@ -4522,7 +4600,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597243)"
     },
     {
       "id": "fr-cpc-1055",
@@ -4581,7 +4660,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723874)"
     },
     {
       "id": "fr-cpc-1055-1",
@@ -4636,7 +4716,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034325625)"
     },
     {
       "id": "fr-cpc-1055-2",
@@ -4691,7 +4772,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387928)"
     },
     {
       "id": "fr-cpc-1055-3",
@@ -4719,17 +4801,17 @@
           "id": "section_ii"
         }
       ],
-      "text": "Les demandes formées en application des dispositions du troisième alinéa de l'article 57 et du dernier alinéa de l'article 60 du code civil obéissent aux règles de la procédure écrite ordinaire applicable devant le tribunal judiciaire.\n\nToutefois, la décision n'est exécutoire à titre provisoire que si elle l'ordonne.\n\nConformément à l’article 12 du décret n° 2020-1452 du 27 novembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021. Elles s'appliquent aux instances en cours à cette date.",
-      "in_force_since": "2021-01-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "Les demandes formées en application des dispositions du quatrième alinéa de l'article 57 et du dernier alinéa de l'article 60 du code civil obéissent aux règles de la procédure écrite ordinaire applicable devant le tribunal judiciaire.\n\nToutefois, la décision n'est exécutoire à titre provisoire que si elle l'ordonne.\n\nConformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597238",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559916",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000042597238"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054559916"
         },
         {
           "label": "Tricoteuses git",
@@ -4737,9 +4819,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000042597238",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054559916",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.etat-civil.nom-prenom",
@@ -4748,7 +4829,7 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054559916)"
     },
     {
       "id": "fr-cpc-1055-4",
@@ -4776,17 +4857,17 @@
           "id": "section_ii"
         }
       ],
-      "text": "Le dispositif de la décision ordonnant la modification du prénom est transmis sans délai par le procureur de la République à l'officier de l'état civil dépositaire des actes de l'état civil de l'intéressé en marge desquels est portée la mention de la décision.",
-      "in_force_since": "2017-04-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "Le dispositif de la décision ordonnant la modification du prénom est transmis à l'officier de l'état civil dépositaire des actes de l'état civil de l'intéressé en marge desquels est portée la mention de la décision :\n\n1° Par le procureur de la République, sans délai, lorsque la décision intervient sur le fondement des dispositions du quatrième alinéa de l'article 57 du code civil ;\n\n2° Par la personne ayant demandé le changement de prénom, à compter de l'acquisition du caractère exécutoire de la décision, lorsque celle-ci a été rendue sur le fondement des dispositions du dernier alinéa de l'article 60 du code civil.\n\nConformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034325606",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559921",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000034325606"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054559921"
         },
         {
           "label": "Tricoteuses git",
@@ -4794,9 +4875,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000034325606",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054559921",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.etat-civil.nom-prenom",
@@ -4805,7 +4885,7 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054559921)"
     },
     {
       "id": "fr-cpc-1055-5",
@@ -4860,7 +4940,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045282113)"
     },
     {
       "id": "fr-cpc-1055-6",
@@ -4915,7 +4996,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034322829)"
     },
     {
       "id": "fr-cpc-1055-7",
@@ -4970,7 +5052,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034322831)"
     },
     {
       "id": "fr-cpc-1055-8",
@@ -5025,7 +5108,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034322833)"
     },
     {
       "id": "fr-cpc-1055-9",
@@ -5080,7 +5164,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034322835)"
     },
     {
       "id": "fr-cpc-1055-10",
@@ -5135,7 +5220,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597236)"
     },
     {
       "id": "fr-cpc-1056",
@@ -5190,7 +5276,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411815)"
     },
     {
       "id": "fr-cpc-1056-1",
@@ -5248,7 +5335,8 @@
         "fr-cpc-1049",
         "fr-cpc-1055"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025191491)"
     },
     {
       "id": "fr-cpc-1056-2",
@@ -5304,7 +5392,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025185617)"
     },
     {
       "id": "fr-cpc-1057",
@@ -5355,7 +5444,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039378030)"
     },
     {
       "id": "fr-cpc-1058",
@@ -5406,7 +5496,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039380721)"
     },
     {
       "id": "fr-cpc-1059",
@@ -5457,7 +5548,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387348)"
     },
     {
       "id": "fr-cpc-1060",
@@ -5508,7 +5600,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026832305)"
     },
     {
       "id": "fr-cpc-1061",
@@ -5559,7 +5652,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411829)"
     },
     {
       "id": "fr-cpc-1061-1",
@@ -5609,7 +5703,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iii-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624763)"
     },
     {
       "id": "fr-cpc-1062",
@@ -5664,7 +5759,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039380765)"
     },
     {
       "id": "fr-cpc-1063",
@@ -5719,7 +5815,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105768)"
     },
     {
       "id": "fr-cpc-1064",
@@ -5777,7 +5874,8 @@
         "fr-cpc-1057",
         "fr-cpc-1061"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039380804)"
     },
     {
       "id": "fr-cpc-1065",
@@ -5832,7 +5930,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390607)"
     },
     {
       "id": "fr-cpc-1066",
@@ -5887,7 +5986,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039380844)"
     },
     {
       "id": "fr-cpc-1067",
@@ -5942,7 +6042,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411839)"
     },
     {
       "id": "fr-cpc-1067-1",
@@ -5997,7 +6098,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597231)"
     },
     {
       "id": "fr-cpc-1068",
@@ -6052,7 +6154,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411840)"
     },
     {
       "id": "fr-cpc-1069",
@@ -6107,7 +6210,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-iv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411841)"
     },
     {
       "id": "fr-cpc-1070",
@@ -6165,7 +6269,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644533)"
     },
     {
       "id": "fr-cpc-1071",
@@ -6219,7 +6324,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051928863)"
     },
     {
       "id": "fr-cpc-1072",
@@ -6274,7 +6380,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411862)"
     },
     {
       "id": "fr-cpc-1072-1",
@@ -6331,7 +6438,8 @@
       "xrefs": [
         "fr-cpc-1187-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051928858)"
     },
     {
       "id": "fr-cpc-1072-2",
@@ -6385,7 +6493,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020518123)"
     },
     {
       "id": "fr-cpc-1073",
@@ -6439,7 +6548,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039726002)"
     },
     {
       "id": "fr-cpc-1074",
@@ -6494,7 +6604,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021504217)"
     },
     {
       "id": "fr-cpc-1074-1",
@@ -6551,7 +6662,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597224)"
     },
     {
       "id": "fr-cpc-1074-2",
@@ -6607,7 +6719,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045250555)"
     },
     {
       "id": "fr-cpc-1074-3",
@@ -6662,7 +6775,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049887227)"
     },
     {
       "id": "fr-cpc-1074-4",
@@ -6721,7 +6835,8 @@
         "fr-cpc-1074-3",
         "fr-cpc-1136-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985231)"
     },
     {
       "id": "fr-cpc-1075",
@@ -6784,7 +6899,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411869)"
     },
     {
       "id": "fr-cpc-1075-1",
@@ -6848,7 +6964,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411872)"
     },
     {
       "id": "fr-cpc-1075-2",
@@ -6912,7 +7029,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411850)"
     },
     {
       "id": "fr-cpc-1076",
@@ -6976,7 +7094,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411874)"
     },
     {
       "id": "fr-cpc-1076-1",
@@ -7042,7 +7161,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411876)"
     },
     {
       "id": "fr-cpc-1077",
@@ -7105,7 +7225,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747846)"
     },
     {
       "id": "fr-cpc-1078",
@@ -7169,7 +7290,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026364106)"
     },
     {
       "id": "fr-cpc-1079",
@@ -7233,7 +7355,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411888)"
     },
     {
       "id": "fr-cpc-1080",
@@ -7297,7 +7420,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411890)"
     },
     {
       "id": "fr-cpc-1081",
@@ -7360,7 +7484,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644538)"
     },
     {
       "id": "fr-cpc-1082",
@@ -7425,7 +7550,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411899)"
     },
     {
       "id": "fr-cpc-1082-1",
@@ -7489,7 +7615,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412056)"
     },
     {
       "id": "fr-cpc-1083",
@@ -7554,7 +7681,8 @@
       "xrefs": [
         "fr-cpc-1074-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411905)"
     },
     {
       "id": "fr-cpc-1084",
@@ -7620,7 +7748,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411909)"
     },
     {
       "id": "fr-cpc-1085",
@@ -7683,7 +7812,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411911)"
     },
     {
       "id": "fr-cpc-1086",
@@ -7746,7 +7876,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411913)"
     },
     {
       "id": "fr-cpc-1087",
@@ -7811,7 +7942,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411916)"
     },
     {
       "id": "fr-cpc-1088",
@@ -7871,7 +8003,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411918)"
     },
     {
       "id": "fr-cpc-1089",
@@ -7931,7 +8064,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411920)"
     },
     {
       "id": "fr-cpc-1090",
@@ -7994,7 +8128,8 @@
       "xrefs": [
         "fr-cpc-1075"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411922)"
     },
     {
       "id": "fr-cpc-1091",
@@ -8055,7 +8190,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747852)"
     },
     {
       "id": "fr-cpc-1092",
@@ -8115,7 +8251,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747855)"
     },
     {
       "id": "fr-cpc-1099",
@@ -8176,7 +8313,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411938)"
     },
     {
       "id": "fr-cpc-1100",
@@ -8236,7 +8374,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411940)"
     },
     {
       "id": "fr-cpc-1101",
@@ -8298,7 +8437,8 @@
       "xrefs": [
         "fr-cpc-1092"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411944)"
     },
     {
       "id": "fr-cpc-1102",
@@ -8358,7 +8498,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411947)"
     },
     {
       "id": "fr-cpc-1103",
@@ -8418,7 +8559,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411949)"
     },
     {
       "id": "fr-cpc-1104",
@@ -8478,7 +8620,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411951)"
     },
     {
       "id": "fr-cpc-1105",
@@ -8538,7 +8681,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042941168)"
     },
     {
       "id": "fr-cpc-1106",
@@ -8601,7 +8745,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644573)"
     },
     {
       "id": "fr-cpc-1107",
@@ -8664,7 +8809,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053188)"
     },
     {
       "id": "fr-cpc-1108",
@@ -8727,7 +8873,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044200274)"
     },
     {
       "id": "fr-cpc-1109",
@@ -8792,7 +8939,8 @@
       "xrefs": [
         "fr-cpc-1107"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644558)"
     },
     {
       "id": "fr-cpc-1115",
@@ -8855,7 +9003,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644554)"
     },
     {
       "id": "fr-cpc-1116",
@@ -8918,7 +9067,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644550)"
     },
     {
       "id": "fr-cpc-1117",
@@ -8981,7 +9131,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597206)"
     },
     {
       "id": "fr-cpc-1118",
@@ -9044,7 +9195,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644544)"
     },
     {
       "id": "fr-cpc-1119",
@@ -9107,7 +9259,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644541)"
     },
     {
       "id": "fr-cpc-1120",
@@ -9170,7 +9323,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021504231)"
     },
     {
       "id": "fr-cpc-1121",
@@ -9233,7 +9387,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021504223)"
     },
     {
       "id": "fr-cpc-1122",
@@ -9296,7 +9451,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021504247)"
     },
     {
       "id": "fr-cpc-1123",
@@ -9362,7 +9518,8 @@
       "xrefs": [
         "fr-cpc-1123-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644618)"
     },
     {
       "id": "fr-cpc-1123-1",
@@ -9426,7 +9583,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039640374)"
     },
     {
       "id": "fr-cpc-1124",
@@ -9489,7 +9647,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006411998)"
     },
     {
       "id": "fr-cpc-1125",
@@ -9552,7 +9711,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412001)"
     },
     {
       "id": "fr-cpc-1126",
@@ -9615,7 +9775,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644624)"
     },
     {
       "id": "fr-cpc-1126-1",
@@ -9678,7 +9839,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039640424)"
     },
     {
       "id": "fr-cpc-1127",
@@ -9741,7 +9903,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412005)"
     },
     {
       "id": "fr-cpc-1128",
@@ -9804,7 +9967,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412008)"
     },
     {
       "id": "fr-cpc-1129",
@@ -9864,7 +10028,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412024)"
     },
     {
       "id": "fr-cpc-1130",
@@ -9924,7 +10089,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412026)"
     },
     {
       "id": "fr-cpc-1131",
@@ -9984,7 +10150,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624785)"
     },
     {
       "id": "fr-cpc-1132",
@@ -10046,7 +10213,8 @@
       "xrefs": [
         "fr-cpc-1090"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039644647)"
     },
     {
       "id": "fr-cpc-1133",
@@ -10105,7 +10273,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412032)"
     },
     {
       "id": "fr-cpc-1134",
@@ -10164,7 +10333,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412011)"
     },
     {
       "id": "fr-cpc-1135",
@@ -10223,7 +10393,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412014)"
     },
     {
       "id": "fr-cpc-1136",
@@ -10283,7 +10454,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412019)"
     },
     {
       "id": "fr-cpc-1136-1",
@@ -10340,7 +10512,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624778)"
     },
     {
       "id": "fr-cpc-1136-2",
@@ -10397,7 +10570,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531222)"
     },
     {
       "id": "fr-cpc-1136-3",
@@ -10456,7 +10630,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985298)"
     },
     {
       "id": "fr-cpc-1136-5",
@@ -10515,7 +10690,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985294)"
     },
     {
       "id": "fr-cpc-1136-6",
@@ -10574,7 +10750,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985290)"
     },
     {
       "id": "fr-cpc-1136-7",
@@ -10633,7 +10810,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985278)"
     },
     {
       "id": "fr-cpc-1136-8",
@@ -10694,7 +10872,8 @@
       "xrefs": [
         "fr-cpc-1136-5"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985270)"
     },
     {
       "id": "fr-cpc-1136-9",
@@ -10754,7 +10933,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985262)"
     },
     {
       "id": "fr-cpc-1136-11",
@@ -10813,7 +10993,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985259)"
     },
     {
       "id": "fr-cpc-1136-12",
@@ -10872,7 +11053,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985255)"
     },
     {
       "id": "fr-cpc-1136-13",
@@ -10932,7 +11114,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985250)"
     },
     {
       "id": "fr-cpc-1136-14",
@@ -10993,7 +11176,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985243)"
     },
     {
       "id": "fr-cpc-1136-15",
@@ -11054,7 +11238,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050985238)"
     },
     {
       "id": "fr-cpc-1136-15-1",
@@ -11115,7 +11300,8 @@
       "xrefs": [
         "fr-cpc-1136-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050981410)"
     },
     {
       "id": "fr-cpc-1136-15-2",
@@ -11176,7 +11362,8 @@
       "xrefs": [
         "fr-cpc-1136-15-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050981412)"
     },
     {
       "id": "fr-cpc-1136-15-3",
@@ -11235,7 +11422,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050981414)"
     },
     {
       "id": "fr-cpc-1136-15-4",
@@ -11294,7 +11482,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050981416)"
     },
     {
       "id": "fr-cpc-1136-15-5",
@@ -11353,7 +11542,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050981420)"
     },
     {
       "id": "fr-cpc-1136-16",
@@ -11409,7 +11599,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358392)"
     },
     {
       "id": "fr-cpc-1136-17",
@@ -11465,7 +11656,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358395)"
     },
     {
       "id": "fr-cpc-1136-18",
@@ -11521,7 +11713,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358397)"
     },
     {
       "id": "fr-cpc-1136-19",
@@ -11577,7 +11770,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358399)"
     },
     {
       "id": "fr-cpc-1136-20",
@@ -11633,7 +11827,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358406)"
     },
     {
       "id": "fr-cpc-1136-21",
@@ -11692,7 +11887,8 @@
         "fr-cpc-1136-12",
         "fr-cpc-1136-20"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042358410)"
     },
     {
       "id": "fr-cpc-1136-22",
@@ -11748,7 +11944,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510076)"
     },
     {
       "id": "fr-cpc-1136-23",
@@ -11804,7 +12001,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045510069)"
     },
     {
       "id": "fr-cpc-1137",
@@ -11859,7 +12057,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597202)"
     },
     {
       "id": "fr-cpc-1138",
@@ -11917,7 +12116,8 @@
         "fr-cpc-1139",
         "fr-cpc-1141"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000030360291)"
     },
     {
       "id": "fr-cpc-1139",
@@ -11973,7 +12173,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624049)"
     },
     {
       "id": "fr-cpc-1140",
@@ -12029,7 +12230,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597196)"
     },
     {
       "id": "fr-cpc-1141",
@@ -12084,7 +12286,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412044)"
     },
     {
       "id": "fr-cpc-1142",
@@ -12139,7 +12342,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412046)"
     },
     {
       "id": "fr-cpc-1143",
@@ -12194,7 +12398,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033740281)"
     },
     {
       "id": "fr-cpc-1144",
@@ -12245,7 +12450,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034723927)"
     },
     {
       "id": "fr-cpc-1144-1",
@@ -12296,7 +12502,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747835)"
     },
     {
       "id": "fr-cpc-1144-2",
@@ -12347,7 +12554,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747833)"
     },
     {
       "id": "fr-cpc-1144-3",
@@ -12399,7 +12607,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747823)"
     },
     {
       "id": "fr-cpc-1144-4",
@@ -12452,7 +12661,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747831)"
     },
     {
       "id": "fr-cpc-1144-5",
@@ -12503,7 +12713,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042941165)"
     },
     {
       "id": "fr-cpc-1145",
@@ -12556,7 +12767,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045250546)"
     },
     {
       "id": "fr-cpc-1146",
@@ -12607,7 +12819,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747810)"
     },
     {
       "id": "fr-cpc-1147",
@@ -12659,7 +12872,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747807)"
     },
     {
       "id": "fr-cpc-1148",
@@ -12710,7 +12924,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747800)"
     },
     {
       "id": "fr-cpc-1148-1",
@@ -12761,7 +12976,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747827)"
     },
     {
       "id": "fr-cpc-1148-2",
@@ -12816,7 +13032,8 @@
         "fr-cpc-1088",
         "fr-cpc-1092"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033747825)"
     },
     {
       "id": "fr-cpc-1148-3",
@@ -12867,7 +13084,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-v-bis"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039642478)"
     },
     {
       "id": "fr-cpc-1149",
@@ -12922,7 +13140,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597228)"
     },
     {
       "id": "fr-cpc-1149-1",
@@ -12977,7 +13196,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412066)"
     },
     {
       "id": "fr-cpc-1150",
@@ -13032,7 +13252,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412068)"
     },
     {
       "id": "fr-cpc-1151",
@@ -13088,7 +13309,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412072)"
     },
     {
       "id": "fr-cpc-1156",
@@ -13143,7 +13365,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412087)"
     },
     {
       "id": "fr-cpc-1157-2",
@@ -13201,7 +13424,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045282103)"
     },
     {
       "id": "fr-cpc-1157-3",
@@ -13261,7 +13485,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000045282096)"
     },
     {
       "id": "fr-cpc-1165",
@@ -13316,7 +13541,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412111)"
     },
     {
       "id": "fr-cpc-1166",
@@ -13371,7 +13597,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039380864)"
     },
     {
       "id": "fr-cpc-1167",
@@ -13426,7 +13653,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412113)"
     },
     {
       "id": "fr-cpc-1168",
@@ -13481,7 +13709,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412114)"
     },
     {
       "id": "fr-cpc-1169",
@@ -13536,7 +13765,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412115)"
     },
     {
       "id": "fr-cpc-1170",
@@ -13591,7 +13821,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412116)"
     },
     {
       "id": "fr-cpc-1171",
@@ -13648,7 +13879,8 @@
       "xrefs": [
         "fr-cpc-1168"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412119)"
     },
     {
       "id": "fr-cpc-1173",
@@ -13703,7 +13935,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412121)"
     },
     {
       "id": "fr-cpc-1174",
@@ -13762,7 +13995,8 @@
       "xrefs": [
         "fr-cpc-1056"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046805735)"
     },
     {
       "id": "fr-cpc-1175",
@@ -13817,7 +14051,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412124)"
     },
     {
       "id": "fr-cpc-1175-1",
@@ -13872,7 +14107,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046801363)"
     },
     {
       "id": "fr-cpc-1176",
@@ -13927,7 +14163,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412125)"
     },
     {
       "id": "fr-cpc-1177",
@@ -13982,7 +14219,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624775)"
     },
     {
       "id": "fr-cpc-1177-1",
@@ -14037,7 +14275,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046801397)"
     },
     {
       "id": "fr-cpc-1178",
@@ -14092,7 +14331,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412127)"
     },
     {
       "id": "fr-cpc-1178-1",
@@ -14147,7 +14387,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042597233)"
     },
     {
       "id": "fr-cpc-1179",
@@ -14202,7 +14443,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412132)"
     },
     {
       "id": "fr-cpc-1179-1",
@@ -14257,7 +14499,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412134)"
     },
     {
       "id": "fr-cpc-1180",
@@ -14312,7 +14555,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053177)"
     },
     {
       "id": "fr-cpc-1180-1",
@@ -14368,7 +14612,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000046805729)"
     },
     {
       "id": "fr-cpc-1180-2",
@@ -14423,7 +14668,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412147)"
     },
     {
       "id": "fr-cpc-1180-3",
@@ -14480,7 +14726,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026364110)"
     },
     {
       "id": "fr-cpc-1180-4",
@@ -14535,7 +14782,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026363269)"
     },
     {
       "id": "fr-cpc-1180-5",
@@ -14590,7 +14838,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026701470)"
     },
     {
       "id": "fr-cpc-1180-5-1",
@@ -14645,7 +14894,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000042174675)"
     },
     {
       "id": "fr-cpc-1180-6",
@@ -14704,7 +14954,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105154)"
     },
     {
       "id": "fr-cpc-1180-7",
@@ -14763,7 +15014,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387608)"
     },
     {
       "id": "fr-cpc-1180-8",
@@ -14822,7 +15074,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105158)"
     },
     {
       "id": "fr-cpc-1180-9",
@@ -14881,7 +15134,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105160)"
     },
     {
       "id": "fr-cpc-1180-10",
@@ -14942,7 +15196,8 @@
       "xrefs": [
         "fr-cpc-1187-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105170)"
     },
     {
       "id": "fr-cpc-1180-11",
@@ -15001,7 +15256,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105172)"
     },
     {
       "id": "fr-cpc-1180-12",
@@ -15060,7 +15316,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105174)"
     },
     {
       "id": "fr-cpc-1180-13",
@@ -15119,7 +15376,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105177)"
     },
     {
       "id": "fr-cpc-1180-14",
@@ -15178,7 +15436,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105179)"
     },
     {
       "id": "fr-cpc-1180-15",
@@ -15237,7 +15496,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105182)"
     },
     {
       "id": "fr-cpc-1180-16",
@@ -15297,7 +15557,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018400)"
     },
     {
       "id": "fr-cpc-1180-17",
@@ -15357,7 +15618,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105190)"
     },
     {
       "id": "fr-cpc-1180-18",
@@ -15419,7 +15681,8 @@
         "fr-cpc-1239",
         "fr-cpc-1247"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105193)"
     },
     {
       "id": "fr-cpc-1180-19",
@@ -15478,7 +15741,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747697)"
     },
     {
       "id": "fr-cpc-1181",
@@ -15533,7 +15797,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034748154)"
     },
     {
       "id": "fr-cpc-1182",
@@ -15591,7 +15856,8 @@
         "fr-cpc-1186",
         "fr-cpc-1187"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469340)"
     },
     {
       "id": "fr-cpc-1183",
@@ -15646,7 +15912,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149884)"
     },
     {
       "id": "fr-cpc-1184",
@@ -15703,7 +15970,8 @@
       "xrefs": [
         "fr-cpc-1182"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469353)"
     },
     {
       "id": "fr-cpc-1185",
@@ -15758,7 +16026,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469370)"
     },
     {
       "id": "fr-cpc-1186",
@@ -15813,7 +16082,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469380)"
     },
     {
       "id": "fr-cpc-1187",
@@ -15869,7 +16139,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149872)"
     },
     {
       "id": "fr-cpc-1187-1",
@@ -15929,7 +16200,8 @@
         "fr-cpc-1180-11",
         "fr-cpc-1221-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105773)"
     },
     {
       "id": "fr-cpc-1188",
@@ -15985,7 +16257,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149868)"
     },
     {
       "id": "fr-cpc-1189",
@@ -16040,7 +16313,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469350)"
     },
     {
       "id": "fr-cpc-1189-1",
@@ -16095,7 +16369,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149043)"
     },
     {
       "id": "fr-cpc-1190",
@@ -16151,7 +16426,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149861)"
     },
     {
       "id": "fr-cpc-1191",
@@ -16206,7 +16482,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469383)"
     },
     {
       "id": "fr-cpc-1192",
@@ -16262,7 +16539,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149854)"
     },
     {
       "id": "fr-cpc-1193",
@@ -16317,7 +16595,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412175)"
     },
     {
       "id": "fr-cpc-1194",
@@ -16374,7 +16653,8 @@
       "xrefs": [
         "fr-cpc-1190"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412176)"
     },
     {
       "id": "fr-cpc-1195",
@@ -16429,7 +16709,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000030360302)"
     },
     {
       "id": "fr-cpc-1196",
@@ -16484,7 +16765,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412182)"
     },
     {
       "id": "fr-cpc-1197",
@@ -16539,7 +16821,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000027469347)"
     },
     {
       "id": "fr-cpc-1198",
@@ -16594,7 +16877,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412186)"
     },
     {
       "id": "fr-cpc-1199",
@@ -16649,7 +16933,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412187)"
     },
     {
       "id": "fr-cpc-1199-1",
@@ -16704,7 +16989,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053203)"
     },
     {
       "id": "fr-cpc-1199-2",
@@ -16759,7 +17045,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036036118)"
     },
     {
       "id": "fr-cpc-1199-3",
@@ -16814,7 +17101,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000036034570)"
     },
     {
       "id": "fr-cpc-1200",
@@ -16869,7 +17157,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412189)"
     },
     {
       "id": "fr-cpc-1200-1",
@@ -16924,7 +17213,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053205)"
     },
     {
       "id": "fr-cpc-1200-1-1",
@@ -16979,7 +17269,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000052959996)"
     },
     {
       "id": "fr-cpc-1200-2",
@@ -17034,7 +17325,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033202599)"
     },
     {
       "id": "fr-cpc-1200-3",
@@ -17089,7 +17381,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034748147)"
     },
     {
       "id": "fr-cpc-1200-4",
@@ -17147,7 +17440,8 @@
         "fr-cpc-1200-5",
         "fr-cpc-1200-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034748140)"
     },
     {
       "id": "fr-cpc-1200-5",
@@ -17202,7 +17496,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053235)"
     },
     {
       "id": "fr-cpc-1200-6",
@@ -17257,7 +17552,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053233)"
     },
     {
       "id": "fr-cpc-1200-7",
@@ -17312,7 +17608,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053231)"
     },
     {
       "id": "fr-cpc-1200-8",
@@ -17367,7 +17664,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039066519)"
     },
     {
       "id": "fr-cpc-1200-9",
@@ -17424,7 +17722,8 @@
       "xrefs": [
         "fr-cpc-1200-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053226)"
     },
     {
       "id": "fr-cpc-1200-10",
@@ -17479,7 +17778,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053224)"
     },
     {
       "id": "fr-cpc-1200-11",
@@ -17534,7 +17834,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053220)"
     },
     {
       "id": "fr-cpc-1200-12",
@@ -17593,7 +17894,8 @@
         "fr-cpc-1195",
         "fr-cpc-1196"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053215)"
     },
     {
       "id": "fr-cpc-1200-13",
@@ -17650,7 +17952,8 @@
       "xrefs": [
         "fr-cpc-1200-10"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020053212)"
     },
     {
       "id": "fr-cpc-1202",
@@ -17705,7 +18008,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624754)"
     },
     {
       "id": "fr-cpc-1203",
@@ -17760,7 +18064,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624041)"
     },
     {
       "id": "fr-cpc-1204",
@@ -17817,7 +18122,8 @@
       "xrefs": [
         "fr-cpc-1208-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018346)"
     },
     {
       "id": "fr-cpc-1205",
@@ -17874,7 +18180,8 @@
       "xrefs": [
         "fr-cpc-1183"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018339)"
     },
     {
       "id": "fr-cpc-1205-1",
@@ -17932,7 +18239,8 @@
         "fr-cpc-1187-1",
         "fr-cpc-1187"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034017251)"
     },
     {
       "id": "fr-cpc-1206",
@@ -17987,7 +18295,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018333)"
     },
     {
       "id": "fr-cpc-1207",
@@ -18042,7 +18351,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412210)"
     },
     {
       "id": "fr-cpc-1208",
@@ -18097,7 +18407,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018328)"
     },
     {
       "id": "fr-cpc-1208-1",
@@ -18152,7 +18463,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034017276)"
     },
     {
       "id": "fr-cpc-1208-2",
@@ -18207,7 +18519,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624751)"
     },
     {
       "id": "fr-cpc-1208-3",
@@ -18262,7 +18575,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034017286)"
     },
     {
       "id": "fr-cpc-1208-4",
@@ -18317,7 +18631,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034017282)"
     },
     {
       "id": "fr-cpc-1209",
@@ -18372,7 +18687,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018367)"
     },
     {
       "id": "fr-cpc-1209-1",
@@ -18429,7 +18745,8 @@
       "xrefs": [
         "fr-cpc-1208-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000041707433)"
     },
     {
       "id": "fr-cpc-1209-1-1",
@@ -18484,7 +18801,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039498523)"
     },
     {
       "id": "fr-cpc-1209-2",
@@ -18539,7 +18857,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034017316)"
     },
     {
       "id": "fr-cpc-1210",
@@ -18594,7 +18913,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034018395)"
     },
     {
       "id": "fr-cpc-1210-1",
@@ -18649,7 +18969,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149901)"
     },
     {
       "id": "fr-cpc-1210-2",
@@ -18704,7 +19025,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412222)"
     },
     {
       "id": "fr-cpc-1210-3",
@@ -18759,7 +19081,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019282312)"
     },
     {
       "id": "fr-cpc-1210-3-1",
@@ -18814,7 +19137,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000048149085)"
     },
     {
       "id": "fr-cpc-1210-4",
@@ -18870,7 +19194,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390382)"
     },
     {
       "id": "fr-cpc-1210-5",
@@ -18928,7 +19253,8 @@
       "xrefs": [
         "fr-cpc-1210-4"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390138)"
     },
     {
       "id": "fr-cpc-1210-6",
@@ -18984,7 +19310,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725988)"
     },
     {
       "id": "fr-cpc-1210-7",
@@ -19040,7 +19367,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390186)"
     },
     {
       "id": "fr-cpc-1210-8",
@@ -19096,7 +19424,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000025211031)"
     },
     {
       "id": "fr-cpc-1210-9",
@@ -19152,7 +19481,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039390229)"
     },
     {
       "id": "fr-cpc-1210-10",
@@ -19213,7 +19543,8 @@
         "fr-cpc-1210-8",
         "fr-cpc-1210-9"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034692326)"
     },
     {
       "id": "fr-cpc-1210-11",
@@ -19270,7 +19601,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000047053161)"
     },
     {
       "id": "fr-cpc-1210-12",
@@ -19326,7 +19658,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-ix"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034692337)"
     },
     {
       "id": "fr-cpc-1211",
@@ -19385,7 +19718,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031187)"
     },
     {
       "id": "fr-cpc-1212",
@@ -19444,7 +19778,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031184)"
     },
     {
       "id": "fr-cpc-1213",
@@ -19503,7 +19838,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810518)"
     },
     {
       "id": "fr-cpc-1214",
@@ -19562,7 +19898,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810515)"
     },
     {
       "id": "fr-cpc-1214-1",
@@ -19621,7 +19958,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038809521)"
     },
     {
       "id": "fr-cpc-1215",
@@ -19681,7 +20019,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031170)"
     },
     {
       "id": "fr-cpc-1216",
@@ -19740,7 +20079,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000034747689)"
     },
     {
       "id": "fr-cpc-1217",
@@ -19803,7 +20143,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810503)"
     },
     {
       "id": "fr-cpc-1218",
@@ -19866,7 +20207,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810494)"
     },
     {
       "id": "fr-cpc-1218-1",
@@ -19929,7 +20271,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810487)"
     },
     {
       "id": "fr-cpc-1219",
@@ -19992,7 +20335,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810482)"
     },
     {
       "id": "fr-cpc-1219-1",
@@ -20055,7 +20399,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050505763)"
     },
     {
       "id": "fr-cpc-1220",
@@ -20118,7 +20463,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538196)"
     },
     {
       "id": "fr-cpc-1220-1",
@@ -20181,7 +20527,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810479)"
     },
     {
       "id": "fr-cpc-1220-2",
@@ -20244,7 +20591,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810473)"
     },
     {
       "id": "fr-cpc-1220-3",
@@ -20307,7 +20655,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031138)"
     },
     {
       "id": "fr-cpc-1220-4",
@@ -20370,7 +20719,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810460)"
     },
     {
       "id": "fr-cpc-1221",
@@ -20433,7 +20783,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031130)"
     },
     {
       "id": "fr-cpc-1221-1",
@@ -20498,7 +20849,8 @@
       "xrefs": [
         "fr-cpc-1187-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020518131)"
     },
     {
       "id": "fr-cpc-1221-2",
@@ -20561,7 +20913,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020518129)"
     },
     {
       "id": "fr-cpc-1221-3",
@@ -20624,7 +20977,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000050503607)"
     },
     {
       "id": "fr-cpc-1222",
@@ -20687,7 +21041,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810454)"
     },
     {
       "id": "fr-cpc-1222-1",
@@ -20750,7 +21105,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031125)"
     },
     {
       "id": "fr-cpc-1222-2",
@@ -20813,7 +21169,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105740)"
     },
     {
       "id": "fr-cpc-1223",
@@ -20876,7 +21233,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105746)"
     },
     {
       "id": "fr-cpc-1223-1",
@@ -20939,7 +21297,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105749)"
     },
     {
       "id": "fr-cpc-1223-2",
@@ -21002,7 +21361,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105754)"
     },
     {
       "id": "fr-cpc-1224",
@@ -21069,7 +21429,8 @@
         "fr-cpc-1223-1",
         "fr-cpc-1223-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031109)"
     },
     {
       "id": "fr-cpc-1225",
@@ -21132,7 +21493,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810446)"
     },
     {
       "id": "fr-cpc-1226",
@@ -21195,7 +21557,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049887241)"
     },
     {
       "id": "fr-cpc-1227",
@@ -21258,7 +21621,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810433)"
     },
     {
       "id": "fr-cpc-1228",
@@ -21331,7 +21695,8 @@
         "fr-cpc-1225",
         "fr-cpc-1226"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810414)"
     },
     {
       "id": "fr-cpc-1229",
@@ -21396,7 +21761,8 @@
       "xrefs": [
         "fr-cpc-1213"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810409)"
     },
     {
       "id": "fr-cpc-1230",
@@ -21459,7 +21825,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105757)"
     },
     {
       "id": "fr-cpc-1230-1",
@@ -21522,7 +21889,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810404)"
     },
     {
       "id": "fr-cpc-1231",
@@ -21585,7 +21953,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031084)"
     },
     {
       "id": "fr-cpc-1233",
@@ -21648,7 +22017,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039391068)"
     },
     {
       "id": "fr-cpc-1234",
@@ -21711,7 +22081,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031070)"
     },
     {
       "id": "fr-cpc-1234-1",
@@ -21774,7 +22145,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031068)"
     },
     {
       "id": "fr-cpc-1234-2",
@@ -21837,7 +22209,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031065)"
     },
     {
       "id": "fr-cpc-1234-3",
@@ -21900,7 +22273,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031063)"
     },
     {
       "id": "fr-cpc-1234-4",
@@ -21963,7 +22337,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031060)"
     },
     {
       "id": "fr-cpc-1234-5",
@@ -22026,7 +22401,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031058)"
     },
     {
       "id": "fr-cpc-1234-6",
@@ -22089,7 +22465,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031056)"
     },
     {
       "id": "fr-cpc-1234-7",
@@ -22152,7 +22529,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031054)"
     },
     {
       "id": "fr-cpc-1235",
@@ -22215,7 +22593,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031052)"
     },
     {
       "id": "fr-cpc-1236",
@@ -22278,7 +22657,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020031047)"
     },
     {
       "id": "fr-cpc-1239",
@@ -22340,7 +22720,8 @@
         "fr-cpc-1239-1",
         "fr-cpc-1239-3"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810391)"
     },
     {
       "id": "fr-cpc-1239-1",
@@ -22399,7 +22780,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000032105763)"
     },
     {
       "id": "fr-cpc-1239-2",
@@ -22458,7 +22840,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810389)"
     },
     {
       "id": "fr-cpc-1239-3",
@@ -22519,7 +22902,8 @@
       "xrefs": [
         "fr-cpc-1239-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538172)"
     },
     {
       "id": "fr-cpc-1240",
@@ -22578,7 +22962,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538170)"
     },
     {
       "id": "fr-cpc-1241",
@@ -22639,7 +23024,8 @@
       "xrefs": [
         "fr-cpc-1230-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538167)"
     },
     {
       "id": "fr-cpc-1241-1",
@@ -22698,7 +23084,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538165)"
     },
     {
       "id": "fr-cpc-1241-2",
@@ -22757,7 +23144,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538162)"
     },
     {
       "id": "fr-cpc-1242",
@@ -22816,7 +23204,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538160)"
     },
     {
       "id": "fr-cpc-1242-1",
@@ -22875,7 +23264,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538158)"
     },
     {
       "id": "fr-cpc-1243",
@@ -22934,7 +23324,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810407)"
     },
     {
       "id": "fr-cpc-1243-1",
@@ -22993,7 +23384,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038809918)"
     },
     {
       "id": "fr-cpc-1244",
@@ -23052,7 +23444,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810386)"
     },
     {
       "id": "fr-cpc-1244-1",
@@ -23111,7 +23504,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538151)"
     },
     {
       "id": "fr-cpc-1245",
@@ -23170,7 +23564,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810468)"
     },
     {
       "id": "fr-cpc-1245-1",
@@ -23229,7 +23624,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538147)"
     },
     {
       "id": "fr-cpc-1246",
@@ -23288,7 +23684,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538145)"
     },
     {
       "id": "fr-cpc-1246-1",
@@ -23347,7 +23744,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538143)"
     },
     {
       "id": "fr-cpc-1247",
@@ -23406,7 +23804,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021538141)"
     },
     {
       "id": "fr-cpc-1253",
@@ -23469,7 +23868,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000020030964)"
     },
     {
       "id": "fr-cpc-1254",
@@ -23532,7 +23932,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049865543)"
     },
     {
       "id": "fr-cpc-1254-1",
@@ -23595,7 +23996,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049865538)"
     },
     {
       "id": "fr-cpc-1261",
@@ -23655,7 +24057,8 @@
         "fr-cpc-1244",
         "fr-cpc-1245-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026832309)"
     },
     {
       "id": "fr-cpc-1261-1",
@@ -23711,7 +24114,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-x"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624739)"
     },
     {
       "id": "fr-cpc-1263-1",
@@ -23761,7 +24165,8 @@
         "fr.code.cpc.livre-iii.titre-ier.chapitre-xii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019352196)"
     },
     {
       "id": "fr-cpc-1286",
@@ -23818,7 +24223,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000044929864)"
     },
     {
       "id": "fr-cpc-1287",
@@ -23879,7 +24285,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039624726)"
     },
     {
       "id": "fr-cpc-1288",
@@ -23940,7 +24347,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412377)"
     },
     {
       "id": "fr-cpc-1289",
@@ -24001,7 +24409,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412380)"
     },
     {
       "id": "fr-cpc-1289-1",
@@ -24062,7 +24471,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412381)"
     },
     {
       "id": "fr-cpc-1289-2",
@@ -24123,7 +24533,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412382)"
     },
     {
       "id": "fr-cpc-1290",
@@ -24180,7 +24591,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000022868908)"
     },
     {
       "id": "fr-cpc-1291",
@@ -24237,7 +24649,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412391)"
     },
     {
       "id": "fr-cpc-1292",
@@ -24296,7 +24709,8 @@
       "xrefs": [
         "fr-cpc-1136-1"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039383197)"
     },
     {
       "id": "fr-cpc-1293",
@@ -24353,7 +24767,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412398)"
     },
     {
       "id": "fr-cpc-1294",
@@ -24411,7 +24826,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000021504262)"
     },
     {
       "id": "fr-cpc-1295",
@@ -24468,7 +24884,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412403)"
     },
     {
       "id": "fr-cpc-1296",
@@ -24527,7 +24944,8 @@
       "xrefs": [
         "fr-cpc-1292"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412405)"
     },
     {
       "id": "fr-cpc-1297",
@@ -24586,7 +25004,8 @@
       "xrefs": [
         "fr-cpc-1294"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412411)"
     },
     {
       "id": "fr-cpc-1298",
@@ -24643,7 +25062,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412413)"
     },
     {
       "id": "fr-cpc-1299",
@@ -24700,7 +25120,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412415)"
     },
     {
       "id": "fr-cpc-1300",
@@ -24762,7 +25183,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000038810596)"
     },
     {
       "id": "fr-cpc-1300-1",
@@ -24823,7 +25245,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412432)"
     },
     {
       "id": "fr-cpc-1300-2",
@@ -24885,7 +25308,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412434)"
     },
     {
       "id": "fr-cpc-1300-3",
@@ -24948,7 +25372,8 @@
       "xrefs": [
         "fr-cpc-1300-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412435)"
     },
     {
       "id": "fr-cpc-1300-4",
@@ -25009,7 +25434,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039386666)"
     },
     {
       "id": "fr-cpc-1301",
@@ -25070,7 +25496,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039383280)"
     },
     {
       "id": "fr-cpc-1302",
@@ -25131,7 +25558,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412424)"
     },
     {
       "id": "fr-cpc-1303",
@@ -25192,7 +25620,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412427)"
     },
     {
       "id": "fr-cpc-1303-1",
@@ -25255,7 +25684,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412437)"
     },
     {
       "id": "fr-cpc-1303-2",
@@ -25318,7 +25748,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412438)"
     },
     {
       "id": "fr-cpc-1303-3",
@@ -25380,7 +25811,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412442)"
     },
     {
       "id": "fr-cpc-1303-4",
@@ -25444,7 +25876,8 @@
       "xrefs": [
         "fr-cpc-1294"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412443)"
     },
     {
       "id": "fr-cpc-1303-5",
@@ -25506,7 +25939,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412444)"
     },
     {
       "id": "fr-cpc-1303-6",
@@ -25567,7 +26001,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412445)"
     },
     {
       "id": "fr-cpc-1304",
@@ -25624,7 +26059,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531214)"
     },
     {
       "id": "fr-cpc-1305",
@@ -25682,7 +26118,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531211)"
     },
     {
       "id": "fr-cpc-1306",
@@ -25739,7 +26176,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039386454)"
     },
     {
       "id": "fr-cpc-1307",
@@ -25804,7 +26242,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531205)"
     },
     {
       "id": "fr-cpc-1308",
@@ -25869,7 +26308,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531202)"
     },
     {
       "id": "fr-cpc-1309",
@@ -25934,7 +26374,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531199)"
     },
     {
       "id": "fr-cpc-1310",
@@ -25999,7 +26440,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531196)"
     },
     {
       "id": "fr-cpc-1311",
@@ -26064,7 +26506,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531193)"
     },
     {
       "id": "fr-cpc-1312",
@@ -26129,7 +26572,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531190)"
     },
     {
       "id": "fr-cpc-1313",
@@ -26194,7 +26638,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531187)"
     },
     {
       "id": "fr-cpc-1314",
@@ -26259,7 +26704,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531183)"
     },
     {
       "id": "fr-cpc-1315",
@@ -26327,7 +26773,8 @@
         "fr-cpc-1311",
         "fr-cpc-1314"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531179)"
     },
     {
       "id": "fr-cpc-1316",
@@ -26392,7 +26839,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531176)"
     },
     {
       "id": "fr-cpc-1317",
@@ -26459,7 +26907,8 @@
       "xrefs": [
         "fr-cpc-1329"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531172)"
     },
     {
       "id": "fr-cpc-1318",
@@ -26524,7 +26973,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531169)"
     },
     {
       "id": "fr-cpc-1319",
@@ -26591,7 +27041,8 @@
       "xrefs": [
         "fr-cpc-1333"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531165)"
     },
     {
       "id": "fr-cpc-1320",
@@ -26656,7 +27107,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531162)"
     },
     {
       "id": "fr-cpc-1321",
@@ -26721,7 +27173,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531159)"
     },
     {
       "id": "fr-cpc-1322",
@@ -26789,7 +27242,8 @@
         "fr-cpc-1316",
         "fr-cpc-1321"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531155)"
     },
     {
       "id": "fr-cpc-1323",
@@ -26855,7 +27309,8 @@
         "fr-cpc-1313",
         "fr-cpc-1314"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039386364)"
     },
     {
       "id": "fr-cpc-1324",
@@ -26919,7 +27374,8 @@
         "fr-cpc-1325",
         "fr-cpc-1322"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387034)"
     },
     {
       "id": "fr-cpc-1325",
@@ -26980,7 +27436,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725985)"
     },
     {
       "id": "fr-cpc-1326",
@@ -27041,7 +27498,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000024531136)"
     },
     {
       "id": "fr-cpc-1328",
@@ -27098,7 +27556,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412482)"
     },
     {
       "id": "fr-cpc-1329",
@@ -27156,7 +27615,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412483)"
     },
     {
       "id": "fr-cpc-1330",
@@ -27213,7 +27673,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039381074)"
     },
     {
       "id": "fr-cpc-1331",
@@ -27270,7 +27731,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412488)"
     },
     {
       "id": "fr-cpc-1332",
@@ -27327,7 +27789,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412489)"
     },
     {
       "id": "fr-cpc-1333",
@@ -27384,7 +27847,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725982)"
     },
     {
       "id": "fr-cpc-1334",
@@ -27447,7 +27911,8 @@
       "xrefs": [
         "fr-cpc-1335"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387638)"
     },
     {
       "id": "fr-cpc-1335",
@@ -27508,7 +27973,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033748027)"
     },
     {
       "id": "fr-cpc-1336",
@@ -27569,7 +28035,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412493)"
     },
     {
       "id": "fr-cpc-1337",
@@ -27632,7 +28099,8 @@
       "xrefs": [
         "fr-cpc-1335"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033748033)"
     },
     {
       "id": "fr-cpc-1338",
@@ -27693,7 +28161,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412495)"
     },
     {
       "id": "fr-cpc-1339",
@@ -27754,7 +28223,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387697)"
     },
     {
       "id": "fr-cpc-1340",
@@ -27817,7 +28287,8 @@
       "xrefs": [
         "fr-cpc-1339"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412497)"
     },
     {
       "id": "fr-cpc-1341",
@@ -27878,7 +28349,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412498)"
     },
     {
       "id": "fr-cpc-1342",
@@ -27943,7 +28415,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412499)"
     },
     {
       "id": "fr-cpc-1343",
@@ -28008,7 +28481,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412502)"
     },
     {
       "id": "fr-cpc-1344",
@@ -28073,7 +28547,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412503)"
     },
     {
       "id": "fr-cpc-1345",
@@ -28138,7 +28613,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412504)"
     },
     {
       "id": "fr-cpc-1346",
@@ -28203,7 +28679,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412505)"
     },
     {
       "id": "fr-cpc-1347",
@@ -28268,7 +28745,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412506)"
     },
     {
       "id": "fr-cpc-1348",
@@ -28333,7 +28811,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026459744)"
     },
     {
       "id": "fr-cpc-1349",
@@ -28398,7 +28877,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412508)"
     },
     {
       "id": "fr-cpc-1350",
@@ -28463,7 +28943,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412509)"
     },
     {
       "id": "fr-cpc-1351",
@@ -28528,7 +29009,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412510)"
     },
     {
       "id": "fr-cpc-1352",
@@ -28593,7 +29075,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412515)"
     },
     {
       "id": "fr-cpc-1353",
@@ -28658,7 +29141,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412516)"
     },
     {
       "id": "fr-cpc-1354",
@@ -28719,7 +29203,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412517)"
     },
     {
       "id": "fr-cpc-1355",
@@ -28778,7 +29263,8 @@
       "xrefs": [
         "fr-cpc-1334"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039383092)"
     },
     {
       "id": "fr-cpc-1356",
@@ -28835,7 +29321,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412519)"
     },
     {
       "id": "fr-cpc-1357",
@@ -28892,7 +29379,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039381128)"
     },
     {
       "id": "fr-cpc-1358",
@@ -28953,7 +29441,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412521)"
     },
     {
       "id": "fr-cpc-1359",
@@ -29018,7 +29507,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039381149)"
     },
     {
       "id": "fr-cpc-1360",
@@ -29083,7 +29573,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412523)"
     },
     {
       "id": "fr-cpc-1361",
@@ -29148,7 +29639,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412524)"
     },
     {
       "id": "fr-cpc-1362",
@@ -29213,7 +29705,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412525)"
     },
     {
       "id": "fr-cpc-1363",
@@ -29278,7 +29771,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039381171)"
     },
     {
       "id": "fr-cpc-1364",
@@ -29343,7 +29837,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412527)"
     },
     {
       "id": "fr-cpc-1365",
@@ -29408,7 +29903,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412532)"
     },
     {
       "id": "fr-cpc-1366",
@@ -29473,7 +29969,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412533)"
     },
     {
       "id": "fr-cpc-1367",
@@ -29538,7 +30035,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412534)"
     },
     {
       "id": "fr-cpc-1368",
@@ -29603,7 +30101,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412535)"
     },
     {
       "id": "fr-cpc-1369",
@@ -29668,7 +30167,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412536)"
     },
     {
       "id": "fr-cpc-1370",
@@ -29733,7 +30233,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412537)"
     },
     {
       "id": "fr-cpc-1371",
@@ -29800,7 +30301,8 @@
       "xrefs": [
         "fr-cpc-1369"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412538)"
     },
     {
       "id": "fr-cpc-1372",
@@ -29865,7 +30367,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412539)"
     },
     {
       "id": "fr-cpc-1373",
@@ -29930,7 +30433,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412540)"
     },
     {
       "id": "fr-cpc-1374",
@@ -29995,7 +30499,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412541)"
     },
     {
       "id": "fr-cpc-1375",
@@ -30060,7 +30565,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412544)"
     },
     {
       "id": "fr-cpc-1376",
@@ -30127,7 +30633,8 @@
       "xrefs": [
         "fr-cpc-1363"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039381223)"
     },
     {
       "id": "fr-cpc-1377",
@@ -30192,7 +30699,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000026459769)"
     },
     {
       "id": "fr-cpc-1378",
@@ -30257,7 +30765,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006412547)"
     },
     {
       "id": "fr-cpc-1378-1",
@@ -30314,7 +30823,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033748042)"
     },
     {
       "id": "fr-cpc-1378-2",
@@ -30371,7 +30881,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000033748040)"
     },
     {
       "id": "fr-cpc-1379",
@@ -30428,7 +30939,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725953)"
     },
     {
       "id": "fr-cpc-1380",
@@ -30485,7 +30997,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039725909)"
     },
     {
       "id": "fr-cpc-1381",
@@ -30542,7 +31055,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039383317)"
     },
     {
       "id": "fr-cpc-1381-1",
@@ -30600,7 +31114,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031419542)"
     },
     {
       "id": "fr-cpc-1381-2",
@@ -30657,7 +31172,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031419544)"
     },
     {
       "id": "fr-cpc-1381-3",
@@ -30715,7 +31231,8 @@
         "fr.code.cpc.livre-iii.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000031419546)"
     },
     {
       "id": "fr-cpc-1381-4",
@@ -30774,7 +31291,8 @@
       "xrefs": [
         "fr-cpc-1381-2"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000039387573)"
     },
     {
       "id": "fr-cpc-1528",
@@ -30820,7 +31338,8 @@
         "fr.code.cpc.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930605)"
     },
     {
       "id": "fr-cpc-1528-1",
@@ -30866,7 +31385,8 @@
         "fr.code.cpc.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930603)"
     },
     {
       "id": "fr-cpc-1528-2",
@@ -30912,7 +31432,8 @@
         "fr.code.cpc.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930600)"
     },
     {
       "id": "fr-cpc-1528-3",
@@ -30958,7 +31479,8 @@
         "fr.code.cpc.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930598)"
     },
     {
       "id": "fr-cpc-1529",
@@ -31004,7 +31526,8 @@
         "fr.code.cpc.livre-v.titre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930595)"
     },
     {
       "id": "fr-cpc-1530",
@@ -31050,7 +31573,8 @@
         "fr.code.cpc.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930593)"
     },
     {
       "id": "fr-cpc-1530-1",
@@ -31096,7 +31620,8 @@
         "fr.code.cpc.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930591)"
     },
     {
       "id": "fr-cpc-1530-2",
@@ -31142,7 +31667,8 @@
         "fr.code.cpc.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930589)"
     },
     {
       "id": "fr-cpc-1530-3",
@@ -31188,7 +31714,8 @@
         "fr.code.cpc.livre-v.titre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930587)"
     },
     {
       "id": "fr-cpc-1531",
@@ -31246,7 +31773,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930585)"
     },
     {
       "id": "fr-cpc-1532",
@@ -31304,7 +31832,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930583)"
     },
     {
       "id": "fr-cpc-1532-1",
@@ -31362,7 +31891,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930581)"
     },
     {
       "id": "fr-cpc-1532-2",
@@ -31420,7 +31950,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930579)"
     },
     {
       "id": "fr-cpc-1532-3",
@@ -31481,7 +32012,8 @@
         "fr-cpc-1531",
         "fr-cpc-1542"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930577)"
     },
     {
       "id": "fr-cpc-1533",
@@ -31513,17 +32045,17 @@
           "id": "sous-section_i"
         }
       ],
-      "text": "Le juge peut, à tout moment de l'instance, enjoindre aux parties de rencontrer, dans un délai qu'il détermine, un conciliateur de justice ou un médiateur qui les informera sur l'objet et le déroulement de la conciliation ou de la médiation.\n\nAu cours de cette rencontre, les parties peuvent être assistées par toute personne ayant qualité pour le faire devant la juridiction saisie.\n\nLe juge peut également, dans la décision qui enjoint aux parties de rencontrer un conciliateur de justice ou un médiateur, ordonner une conciliation ou une médiation en subordonnant la mesure au recueil du consentement des parties par le conciliateur de justice ou le médiateur.\n\nLes dispositions du chapitre Ier du présent titre sont alors applicables.\n\nPour l'application du premier et du troisième alinéas, le juge peut donner délégation de signature à l'attaché de justice mentionné à l'article L. 123-4 du code de l'organisation judiciaire en matière civile, commerciale, sociale ou rurale.\n\nConformément à l’article 25 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.",
-      "in_force_since": "2025-09-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "Le juge peut, à tout moment de l'instance, enjoindre aux parties de rencontrer, dans un délai qu'il détermine, un conciliateur de justice ou un médiateur qui les informera sur l'objet et le déroulement de la conciliation ou de la médiation. Cette décision est une mesure d'administration judiciaire.\n\nAu cours de cette rencontre, les parties peuvent être assistées par toute personne ayant qualité pour le faire devant la juridiction saisie.\n\nLe juge peut également, dans la décision qui enjoint aux parties de rencontrer un conciliateur de justice ou un médiateur, ordonner une conciliation ou une médiation en subordonnant la mesure au recueil du consentement des parties par le conciliateur de justice ou le médiateur.\n\nLes dispositions du chapitre Ier du présent titre sont alors applicables.\n\nPour l'application du premier et du troisième alinéas, le juge peut donner délégation de signature à l'attaché de justice mentionné à l'article L. 123-4 du code de l'organisation judiciaire en matière civile, commerciale, sociale ou rurale.\n\nConformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930573",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559785",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000051930573"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054559785"
         },
         {
           "label": "Tricoteuses git",
@@ -31531,9 +32063,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000051930573",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054559785",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.procedure-civile-famille.modes-amiables",
@@ -31541,7 +32072,7 @@
       ],
       "xrefs": [],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054559785)"
     },
     {
       "id": "fr-cpc-1533-1",
@@ -31601,7 +32132,8 @@
       "xrefs": [
         "fr-cpc-1533"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930571)"
     },
     {
       "id": "fr-cpc-1533-2",
@@ -31659,7 +32191,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930569)"
     },
     {
       "id": "fr-cpc-1533-3",
@@ -31717,7 +32250,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930567)"
     },
     {
       "id": "fr-cpc-1534",
@@ -31775,7 +32309,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930564)"
     },
     {
       "id": "fr-cpc-1534-1",
@@ -31807,17 +32342,17 @@
           "id": "sous-section_ii"
         }
       ],
-      "text": "La décision par laquelle le juge désigne un conciliateur de justice ou ordonne une médiation contient :\n\n1° L'indication de la personne physique ou morale chargée de la mission de conciliation ou de médiation ;\n\n2° L'objet et la durée initiale de sa mission ;\n\n3° La date à laquelle l'affaire sera rappelée à l'audience ;\n\n4° Sous réserve du dernier alinéa, le consentement des parties.\n\nLorsqu'est ordonnée une médiation, la décision du juge contient également :\n\n1° Le montant de la provision à valoir sur la rémunération du médiateur ;\n\n2° Le délai dans lequel la provision doit être versée ;\n\n3° L'identité des parties qu'elle désigne pour procéder au versement de la provision et, si plusieurs parties sont désignées, dans quelle proportion chacune effectuera le versement.\n\nLorsque le recueil du consentement des parties a été délégué au conciliateur de justice ou au médiateur conformément au troisième alinéa de l'article 1533, la décision est caduque si ce consentement n'est pas recueilli dans un délai d'un mois à compter de la décision. Le conciliateur de justice ou le médiateur informe le juge de ce qu'il est parvenu ou non à recueillir le consentement des parties.\n\nConformément à l’article 25 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.",
-      "in_force_since": "2025-09-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "La décision par laquelle le juge désigne un conciliateur de justice ou ordonne une médiation contient :\n\n1° L'indication de la personne physique ou morale chargée de la mission de conciliation ou de médiation ;\n\n2° L'objet et la durée initiale de sa mission ;\n\n3° La date à laquelle l'affaire sera rappelée à l'audience ;\n\n4° Sous réserve du dernier alinéa, le consentement des parties.\n\nLorsqu'est ordonnée une médiation, la décision du juge contient également :\n\n1° Le montant de la provision à valoir sur la rémunération du médiateur ;\n\n2° Le délai dans lequel la provision doit être versée ;\n\n3° L'identité des parties qu'elle désigne pour procéder au versement de la provision et, si plusieurs parties sont désignées, dans quelle proportion chacune effectuera le versement.\n\nLorsque le recueil du consentement des parties a été délégué au conciliateur de justice ou au médiateur conformément au troisième alinéa de l'article 1533, la décision est caduque si ce consentement n'est pas recueilli dans un délai de trois mois à compter de la décision, sauf au juge à fixer un autre délai. Le conciliateur de justice ou le médiateur informe le juge de ce qu'il est parvenu ou non à recueillir le consentement des parties.\n\nConformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930554",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559788",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000051930554"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054559788"
         },
         {
           "label": "Tricoteuses git",
@@ -31825,9 +32360,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000051930554",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054559788",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.procedure-civile-famille.modes-amiables",
@@ -31837,7 +32371,7 @@
         "fr-cpc-1533"
       ],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054559788)"
     },
     {
       "id": "fr-cpc-1534-2",
@@ -31895,7 +32429,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930556)"
     },
     {
       "id": "fr-cpc-1534-3",
@@ -31927,17 +32462,17 @@
           "id": "sous-section_ii"
         }
       ],
-      "text": "Le montant de la provision qui doit être versée au médiateur est fixé à un niveau aussi proche que possible de la rémunération prévisible. La décision comporte les mentions énumérées aux alinéas 6 à 9 de l'article 1534-1.\n\nLe médiateur fait connaître sans délai au juge son acceptation. Il informe les parties des modalités de versement de la provision. Les parties qui sont dispensées de ce versement en vertu des dispositions relatives à l'aide juridictionnelle lui en apportent la justification.\n\nA défaut de versement intégral de la provision dans le délai prescrit, la décision est caduque et l'instance se poursuit.\n\nConformément à l’article 25 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.",
-      "in_force_since": "2025-09-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
+      "text": "Le montant de la provision qui est versée entre les mains du médiateur est fixé à un niveau aussi proche que possible de la rémunération prévisible. La décision comporte les mentions énumérées aux alinéas 6 à 9 de l'article 1534-1.\n\nLe médiateur fait connaître sans délai au juge son acceptation. Il informe les parties des modalités de versement de la provision. Les parties qui sont dispensées de ce versement en vertu des dispositions relatives à l'aide juridictionnelle lui en apportent la justification.\n\nA défaut de versement intégral de la provision dans le délai prescrit, la décision est caduque et l'instance se poursuit.\n\nConformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.",
+      "in_force_since": "2026-10-01",
+      "status": "en vigueur",
       "applies_to": [
         "FR"
       ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930558",
+      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559790",
       "alt_urls": [
         {
           "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000051930558"
+          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000054559790"
         },
         {
           "label": "Tricoteuses git",
@@ -31945,9 +32480,8 @@
         }
       ],
       "source_ids": {
-        "legiarti": "LEGIARTI000051930558",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
+        "legiarti": "LEGIARTI000054559790",
+        "legitext": "LEGITEXT000006070716"
       },
       "issues": [
         "fr.procedure-civile-famille.modes-amiables",
@@ -31957,7 +32491,7 @@
         "fr-cpc-1534-1"
       ],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000054559790)"
     },
     {
       "id": "fr-cpc-1534-4",
@@ -32015,7 +32549,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930560)"
     },
     {
       "id": "fr-cpc-1534-5",
@@ -32073,7 +32608,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930562)"
     },
     {
       "id": "fr-cpc-1535",
@@ -32131,7 +32667,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930550)"
     },
     {
       "id": "fr-cpc-1535-1",
@@ -32189,7 +32726,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930536)"
     },
     {
       "id": "fr-cpc-1535-2",
@@ -32247,7 +32785,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930538)"
     },
     {
       "id": "fr-cpc-1535-3",
@@ -32305,7 +32844,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930540)"
     },
     {
       "id": "fr-cpc-1535-4",
@@ -32363,7 +32903,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930542)"
     },
     {
       "id": "fr-cpc-1535-5",
@@ -32421,7 +32962,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930544)"
     },
     {
       "id": "fr-cpc-1535-6",
@@ -32481,7 +33023,8 @@
       "xrefs": [
         "fr-cpc-1543"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930546)"
     },
     {
       "id": "fr-cpc-1535-7",
@@ -32539,7 +33082,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930548)"
     },
     {
       "id": "fr-cpc-1536",
@@ -32593,7 +33137,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930534)"
     },
     {
       "id": "fr-cpc-1536-1",
@@ -32647,7 +33192,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930532)"
     },
     {
       "id": "fr-cpc-1536-2",
@@ -32701,7 +33247,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930530)"
     },
     {
       "id": "fr-cpc-1536-3",
@@ -32755,7 +33302,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930528)"
     },
     {
       "id": "fr-cpc-1536-4",
@@ -32811,7 +33359,8 @@
       "xrefs": [
         "fr-cpc-1535-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930526)"
     },
     {
       "id": "fr-cpc-1537",
@@ -32865,7 +33414,8 @@
         "fr.code.cpc.livre-v.titre-ii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930524)"
     },
     {
       "id": "fr-cpc-1538",
@@ -32915,7 +33465,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930521)"
     },
     {
       "id": "fr-cpc-1538-1",
@@ -32965,7 +33516,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930517)"
     },
     {
       "id": "fr-cpc-1538-2",
@@ -33015,7 +33567,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930519)"
     },
     {
       "id": "fr-cpc-1539",
@@ -33065,7 +33618,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930514)"
     },
     {
       "id": "fr-cpc-1539-1",
@@ -33115,7 +33669,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930510)"
     },
     {
       "id": "fr-cpc-1539-2",
@@ -33165,7 +33720,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930512)"
     },
     {
       "id": "fr-cpc-1540",
@@ -33215,7 +33771,8 @@
         "fr.code.cpc.livre-v.titre-iii.chapitre-iii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930507)"
     },
     {
       "id": "fr-cpc-1541",
@@ -33265,7 +33822,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930504)"
     },
     {
       "id": "fr-cpc-1541-1",
@@ -33315,7 +33873,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930498)"
     },
     {
       "id": "fr-cpc-1541-2",
@@ -33366,7 +33925,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ier"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930500)"
     },
     {
       "id": "fr-cpc-1541-3",
@@ -33419,7 +33979,8 @@
         "fr-cpc-509-2",
         "fr-cpc-509-7"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930502)"
     },
     {
       "id": "fr-cpc-1542",
@@ -33473,7 +34034,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930473)"
     },
     {
       "id": "fr-cpc-1543",
@@ -33530,7 +34092,8 @@
         "fr-cpc-1546",
         "fr-cpc-1535-6"
       ],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930495)"
     },
     {
       "id": "fr-cpc-1544",
@@ -33588,7 +34151,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930492)"
     },
     {
       "id": "fr-cpc-1545",
@@ -33646,7 +34210,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930487)"
     },
     {
       "id": "fr-cpc-1545-1",
@@ -33704,7 +34269,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930485)"
     },
     {
       "id": "fr-cpc-1546",
@@ -33758,7 +34324,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930483)"
     },
     {
       "id": "fr-cpc-1547",
@@ -33812,7 +34379,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930481)"
     },
     {
       "id": "fr-cpc-1548",
@@ -33866,63 +34434,8 @@
         "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
       ],
       "xrefs": [],
-      "interps": []
-    },
-    {
-      "id": "fr-cpc-1549",
-      "corpus": "fr-cpc",
-      "side": "fr",
-      "lang": "fr",
-      "kind": "article",
-      "num": "1549",
-      "heading": "L'apposition de la formule exécutoire par le greffe",
-      "path": [
-        {
-          "label": "Livre V : LA RÉSOLUTION AMIABLE DES DIFFÉRENDS",
-          "id": "livre_v"
-        },
-        {
-          "label": "Titre IV : L'ACCORD DES PARTIES",
-          "id": "titre_iv"
-        },
-        {
-          "label": "Chapitre II : L'acquisition du caractère exécutoire de l'accord",
-          "id": "chapitre_ii"
-        },
-        {
-          "label": "Section III : L'apposition de la formule exécutoire par le greffe",
-          "id": "section_iii"
-        }
-      ],
-      "text": "Les dispositions de la présente section sont applicables à la transaction.\n\nConformément à l’article 25 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.",
-      "in_force_since": "2025-09-01",
-      "status": "en vigueur (abrogation différée au 2026-10-01)",
-      "applies_to": [
-        "FR"
-      ],
-      "official_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930477",
-      "alt_urls": [
-        {
-          "label": "Tricoteuses",
-          "url": "https://www.tricoteuses.fr/legifrance/articles/LEGIARTI000051930477"
-        },
-        {
-          "label": "Tricoteuses git",
-          "url": "https://git.tricoteuses.fr/codes/code_de_procedure_civile/src/branch/main/livre_v/titre_iv/chapitre_ii/section_iii/article_1549.md"
-        }
-      ],
-      "source_ids": {
-        "legiarti": "LEGIARTI000051930477",
-        "legitext": "LEGITEXT000006070716",
-        "legi_etat": "ABROGE_DIFF"
-      },
-      "issues": [
-        "fr.procedure-civile-famille.modes-amiables",
-        "fr.code.cpc.livre-v.titre-iv.chapitre-ii"
-      ],
-      "xrefs": [],
       "interps": [],
-      "in_force_until": "2026-10-01"
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000051930479)"
     }
   ]
 }

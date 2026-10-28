@@ -1,36 +1,39 @@
 {
   "corpus": "fr-ce",
-  "updated": "2026-09-30",
+  "updated": "2026-10-12",
   "source": "Tricoteuses/DILA JADE, sous-ensemble global/publie https://git.tricoteuses.fr/dila/jade",
-  "source_head": "82efcb4d8f2add9cee3a76e0780b0ca17a8d6592 2026-09-29T21:34:57+02:00",
-  "norms_expected": 6029,
-  "norms_with_interps": 435,
+  "source_head": "a2c1f641c48b27b4573f0b1992289fcae605aae1 2026-10-10T21:16:41+02:00",
+  "norms_expected": 6011,
+  "norms_with_interps": 665,
   "perimeter_source": "data/norms (fichiers de l'agent normes) pour fr-casf, fr-cc, fr-ceseda, fr-cgi, fr-coj, fr-const, fr-cp, fr-cpc, fr-cpce, fr-cpp, fr-csp, fr-css, fr-textes",
   "interps_candidates": 2878,
-  "interps_screened": 51663,
+  "interps_screened": 51683,
   "interps_linked": 1778,
-  "interps_included": 596,
+  "interps_included": 1752,
   "links": {
-    "included": 1163,
-    "excluded": 3347,
-    "basis_a": 962,
+    "included": 2746,
+    "excluded": 1764,
+    "basis_a": 960,
     "basis_b": 169,
+    "basis_c": 1569,
+    "basis_c_by_status": {
+      "texte-modifie": 1467,
+      "alinea-vise-modifie": 26,
+      "aucune-version-a-la-date": 74,
+      "redaction-anterieure-visee": 2
+    },
     "b_text_identical": 39,
     "b_functional_review": 130,
     "exclusion_reasons": {
-      "aucune-version-a-la-date": 78,
-      "texte-modifie": 1477,
-      "mention-faible": 1763,
-      "alinea-vise-modifie": 28,
-      "ancienne-numerotation": 1
+      "mention-faible": 1764
     }
   },
   "screened_breakdown": {
-    "ce": 51663
+    "ce": 51683
   },
-  "decisions_out_of_screen": 9463,
-  "excerpts_missing": 62,
-  "method": "Conseil d'État uniquement (JURIDICTION = Conseil d'État), décisions publiées au Lebon (A) ou mentionnées aux tables (B), dont avis contentieux ; mêmes règles de liaison (LIENS, sommaire, titrage, motifs « Aux termes de l'article… ») et règle temporelle.",
+  "decisions_out_of_screen": 9465,
+  "excerpts_missing": 170,
+  "method": "Conseil d'État uniquement (JURIDICTION = Conseil d'État), décisions publiées au Lebon (A) ou mentionnées aux tables (B), dont avis contentieux ; mêmes règles de liaison (LIENS, sommaire, titrage, motifs « Aux termes de l'article… ») et règle temporelle. Base (c) (décision de l'utilisateur, 12 octobre 2026) : les décisions interprétant une version antérieure (texte modifié depuis, alinéa modifié, rédaction antérieure expressément visée, ancienne numérotation) sont conservées comme interprétations historiques ; la version interprétée est consignée (cited_version, cited_version_period, version_status, version_note). La version en vigueur reste le droit applicable.",
   "gaps": [
     "Seul le sous-ensemble « publie » de JADE est utilisé ; décisions CE inédites exclues par construction.",
     "Le visa CE (« Vu le code civil ») ne désigne pas d'article : liaison par LIENS, sommaire, titrage et motifs."

@@ -18,7 +18,13 @@ An interpretation qualifies if:
   Record `basis: "b"` with a written `b_justification` (what text the decision interpreted, why it is identical
   in wording and function). Where an automated text comparison proves identity, `b_method: "text-identical"`;
   where a human/agent judgment of functional identity is made, `b_method: "functional-review"`.
-Decisions interpreting language that has since changed in substance are EXCLUDED.
+- (c) (user decision 2026-10-12) its date < D(norm), or it expressly applies an earlier wording (« dans sa rédaction antérieure à … »)
+  or the former numbering (« ancien article … »), and the interpreted language has since changed: the decision is KEPT as a
+  historical interpretation. Record `basis: "c"`, the interpreted version (`cited_version` LEGIARTI and `cited_version_period`
+  when identifiable), `version_status` (why it is an earlier version) and a `version_note`. The current version remains the
+  applicable law; whether an interpretation of an earlier version is still useful depends on the matter interpreted, and the
+  site labels such links "Base (c) · version antérieure".
+Only relevance filters (weak mention, chamber/subject outside the perimeter) exclude a decision; a change of wording no longer does.
 
 ## 3. Authorities whose interpretations are binding (included)
 - France: Conseil constitutionnel (DC, QPC); Cour de cassation — decisions PUBLISHED (Bulletin/Rapport/Lettre = DILA

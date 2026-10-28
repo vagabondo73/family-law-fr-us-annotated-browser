@@ -167,8 +167,9 @@ def build_code(cid, cfg, hier):
         }
         if a["etat"] != "VIGUEUR":
             rec["source_ids"]["legi_etat"] = a["etat"]
-        if a.get("fin") and a["fin"] < "2999-01-01":
+        if a.get("fin") and a["fin"] < "2222-01-01":   # 2222-02-22 = DILA sentinel (date non fixée)
             rec["in_force_until"] = a["fin"]
+        rec["d_method"] = "LEGI « Date de début » de la version en vigueur (%s)" % a["legiarti"]
         if a["debut"] > TODAY:
             rec["vigueur_diff"] = True
         topical = frn_issues.assign(rec, L)
@@ -292,6 +293,7 @@ def build_textes(refresh, hier):
                 "official_url": t["official_url"], "alt_urls": t.get("alt_urls", []),
                 "source_ids": {"circulaire": t.get("circ_id", "")}, "issues": t.get("issues", []) + [base + ".circulaires"],
                 "xrefs": [], "interps": [], "text_not_ingested": True,
+                "d_method": "date de signature de la circulaire (texte non ingéré)",
             }
             hroot["children"].setdefault(base + ".circulaires", {"id": base + ".circulaires", "label": "Circulaires publiées (CRPA L. 312-2)", "children": {}})
             norms.append(rec)
@@ -341,8 +343,9 @@ def build_textes(refresh, hier):
                 "source_ids": {"legiarti": a["legiarti"], "legitext": tid, "nature": meta.get("Nature", ""), "nor": meta.get("NOR", "")},
                 "issues": [], "xrefs": [], "interps": [],
             }
-            if a["fin"] and a["fin"] < "2999-01-01":
+            if a["fin"] and a["fin"] < "2222-01-01":   # 2222-02-22 = DILA sentinel (date non fixée)
                 rec["in_force_until"] = a["fin"]
+            rec["d_method"] = "LEGI « Date de début » de la version en vigueur (%s)" % a["legiarti"]
             topical = frn_issues.assign(rec, title + " > " + " > ".join(ar["sections"]))
             rec["issues"] = sorted(set(topical + t.get("issues", []))) + [tnode]
             norms.append(rec)
@@ -370,6 +373,37 @@ def write_sources(entries):
     dump(p, keep + entries)
 
 
+def apply_textes_overrides(norms):
+    """Corrections from DILA OPENDATA LEGI for fr-textes articles that the dila/textes_juridiques mirror still
+    serves in an outdated version (scripts/frn_textes_overrides.json, audit 2026-10-12). An override applies only
+    while the mirror still returns the stale LEGIARTI, so it retires itself once the mirror catches up."""
+    ov = load(os.path.join(ROOT, "scripts", "frn_textes_overrides.json"), {}) or {}
+    items, out, applied = ov.get("items", {}), [], 0
+    for n in norms:
+        o = items.get(n["id"])
+        if not o or n.get("source_ids", {}).get("legiarti") != o.get("stale_legiarti"):
+            out.append(n)
+            continue
+        applied += 1
+        if o["action"] == "remove":
+            continue
+        if o["action"] == "not-in-force":
+            n["status"] = o["status"]
+        elif o["action"] == "replace":
+            a = o["legiarti"]
+            n["source_ids"]["legiarti"] = a
+            n["text"], n["in_force_since"], n["status"] = o["text"], o["in_force_since"], o["status"]
+            n["official_url"] = LF_LODA_ART % a
+            n["alt_urls"] = [u for u in n.get("alt_urls", []) if "textes_juridiques" not in u.get("url", "")] + \
+                [{"label": "Tricoteuses git (donnees_juridiques)", "url": "https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/%s/%s.json" % ("/".join([a[8:10], a[10:12], a[12:14], a[14:16], a[16:18]]), a)}]
+            n["d_method"] = "LEGI « Date de début » de la version en vigueur (%s) — DILA OPENDATA LEGI" % a
+            n.pop("in_force_until", None)
+        n["version_source"] = "DILA OPENDATA LEGI (incréments jusqu'au %s) — correction du miroir textes_juridiques" % ov.get("generated", "")
+        out.append(n)
+    print("fr-textes overrides applied", applied, flush=True)
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-pull", action="store_true")
@@ -386,6 +420,8 @@ def main():
         if not args.no_pull:
             pull(repo, repo_url(cfg))
         norms, st = build_code(cid, cfg, hier)
+        for n in norms:
+            n.setdefault("d_method", "LEGI « Date de début » de la version en vigueur (%s)" % n["source_ids"].get("legiarti", ""))
         outp = os.path.join(DATA, "norms", cid + ".json")
         prev = {n["id"]: n for n in (load(outp, {}) or {}).get("norms", [])}
         dump(outp, {"corpus": cid, "generated": TODAY, "source": {"legitext": st["legitext"], "mirror": repo_url(cfg), "head": st["head"]}, "norms": norms})
@@ -412,6 +448,7 @@ def main():
         print(cid, len(norms), "added", len(ch["added"]), "removed", len(ch["removed"]), "changed", len(ch["changed"]), flush=True)
     if not only or "fr-textes" in only:
         norms, st = build_textes(args.refresh_textes, hier)
+        norms = apply_textes_overrides(norms)
         outp = os.path.join(DATA, "norms", "fr-textes.json")
         prev = {n["id"]: n for n in (load(outp, {}) or {}).get("norms", [])}
         dump(outp, {"corpus": "fr-textes", "generated": TODAY, "texts": st, "norms": norms})
@@ -474,7 +511,9 @@ GAPS = {
     "fr-ceseda": ["Sélection par intitulés (membres de famille UE, motif familial, regroupement/réunification familiale, fraude) et mots-clés."],
     "fr-cpce": ["Sélection : paiement direct des pensions alimentaires et articles mentionnant les créances alimentaires/époux."],
     "fr-const": ["Sélection limitée aux articles pertinents : Constitution 1958 (Préambule, 1, 34, 53-55, 61-1, 62, 66, 88-1), DDHC (1, 2, 4, 6, 16, 17 — lus depuis dila/textes_juridiques LEGITEXT000006071192) et Préambule 1946 (LEGITEXT000006071193)."],
-    "fr-textes": ["Index table_des_matieres_textes_juridiques (Tricoteuses) figé au 2025-02-08 : les textes publiés après cette date ne sont repérés que par recherche ciblée.",
+    "fr-textes": ["Miroir dila/textes_juridiques figé au 2026-07-25 : versions vérifiées le 2026-10-12 contre DILA OPENDATA LEGI (Freemium 2025-07-13 + incréments jusqu'au 2026-10-11) ; 23 articles mis à jour vers la version en vigueur, 10 articles abrogés ou jamais entrés en vigueur retirés, 37 textes du décret n° 2017-890 complétés (le miroir affichait « en cours de traitement ») — corrections dans scripts/frn_textes_overrides.json.",
+                  "Textes non codifiés publiés depuis le 2025-02-08 : présélection par titre dans les incréments DILA (liste de candidats à arbitrer : raw/dila_legi/scan.json) — non intégrés sans validation.",
+                  "Index table_des_matieres_textes_juridiques (Tricoteuses) figé au 2025-02-08 : les textes publiés après cette date ne sont repérés que par recherche ciblée.",
                   "Circulaires : le fonds CIRCULAIRES (circulaires.legifrance.gouv.fr) n'est pas miroité ; seules des circulaires identifiées par recherche sont listées, sans texte intégral (text_not_ingested). Non vérifiées/non listées : circulaire du 21 septembre 2021 (AMP, JUSC2127286C), du 3 juin 2022 (nom, JUSC2215808C), du 22 septembre 2023 (adoption, JUSC2320454C), publiées au BO Justice.",
                   "Sélection des textes par mots-clés de titre puis exclusion manuelle (scripts/frn_textes_config.py) : des textes familiaux au titre atypique peuvent manquer ; les lois omnibus (J21, LPJ 2019, égalité réelle, simplification) sont filtrées par mots-clés au niveau de l'article.",
                   "Articles modificatifs (« est ainsi modifié », « A modifié… ») exclus par règle textuelle : leur contenu figure dans les codes consolidés ; quelques articles autonomes rédigés sous forme modificative peuvent avoir été écartés.",

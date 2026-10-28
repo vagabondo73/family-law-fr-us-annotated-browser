@@ -1,0 +1,502 @@
+{
+  "generated": "2026-10-12",
+  "method": "Titres des textes non codifiés (TNC) en vigueur apparus dans les incréments DILA LEGI du 2026-07-25 au 2026-10-11, filtrés par mots-clés famille, date ≥ 2025-02-08, absents de scripts/frn_textes.json. Aucun texte n'est intégré sans validation (SCOPE §4.1).",
+  "note": "Les incréments antérieurs au 2026-07-25 n'ont été balayés que pour les textes déjà au corpus ; la recherche de nouveaux textes 2025-02-08 → 2026-07-24 reste à compléter.",
+  "candidates": [
+    {
+      "legitext": "LEGITEXT000051784964",
+      "date": "2025-06-23",
+      "nature": "LOI",
+      "etat": "VIGUEUR",
+      "titre": "LOI n° 2025-568 du 23 juin 2025 visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051784964",
+      "assessment": "candidat plausible : autorité parentale / responsabilité des parents de mineurs délinquants"
+    },
+    {
+      "legitext": "LEGITEXT000051827204",
+      "date": "2025-06-30",
+      "nature": "LOI",
+      "etat": "VIGUEUR",
+      "titre": "LOI n° 2025-595 du 30 juin 2025 visant à protéger les personnes engagées dans un projet parental des discriminations au travail (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051827204",
+      "assessment": "candidat plausible : projet parental — discriminations au travail (périphérique)"
+    },
+    {
+      "legitext": "LEGITEXT000052215105",
+      "date": "2025-09-08",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-931 du 8 septembre 2025 relatif aux administrations habilitées à requérir la délivrance de copies intégrales ou d'extraits avec indication de la filiation d'actes de l'état civil",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052215105",
+      "assessment": "candidat plausible : état civil — administrations habilitées à requérir copies/extraits avec filiation"
+    },
+    {
+      "legitext": "LEGITEXT000053145612",
+      "date": "2025-12-19",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-1256 du 19 décembre 2025 portant application de l'article 8 de la loi n° 2025-568 du 23 juin 2025 visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053145612",
+      "assessment": "candidat plausible : application de l'art. 8 de la loi n° 2025-568 (parents)"
+    },
+    {
+      "legitext": "LEGITEXT000053183745",
+      "date": "2025-12-26",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-1323 du 26 décembre 2025 relatif aux trimestres équivalents aux trimestres validés au titre de l'assurance vieillesse des parents au foyer et de l'assurance vieillesse des aidants pour le bénéfice de la majoration du montant minimum de pension",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053183745",
+      "assessment": "candidat plausible : assurance vieillesse des parents au foyer (périphérique)"
+    },
+    {
+      "legitext": "LEGITEXT000054249485",
+      "date": "2026-06-12",
+      "nature": "LOI",
+      "etat": "VIGUEUR",
+      "titre": "LOI n° 2026-492 du 12 juin 2026 visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054249485",
+      "assessment": "candidat plausible : parents d'enfants gravement malades (périphérique, droit du travail/social)"
+    },
+    {
+      "legitext": "LEGITEXT000054586750",
+      "date": "2026-07-29",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-699 du 29 juillet 2026 prévoyant diverses mesures relatives aux pensions de retraite des parents",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054586750",
+      "assessment": "candidat plausible : pensions de retraite des parents (périphérique)"
+    },
+    {
+      "legitext": "LEGITEXT000054586832",
+      "date": "2026-07-29",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-700 du 29 juillet 2026 prévoyant diverses mesures relatives aux pensions de retraite des parents",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054586832",
+      "assessment": "candidat plausible : pensions de retraite des parents (périphérique)"
+    },
+    {
+      "legitext": "LEGITEXT000054678912",
+      "date": "2026-07-30",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 30 juillet 2026 fixant par situation et par pays ou par localité les coefficients servant au calcul des majorations familiales servies à l'étranger pour enfant à charge",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054678912",
+      "assessment": "candidat plausible : majorations familiales servies à l'étranger (périphérique)"
+    },
+    {
+      "legitext": "LEGITEXT000054743571",
+      "date": "2026-08-24",
+      "nature": "LOI",
+      "etat": "VIGUEUR",
+      "titre": "LOI n° 2026-813 du 24 août 2026 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054743571",
+      "assessment": "candidat plausible : mineurs et réseaux sociaux — consentement parental"
+    },
+    {
+      "legitext": "LEGITEXT000054799115",
+      "date": "2026-09-04",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-841 du 4 septembre 2026 modifiant le décret n° 2025-931 du 8 septembre 2025 relatif aux administrations habilitées à requérir la délivrance de copies intégrales ou d'extraits avec indication de la filiation d'actes de l'état civil",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054799115",
+      "assessment": "candidat plausible : état civil — modifie le décret n° 2025-931"
+    },
+    {
+      "legitext": "LEGITEXT000054939682",
+      "date": "2026-09-30",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-916 du 30 septembre 2026 fixant les durées maximales de conservation par les organismes débiteurs des prestations familiales des informations relatives aux procédures pénales mentionnées à l'article L. 214-12 du code de l'action sociale et des familles",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054939682",
+      "assessment": "candidat plausible : prestations familiales — informations relatives aux procédures pénales"
+    },
+    {
+      "legitext": "LEGITEXT000051410806",
+      "date": "2025-04-01",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-304 du 1er avril 2025 relatif aux autorisations de création, d'extension et de transformation des établissements d'accueil de jeunes enfants et à l'accueil dans les micro-crèches",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051410806",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000051671214",
+      "date": "2025-05-27",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-471 du 27 mai 2025 relatif aux congés et aux permissions des militaires liés à la famille et modifiant diverses dispositions du code de la défense",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051671214",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000051817772",
+      "date": "2025-06-27",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac et à la lutte contre la vente aux mineurs des produits du tabac et du vapotage",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051817772",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000052256915",
+      "date": "2025-09-12",
+      "nature": "ARRETE",
+      "etat": "ABROGE_DIFF",
+      "titre": "Arrêté du 12 septembre 2025 fixant par situation et par pays ou par localité les coefficients servant au calcul des majorations familiales servies à l'étranger pour enfant à charge",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052256915",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000052460838",
+      "date": "2025-10-29",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-1017 du 29 octobre 2025 relatif aux attributions du ministre de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052460838",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000053183624",
+      "date": "2025-12-24",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2025-1305 du 24 décembre 2025 relatif aux conditions de stage des étudiants de troisième cycle en études de médecine, de pharmacie et d'odontologie, placés dans une situation particulière liée à la parentalité",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053183624",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054908797",
+      "date": "2026-03-30",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-227 du 30 mars 2026 portant simplification des conditions d'attribution de l'allocation d'éducation de l'enfant handicapé",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054908797",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054352628",
+      "date": "2026-06-29",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-558 du 29 juin 2026 pris pour l'application des articles 706-105-2, 706-105-3 et 706-105-4 du code de procédure pénale et harmonisant les dispositions relatives à l'anonymat des interprètes, des agents de l'administration pénitentiaire et des professionnels accompagnant les mineurs",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054352628",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054543668",
+      "date": "2026-07-27",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-690 du 27 juillet 2026 portant publication des décisions CM-I-23-5.2 du 24 mai 2023 et CM-II-23-5.4.1.2 du 30 novembre 2023 portant amendement du Règlement de police pour la navigation de la Moselle (RPNM), adopté le 24 mai 1995, tel que modifié par la décision de la Commission de la ",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054543668",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054740891",
+      "date": "2026-07-27",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-690 du 27 juillet 2026 portant publication des décisions CM-I-23-5.2 du 24 mai 2023 et CM-II-23-5.4.1.2 du 30 novembre 2023 portant amendement du Règlement de police pour la navigation de la Moselle (RPNM), adopté le 24 mai 1995, tel que modifié par la décision de la Commission de la ",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054740891",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054740914",
+      "date": "2026-07-30",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-715 du 30 juillet 2026 portant publication des décisions CM-I-19-5-2, CM-I-19-5-3, CM-I-19-5-5 et CM-I-19-5-6 du 23 mai 2019 de la Commission de la Moselle relatives à l'adoption d'amendements au règlement de police pour la navigation de la Moselle (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054740914",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054611896",
+      "date": "2026-08-01",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-731 du 1er août 2026 relatif aux établissements et services d'accueil du jeune enfant",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054611896",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054673765",
+      "date": "2026-08-06",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 6 août 2026 relatif au montant des deux parts du fonds spécial destiné au financement des unions d'associations familiales pour l'année 2026 et à la contribution de la Caisse nationale d'allocations familiales et de la Caisse centrale de la mutualité sociale agricole",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054673765",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054673773",
+      "date": "2026-08-06",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 6 août 2026 relatif au montant des deux parts du fonds spécial destiné au financement des unions d'associations familiales pour l'année 2026 et à la contribution de la Caisse nationale d'allocations familiales et de la Caisse centrale de la mutualité sociale agricole",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054673773",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054654546",
+      "date": "2026-08-07",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-759 du 7 août 2026 portant publication de la décision CM-II-18-5-6 du 27 novembre 2018 de la commission de la Moselle relative à l'adoption d'un amendement au règlement de police pour la navigation de la Moselle (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054654546",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054740939",
+      "date": "2026-08-07",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-759 du 7 août 2026 portant publication de la décision CM-II-18-5-6 du 27 novembre 2018 de la commission de la Moselle relative à l'adoption d'un amendement au règlement de police pour la navigation de la Moselle (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054740939",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054655165",
+      "date": "2026-08-08",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-760 du 8 août 2026 relatif aux indicateurs transmis par les établissements et services relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles et publiés par la Caisse nationale de solidarité pour l'autonomie",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054655165",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054655146",
+      "date": "2026-08-08",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 8 août 2026 modifiant l'arrêté du 13 décembre 2022 relatif à la définition et aux modalités de calcul des indicateurs mentionnés à l'article D. 312-211 du code de l'action sociale et des familles",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054655146",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054673734",
+      "date": "2026-08-11",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-769 du 11 août 2026 portant création d'un traitement de données à caractère personnel ayant pour finalité la réalisation d'une étude relative aux coûts de l'activité d'aide et d'accompagnement des services autonomie à domicile mentionnés à l'article L. 313-1-3 du code de l'action soci",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054673734",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054748353",
+      "date": "2026-08-11",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 11 août 2026 portant création du certificat complémentaire « Direction d'un accueil collectif de mineurs » associé aux spécialités et mentions du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, du diplôme d'Etat de la jeunesse, de l'éducation populaire et du spor",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054748353",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054684852",
+      "date": "2026-08-12",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-786 du 12 août 2026 fixant le montant de la contribution financière des départements au fonctionnement du groupement d'intérêt public « France enfance protégée » au titre de l'année 2026",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054684852",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054744891",
+      "date": "2026-08-12",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-773 du 12 août 2026 portant publication des décisions CM-I-19-5-4-1 et CM-I-19-5-4-2 du 23 mai 2019 de la Commission de la Moselle relatives à l'adoption d'amendements au Règlement de police pour la navigation de la Moselle (1)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054744891",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054684927",
+      "date": "2026-08-13",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-790 du 13 août 2026 adoptant la mise en compatibilité du schéma de cohérence territoriale de la région Flandre-Dunkerque et du plan local d'urbanisme intercommunal - habitat et déplacements de la communauté urbaine de Dunkerque dans le cadre du projet de réalisation d'une paire de réa",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054684927",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054729917",
+      "date": "2026-08-20",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-803 du 20 août 2026 portant adoption de la stratégie nationale de gestion intégrée du trait de côte",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054729917",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054776137",
+      "date": "2026-08-24",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 24 août 2026 relatif aux conditions du vote par correspondance et par voie électronique pour l'élection des représentants des parents d'élèves au conseil d'administration des établissements publics locaux d'enseignement et de formation professionnelle agricoles",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054776137",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054792975",
+      "date": "2026-09-01",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-837 du 1er septembre 2026 portant publication de la décision relative à l'adhésion du Royaume d'Espagne à l'accord de Bonn du 13 septembre 1983 concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses (e",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054792975",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054836611",
+      "date": "2026-09-01",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 1er septembre 2026 relatif aux conditions d'accès et d'exercice de la fonction de démineur de la sécurité civile",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054836611",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054836558",
+      "date": "2026-09-02",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 2 septembre 2026 portant création d'un service territorial éducatif au quartier des mineurs du centre pénitentiaire de Meaux-Chauconin à Chauconin-Neufmontiers (77)",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054836558",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054925734",
+      "date": "2026-09-03",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 3 septembre 2026 relatif à la répartition de la première part du fonds spécial destiné au financement des unions d'associations familiales au titre de l'année 2026",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054925734",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054851765",
+      "date": "2026-09-04",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 4 septembre 2026 fixant la liste des organismes de formation bénéficiant d'une habilitation nationale ou régionale à organiser les sessions de formation théorique conduisant à la délivrance des brevets d'aptitude aux fonctions d'animateur (BAFA) et (ou) de directeur en accueils collectifs ",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054851765",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054827418",
+      "date": "2026-09-07",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 7 septembre 2026 portant agrément conjoint des sociétés EGIS Eau, EGIS Water and Maritime et EGIS Structures et environnement en tant qu'organisme intervenant pour la sécurité des ouvrages hydrauliques",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827418",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054818238",
+      "date": "2026-09-08",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 8 septembre 2026 modifiant l'arrêté du 24 mai 2024 relatif à l'expérimentation « Team&amp;Co : thérapie pour l'enfant basée sur l'apprentissage moteur et centrée sur les objectifs »",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054818238",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054827909",
+      "date": "2026-09-09",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 9 septembre 2026 modifiant le montant de la rente viagère mensuelle versée au titre des dispositions du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827909",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054827914",
+      "date": "2026-09-09",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 9 septembre 2026 modifiant le montant de la rente viagère mensuelle versée au titre des dispositions du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie du",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827914",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054843254",
+      "date": "2026-09-09",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 9 septembre 2026 portant adoption du plan national de lutte contre le frelon asiatique à pattes jaunes",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054843254",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054843495",
+      "date": "2026-09-10",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 10 septembre 2026 portant délégation de signature au cabinet de la ministre de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054843495",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054839037",
+      "date": "2026-09-11",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 11 septembre 2026 portant délégation de signature au cabinet de la ministre déléguée auprès de la ministre de la santé, des familles, de l'autonomie et des personnes handicapées, chargée de l'autonomie et des personnes handicapées",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054839037",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054939711",
+      "date": "2026-10-01",
+      "nature": "DECRET",
+      "etat": "VIGUEUR",
+      "titre": "Décret n° 2026-918 du 1er octobre 2026 portant dispositions applicables aux personnes mineures pour la généralisation du travail d'intérêt général dans les entreprises de l'économie sociale et solidaire",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054939711",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054967348",
+      "date": "2026-10-02",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 2 octobre 2026 modifiant l'arrêté du 21 avril 2021 portant institution d'une régie d'avances auprès de la sous-direction de l'accès à la nationalité française relevant de la direction générale des étrangers en France",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054967348",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054967485",
+      "date": "2026-10-05",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 5 octobre 2026 fixant les montants de la prime de danger versée aux personnels démineurs de la sécurité civile",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054967485",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054967359",
+      "date": "2026-10-05",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 5 octobre 2026 fixant les montants de la prime de déminage versée aux personnels démineurs de la sécurité civile",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054967359",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054967504",
+      "date": "2026-10-05",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 5 octobre 2026 fixant les conditions d'attribution des niveaux de compétence et des fonctions spécifiques des démineurs de la sécurité civile",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054967504",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    },
+    {
+      "legitext": "LEGITEXT000054967164",
+      "date": "2026-10-06",
+      "nature": "ARRETE",
+      "etat": "VIGUEUR",
+      "titre": "Arrêté du 6 octobre 2026 portant agrément de la société GINGER BURGEAP (agences Centre-Est et Loire-Bretagne conjointement avec la branche métier eau) en tant qu'organisme intervenant pour la sécurité des ouvrages hydrauliques",
+      "official_url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054967164",
+      "assessment": "probablement hors périmètre (correspondance de mot-clé)"
+    }
+  ]
+}

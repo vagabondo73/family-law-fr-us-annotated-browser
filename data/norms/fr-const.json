@@ -1,6 +1,6 @@
 {
   "corpus": "fr-const",
-  "generated": "2026-09-30",
+  "generated": "2026-10-12",
   "source": {
     "legitext": "LEGITEXT000006071194",
     "mirror": "https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958.git",
@@ -42,7 +42,8 @@
         "fr.code.const"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019240997)"
     },
     {
       "id": "fr-const-34",
@@ -86,7 +87,8 @@
         "fr.code.const.titre-v"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000049255019)"
     },
     {
       "id": "fr-const-53",
@@ -128,7 +130,8 @@
         "fr.code.const.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527534)"
     },
     {
       "id": "fr-const-53-1",
@@ -170,7 +173,8 @@
         "fr.code.const.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527535)"
     },
     {
       "id": "fr-const-53-2",
@@ -212,7 +216,8 @@
         "fr.code.const.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527536)"
     },
     {
       "id": "fr-const-55",
@@ -254,7 +259,8 @@
         "fr.code.const.titre-vi"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527541)"
     },
     {
       "id": "fr-const-61-1",
@@ -296,7 +302,8 @@
         "fr.code.const.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019241077)"
     },
     {
       "id": "fr-const-62",
@@ -338,7 +345,8 @@
         "fr.code.const.titre-vii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000019241079)"
     },
     {
       "id": "fr-const-66",
@@ -380,7 +388,8 @@
         "fr.code.const.titre-viii"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527558)"
     },
     {
       "id": "fr-const-88-1",
@@ -422,7 +431,8 @@
         "fr.code.const.titre-xv"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000018077095)"
     },
     {
       "id": "fr-const-preambule",
@@ -459,7 +469,8 @@
         "fr.code.const"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527447)"
     },
     {
       "id": "fr-const-ddhc-1",
@@ -501,7 +512,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527426)"
     },
     {
       "id": "fr-const-ddhc-2",
@@ -543,7 +555,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527427)"
     },
     {
       "id": "fr-const-ddhc-4",
@@ -585,7 +598,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527429)"
     },
     {
       "id": "fr-const-ddhc-6",
@@ -627,7 +641,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527432)"
     },
     {
       "id": "fr-const-ddhc-16",
@@ -669,7 +684,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527443)"
     },
     {
       "id": "fr-const-ddhc-17",
@@ -711,7 +727,8 @@
         "fr.code.const.ddhc"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527444)"
     },
     {
       "id": "fr-const-preambule-1946-preambule",
@@ -753,7 +770,8 @@
         "fr.code.const.preambule-1946"
       ],
       "xrefs": [],
-      "interps": []
+      "interps": [],
+      "d_method": "LEGI « Date de début » de la version en vigueur (LEGIARTI000006527445)"
     }
   ]
 }

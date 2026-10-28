@@ -5,7 +5,7 @@
   "interps_candidates": 0,
   "interps_screened": 0,
   "interps_included": 0,
-  "method": "Miroir git Tricoteuses code_de_procedure_penale (HEAD 39ee3d4a8258), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 4631 en vigueur sur 4631 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 186 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
+  "method": "Miroir git Tricoteuses code_de_procedure_penale (HEAD 4f52cd5a9df8), articles LEGI à l'état VIGUEUR/ABROGE_DIFF/MODIFIE (non échus) : 4631 en vigueur sur 4631 fichiers ; sélection selon SCOPE §4.1 (plages d'articles, intitulés de sections, mots-clés du texte — voir scripts/frn_select.py) : 186 retenus. Interprétations : hors périmètre de ce pipeline (normes seules).",
   "states_included": [
     "ABROGE_DIFF",
     "VIGUEUR"
@@ -13,5 +13,5 @@
   "gaps": [
     "Sélection par mots-clés (conjoint, concubin, PACS, autorité parentale, anti-rapprochement, grave danger…) et intitulés ; revue manuelle non exhaustive."
   ],
-  "updated": "2026-09-30"
+  "updated": "2026-10-12"
 }

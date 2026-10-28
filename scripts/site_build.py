@@ -321,6 +321,12 @@ def main():
                     rep.add("warn", "dangling-link", f"{iid} → {nid}: norm not in corpus (link hidden until the norm exists)", interp=iid, norm=nid)
                     continue
                 basis, dd, dn = link.get("basis"), iso(it.get("date")), iso(n.get("in_force_since"))
+                if basis == "c":
+                    # historical interpretation of an earlier wording (user decision 2026-10-12): kept, version recorded
+                    if not (link.get("version_note") or link.get("cited_version")):
+                        rep.add("warn", "c-without-version", f"{iid} → {nid}: basis c without version_note/cited_version", interp=iid, norm=nid)
+                    kept.append(link)
+                    continue
                 if basis not in ("a", "b"):
                     rep.add("error", "no-basis", f"{iid} → {nid}: basis missing/invalid ({basis!r}) — dropped", interp=iid, norm=nid)
                     continue
@@ -647,6 +653,9 @@ def interp_html(it, nid, base):
     if link:
         if link["basis"] == "a":
             basis = '<span class="badge">' + ("Base (a) : décision postérieure à la version en vigueur" if fr else "Basis (a): decided on or after the current version") + "</span>"
+        elif link["basis"] == "c":
+            basis = ('<span class="badge">' + ("Base (c) : interprétation d'une version antérieure" if fr else "Basis (c): interprets an earlier version") +
+                     f'</span><p><strong>{"Version interprétée" if fr else "Version interpreted"} :</strong> {esc(link.get("version_note") or link.get("cited_version", ""))}</p>')
         else:
             basis = ('<span class="badge">' + ("Base (b) : texte identique" if fr else "Basis (b): identical text") +
                      f' — {esc(link.get("b_method", ""))}</span><p><strong>{"Justification" if fr else "Justification"} :</strong> {esc(link.get("b_justification"))}</p>')
